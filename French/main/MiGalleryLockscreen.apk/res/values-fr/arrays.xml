@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="account_user_gender_name">
+      <item>Homme</item>
+      <item>Femme</item>
+    </string-array>
+    <string-array name="month12">
+      <item>janvier</item>
+      <item>février</item>
+      <item>mars</item>
+      <item>avril</item>
+      <item>mai</item>
+      <item>juin</item>
+      <item>juillet</item>
+      <item>août</item>
+      <item>septembre</item>
+      <item>octobre</item>
+      <item>novembre</item>
+      <item>décembre</item>
+    </string-array>
+    <string-array name="feature_desc">
+      <item>Correction de quelques problèmes connus.</item>
+    </string-array>
+</resources>

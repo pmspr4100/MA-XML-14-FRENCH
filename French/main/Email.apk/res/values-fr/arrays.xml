@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>Janv</item>
+        <item>Févr</item>
+        <item>Mars</item>
+        <item>Avr</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juil</item>
+        <item>Août</item>
+        <item>Sept</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Déc</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Ce soir</item>
+        <item>Demain</item>
+        <item>Weekend</item>
+        <item>Semaine prochaine</item>
+        <item>Mois prochain</item>
+        <item>Choisir une date</item>
+    </string-array>
+    <string-array name="error_message_respond">
+        <item>LOGIN Login error or password error</item>
+        <item>LOGIN Login error password error</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
+        <item>Please using authorized code to login. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Login error user suspended</item>
+        <item>LOGIN errno:1423, user password error(sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Invalid credentials</item>
+        <item>Login fail. Password is incorrect or service is not open</item>
+        <item>LOGIN imap4 nosupport</item>
+        <item>LOGIN errno:1328, custom imap off</item>
+        <item>LOGIN Login error user suspended</item>
+        <item>LOGIN user in black list</item>
+        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
+        <item>LOGIN user in black list</item>
+        <item>LOGIN errno:1412 status=51 The password is not changed for a long time. Please modify the password. http://mail.10086.cn</item>
+        <item>LOGIN imap4 nosupport</item>
+        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
+        <item>ERR Invalid login user or password</item>
+        <item>Login fail. Please using app password to login. More information at http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR custom pop3 off</item>
+        <item>LOGIN Login error user name or password error</item>
+        <item>Invalid login or password</item>
+        <item>ip XXXXXXX in blacklist please switch your network or login https://mail.sohu.com to setup client ip whitelist</item>
+        <item>java.net.UnknownHostException: Unable to resolve host XXXX : No address associated with hostname</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Très petit</item>
+        <item>Petit</item>
+        <item>Normal</item>
+        <item>Grand</item>
+        <item>Énorme</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Récemment vu</item>
+        <item>Format</item>
+        <item>Nom</item>
+        <item>Expéditeur</item>
+        <item>Date de réception</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Système</item>
+        <item>Utilisé fréquemment</item>
+        <item>Tous les dossiers</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Message récent</item>
+        <item>Ancien message</item>
+        <item>Liste de conversation</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Tout</item>
+        <item>Uniquement les expéditeurs</item>
+    </string-array>
+    <string-array name="prefValues_autoAdvance">
+        <item>jamais</item>
+        <item>ancien</item>
+        <item>liste</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>Email:</item>
+        <item>Mobile:</item>
+        <item>Téléphone:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresse :</item>
+        <item>Tél. :</item>
+        <item>Nom :</item>
+        <item>Mél. :</item>
+        <item>Mobile :</item>
+        <item>WeChat :</item>
+        <item>Fax :</item>
+        <item>Code postal :</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Avertissement :</item>
+        <item>Avis de non responsabilité</item>
+        <item>Envoyé via WPSMail</item>
+        <item>Envoyé de</item>
+        <item>Envoyé avec</item>
+        <item>Merci,</item>
+        <item>Sincères salutations</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Merci,</item>
+        <item>Sincères salutations</item>
+        <item>Envoyé de mon</item>
+        <item>E-mail original</item>
+        <item>Envoyé de mon</item>
+        <item>Envoyé par</item>
+        <item>De</item>
+        <item>Cet e-mail</item>
+        <item>Avertissement</item>
+        <item>Avertissement par e-mail</item>
+    </string-array>
+</resources>
