@@ -378,8 +378,8 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="radar_cloud_update_time">Avant %1$s</string>
     <string name="rain_sound_setting_summary_text">Accompagner les changements météorologiques par des effets sonores</string>
     <string name="rain_sound_setting_title_text">Effets sonores</string>
-    <string name="rating_dialog_later">Later</string>
-    <string name="rating_dialog_rate_now">Rate now</string>
+    <string name="rating_dialog_later">Plus tard</string>
+    <string name="rating_dialog_rate_now">Noter maintenant</string>
     <string name="real_time_sunrise">Lever du soleil %1$s</string>
     <string name="real_time_sunset">Coucher du soleil %1$s</string>
     <string name="realtime_aqi_title">"Indice de qualité de l'air (IQA)"</string>
