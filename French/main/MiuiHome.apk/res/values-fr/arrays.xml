@@ -46,6 +46,13 @@
         <item>Par défaut</item>
         <item>Elégant</item>
     </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Par défaut</item>
+        <item>Bleu</item>
+        <item>Vert</item>
+        <item>Violet</item>
+        <item>Marron</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>Diapositive</item>
         <item>Fondu</item>
@@ -60,14 +67,5 @@
         <item>Centre</item>
         <item>Gauche</item>
         <item>Droite</item>
-    </string-array>
-    <string-array name="global_search_mode_entries">
-        <item>Aucun</item>
-        <item>Balayez vers le haut</item>
-        <item>Barre de recherche</item>
-    </string-array>
-    <string-array name="global_search_provider_entries">
-        <item>Défaut</item>
-        <item>Google</item>
     </string-array>
 </resources>

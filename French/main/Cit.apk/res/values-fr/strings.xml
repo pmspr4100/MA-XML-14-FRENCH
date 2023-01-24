@@ -5,7 +5,21 @@
     <string name="AudioStatus">\u0009\u0009AudioStatus</string>
     <string name="CloudControl">CloudControl</string>
     <string name="CurrentDsi">\u0009\u0009CurrentDsi</string>
+    <string name="CurrentDsiAnt0">\u0009Ant0</string>
+    <string name="CurrentDsiAnt1">\u0009Ant1</string>
+    <string name="CurrentDsiAnt2">\u0009Ant2</string>
+    <string name="CurrentDsiAnt3">\u0009Ant3</string>
+    <string name="CurrentDsiAnt4">\u0009Ant4</string>
+    <string name="CurrentDsiAnt5">\u0009Ant5</string>
     <string name="CurrentDsiDisplay">0</string>
+    <string name="CurrentDsiDisplayAnt0">0</string>
+    <string name="CurrentDsiDisplayAnt1">0</string>
+    <string name="CurrentDsiDisplayAnt2">0</string>
+    <string name="CurrentDsiDisplayAnt3">0</string>
+    <string name="CurrentDsiDisplayAnt4">0</string>
+    <string name="CurrentDsiDisplayAnt5">0</string>
+    <string name="CurrentDsiDisplayOtherAnt">0</string>
+    <string name="CurrentDsiOtherAnt">\u0009OtherAnts</string>
     <string name="DsiSetSwitch">\u0009DSI调试模式</string>
     <string name="GPIODisplay">0</string>
     <string name="GPIO_Status">\u0009\u0009GPIO_Status</string>
@@ -14,10 +28,30 @@
     <string name="SAR">SAR</string>
     <string name="SAROnOff">\u0009SAR On/Off</string>
     <string name="SARUnLockLock">\u0009DSI手动下发锁定</string>
+    <string name="ST_CurrentDsi">\u0009\u0009ST_CurrentDsi</string>
+    <string name="ST_CurrentDsiDisplay">-1</string>
+    <string name="ST_CurrentMcc">\u0009\u0009ST_CurrentMcc</string>
+    <string name="ST_CurrentMccDisplay">-1</string>
+    <string name="ST_EffectiveRegulatoryBody">\u0009\u0009ST_EffectiveRegulatoryBody</string>
+    <string name="ST_EffectiveRegulatoryBodyDisplay">-1</string>
+    <string name="ST_ExposureMode">\u0009\u0009ST_ExposureMode</string>
+    <string name="ST_ExposureModeDisplay">-1</string>
+    <string name="ST_MccRegulatoryBody">\u0009\u0009ST_MccRegulatoryBody</string>
+    <string name="ST_MccRegulatoryBodyDisplay">-1</string>
+    <string name="ST_PeakModeOverrideMask">\u0009\u0009ST_PeakModeOverrideMask</string>
+    <string name="ST_PeakModeOverrideMaskDisplay">-1</string>
+    <string name="ST_QstGen">\u0009\u0009ST_QstGen</string>
+    <string name="ST_QstGenDisplay">-1</string>
+    <string name="ST_QstMode">\u0009\u0009ST_QstMode</string>
+    <string name="ST_QstModeDisplay">-1</string>
+    <string name="ST_SensingMode">\u0009\u0009ST_SensingMode</string>
+    <string name="ST_SensingModeDisplay">-1</string>
     <string name="Sensor1Display">0</string>
     <string name="Sensor1_Status">\u0009\u0009Sensor1_Status</string>
     <string name="Sensor2Display">0</string>
     <string name="Sensor2_Status">\u0009\u0009Sensor2_Status</string>
+    <string name="Sensor3Display">0</string>
+    <string name="Sensor3_Status">\u0009\u0009Sensor3_Status</string>
     <string name="SetDsi">\u0009SetDsi</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
@@ -61,6 +95,10 @@
     <string name="app_name">CIT</string>
     <string name="audio_spk_cal_wait">Calibration, please...</string>
     <string name="audio_spk_def">Calibrate the speakers, please</string>
+    <string name="auto_frontflash_description">All the front flash lights are on, click to pass, otherwise click to fail</string>
+    <string name="auto_frontflash_title">Front camera flash test</string>
+    <string name="auto_rearflash_description">All rear camera flash lights are on, click to pass, otherwise click to fail</string>
+    <string name="auto_rearflash_title">Rear camera flash test</string>
     <string name="back_mic_check_record_tip">Recording, please say something to MIC at the back of the device</string>
     <string name="battery_authentic">Battery Authentic</string>
     <string name="battery_dual_connector">BatteryDualConnector</string>
@@ -73,6 +111,7 @@
     <string name="battery_reverse_wireless_charge_summary">reverse wireless charge test</string>
     <string name="battery_reverse_wireless_charge_time_out">reverse wireless charge time out</string>
     <string name="battery_reverse_wireless_charge_title">reverse wireless charge</string>
+    <string name="battery_third_connector">Battery Connector Voltage</string>
     <string name="battery_value">Electricity</string>
     <string name="bottom_high_speaker_title">Bottom tweeter test</string>
     <string name="bottom_left_high_speaker">Left side bottom tweeter test</string>
@@ -80,6 +119,7 @@
     <string name="bottom_low_speaker_title">Bottom woofer test</string>
     <string name="bottom_right_high_speaker">Right side bottom tweeter test</string>
     <string name="bottom_right_low_speaker">Right side bottom woofer test</string>
+    <string name="bottom_speaker_title">Bottom speaker test</string>
     <string name="bt_address">Address:</string>
     <string name="bt_name">Name:</string>
     <string name="camera_capture">Capture</string>
@@ -91,9 +131,9 @@ Charger test end, please plug out the charger"</string>
     <string name="cit_DP_check_title">DP</string>
     <string name="cit_DP_in_start_test">Please insert the DP line to start the testing</string>
     <string name="cit_DP_plug_err">"Test failed
-Did not get the value"</string>
+ Did not get the value"</string>
     <string name="cit_DP_plug_fail">"Test failed
-This line is not a DP line, replace another line for testing"</string>
+ This line is not a DP line, replace another line for testing"</string>
     <string name="cit_DP_plug_out_err">"Test failure
 Did not get the value"</string>
     <string name="cit_DP_plug_out_fail">"Broken connection was detected
@@ -110,11 +150,11 @@ Test Pass"</string>
     <string name="cit_OTG_waiting_out">Please plug ont USB_OTG device，and reverse plug in</string>
     <string name="cit_OTG_waiting_out_end">Please plug ont USB_OTG device，end test</string>
     <string name="cit_USB3_OTG_error_condition">"An OTG device insertion was detected, but could not get the device information
-Test failed"</string>
+ Test failed"</string>
     <string name="cit_USB3_check_summary">USB3.0-supporting devices need to be inserted during testing</string>
     <string name="cit_USB3_check_title">USB3.0</string>
     <string name="cit_USB3_error_condition">"Device insertion was detected, but could not get device information
-Test failed"</string>
+ Test failed"</string>
     <string name="cit_USB3_in_need_plugout">USB device connected detected, pull out to start test</string>
     <string name="cit_USB3_in_start_test">Insert the USB3.0-enabled devices and start testing</string>
     <string name="cit_USB3_plug_err">Did not read the correct value, please contact the development to see the reason</string>
@@ -150,6 +190,9 @@ Before you calibrate the device, place it on a flat surface."</string>
     <string name="cit_audio_cali_summary">Calibrate Speaker PA</string>
     <string name="cit_audio_cali_test_summary">Before calibrating the speaker, make sure that the speaker is not playing</string>
     <string name="cit_audio_cali_title">Speaker PA Calibration Test</string>
+    <string name="cit_audio_hw_check_summary">Audio Hardware Check Test</string>
+    <string name="cit_audio_hw_check_tips">Test Running</string>
+    <string name="cit_audio_hw_check_title">Audio Hardware Check Test</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
 
@@ -199,7 +242,7 @@ Hold the device as if you are making a call, speak to main microphone, you shoul
     <string name="cit_camera_deleted_failed">Photo deleted failed</string>
     <string name="cit_camera_flash_adjust">Adjust the flash</string>
     <string name="cit_camera_otp_download_title">Camera OTP download test</string>
-    <string name="cit_camera_rearsub">Rear sub camera test in progress, please wait....</string>
+    <string name="cit_camera_rearsub">Sub camera test in progress, please wait....</string>
     <string name="cit_camerasfr_test">Parsing picture, please wait....</string>
     <string name="cit_capture_fail">Failed to take picture</string>
     <string name="cit_charge_usb_dcp">Charging：USB_DCP</string>
@@ -341,8 +384,8 @@ Do not turn off the screen during the test"</string>
     <string name="cit_pressure_sensor_check_summary">Value for pressure should appear below</string>
     <string name="cit_pressure_sensor_check_title">Pressure sensor</string>
     <string name="cit_proximity_data_check_summary">"Infrared distance sensor: Cover the distance sensor with your hand, and then leave the distance sensor.
-Ultrasonic distance sensor: Please simulate the action of answering the device
-If the lower test area shows a value of 0.0 when approaching, and a 5.0 value shows when it is far away, the test is successful, otherwise the test fails."</string>
+ Ultrasonic distance sensor: Please simulate the action of answering the device
+ If the lower test area shows a value of 0.0 when approaching, and a 5.0 value shows when it is far away, the test is successful, otherwise the test fails."</string>
     <string name="cit_proximity_sensor_cali_title">Proximity sensor calibration test</string>
     <string name="cit_proximity_sensor_check_summary">"Cover the proximity sensor (located at the top of the device near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device.
 When calibrating, make sure there's nothing between the sensor and your hand (e.g. protective screen cover or gloves)."</string>
@@ -351,6 +394,7 @@ When calibrating, make sure there's nothing between the sensor and your hand (e.
     <string name="cit_rear_dual_second_camera_check_title">Bokeh2 camera</string>
     <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
     <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
+    <string name="cit_reverse_charge_check_summary">"Please insert the OTG reverse charging device to charge the other party's device"</string>
     <string name="cit_reverse_wireless_charge_check_tips">Please put the device to be charged as required and start testing</string>
     <string name="cit_sar_sensor_collect_cali_description">Sar Sensor Calibrate and Data Collect</string>
     <string name="cit_second_screen_accelermeter_sensor_cali_title">Second Screen Acceleration sensor calibration test</string>
@@ -719,17 +763,8 @@ Confirm that the colors are consistently displayed across the whole screen. Make
     <string name="dispaly_sar_sensor_values">Display All Current Sensor Values</string>
     <string name="display_test_finish">Screen test completed</string>
     <string name="dsi_sar_on_off_tips">Dsi Sar On/Off Switch</string>
-    <string name="edittextdisplay">"
-\u0009\u0009\u0009Welcome to sar tool !
-\u0009\u0009\u0009All permissions have been turned on
-
-\u0009\u0009\u0009sar switch is off, please turn it on manually
-\u0009\u0009\u0009sar locked, please set DSI value"</string>
-    <string name="edittextdisplayf">"
-\u0009\u0009\u0009Permissions have been limited
-
-\u0009\u0009Make sure to pass in the xml file in the internal \u0009\u0009\u0009network and in the response path:
-\u0009\u0009/sdcard/debug/UrlSign.xml"</string>
+    <string name="edittextdisplay">Welcome to sar tool !!!</string>
+    <string name="edittextdisplayf">Permissions have been limited !!!</string>
     <string name="enrol">Enrol</string>
     <string name="enrolCount">EnrolCount</string>
     <string name="enrolQuality">EnrolQuality</string>
@@ -759,7 +794,7 @@ Test failed!"</string>
     <string name="get_USB">USB</string>
     <string name="get_WIFI">WIFI</string>
     <string name="get_dsi_tips">Current DSI Value</string>
-    <string name="headset_plug_check_tip">Now play the tape, listen to the headset, please pull out the headset when you cloze testing</string>
+    <string name="headset_plug_check_tip">Now play the tape, listen to the headset, please pull out the headset when you close testing</string>
     <string name="headset_press">Press</string>
     <string name="headset_record">Recording, please say something to the headset, and the recording will be stopped within 3 seconds</string>
     <string name="headset_test">Headset test</string>
@@ -776,7 +811,7 @@ Test failed!"</string>
     <string name="mic_volume_height_tip">MIC volume test PASS</string>
     <string name="mic_volume_low_tip">MIC the volume test did not pass. Please make a larger sound when recording</string>
     <string name="motor_calibration">Motor Calibration</string>
-    <string name="mtb_tool_modem_user_panel">User Panel</string>
+    <string name="mtb_tool_modem_cdma_manager">CDMA Cap Manager</string>
     <string name="nfc_disable_tip">Please turn on the NFC function</string>
     <string name="nfc_not_available">NFC not available</string>
     <string name="no_vibrator">No vibrator</string>
@@ -827,7 +862,9 @@ Click the Push Camera Button to see if the camera comes in"</string>
     <string name="receiver_off">Receiver Off</string>
     <string name="receiver_on">Receiver On</string>
     <string name="receiver_on_off_tips">Receiver On/Off Switch</string>
+    <string name="sar_algo_data_check_description">Sar Algo Data Collect</string>
     <string name="sar_authentation_test_title">Sar authentation test</string>
+    <string name="sar_mtk_test_title">Sar Mtk Authentation Test</string>
     <string name="sar_off">Sar Off</string>
     <string name="sar_on">Sar On</string>
     <string name="sar_sensor_calibrate_fail">Sar Sensor calibrate fail</string>
@@ -847,6 +884,8 @@ After calibrate success, control the fixture close and away from the device"</st
     <string name="sar_sensor_test_timeout">Sar Sensor test timeout</string>
     <string name="search_menu_title">Search</string>
     <string name="set_dsi_tips">Set DSI</string>
+    <string name="sidebottom_mic_check_record_tip">Recording, please say something to MIC at the sidebottom of the device</string>
+    <string name="sidetop_mic_check_record_tip">Recording, please say something to MIC at the sidetop of the device</string>
     <string name="slave_battery_authentic">Secondary Battery Authentic</string>
     <string name="soft_light_title">Soft Light</string>
     <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
@@ -857,6 +896,8 @@ After calibrate success, control the fixture close and away from the device"</st
     <string name="test_bottom_speaker">bottom_speaker</string>
     <string name="test_front_mic">Front MIC</string>
     <string name="test_main_mic">Main MIC</string>
+    <string name="test_sidebottom_mic">SideBottom MIC</string>
+    <string name="test_sidetop_mic">SideTop MIC</string>
     <string name="test_speaker">speaker</string>
     <string name="test_speaker_summary">"You will hear two random numbers
 Please click the appropriate button according to the number you hear"</string>
@@ -873,6 +914,7 @@ Please click the appropriate button according to the number you hear"</string>
     <string name="top_mic_check_record_tip">Recording, please say something to MIC at the top of the device</string>
     <string name="top_right_high_speaker">Right side top tweeter test</string>
     <string name="top_right_low_speaker">Right side top woofer test</string>
+    <string name="top_speaker_title">Top speaker test</string>
     <string name="touch_auto">Touch panel self test ongoing, please wait....</string>
     <string name="tp_color">TP Color:</string>
     <string name="tp_version">TP Version:</string>

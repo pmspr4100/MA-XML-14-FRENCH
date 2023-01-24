@@ -15,7 +15,6 @@
   <string name="hello_world">Bienvenue !</string>
   <string name="joyose_name">Joyose</string>
   <string name="lab_switch_server">Changer de serveur</string>
-  <string name="midnight">Nuit</string>
   <string name="not_resurge_title">Résurrection</string>
   <string name="not_support_forbidden_fakecell">"Votre appareil ne prend pas en charge la protection au niveau de la puce contre les fausses antennes-relais."</string>
   <string name="open_cta">"Autoriser cette application à se connecter à internet dans Sécurité."</string>
