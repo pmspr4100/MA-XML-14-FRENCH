@@ -97,6 +97,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">"Obtenez le numéro de téléphone de l'opérateur pour vous connecter"</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Si vous n'avez pas pu vous connecter en un seul clic maintenant, revenez à la page de connexion et réessayez."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">"Cette application souhaite obtenir votre numéro de téléphone auprès de l'opérateur pour vous connecter. Autoriser ?"</string>
+    <string name="HIPS_Perm_operator_shake">"Accéder aux données de l'accéléromètre"</string>
+    <string name="HIPS_Perm_operator_shake_Desc">"Les données de l'accéléromètre sont utilisées pour suivre l'orientation et le mouvement (par exemple, secousses, inclinaisons et rotations)"</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Accède au NFC (Near Field Communication)</string>
     <string name="HIPS_Perm_process_outgoing_calls">"Accéder à l'application Téléphone"</string>
@@ -279,7 +281,6 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
-    <string name="miuix_indexer_collect">Collections</string>
     <string name="never_ask_again">Ne plus demander après avoir restreint</string>
     <string name="night">Soirée</string>
     <string name="no">Non</string>
@@ -308,12 +309,14 @@
     <string name="permdesc_read_call_log">"Autoriser %1$s à accéder à l'historique des appels ?"</string>
     <string name="permdesc_read_contacts">Autoriser %1$s à accéder aux contacts ?</string>
     <string name="permdesc_read_mms">Autoriser %1$s à lire les messages multimédia ?</string>
+    <string name="permdesc_read_phone_numbers">Autoriser %1$s à lire les numéros de téléphone sur cet appareil ?</string>
     <string name="permdesc_read_phone_state">"Autoriser %1$s à accéder à l'état de l'appareil et aux informations sur le réseau mobile ?"</string>
     <string name="permdesc_read_sms">Autoriser %1$s à lire des messages texte et multimédia ?</string>
     <string name="permdesc_read_storage">Autoriser %1$s à accéder aux fichiers et aux photos sur cet appareil ?</string>
     <string name="permdesc_recognition">"Autoriser %1$s à accéder à vos informations d'activité ?"</string>
     <string name="permdesc_send_sms">Autoriser %1$s à envoyer des SMS ?</string>
     <string name="permdesc_sensors">Autoriser %1$s à lire les données générées par les capteurs corporels ?</string>
+    <string name="permdesc_shake">"Autoriser %1$s à accéder aux données de l'accéléromètre ?"</string>
     <string name="permdesc_use_sip">"Autoriser %1$s à utiliser le protocole d'initiation de session pour diffuser la vidéo ?"</string>
     <string name="permdesc_write_calendar">Autoriser %1$s à créer et enregistrer des événements du calendrier ?</string>
     <string name="permdesc_write_call_log">"Autoriser %1$s à modifier l'historique des appels ?"</string>
@@ -342,6 +345,7 @@
     <string name="permisson_reject_notice_toast_text2">"n'a pas accès à %1$s."</string>
     <string name="pm">PM</string>
     <string name="pp_privacy_lab_operator_introduction">Attention</string>
+    <string name="precise_location_title">Emplacement précis</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
     <string name="real_location_off">La localisation approximative est activée</string>
     <string name="real_location_on">La localisation approximative est désactivée</string>
@@ -354,11 +358,11 @@
     <string name="search_menu_title">Recherche</string>
     <string name="send">Envoyer</string>
     <string name="size_byte">" o"</string>
-    <string name="size_giga_byte">" Go"</string>
-    <string name="size_kilo_byte">" Ko"</string>
-    <string name="size_mega_byte">" Mo"</string>
-    <string name="size_peta_byte">" Po"</string>
-    <string name="size_tera_byte">" To"</string>
+    <string name="size_giga_byte">" Gio"</string>
+    <string name="size_kilo_byte">" Kio"</string>
+    <string name="size_mega_byte">" Mio"</string>
+    <string name="size_peta_byte">" Pio"</string>
+    <string name="size_tera_byte">" Tio"</string>
     <string name="solar_term_autumn_begins">"Début de l'automne"</string>
     <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
     <string name="solar_term_clear_and_bright">Pure lumière</string>

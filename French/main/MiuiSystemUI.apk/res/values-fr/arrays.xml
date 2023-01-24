@@ -102,6 +102,8 @@
         <item>Désactivé</item>
         <item>Activé filtré</item>
         <item>Activé</item>
+        <item>En-têtes activés filtrés</item>
+        <item>Activer les paquets multimédias filtrés</item>
     </string-array>
     <string-array name="clock_options">
         <item>Afficher les heures, minutes et secondes</item>
@@ -138,6 +140,10 @@
         <item>Ne jamais vérifier</item>
         <item>Vérifier pour le contenu DRM uniquement</item>
         <item>Toujours vérifier</item>
+    </string-array>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Ceci est un contenu recommandé.</item>
+        <item>Ceci est une annonce.</item>
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>Désactivé</item>
@@ -211,6 +217,96 @@
         <item>Dessiner une région de clip non rectangulaire en bleu</item>
         <item>Surligner les commandes de dessin testées en vert</item>
     </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Non disponible</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+    </string-array>
     <string-array name="track_frame_time_entries">
         <item>Désactivé</item>
         <item>"À l'écran comme des barres"</item>
@@ -218,12 +314,12 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animation désactivée</item>
-        <item>"Échelle d'animation .5x"</item>
-        <item>"Échelle d'animation 1x"</item>
-        <item>"Échelle d'animation 1.5x"</item>
-        <item>"Échelle d'animation 2x"</item>
-        <item>"Échelle d'animation 5x"</item>
-        <item>"Échelle d'animation 10x"</item>
+        <item>"Échelle d'animation 0,5×"</item>
+        <item>"Échelle d'animation 1×"</item>
+        <item>"Échelle d'animation 1,5×"</item>
+        <item>"Échelle d'animation 2×"</item>
+        <item>"Échelle d'animation 5×"</item>
+        <item>"Échelle d'animation 10×"</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Très lent</item>

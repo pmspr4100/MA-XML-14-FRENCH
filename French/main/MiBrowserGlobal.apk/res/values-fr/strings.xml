@@ -97,12 +97,14 @@
     <string name="ad_mark">Publicité</string>
     <string name="ad_permission_name">Bloquer les publicités</string>
     <string name="ad_sponsored">Sponsorisé</string>
+    <string name="ad_swip_up_tips">"Balayer vers le haut pour fermer l'annonce"</string>
     <string name="adblock_force_updating_rules_toast">Mise à jour du bloqueur de publicités</string>
     <string name="adblock_rules_not_updated_toast">Mise à jour impossible</string>
     <string name="adblock_rules_restore">Débloquer</string>
     <string name="adblock_rules_updated_toast">Mis à jour avec succès</string>
     <string name="adblock_websites_settings_empyt_hint">"Vous n'avez bloqué aucun site."</string>
     <string name="adblock_websites_settings_title">Sites bloqués</string>
+    <string name="add">Ajouter</string>
     <string name="add_bookmark_group">Ajouter un groupe</string>
     <string name="add_bookmarks">Favoris</string>
     <string name="add_bookshelf_popup_text">"Ajouté à l'étagère"</string>
@@ -119,12 +121,14 @@
     <string name="add_shortcut">Ajouter un raccourci</string>
     <string name="add_shortcut_success">Raccourci ajouté avec succès</string>
     <string name="add_to_bookmark">Favoris</string>
+    <string name="add_to_desktop">"Ajouter à l'écran d'accueil"</string>
     <string name="add_to_quicklink">"Page d'accueil"</string>
     <string name="add_to_trust_device">Cet appareil est fiable</string>
     <string name="added_to_bookmarks">Ajouté aux favoris</string>
     <string name="adjust_text_zoom_toast">Changer le zoom du texte peut causer un affichage incorrect de certains sites web</string>
     <string name="afternoon">Après-midi</string>
     <string name="agree">Accepter</string>
+    <string name="agree_label">Accepter</string>
     <string name="agree_open">Activer</string>
     <string name="agree_permissions_request">Autoriser</string>
     <string name="alert_tips">Ce site peut représenter un risque pour votre sécurité</string>
@@ -136,13 +140,21 @@
     <string name="app_cache">Cache</string>
     <string name="app_id">Firebase App ID(Cliquer pour exporter)</string>
     <string name="app_library_category_entertainment">Divertissement</string>
+    <string name="app_library_category_financial_management">Finance</string>
     <string name="app_library_category_games">Jeux</string>
+    <string name="app_library_category_health_and_exercise">Santé</string>
+    <string name="app_library_category_individualization">Personnalisation</string>
     <string name="app_library_category_information">Média</string>
     <string name="app_library_category_lifestyle">Style de vie</string>
+    <string name="app_library_category_originality">Créativité</string>
     <string name="app_library_category_others">Autre</string>
     <string name="app_library_category_productivity">Productivité</string>
+    <string name="app_library_category_reading_and_information">Actualités</string>
+    <string name="app_library_category_shopping_and_food">Shopping</string>
     <string name="app_library_category_social">Social</string>
+    <string name="app_library_category_travel">Voyages</string>
     <string name="app_library_category_utility">Outils</string>
+    <string name="app_library_category_work_and_efficiency">Productivité</string>
     <string name="app_library_title">Applications</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Appareil photo</string>
@@ -200,6 +212,7 @@
     <string name="bookmark_btn_select_all">Tout sélectionner</string>
     <string name="bookmark_btn_select_none">Tout désélectionner</string>
     <string name="bookmark_cannot_save_url">"Cette adresse URL ne peut pas être mis dans les favoris."</string>
+    <string name="bookmark_file_privacy_nightmode_moved_here">Les raccourcis de fonctionnalités et les modes de navigation peuvent être trouvés ici</string>
     <string name="bookmark_folder_needs_title">Entrez un nom de groupe</string>
     <string name="bookmark_group_lable">Groupe</string>
     <string name="bookmark_needs_title">Le favori doit avoir un nom</string>
@@ -440,13 +453,19 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="choose_to_signin">Oui</string>
     <string name="choose_to_signup">Non, je vais en créer un</string>
     <string name="choosertitle_sharevia">Partager via</string>
+    <string name="clean_cache">Vider le cache</string>
+    <string name="clear">Effacer</string>
     <string name="clear_history">"Effacer l'historique"</string>
     <string name="clear_most_visited">Historique récent</string>
+    <string name="clear_result_page_more_content">En découvrir plus</string>
+    <string name="clear_result_page_show_more">Afficher plus</string>
     <string name="clear_search_history">"Effacer l'historique"</string>
     <string name="clear_transfer_summary">Effacer les indicateurs de paramètres système afin que vous puissiez re-transférer</string>
     <string name="clear_transfer_title">Effacer les marqueurs de transfert</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
+    <string name="cleared_garbage">%d Mio effacés de la corbeille</string>
     <string name="click_always">Appuyez sur \"Toujours\"</string>
+    <string name="click_clean">Effacer</string>
     <string name="click_to_refresh">Arrêté ici la dernière fois, appuyez pour actualiser</string>
     <string name="clip_dialog_title">"Ouvrir l'URL copiée ?"</string>
     <string name="clipboard_title_text">Texte copié</string>
@@ -460,6 +479,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="close_all_tab_alert_title">Fermer tous les onglets</string>
     <string name="close_cant_recommand">Vous ne recevrez pas de services de contenu personnalisés si vous désactivez cette fonctionnalité.</string>
     <string name="close_cloud_tab_tip">Fermer les onglets cloud sur %s ?</string>
+    <string name="close_desktop">Version de bureau désactivée</string>
     <string name="cloud_loading_tips">Déroulez pour synchroniser</string>
     <string name="cloud_no_new_data_toast">Tout est à jour</string>
     <string name="cloud_sync_closed_toast">Impossible de mettre à jour car la synchronisation est désactivée</string>
@@ -545,6 +565,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="connection_lost">Déconnecté</string>
     <string name="consume">Sortant</string>
     <string name="content_collection_done">Ajouté aux favoris avec succès</string>
+    <string name="content_recommend_trending_title">Google</string>
     <string name="contextmenu_add_contact">Ajouter un contact</string>
     <string name="contextmenu_copy">Copier</string>
     <string name="contextmenu_copylink">"Copier l'URL du lien"</string>
@@ -570,6 +591,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="contextmenu_webpage_snapshot">Enregistrer la page</string>
     <string name="continue_reading">Continuer la lecture</string>
     <string name="copy">Copier</string>
+    <string name="copy_toast_msg">Lien copié dans le presse-papiers</string>
     <string name="copy_url">"Copier l'URL"</string>
     <string name="core_functions_of_browser">Fonctionnalités principales à portée de main</string>
     <string name="could_not_load_data">"Impossible de charger les données, actualisez et réessayez"</string>
@@ -588,9 +610,9 @@ Les pages que vous consultez n'apparaîtront pas dans l'historique."</string>
     <string name="dark_mode">Mode sombre</string>
     <string name="data_error">Erreur de données</string>
     <string name="data_format_ymd">dd/MM/yyyy</string>
+    <string name="data_traffic_prompt_title">Continuer la lecture vidéo maintenant ?</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
-    <string name="data_traffic_prompt_title">Continuer la lecture vidéo maintenant ?</string>
     <string name="debug_crash">"Activer le débogage en cas d'incident"</string>
     <string name="debug_youtube_file">Déboguer le fichier YouTube</string>
     <string name="debug_youtube_in_release">Déboguer YouTube dans la version</string>
@@ -645,6 +667,7 @@ Envoyez ce code au superviseur."</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Rejouer</string>
     <string name="doc_viewer_label">Lecteur (Mi Browser)</string>
     <string name="doc_viewer_open_out_file_prompt">"Pour ouvrir et afficher un fichier reçu de sources externes, cette application doit d'abord créer une copie du fichier. Continuer ?"</string>
+    <string name="doc_viewer_user_guide_profile">"Voir l'article que vous parcouriez ici"</string>
     <string name="document_download_background_btn">Téléchargement en arrière-plan</string>
     <string name="document_download_cancel_btn">Annuler</string>
     <string name="document_download_failed">Impossible de télécharger</string>
@@ -838,6 +861,9 @@ Envoyez ce code au superviseur."</string>
     <string name="exo_download_downloading">Téléchargement en cours</string>
     <string name="exo_download_failed">Échec du téléchargement</string>
     <string name="exo_download_notification_channel_name">Téléchargements</string>
+    <string name="exo_download_paused">Téléchargements suspendus</string>
+    <string name="exo_download_paused_for_network">Téléchargements en attente de réseau</string>
+    <string name="exo_download_paused_for_wifi">Téléchargements en attente de Wi-Fi</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternatif</string>
@@ -859,6 +885,9 @@ Envoyez ce code au superviseur."</string>
     <string name="exported">Exporté</string>
     <string name="external_app_restricted_access_error">Mi Browser ne peut pas accéder à cet élément.</string>
     <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi</string>
+    <string name="fallback_menu_item_copy_link">Copier le lien</string>
+    <string name="fallback_menu_item_open_in_browser">Ouvrir dans le navigateur</string>
+    <string name="fallback_menu_item_share_link">Partager le lien</string>
     <string name="fast_search_title">Recherche rapide</string>
     <string name="fast_than">Devant %1$s%% des utilisateurs</string>
     <string name="fb_login_tips">Connectez-vous pour télécharger des vidéos depuis Facebook</string>
@@ -1177,6 +1206,9 @@ pour ajouter des livres sur le bureau"</string>
     <string name="homepage_setting">Paramètres de la page de démarrage</string>
     <string name="homepage_top_card_menu">Top</string>
     <string name="hot_games">Populaire</string>
+    <string name="hot_news_notify_summary">Notifications push pour les principales actualités</string>
+    <string name="hot_news_notify_tips_light">"Vous pouvez désactiver les notifications d'actualités dans les &lt;font color=#0D84FF>Paramètres&lt;/font>"</string>
+    <string name="hot_news_notify_title">"Notifications d'actualités"</string>
     <string name="i_know">Arrêter</string>
     <string name="identity">Identification</string>
     <string name="if_cancel">Annuler cette opération ?</string>
@@ -1592,11 +1624,6 @@ Quitter cette page maintenant ?"</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Essayez ceci :</string>
     <string name="mw_miuichromium_error_page_title">"Une erreur s'est produite"</string>
     <string name="mw_miuichromium_error_page_unknown_error">"Oups, quelque chose s'est mal passé"</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_btn_text">"Essayez d'utiliser un VPN"</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_1">Serveurs illimités</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_2">Pas de suivi</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_des_3">Aucune limite de vitesse</string>
-    <string name="mw_miuichromium_error_page_vpn_suggestion_img_text">"Essayez d'utiliser un VPN"</string>
     <string name="mw_miuichromium_error_page_wlan">Activez le Wi-Fi</string>
     <string name="mw_month_picker_dialog_title">Définir le mois</string>
     <string name="mw_no_matches">Pas de correspondance</string>
@@ -1615,6 +1642,8 @@ Quitter cette page maintenant ?"</string>
     <string name="mw_save_password_remember">Se souvenir</string>
     <string name="mw_search_menu_title">Recherche</string>
     <string name="mw_speech_recognition_service_not_found">"Le moteur vocal Google est introuvable"</string>
+    <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">,</string>
     <string name="mw_time_picker_dialog_title">"Réglage de l'heure"</string>
     <string name="mw_video_buffering_percent">"Mise en mémoire tampon "</string>
@@ -1629,6 +1658,7 @@ Quitter cette page maintenant ?"</string>
     <string name="my_account">Mon compte</string>
     <string name="my_cahnnel">Mes chaînes</string>
     <string name="my_channel">Mes chaînes</string>
+    <string name="my_prize_entry">Mes récompenses</string>
     <string name="name_empty">Vous devez saisir un nom.</string>
     <string name="nav_bottom_bar_back">Retour</string>
     <string name="nav_bottom_bar_close_all">Tout fermer</string>
@@ -1736,6 +1766,7 @@ Quitter cette page maintenant ?"</string>
     <string name="ok">OK</string>
     <string name="one_prefect_author">Créateur</string>
     <string name="open_app_confirm_message">"Autoriser cette page à ouvrir %s ?"</string>
+    <string name="open_desktop">Passé à la version de bureau avec succès</string>
     <string name="open_google_gaid">Pour pouvoir utiliser cette fonctionnalité, assurez-vous de ne pas avoir désactivé la personnalisation des annonces dans Paramètres > Google > Annonces.</string>
     <string name="open_personalized_services">Activez les services personnalisés pour pouvoir utiliser cette fonctionnalité.</string>
     <string name="open_private_folder">Relâchez pour afficher les dossiers masqués</string>
@@ -1749,6 +1780,7 @@ Quitter cette page maintenant ?"</string>
     <string name="operation_rename">Renommer</string>
     <string name="operation_rename_message">Entrez un nouveau nom</string>
     <string name="operation_send">Envoyer</string>
+    <string name="opr_activity_title">Regardez la saison et obtenez des récompenses</string>
     <string name="other_channel">"Appuyez pour ajouter d'autres chaînes."</string>
     <string name="page_info">Informations sur la page</string>
     <string name="page_info_address">Adresse :</string>
@@ -2084,6 +2116,7 @@ Quitter cette page maintenant ?"</string>
     <string name="pick_file">Choisissez des fichiers</string>
     <string name="ping_test_title">Délai réseau</string>
     <string name="players_still_play">&lt;font color=#ff2458>%s&lt;/font> des joueurs aiment aussi ceux-ci</string>
+    <string name="pm">PM</string>
     <string name="popular_game_video">Vidéo de jeu populaire</string>
     <string name="popup_window_attempt">Autoriser ce site à ouvrir une fenêtre pop-up ?</string>
     <string name="positive_confirm_message">Désactiver quand même</string>
@@ -2351,6 +2384,9 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="reading__auto_pagedown_menu_view__speed">vitesse de rotation automatique des pages : %1$d</string>
     <string name="reading__bookmark_empty_view__hint">"ajouter des signets à l'écran déroulant pendant la lecture"</string>
     <string name="reading__bookmark_empty_view__no_bookmark">temporairement aucun signet</string>
+    <string name="reading__business_recommend_at_end_more">Afficher plus</string>
+    <string name="reading__business_recommend_at_end_other_docs">Autres lectures</string>
+    <string name="reading__business_recommend_at_end_title">Contenu recommandé</string>
     <string name="reading__cancel">Annuler</string>
     <string name="reading__chapter_error_view__content_error">Impossible de charger le chapitre. Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="reading__chapter_error_view__drm_error">"Impossible d'obtenir le certificat numérique"</string>
@@ -2435,6 +2471,7 @@ modifier"</string>
     <string name="reading__reading_book_introduction">introduction du livre</string>
     <string name="reading__reading_brightness_view__brightness">luminosité</string>
     <string name="reading__reading_brightness_view__eyes_saving">Confort des yeux</string>
+    <string name="reading__reading_end">Fin</string>
     <string name="reading__reading_error_commit">soumettre</string>
     <string name="reading__reading_error_report">erreur de rapport de chapitre</string>
     <string name="reading__reading_feedback_dialog_email_error_toast">Entrez une adresse e-mail valide</string>
@@ -2751,7 +2788,7 @@ Essayez de modifier votre mot-clé ?"</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_bar_hint_content">Rechercher des applications et du contenu</string>
     <string name="search_bing">Bing</string>
-    <string name="search_button_text">Go</string>
+    <string name="search_button_text">Démarrer</string>
     <string name="search_card_online_rec_app">"Marchés d'applications"</string>
     <string name="search_card_online_rec_app_install">Installer</string>
     <string name="search_card_online_rec_app_open">Ouvrir</string>
@@ -2831,7 +2868,7 @@ Essayez de modifier votre mot-clé ?"</string>
     <string name="setting_swipe_up">"Balayez vers le haut sur l'écran d'accueil"</string>
     <string name="settings">Paramètres</string>
     <string name="settings_search_online_apps">App markets</string>
-    <string name="settings_search_online_apps_desc">Content from app markets</string>
+    <string name="settings_search_online_apps_desc">Contenu des app markets</string>
     <string name="share_image_text">"Regardez ce que j'ai partagé ! @MIUI"</string>
     <string name="share_page_text">"Regardez ce que j'ai partagé : %1$s @MIUI| %2$s"</string>
     <string name="share_slide_video_text">"Regardez ce que j'ai partagé : %1$s"</string>
@@ -2903,6 +2940,11 @@ Essayez de modifier votre mot-clé ?"</string>
     <string name="speed_test_upload">Envoyer</string>
     <string name="splash__access_dialog_agree">Accepter</string>
     <string name="splash__access_dialog_protect">Termes et conditions</string>
+    <string name="sport_card_match_week">Semaine %d</string>
+    <string name="sports_card_match_season">Saison</string>
+    <string name="sports_card_match_status_1">À venir</string>
+    <string name="sports_card_match_status_2">En cours</string>
+    <string name="sports_card_match_status_3">Terminé</string>
     <string name="srl_component_falsify" formatted="false">"%s zone de falsification,
 Représente la hauteur [%.1fdp] de la traînée au moment de l'exécution,
 Il n'affiche rien."</string>
@@ -3039,6 +3081,7 @@ Il n'affiche rien."</string>
     <string name="summary_channel_layout">Forcer la disposition en quinconce</string>
     <string name="summary_command_mode">Activez pour entrer en mode Commande</string>
     <string name="summary_detail_page">Modifier le style de la page de détail</string>
+    <string name="summary_use_local_ad_config">Activer pour utiliser la configuration des publicités locales</string>
     <string name="summary_use_sandbox_domain">Activer pour utiliser le domaine Bac à sable</string>
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
@@ -3141,6 +3184,7 @@ Il n'affiche rien."</string>
     <string name="title_expire_video">"Sur le point d'expirer"</string>
     <string name="title_recent">Récent</string>
     <string name="title_select_volume">Sélectionner le dossier</string>
+    <string name="title_use_local_ad_config">Utiliser la configuration des annonces locales</string>
     <string name="title_use_sandbox_domain">Utiliser le domaine Bac à sable</string>
     <string name="toast_exit_browser">Appuyez à nouveau pour quitter le navigateur</string>
     <string name="today">"Aujourd'hui"</string>
@@ -3158,7 +3202,11 @@ Il n'affiche rien."</string>
     <string name="translation_query_error_network">Impossible de traduire. Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="translation_result_empty">Impossible de traduire. Réessayez.</string>
     <string name="translation_to">Traduire en</string>
-    <string name="trash_cleaner_unit">Mio</string>
+    <string name="trash_cleaner_unit_b">" o"</string>
+    <string name="trash_cleaner_unit_gb">" Gio"</string>
+    <string name="trash_cleaner_unit_kb">" Kio"</string>
+    <string name="trash_cleaner_unit_mb">" Mio"</string>
+    <string name="trash_cleaner_unit_tb">" Tio"</string>
     <string name="trending_apps_more">Plus</string>
     <string name="tuesday">Mardi</string>
     <string name="tuesday_short">Mar</string>
@@ -3372,6 +3420,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_desc">Afficher les vignettes des pages précédemment visitées</string>
     <string name="web_tag_tips">Appuyez ici pour revisiter une page</string>
     <string name="web_tag_title">Vignettes des pages web</string>
+    <string name="web_tools_moved_here">Les outils ont été déplacés ici</string>
     <string name="web_video_accelerate">Vitesse</string>
     <string name="web_video_default_time">%1$s : %2$s</string>
     <string name="web_video_download">Télécharger</string>

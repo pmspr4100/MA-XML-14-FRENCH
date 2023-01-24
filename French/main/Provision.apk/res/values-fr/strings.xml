@@ -17,6 +17,7 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="access_non_personal_data">"Si vous retirez votre consentement à l'accès et à l'utilisation des données non personnelles de votre appareil, les services Wallpaper Carousel seront désactivés et toutes les données collectées seront supprimées dans le délai spécifié par les lois et réglementations applicables."</string>
     <string name="accessibility_enabled">Accessibilité activée.</string>
     <string name="actionbar_button_up_description">Retour</string>
     <string name="activate_esim_tips">"Impossible d'activer. Réessayez."</string>
@@ -25,6 +26,7 @@
     <string name="afternoon">Après-midi</string>
     <string name="agree">Accepter</string>
     <string name="agree_and_next">Accepter</string>
+    <string name="agree_cookie">Accepter les cookies</string>
     <string name="agree_terms">"J'ai lu et accepté les Conditions générales d'utilisation et la Politique de confidentialité."</string>
     <string name="agree_terms_input_method_facemoji">"J'ai lu et accepté la Politique de confidentialité de Facemoji."</string>
     <string name="agree_terms_input_method_kika">"J'ai lu et accepté la Politique de confidentialité de Kika."</string>
@@ -52,7 +54,12 @@
     <string name="calculator_introduction">"Vous pouvez utiliser cette application pour les calculs, la conversion des unités et des devises, et l'estimation de vos remboursements hypothécaires."</string>
     <string name="camera_application_introduction">Vous pouvez utiliser cette application pour prendre des photos et des vidéos.</string>
     <string name="camera_introduction">"Vous pouvez utiliser l'appareil photo pour prendre des photos et filmer des vidéos."</string>
-    <string name="carrier_introduction">"Afin de vous fournir de meilleurs services, votre appareil peut envoyer périodiquement des informations sur la version de votre appareil, des données d'identification de l'appareil (y compris l'adresse IMEI/IMSI/MSISDN/MAC, MEID/ICCID) et des informations de localisation approximatives (y compris l'ID de la station de opérateur via Wi-Fi, réseau de données mobiles ou SMS gratuit. Le transporteur promet d'analyser les informations pertinentes uniquement pour améliorer la qualité des services ou pour fournir des services ou des technologies personnalisés, et ne divulguera aucune information pertinente à des tiers sous quelque forme que ce soit qui vous identifie personnellement. La déclaration spécifique du transporteur prévaudra. Consultez votre opérateur concernant le coût d'utilisation de ce service."</string>
+    <string name="carousel_cookies_content"><Data>"Lorsque vous appuyez sur des images et des histoires dans Wallpaper Carousel, leurs versions complètes s'ouvrent dans votre navigateur. Notre fournisseur de contenu tiers de confiance peut ensuite recommander du contenu et des publicités supplémentaires adaptés à vos intérêts. Si vous acceptez d'activer cette fonctionnalité, ils placeront des cookies dans votre navigateur, comme décrit dans cette &lt;a href=\"%1$s\">Politique relative aux cookies&lt;/a>. Si vous refusez les cookies, Wallpaper Carousel fonctionnera toujours, mais son contenu et ses recommandations pourraient ne plus être pertinents pour vous. Vous pouvez toujours modifier vos préférences dans les paramètres."</Data></string>
+    <string name="carousel_cookies_subtitle">"Les cookies nous permettent de personnaliser votre expérience sur l'écran de verrouillage."</string>
+    <string name="carousel_cookies_title">Contenu personnalisé et cookies</string>
+    <string name="carousel_privacy"><Data>"Lisez et acceptez la &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> et le &lt;a href=\"%2$s\">Contrat d'utilisation&lt;/a> de notre fournisseur de services tiers de confiance avant d'utiliser Wallpaper Carousel."</Data></string>
+    <string name="carousel_setting">Configurer votre écran de verrouillage</string>
+    <string name="carousel_setting_sub">Wallpaper Carousel vous montrera de nouvelles histoires chaque fois que vous déverrouillerez votre appareil</string>
     <string name="carrier_introduction_china">"Afin de vous fournir de meilleurs services, les processus exécutés sur votre appareil (y compris SystemHelper, RegService et Carrier Services) peuvent périodiquement envoyer les informations relatives à votre appareil et à votre carte SIM (y compris IMEI, IMSI, MSISDN, MEID, ICCID, adresse MAC , version MIUI, version Android, modèle d'appareil et spécifications matérielles de base), ainsi que des informations de localisation approximatives (y compris la région, les coordonnées, l'identifiant de zone et l'identifiant de la station de base) à l'opérateur via Wi-Fi, réseau de données mobile ou gratuit SMS. Le transporteur promet d'analyser les informations pertinentes uniquement pour améliorer la qualité des services ou pour fournir des services ou des technologies personnalisés, et ne divulguera aucune information pertinente à des tiers sous quelque forme que ce soit qui vous identifie personnellement. La déclaration spécifique du transporteur prévaudra. Consultez votre opérateur concernant le coût d'utilisation de ce service."</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="clock_introduction">"Vous pouvez utiliser cette application pour visualiser l'heure, ainsi que pour utiliser la minuterie, l'horloge mondiale, le chronomètre, régler les alarmes, et plus encore."</string>
@@ -134,16 +141,50 @@
     <string name="install_preinstall_app">Chargement des applications…</string>
     <string name="intent_filter_verification_service">"Service de vérification du filtre d'intention"</string>
     <string name="interconnection_communication_introduction">"Xiaomi Internet Communication Services vous permet de découvrir, de vous connecter et de communiquer avec d'autres appareils Xiaomi."</string>
+    <string name="interconnection_service_summary">"Les services d'interconnexion Xiaomi permettent à vos appareils d'interagir entre eux sans fil. Ces services incluent Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share et la diffusion.
+Pour pouvoir fonctionner normalement, ces services doivent se connecter à Internet et nécessitent les autorisations suivantes :
+\u0009\u0009Mi Smart Hub :
+\u0009\u0009Activer et désactiver le Wi-Fi
+\u0009\u0009Pour transférer des éléments via Wi-Fi
+\u0009\u0009Enregistrement audio
+\u0009\u0009Pour transférer la lecture audio vers des appareils connectés pendant la diffusion ou la mise en miroir d'écran
+\u0009\u0009Accéder au stockage
+\u0009\u0009Pour transférer et recevoir des fichiers sans fil
+\u0009\u0009Mi Share :
+\u0009\u0009Accéder et enregistrer des fichiers et des photos sur votre appareil
+\u0009\u0009Pour transférer et recevoir des fichiers sans fil
+\u0009\u0009Lieu d'accès
+\u0009\u0009Pour transférer des éléments vers des appareils à proximité via Wi-Fi et Bluetooth
+\u0009\u0009Activer et désactiver Bluetooth
+\u0009\u0009Pour rechercher des appareils à proximité
+\u0009\u0009Activer et désactiver le Wi-Fi
+\u0009\u0009Pour trouver des appareils à proximité et transférer des fichiers sans fil
+\u0009\u0009Se connecter aux appareils à proximité
+\u0009\u0009Pour rechercher des appareils à proximité et s'y connecter
+\u0009\u0009Diffusion :
+\u0009\u0009Activer et désactiver Bluetooth
+\u0009\u0009Pour rechercher des appareils à proximité
+\u0009\u0009Activer et désactiver le Wi-Fi
+\u0009\u0009Pour rechercher des appareils à proximité
+\u0009\u0009Lieu d'accès
+\u0009\u0009Pour obtenir des informations sur les appareils à proximité
+\u0009\u0009Enregistrement audio
+\u0009\u0009Pour transférer la lecture audio vers la connexion pendant la diffusion
+Si vous n'acceptez pas d'accorder de telles autorisations, vous ne pourrez pas utiliser les services d'interconnexion Xiaomi.
+Les fonctionnalités sont susceptibles d'être modifiées. Certaines des fonctionnalités ci-dessus peuvent ne pas être disponibles sur tous les modèles d'appareils ou pour toutes les versions de système. Reportez-vous au site Web de MIUI (www.miui.com) pour vérifier la compatibilité."</string>
+    <string name="interconnection_service_title">"Services d'interconnexion Xiaomi"</string>
     <string name="item_contents_wwarning">"Si votre appareil disparaît, vous ne pourrez pas empêcher d'autres personnes de l'utiliser et d'accéder à vos données à moins que vous ne définissiez un verrouillage d'écran. Ignorer quand même ?"</string>
     <string name="item_facerecognition">Déverrouillage par le visage</string>
     <string name="item_fingerprint">Empreinte digitale</string>
     <string name="item_lock_screen_password">Écran de verrouillage uniquement</string>
+    <string name="item_lock_screen_password_only">Écran de verrouillage</string>
     <string name="item_return">Régler</string>
     <string name="item_skip">Ignorer</string>
     <string name="language_picker_other_languages_title">Plus de langues</string>
     <string name="language_settings">Choisir une langue</string>
     <string name="locale_picker_other_locale_title">Autres régions</string>
     <string name="locale_picker_title">Sélectionnez votre région</string>
+    <string name="location_content">"Conformément à la loi, les opérateurs de téléphonie mobile peuvent obtenir les informations de localisation des appareils mobiles pour se conformer aux exigences des agences de secours d'urgence (pompiers et police) qui poursuivent des objectifs de sécurité et de secours d'urgence."</string>
     <string name="location_introduction">"Les services de localisation utilisent le positionnement pour fournir des services spécifiques à l'emplacement."</string>
     <string name="location_introduction_qcom">"Les services de localisation utilisent le positionnement pour fournir des services spécifiques à l'emplacement. Lorsque les services de localisation sont utilisés par votre appareil, le module QCC se connecte au réseau pour accélérer le processus de positionnement."</string>
     <string name="lockscreen_introduction">"Le Carrousel de fonds d'écran vous permet de toujours recevoir de nouvelles images sur votre écran de verrouillage."</string>
@@ -247,6 +288,7 @@
     <string name="other_settings">Paramètres basiques</string>
     <string name="other_settings_ad_dialog_agree">Activer</string>
     <string name="other_settings_ad_dialog_content">"Lorsque les recommandations d'annonces personnalisées sont désactivées, vous verrez toujours la même quantité d'annonces que lorsque la fonctionnalité est activée. Les publicités, cependant, ne seront plus pertinentes car elles ne seront pas basées sur vos préférences personnelles."</string>
+    <string name="other_settings_ad_dialog_content_for_global">"Lorsque les recommandations d'annonces personnalisées sont désactivées, vous verrez toujours la même quantité d'annonces dans les applications du système MIUI que lorsque la fonctionnalité est activée. Cependant, les publicités de Xiaomi et des plateformes tierces ne seront plus pertinentes car elles ne seront pas basées sur vos préférences personnelles."</string>
     <string name="other_settings_ad_dialog_disagree">Désactiver</string>
     <string name="other_settings_ad_disable_summary">Activer pour personnaliser les annonces</string>
     <string name="other_settings_ad_enable">Recommandation de publicités personnalisées</string>
@@ -281,6 +323,8 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="permission_account">Accéder aux comptes sur votre appareil</string>
     <string name="permission_account_introduction">Pour se connecter avec le Compte Xiaomi</string>
     <string name="permission_application_package_introduction">"Pour accéder au stockage afin d'analyser et de scanner les paquets d'installation"</string>
+    <string name="permission_backup">Accéder au stockage</string>
+    <string name="permission_backup_introduction">Pour accéder et enregistrer des sauvegardes sur votre appareil</string>
     <string name="permission_call_records">"Accéder à l'historique des appels"</string>
     <string name="permission_call_records_describe_bluetooth_summary">"Pour permettre à vos autres appareils compatibles que vous connectez à cet appareil d'accéder à l'historique des appels. Cela ne se produira que lorsque vous aurez besoin de manière proactive d'utiliser l'historique des appels via un autre appareil. L'historique des appels et les contacts partagés par le système via Bluetooth ne seront mis en cache que localement sur vos appareils et partagés avec eux avec votre autorisation."</string>
     <string name="permission_call_records_introduction">"Pour accéder à l'historique des appels afin d'afficher les postes bloqués"</string>
@@ -382,17 +426,25 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="poco_agree_terms_other">"(Incluant la Politique de confidentialité et les Conditions d'utilisation de POCO Launcher)"</string>
     <string name="poco_launcher_privacy_policy">Politique de confidentialité de POCO Launcher</string>
     <string name="poco_launcher_user_agreement">"Contrat d'utilisation du lanceur POCO"</string>
+    <string name="position_header">Partager les informations de localisation</string>
+    <string name="position_subheading">"Informations sur l'emplacement"</string>
     <string name="pref_title_data_slot">Carte SIM préférée pour les données</string>
     <string name="pref_title_voice_slot">Carte SIM préférée pour les appels vocaux</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
+    <string name="privacy_content_one">"Les recommandations de Wallpaper Carousel sont alimentées par Taboola, notre fournisseur de contenu tiers de confiance. Pour fournir ce contenu, Taboola doit accéder et stocker des données non personnelles de votre appareil, y compris la langue de votre système et le type de navigateur. Vous pouvez découvrir comment Taboola utilise les données collectées dans la &lt;a href =%1$s>Politique de confidentialité&lt;/a> et le &lt;a href =%2$s>Contrat d'utilisation&lt;/a> de Taboola. Lisez et acceptez les termes et conditions fournis dans ces documents avant de continuer. Si vous n'êtes pas d'accord, les services de Wallpaper Carousel seront désactivés."</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="privacy_provision_more">En savoir plus sur la protection de la vie privée</string>
     <string name="privacy_provision_summary">"La protection de la vie privée est l'engagement derrière la conception de nos produits"</string>
     <string name="privacy_provision_text">"Nous nous engageons à respecter et à protéger votre vie privée. Privilégiant la recherche et le développement dans le domaine de la sécurité de l'information, Xiaomi travaille constamment à l'amélioration des méthodes, des pratiques et des solutions techniques qui protègent vos données. Nous partageons également nos dernières réalisations avec nos partenaires afin de garantir votre confidentialité à tous les niveaux."</string>
     <string name="privacy_provision_title">Confidentialité</string>
+    <string name="privacy_refuse">Refuser</string>
+    <string name="privacy_title">Termes et politique de confidentialité</string>
     <string name="protect_persoanl_info_statement">Nous protégerons vos renseignements personnels conformément aux lois, aux règlements et aux Politiques de confidentialité pertinents.</string>
+    <string name="provision_back">Retour</string>
     <string name="provision_inputmethod_policy_description"><Data>Afficher la &lt;a href=%1$s>Politique de confidentalité&lt;/a> de votre clavier sélectionné.</Data></string>
     <string name="provision_inputmethod_policy_description1">Politique de confidentialité</string>
+    <string name="provision_next">Suivant</string>
+    <string name="provision_skip_underline">Ignorer</string>
     <string name="recorder_introduction">"Vous pouvez utiliser cette application pour enregistrer de l'audio et sauvegarder des enregistrements sur le cloud."</string>
     <string name="refuse_cookie">Refuser les cookies</string>
     <string name="require_authority_list_statement">Pour pouvoir fonctionner normalement, ce service nécessite les autorisations suivantes :</string>
@@ -405,6 +457,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="saturday_short">Sam</string>
     <string name="saturday_shortest">Sam</string>
     <string name="screen_recording_introduction">"Cette application vous permet d'enregistrer ce qui se passe sur votre écran."</string>
+    <string name="search_menu_title">Chercher</string>
     <string name="security_introduction">"Vous pouvez utiliser cette application pour nettoyer les fichiers inutiles de votre appareil, rechercher et neutraliser les virus, optimiser les performances de jeu, économiser la batterie, gérer les applications, les permissions, etc."</string>
     <string name="security_mobile_account_introduction">"Pour l'ouverture de session et la gestion des comptes système"</string>
     <string name="send">Envoyer</string>
@@ -428,6 +481,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="service_name_content_center">Centre de contenu</string>
     <string name="service_name_download">Téléchargements</string>
     <string name="service_name_fast_application">Applications rapides Framework</string>
+    <string name="service_name_fast_pairing">Mi Link</string>
     <string name="service_name_game">Plug-in de jeux</string>
     <string name="service_name_google_service">Déclaration sur les services Google</string>
     <string name="service_name_ims">Service IMS</string>
@@ -503,6 +557,7 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="sunday_shortest">Dim</string>
     <string name="system_navigation_mode">Mode de navigation système</string>
     <string name="systemdesktop_introduction">"Le plug-in de service d'écran d'accueil vous fournit des fonctionnalités de base telles que l'écran d'accueil, l'interface utilisateur du système et des captures d'écran."</string>
+    <string name="term_condition_detail">"Obtenez quotidiennement des images époustouflantes et des histoires passionnantes sur votre écran de verrouillage. Cette fonctionnalité n'utilisera pas vos données pour la personnalisation sans votre consentement. Lisez et acceptez la &lt;a href =%1$s>Politique de confidentialité&lt;/a> et le &lt;a href =%2$s>Contrat d'utilisation&lt;/a> du fournisseur de contenu tiers avant d'utiliser cette fonctionnalité."</string>
     <string name="terms_of_use">"Conditions d'utilisation"</string>
     <string name="terms_of_use_label_Mistore">Plug-in du système Mi Store</string>
     <string name="terms_of_use_label_RMS">Gestionnaire des autorisations</string>
@@ -523,13 +578,13 @@ Pour contrôler cette fonctionnalité, recherchez \"Utilisation et diagnostics\"
     <string name="terms_of_use_label_landscape">"fonctionnalité d'optimisation de la vue paysage"</string>
     <string name="terms_of_use_label_mi_account">Composants du Compte Xiaomi</string>
     <string name="terms_of_use_label_miuiDaemon">Démon MIUI</string>
-    <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
+    <string name="terms_of_use_label_miuisdk">SDK de MIUI</string>
     <string name="terms_of_use_label_os">Réglage OS IA</string>
     <string name="terms_of_use_label_package">Installateur de paquets</string>
     <string name="terms_of_use_label_parallel_windows">Fenêtres parallèles</string>
     <string name="terms_of_use_label_phrase">Phrases fréquentes</string>
-    <string name="terms_of_use_label_power_detection">Power detector</string>
-    <string name="terms_of_use_label_power_performance">Battery and performance</string>
+    <string name="terms_of_use_label_power_detection">Détecteur de puissance</string>
+    <string name="terms_of_use_label_power_performance">Batterie et performances</string>
     <string name="terms_of_use_label_quickapp">Applications rapides</string>
     <string name="terms_of_use_label_secure">"Application d'élément sécurisé"</string>
     <string name="terms_of_use_label_simcard">"Services d'activation Mi SIM"</string>

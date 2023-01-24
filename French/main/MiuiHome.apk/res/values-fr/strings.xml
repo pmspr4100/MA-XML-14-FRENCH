@@ -81,6 +81,7 @@
     <string name="all_apps_setting_drawer_tips_desc">"Le tiroir d'applications s'ouvre en faisant glisser l'écran d'accueil vers le haut. Le passage en mode écran d'accueil avec App tiroir rendra la recherche indisponible. Changer quand même ?"</string>
     <string name="all_apps_setting_drawer_tips_title">"Utilisé le tiroir d'applications"</string>
     <string name="all_apps_setting_drawer_title">"Tiroir d'applications"</string>
+    <string name="all_apps_setting_jeejen_title">Mode simplifié</string>
     <string name="all_apps_setting_original_scrollbar">Mise en page originale</string>
     <string name="all_apps_setting_scroll_bar">Barre de défilement</string>
     <string name="all_apps_setting_title">"Écran d'accueil"</string>
@@ -146,6 +147,7 @@
     <string name="app_drawer_guide_description">Trouvez ce que vous cherchez dans vos applications préférées</string>
     <string name="app_drawer_guide_title">"Tiroir d'applications"</string>
     <string name="app_drawer_tip_title">"Nous avons remplacé le flux de contenu par le tiroir d'applications."</string>
+    <string name="app_edit_icon">"Modifier l'icône"</string>
     <string name="app_install_state">Installé</string>
     <string name="application_name">"Lanceur d'applications"</string>
     <string name="apply">Définir</string>
@@ -288,7 +290,8 @@
     <string name="dialog_work_profile_content_2">Les applications de travail &amp; les données sont visibles de votre administrateur technique</string>
     <string name="dialog_work_profile_title">Profil de travail</string>
     <string name="disable_wallpaper_scroll">Désactiver le défilement</string>
-
+    <string name="dock_and_folder_not_edit_icon_tip">"Pour modifier, déplacez d'abord l'application hors du dock et du dossier"</string>
+    <string name="dock_not_edit_icon_tip">"Pour modifier, déplacez d'abord l'application hors du dock"</string>
     <string name="double_tap_to_lock_title">"Appuyez deux fois pour verrouiller l'écran"</string>
     <string name="download_action">Télécharger</string>
     <string name="drag_icon_to_homescreen_guide">"Appuyez et maintenez une icône d'application, puis faites-la glisser pour ajouter un raccourci sur l'écran d'accueil"</string>
@@ -299,8 +302,9 @@
     <string name="drawer_settings">"Tiroir d'application"</string>
     <string name="dual_app">Applications clônées</string>
     <string name="early_morning">Matin</string>
-    <string name="edit">Éditer</string>
-    <string name="edit_folder_title">Éditer le nom du dossier</string>
+    <string name="edit">Modifier</string>
+    <string name="edit_folder">Modifier le dossier</string>
+    <string name="edit_folder_title">Modifier le nom du dossier</string>
     <string name="edit_mode_dual_app">Créer une application clonée</string>
     <string name="edit_mode_group">Groupe</string>
     <string name="edit_mode_group_error_cant_delete_system_apps">"Impossible de désinstaller les applications système"</string>
@@ -342,6 +346,12 @@
     <string name="fold_pair_install_shortcut_long_click">"Appuyez et maintenez pour ajouter à l'écran d'accueil"</string>
     <string name="fold_pair_installed_shortcut_launcher">Ce raccourci existe déjà</string>
     <string name="folder_name">Dossier</string>
+    <string name="folder_not_edit_icon_tip">"Pour modifier, déplacez d'abord l'application hors du dossier"</string>
+    <string name="folder_picker_big_text">Agrandi</string>
+    <string name="folder_picker_default_text">Régulier</string>
+    <string name="folder_picker_options_tab_text">Taille</string>
+    <string name="folder_picker_sliding_button_tab_text">Suggérer des applications en surbrillance</string>
+    <string name="folder_picker_tab_text">Dossier</string>
     <string name="frame_load_failed">Impossible de charger le cadre photo</string>
     <string name="free_style_apps_title">"Choisir l'application"</string>
     <string name="free_style_drawer_title">Toutes les applications</string>
@@ -424,10 +434,14 @@
     <string name="image_too_small_message">"L'image originale n'est pas assez grande."</string>
     <string name="in_app_result_by">"Résultats intégrés à l'application par"</string>
     <string name="install">Installer</string>
+    <string name="intelligent_exposed_button_summary_text">"Utilisez des suggestions intelligentes basées sur l'utilisation de votre application pour mettre en surbrillance les applications dans des dossiers agrandis"</string>
     <string name="invalid_contact_shortcut">Contact non valide</string>
     <string name="is_setting_wallpaper_message">"Définir comme fond d'écran…"</string>
     <string name="is_system_wallpaper_message">Impossible de supprimer les ressources système</string>
     <string name="item_view_role_description">Onglet</string>
+    <string name="jeejen_description">"Éléments d'interface utilisateur plus grands.
+Appel plus accessible.
+Sécurité renforcée."</string>
     <string name="key_shortcut_settings_title">Raccourcis bouton</string>
     <string name="label">Libellé</string>
     <string name="launcher_icon_management">"Gérer les raccourcis de l'écran d'accueil"</string>
@@ -497,6 +511,8 @@
     <string name="menu_launcher_setting">Paramètres du lanceur</string>
     <string name="menu_lock">"Verrouiller la disposition de l'écran d'accueil"</string>
     <string name="menu_more">Paramètres additionnels</string>
+    <string name="menu_no_word">Ne pas afficher le texte</string>
+    <string name="menu_only_widget_no_word">Supprimer le texte des widgets</string>
     <string name="menu_picktheme">Choisir un thème</string>
     <string name="menu_reset_scene">Revenir à la disposition par défaut</string>
     <string name="menu_search">Rechercher</string>
@@ -509,6 +525,8 @@
     <string name="midnight">Nuit</string>
     <string name="minus_one_screen">"Afficher le Coffre d'applications"</string>
     <string name="miui_screen_config_title">"Paramètres de l'écran d'accueil"</string>
+    <string name="miui_widget_menu_replace_text">Changer</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">"Le coffre-fort d'applications ne prend pas en charge les widgets de cette taille"</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
@@ -538,6 +556,8 @@
     <string name="monday">Lundi</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
+    <string name="monochrome_summary">Changer la couleur de fond des icônes compatibles</string>
+    <string name="monochrome_title">Couleur de fond</string>
     <string name="month_april">Avril</string>
     <string name="month_april_short">Avr</string>
     <string name="month_april_shortest">Avr</string>
@@ -684,13 +704,17 @@
     <string name="notification_reset_title">Icônes organisées avec succès</string>
     <string name="one_key_call_title">Appuyez pour composer</string>
     <string name="online_wallpaper">En ligne</string>
+    <string name="open_pad_personal_assistant_settings">"Widgets de l'écran d'accueil"</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Annuler</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Désactiver</string>
     <string name="open_personal_assistant_dialog_desc">"Après avoir désactivé le Coffre d'applications, vous ne pourrez plus voir ni utiliser les widgets du Coffre d'applications. Leurs versions mises à jour ne seront pas non plus disponibles pour vous. Désactiver quand même ?"</string>
     <string name="open_personal_assistant_dialog_desc_international">"Vous ne pourrez pas utiliser les cartes du Coffre d'applications (Stocks, Raccourcis, etc.) et recevoir des mises à jour après avoir désactivé cette fonctionnalité."</string>
     <string name="open_personal_assistant_dialog_title">"Désactiver le Coffre d'applications"</string>
     <string name="open_personal_assistant_settings">"Paramètres du Coffre d'applications"</string>
-    <string name="open_personal_assistant_title">"Activer le Coffre d'applications"</string>
+    <string name="open_personal_assistant_settings_off">Désactivé</string>
+    <string name="open_personal_assistant_settings_on">Activé</string>
+    <string name="open_personal_assistant_settings_simplified">"Coffre d'applications"</string>
+    <string name="open_personal_assistant_title">"Coffre d'applications"</string>
     <string name="ota_layout_adjustment_button_text">Compris</string>
     <string name="ota_layout_adjustment_content">"Les dispositions de l'écran d'accueil interne et externe ont été synchronisées dans la nouvelle version."</string>
     <string name="ota_layout_adjustment_title">"Dispositions de l'écran d'accueil"</string>
@@ -745,6 +769,8 @@
     <string name="quick_search_guide_quick_search">Recherche rapide</string>
     <string name="quick_search_guide_title">Sélectionner le mode par défaut</string>
     <string name="recent_apps">Récents</string>
+    <string name="recent_menu_item_add_pair">"Créer un raccourci d'écran d'accueil pour cette combinaison d'écran partagé"</string>
+    <string name="recent_menu_item_add_pair_first_toast">"Créer un raccourci d'écran d'accueil pour cette combinaison d'écran partagé"</string>
     <string name="recent_menu_item_info">Infos</string>
     <string name="recent_menu_item_lock">Verrouiller</string>
     <string name="recent_menu_item_multi_window">Divisé</string>
@@ -873,6 +899,7 @@
     <string name="sort_by_abc">Trier par nom</string>
     <string name="sort_by_frequency">Trier par utilisation</string>
     <string name="sort_by_not_defined">Tri-auto</string>
+    <string name="split_screen_position_top">Diviser le haut</string>
     <string name="start_activity_failed">Impossible de démarrer</string>
     <string name="starting_preset_app">Démarrage…</string>
     <string name="status_bar_recent_memory_giga">%1$s Go</string>
@@ -953,6 +980,8 @@
     <string name="title_select_shortcut">Sélectionner un raccourci</string>
     <string name="toast_drag_to_assistant_reject">"Initialisation du Coffre d'applications…"</string>
     <string name="toast_screen_icons_misplaced">Restauré à partir dune autre source, certaines icônes peuvent être déplacées.</string>
+    <string name="toast_split_app_unsupported">"L'application ne prend pas en charge l'écran partagé."</string>
+    <string name="toast_split_select_app">"Appuyez sur une autre application pour utiliser l'écran partagé"</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="toggle_select_title">Choix du bouton</string>
     <string name="toggle_title">Boutons</string>
@@ -1005,8 +1034,12 @@
     <string name="widget_global_search">Recherche</string>
     <string name="widget_quick_function">Fonctions rapides</string>
     <string name="widgets_preview_title">Ajouter des widgets</string>
+    <string name="work_mode_off_detailed_text">Vos applications professionnelles ne peuvent pas vous envoyer de notifications, utilisez votre batterie ou accédez à votre position</string>
     <string name="work_mode_off_label">Les notifications sont désactivées et les applications ne sont pas disponibles pour le moment</string>
+    <string name="work_mode_off_text">Les applications professionnelles sont en pause</string>
     <string name="work_mode_on_label">Géré par votre organisation</string>
+    <string name="work_mode_toggle_off">Désactiver les applications professionnelles</string>
+    <string name="work_mode_toggle_on">Activer les applications professionnelles</string>
     <string name="work_profile_first_content">Les données personnelles sont séparées &amp; cachées des autres application</string>
     <string name="work_profile_got_button">Compris</string>
     <string name="work_profile_next_button">Suivant</string>
