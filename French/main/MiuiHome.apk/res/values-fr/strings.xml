@@ -17,7 +17,6 @@
     <string name="abc_searchview_description_voice">Recherche vocale</string>
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
-    <string name="abc_slice_error">Impossible de se connecter</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="accessibility_all_app_custom_category_finish">Fait</string>
     <string name="accessibility_all_app_custom_category_item_remove">Supprimer \"%1$s\" des catégories</string>
@@ -42,12 +41,10 @@
     <string name="actionbar_button_up_description">Retour</string>
     <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
     <string name="activity_not_unlocked">"Attendez que votre appareil soit complètement redémarré avant d'ouvrir les applications"</string>
-    <string name="add">Ajouter</string>
     <string name="add_custom_category">Personnaliser</string>
     <string name="add_screen">Ajouter un écran</string>
     <string name="add_to_workspace">"Ajouter à l'écran d'accueil"</string>
     <string name="added_all_category">Ajout de toutes les applications avec succès</string>
-    <string name="additional_settings">Paramètres additionnels</string>
     <string name="afternoon">Après-midi</string>
     <string name="agree_button">Accepter</string>
     <string name="alexa_notification_add">Ajouter</string>
@@ -452,7 +449,6 @@ Sécurité renforcée."</string>
     <string name="launcher_search_bar_title">"Barre de recherche de l'écran d'accueil"</string>
     <string name="launcher_search_bar_value_disable">Désactiver</string>
     <string name="launcher_search_bar_value_enable">Activer</string>
-    <string name="launcher_search_gesture_provider_title">Glisser vers le haut le fournisseur de recherche</string>
     <string name="launcher_slide_up_search_provider_title">Glisser vers le haut pour le moteur de recherche</string>
     <string name="launcher_slide_up_title">"Glisser vers le haut sur l'écran d'accueil"</string>
     <string name="launcher_sliding_up_gesture">"Glissez vers le haut pour lancer la recherche"</string>
@@ -670,10 +666,10 @@ Sécurité renforcée."</string>
     <string name="navigation_guide_prohibit_gesture_hint">"Impossible d'utiliser les gestes en plein écran en regardant des démos"</string>
     <string name="navigation_guide_provision_see_more_pad">"Afficher plus de démos dans Paramètres > Écran d'accueil > Gestes en plein écran"</string>
     <string name="navigation_guide_provision_see_more_pad_with_virtual_key">"Voir plus de démos dans Paramètres > Écran d'accueil > Navigation système"</string>
+    <string name="navigation_guide_provision_title_pad">Gestes plein écran</string>
     <string name="navigation_guide_recent_summary">"Balayez vers le haut depuis le bas de l'écran et mettez en pause"</string>
     <string name="navigation_guide_recent_summary_pad">"Balayez vers le haut depuis le bas de l'écran et mettez en pause"</string>
     <string name="navigation_guide_recent_summary_spec_pad">"Balayez vers le haut depuis le bord inférieur de l'écran, mettez en pause et levez le doigt"</string>
-    <string name="navigation_guide_provision_title_pad">Gestes plein écran</string>
     <string name="navigation_guide_recent_title">Ouvrir les récents</string>
     <string name="navigation_guide_recent_title_spec_with_quotation_pad">Ouvrir les récents</string>
     <string name="navigation_guide_settings">Démos de gestes</string>

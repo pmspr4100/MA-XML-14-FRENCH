@@ -183,7 +183,7 @@
   <string name="ks_launch_notification_center">Panneau des notifications</string>
   <string name="ks_launch_recents_tasks">Ouvrir les récents</string>
   <string name="ks_lock_screen">"Verrouiller l'écran"</string>
-  <string name="ks_regional_screen_shot">"Capture d'écran (partielle)"</string>
+  <string name="ks_regional_screen_shot">"Capture d'écran partielle"</string>
   <string name="ks_screenshot">"Capture d'écran (écran entier)"</string>
   <string name="kungfu">Kung fu</string>
   <string name="leisure">Loisirs</string>

@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="APN_NAME_CMMMS">CMMMS</string>
-    <string name="APN_NAME_CMNET">CMNET</string>
-    <string name="APN_NAME_CMWAP">CMWAP</string>
-    <string name="APN_NAME_CTLTE">ctlte</string>
-    <string name="APN_NAME_CTMMS">CTWAP</string>
-    <string name="APN_NAME_CTNET">CTNET</string>
-    <string name="APN_NAME_CTWAP">CTWAP</string>
-    <string name="APN_NAME_CUMMS">China Unicom MMS</string>
-    <string name="APN_NAME_CUNET">China Unicom NET</string>
-    <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
-    <string name="APN_NAME_CUWAP">China Unicom WAP</string>
     <string name="Accounts_settings_title">Comptes</string>
     <string name="Intelligentpickfree">Détecter la voix</string>
-    <string name="MiSans_title">MiSans</string>
     <string name="Sound_Settings">Effets sonores</string>
     <string name="a11y_settings_label">"Paramètres d'accessibilité"</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
@@ -36,7 +24,6 @@
     <string name="abc_slice_more">Plus</string>
     <string name="abc_slice_more_content">%1$d autres</string>
     <string name="abc_slice_permission_allow">Autoriser</string>
-    <string name="abc_slice_permission_checkbox">"Autoriser %1$s à afficher des éléments de n'importe quelle application"</string>
     <string name="abc_slice_permission_deny">Refuser</string>
     <string name="abc_slice_permission_text_1">- Accès aux informations de %1$s</string>
     <string name="abc_slice_permission_text_2">"- Capacité d'action dans %1$s"</string>
@@ -59,6 +46,8 @@
     <string name="accelerometer_summary_off">"Changer automatiquement d'orientation lors de la rotation du téléphone"</string>
     <string name="accelerometer_summary_on">"Changer automatiquement d'orientation lors de la rotation du téléphone"</string>
     <string name="accelerometer_title">"Rotation automatique de l'écran"</string>
+    <string name="accept_new_connection">Allow connecting to new devices</string>
+    <string name="accept_new_connection_detail">New connections were restricted in Control center</string>
     <string name="access_control_app_entry_multiple">Ouvrir %s</string>
     <string name="access_control_app_entry_single">"Ouvrir l'application"</string>
     <string name="access_control_need_password">"%s a été protégé
@@ -70,10 +59,15 @@
     <string name="access_control_reset_by_account">Se connecter à votre Compte Xiaomi pour réinitialiser le mot de passe</string>
     <string name="access_denied_info">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
     <string name="access_point_names">"Noms des points d'accès"</string>
+    <string name="accessibility_alarm_vibration_title">Alarm vibration</string>
     <string name="accessibility_audio_adjustment_title">Ajustement audio</string>
+    <string name="accessibility_audio_description_summary">Hear a description of what’s happening on screen in supported movies and shows</string>
+    <string name="accessibility_autoclick_about_title">About autoclick (dwell timing)</string>
     <string name="accessibility_autoclick_custom_title">Personnalisé</string>
     <string name="accessibility_autoclick_default_title">Désactivé</string>
     <string name="accessibility_autoclick_description">"Si vous utilisez une souris, vous pouvez configurer votre appareil de sorte qu'un clic s'effectue automatiquement lorsque le curseur s'immobilise pendant un certain laps de temps."</string>
+    <string name="accessibility_autoclick_footer_learn_more_content_description">Learn more about autoclick (dwell timing)</string>
+    <string name="accessibility_autoclick_intro_text">You can set a connected mouse to click automatically when the cursor stops moving for a certain amount of time</string>
     <string name="accessibility_autoclick_long_summary">1 seconde</string>
     <string name="accessibility_autoclick_long_title">Long</string>
     <string name="accessibility_autoclick_longer_desc">Plus long</string>
@@ -86,19 +80,23 @@
     <string name="accessibility_autoclick_shorter_desc">Plus court</string>
     <string name="accessibility_back">Retour</string>
     <string name="accessibility_banner_message_dismiss">Rejeter</string>
-    <string name="accessibility_button_description">"Accédez rapidement aux fonctionnalités d'accessibilité depuis n'importe quel écran.
-
-Pour commencer, accédez aux paramètres d'accessibilité et sélectionnez une fonctionnalité. Appuyez sur le raccourci et sélectionnez le bouton d'accessibilité."</string>
+    <string name="accessibility_button_about_title">About accessibility button</string>
+    <string name="accessibility_button_description"><b>To get started</b>"
+1. Go to accessibility settings
+2. Select a feature and tap the shortcut
+3. Choose the button to access the feature"</string>
     <string name="accessibility_button_fade_summary">"S'estompe après quelques secondes pour mieux voir votre écran"</string>
     <string name="accessibility_button_fade_title">"Estompement lorsqu'il n'est pas utilisé"</string>
-    <string name="accessibility_button_gesture_description">"Accédez rapidement aux fonctionnalités d'accessibilité depuis n'importe quel écran.
-
-Pour commencer, accédez aux paramètres d'accessibilité et sélectionnez une fonctionnalité. Appuyez sur le raccourci et sélectionnez le bouton d'accessibilité.
-
-Pour utiliser le bouton d'accessibilité dans la barre de navigation à la place, passez à la navigation à 2 boutons ou à la navigation à 3 boutons."</string>
+    <string name="accessibility_button_gesture_about_title">About accessibility button &amp; gesture</string>
+    <string name="accessibility_button_gesture_description"><b>To get started</b>"
+1. Go to accessibility settings
+2. Select a feature and tap the shortcut
+3. Choose whether you want to use a button or gesture to access the feature"</string>
+    <string name="accessibility_button_gesture_footer_learn_more_content_description">Learn more about accessibility button &amp; gesture</string>
     <string name="accessibility_button_gesture_title">"Bouton d'accessibilité &amp; gestes"</string>
     <string name="accessibility_button_high_label">Non transparent</string>
     <string name="accessibility_button_intro">"Utilisation du bouton d'accessibilité. Le geste n'est pas disponible avec la navigation à 3 boutons."</string>
+    <string name="accessibility_button_intro_text">Quickly access accessibility features from any screen</string>
     <string name="accessibility_button_location_title">Position</string>
     <string name="accessibility_button_low_label">Transparent</string>
     <string name="accessibility_button_opacity_title">Transparence hors utilisation</string>
@@ -106,11 +104,13 @@ Pour utiliser le bouton d'accessibilité dans la barre de navigation à la place
     <string name="accessibility_button_size_title">Taille</string>
     <string name="accessibility_button_summary">"Accédez rapidement aux fonctionnalités d'accessibilité"</string>
     <string name="accessibility_button_title">"Bouton d'accessibilité"</string>
-    <string name="accessibility_caption_master_switch_summary">Uniquement pour les applications prises en charge</string>
-    <string name="accessibility_caption_master_switch_title">Afficher les sous-titres</string>
+    <string name="accessibility_call_vibration_category_title">Calls</string>
+    <string name="accessibility_caption_preference_intro">Customize caption size and style to make them easier to read</string>
     <string name="accessibility_caption_preference_summary">Toutes les applications ne prennent pas en charge ces préférences de sous-titres</string>
     <string name="accessibility_caption_primary_switch_summary">"Pour l'application prise en charge uniquement"</string>
     <string name="accessibility_caption_primary_switch_title">Afficher les sous-titres</string>
+    <string name="accessibility_captioning_about_title">About caption preferences</string>
+    <string name="accessibility_captioning_footer_learn_more_content_description">Learn more about caption preferences</string>
     <string name="accessibility_captioning_title">Préférences sous-titres</string>
     <string name="accessibility_category_personal">Comptes de profils personnels</string>
     <string name="accessibility_category_work">Comptes de profils professionnels – %s</string>
@@ -119,9 +119,22 @@ Pour utiliser le bouton d'accessibilité dans la barre de navigation à la place
     <string name="accessibility_control_timeout_preference_summary">"Choisissez la durée d'affichage des messages qui vous demandent d'agir, mais qui ne sont visibles que temporairement.
 
 Toutes les applications ne prennent pas en charge ce paramètre."</string>
+    <string name="accessibility_color_correction_auto_added_qs_tooltip_content">Color correction added to Quick Settings. Swipe down to turn it on or off anytime.</string>
+    <string name="accessibility_color_correction_qs_tooltip_content">You can also add color correction to Quick Settings from the top of your screen</string>
+    <string name="accessibility_color_inversion_about_title">About color inversion</string>
+    <string name="accessibility_color_inversion_auto_added_qs_tooltip_content">Color inversion added to Quick Settings. Swipe down to turn it on or off anytime.</string>
+    <string name="accessibility_color_inversion_footer_learn_more_content_description">Learn more about color inversion</string>
+    <string name="accessibility_color_inversion_qs_tooltip_content">You can also add color inversion to Quick Settings from the top of your screen</string>
+    <string name="accessibility_control_timeout_about_title">About time to take action (Accessibility timeout)</string>
+    <string name="accessibility_control_timeout_footer_learn_more_content_description">Learn more about time to take action (Accessibility timeout)</string>
+    <string name="accessibility_control_timeout_preference_intro_text">Choose how long to show temporary messages that ask you to take action</string>
+    <string name="accessibility_control_timeout_preference_summary">This timing preference isn’t supported by all apps</string>
     <string name="accessibility_control_timeout_preference_title">"Il est temps d'agir"</string>
-    <string name="accessibility_daltonizer_master_switch_title">Corriger les couleurs</string>
+    <string name="accessibility_daltonizer_about_intro_text">Adjust how colors display on your phone</string>
+    <string name="accessibility_daltonizer_about_title">About color correction</string>
+    <string name="accessibility_daltonizer_footer_learn_more_content_description">Learn more about color correction</string>
     <string name="accessibility_daltonizer_primary_switch_title">Utiliser la correction des couleurs</string>
+    <string name="accessibility_daltonizer_shortcut_title">Color correction shortcut</string>
     <string name="accessibility_data_one_bar">Une barre de données.</string>
     <string name="accessibility_data_signal_full">Signal de données complet.</string>
     <string name="accessibility_data_three_bars">Trois barres de données.</string>
@@ -132,10 +145,13 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
     <string name="accessibility_dialog_button_deny">Refuser</string>
     <string name="accessibility_dialog_button_stop">Arrêter</string>
     <string name="accessibility_disable_animations">Supprimer les animations</string>
+    <string name="accessibility_disable_animations_summary">Reduce movement on the screen</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">"Réglez l'affichage des couleurs sur votre appareil. Cela peut être utile lorsque vous souhaitez :<ol><li><br/><br/> Voir les couleurs avec plus de précision</li><li>Supprimer les couleurs pour vous aider à vous concentrer</li></ol>"</string>
     <string name="accessibility_display_daltonizer_preference_title">Correction des couleurs</string>
+    <string name="accessibility_display_inversion_preference_intro_text">Color inversion turns light screens dark. It also turns dark screens light.</string>
     <string name="accessibility_display_inversion_preference_subtitle">Peut affecter les performances</string>
     <string name="accessibility_display_inversion_preference_title">Inversion des couleurs</string>
+    <string name="accessibility_display_inversion_shortcut_title">Color inversion shortcut</string>
     <string name="accessibility_display_inversion_switch_title">"Utiliser l'inversion des couleurs"</string>
     <string name="accessibility_enable">Accessibilité</string>
     <string name="accessibility_ethernet_connected">Ethernet.</string>
@@ -147,18 +163,25 @@ Toutes les applications ne prennent pas en charge ce paramètre."</string>
     <string name="accessibility_hearingaid_active_device_summary">%1$s actuellement actif</string>
     <string name="accessibility_hearingaid_adding_summary">Ajouter un appareil auditif</string>
     <string name="accessibility_hearingaid_instruction_continue_button">Continuer</string>
-    <string name="accessibility_hearingaid_not_connected_summary">Aucun appareil auditif associé</string>
-    <string name="accessibility_hearingaid_pair_instructions_message">"Pour associer vos aides auditives, recherchez et appuyez sur votre appareil sur l'écran suivant. Assurez-vous que vos aides auditives sont en mode appairage."</string>
-    <string name="accessibility_hearingaid_title">Appareil auditif</string>
-    <string name="accessibility_introduction_title">À propos de %1$s</string>
-    <string name="accessibility_lock_screen_progress">%1$d caractères utilisés sur %2$d</string>
-    <string name="accessibility_long_press_timeout_preference_title">Délai de pression</string>
-    <string name="accessibility_magnification_area_settings_all_summary">"Plein écran &amp; partie d'écran"</string>
-    <string name="accessibility_magnification_area_settings_full_screen_summary">Plein écran</string>
-    <string name="accessibility_magnification_area_settings_message">"Choisissez la ou les zones d'agrandissement que vous souhaitez utiliser lors de l'agrandissement de l'écran"</string>
-    <string name="accessibility_magnification_area_settings_mode_switch_summary">"Appuyez sur l'interrupteur pour vous déplacer entre les deux options"</string>
-    <string name="accessibility_magnification_area_settings_window_screen_summary">"Partie de l'écran"</string>
-    <string name="accessibility_magnification_enable_mode_title">Activation du grossissement</string>
+    <string name="accessibility_hearingaid_left_and_right_side_device_summary">%1$s, left and right</string>
+    <string name="accessibility_hearingaid_left_side_device_summary">%1$s, left only</string>
+    <string name="accessibility_hearingaid_more_device_summary">%1$s +1 more</string>
+    <string name="accessibility_hearingaid_not_connected_summary">No hearing aids connected</string>
+    <string name="accessibility_hearingaid_pair_instructions_message">"On the next screen, tap on your hearing aids. You may need to pair the left and right ears separately.
+
+Make sure your hearing aids are turned on and ready to pair."</string>
+    <string name="accessibility_hearingaid_pair_instructions_title">Pair hearing aids</string>
+    <string name="accessibility_hearingaid_right_side_device_summary">%1$s, right only</string>
+    <string name="accessibility_hearingaid_title">Hearing aids</string>
+    <string name="accessibility_interactive_haptics_category_title">Interactive haptics</string>
+    <string name="accessibility_introduction_title">About %1$s</string>
+    <string name="accessibility_lock_screen_progress">%1$d of %2$d characters used</string>
+    <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
+    <string name="accessibility_magnification_area_settings_all_summary">Switch between full and partial screen</string>
+    <string name="accessibility_magnification_area_settings_full_screen_summary">Full screen</string>
+    <string name="accessibility_magnification_area_settings_message">Magnify your full screen, a specific area, or switch between both options</string>
+    <string name="accessibility_magnification_area_settings_mode_switch_summary">Tap the switch button to move between both options</string>
+    <string name="accessibility_magnification_area_settings_window_screen_summary">Partial screen</string>
     <string name="accessibility_magnification_mode_dialog_option_full_screen">Agrandir en plein écran</string>
     <string name="accessibility_magnification_mode_dialog_option_switch">Basculer entre plein écran et écran partiel</string>
     <string name="accessibility_magnification_mode_dialog_option_window">"Agrandir une partie de l'écran"</string>
@@ -171,29 +194,56 @@ Le bouton d'accessibilité flotte sur votre écran au-dessus des autres applicat
     <string name="accessibility_magnification_switch_shortcut_negative_button">Appuyer trois fois</string>
     <string name="accessibility_magnification_switch_shortcut_positive_button">"Passer au bouton d'accessibilité"</string>
     <string name="accessibility_magnification_switch_shortcut_title">"Passer au bouton d'accessibilité ?"</string>
+    <string name="accessibility_magnification_triple_tap_warning_message">"When using triple-tap to magnify part of your screen, you may notice issues over the keyboard.
+
+To avoid this, you can change your magnification shortcut from triple-tap to another option.
+"<annotation id="link">Change setting</annotation></string>
+    <string name="accessibility_magnification_triple_tap_warning_negative_button">Cancel</string>
+    <string name="accessibility_magnification_triple_tap_warning_positive_button">Continue anyway</string>
+    <string name="accessibility_magnification_triple_tap_warning_title">This may slow down your keyboard</string>
     <string name="accessibility_manual_zen_less_time">Moins de temps.</string>
     <string name="accessibility_manual_zen_more_time">Plus de temps.</string>
+    <string name="accessibility_media_vibration_title">Media vibration</string>
     <string name="accessibility_menu_description">"Le menu d'accessibilité fournit des raccourcis pratiques qui vous permettent de contrôler votre appareil.
 
 Activez cette fonction et appuyez sur le bouton Accessibilité en bas de votre écran pour ouvrir le menu."</string>
     <string name="accessibility_menu_description_pad">"Le menu d'accessibilité fournit des raccourcis pratiques qui vous permettent de contrôler votre appareil.
 
-        Activez cette fonction et appuyez sur le bouton Accessibilité en bas de votre écran pour ouvrir le menu."</string>
+Activez cette fonction et appuyez sur le bouton Accessibilité en bas de votre écran pour ouvrir le menu."</string>
     <string name="accessibility_menu_item_settings">Paramètres</string>
     <string name="accessibility_menu_service_name">"Menu d'accessibilité"</string>
     <string name="accessibility_menu_summary">"Contrôlez votre appareil à l'aide de raccourcis pratiques"</string>
     <string name="accessibility_menu_summary_pad">"Contrôlez votre appareil à l'aide de raccourcis pratiques"</string>
     <string name="accessibility_more_settings">Paramètres additionnels</string>
+    <string name="accessibility_no_calling">No calling.</string>
+    <string name="accessibility_no_data">No data.</string>
+    <string name="accessibility_no_phone">No phone.</string>
     <string name="accessibility_no_service_selected">Aucun service sélectionné</string>
     <string name="accessibility_no_services_installed">Aucun service installé</string>
     <string name="accessibility_no_wifi">Déconnecté du Wi-Fi.</string>
+    <string name="accessibility_notification_alarm_vibration_category_title">Notifications and alarms</string>
     <string name="accessibility_notification_vibration_title">Vibreur pour les sonneries et les notifications</string>
+    <string name="accessibility_one_handed_mode_auto_added_qs_tooltip_content">One-handed mode added to Quick Settings. Swipe down to turn it on or off anytime.</string>
+    <string name="accessibility_one_handed_mode_qs_tooltip_content">You can also add one-handed mode to Quick Settings from the top of your screen</string>
     <string name="accessibility_personal_account_title">Compte personnel – %s</string>
+    <string name="accessibility_phone_one_bar">Phone one bar.</string>
+    <string name="accessibility_phone_signal_full">Phone signal full.</string>
+    <string name="accessibility_phone_three_bars">Phone three bars.</string>
+    <string name="accessibility_phone_two_bars">Phone two bars.</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Bouton Marche/Arrêt pour raccrocher</string>
     <string name="accessibility_preference_magnification_summary">"Zoom avant sur l'écran"</string>
+    <string name="accessibility_quick_settings_tooltip_dismiss">Dismiss</string>
+    <string name="accessibility_reduce_bright_colors_auto_added_qs_tooltip_content">Extra dim added to Quick Settings. Swipe down to turn it on or off anytime.</string>
+    <string name="accessibility_reduce_bright_colors_qs_tooltip_content">You can also add extra dim to Quick Settings from the top of your screen</string>
     <string name="accessibility_ring_vibration_title">Vibration sonnerie</string>
+    <string name="accessibility_screen_magnification_about_title">About magnification</string>
     <string name="accessibility_screen_magnification_enable">"Gestes d'agrandissement"</string>
+    <string name="accessibility_screen_magnification_follow_typing_summary">Magnifier follows text as you type</string>
+    <string name="accessibility_screen_magnification_follow_typing_title">Magnify typing</string>
+    <string name="accessibility_screen_magnification_footer_learn_more_content_description">Learn more about magnification</string>
+    <string name="accessibility_screen_magnification_gesture_navigation_warning">The accessibility gesture is set to the %1$s. To use magnification, swipe up with two fingers from the bottom of the screen and hold. Then select magnification.</string>
     <string name="accessibility_screen_magnification_gestures_title">Agrandir en appuyant trois fois</string>
+    <string name="accessibility_screen_magnification_intro_text">Quickly zoom in on the screen to make content larger</string>
     <string name="accessibility_screen_magnification_navbar_configuration_warning">"Le bouton d'accessibilité est défini sur %1$s. Pour utiliser la loupe, appuyez de manière prolongée sur le bouton d'accessibilité, puis sélectionnez la loupe."</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">Appuyer sur un bouton pour zoomer</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Lorsque la loupe est activée, utilisez le bouton d'accessibilité situé en bas de l'écran pour effectuer un agrandissement rapide.
@@ -208,27 +258,20 @@ Activez cette fonction et appuyez sur le bouton Accessibilité en bas de votre �
 
 Il est impossible de faire un zoom avant sur le clavier ou la barre de navigation."</string>
     <string name="accessibility_screen_magnification_navbar_title">Agrandir avec un bouton</string>
-    <string name="accessibility_screen_magnification_state_navbar_gesture">Agrandir avec un bouton et en appuyant trois fois</string>
-    <string name="accessibility_screen_magnification_summary">"&lt;b>Pour zoomer&lt;/b>", appuyez rapidement sur l'écran 3 fois.
-"&lt;ul>&lt;li>Faites glisser 2 doigts ou plus pour faire défiler&lt;/li>"
-"&lt;li>Pincez 2 doigts ou plus pour régler le zoom&lt;/li>&lt;/ul>"
-
-"&lt;b>Pour zoomer temporairement&lt;/b>", appuyez rapidement sur l'écran 3 fois et maintenez votre doigt sur le troisième robinet.
-"&lt;ul>&lt;li>Faites glisser pour vous déplacer sur l'écran&lt;/li>"
-"&lt;li>Soulevez le doigt pour effectuer un zoom arrière&lt;/li>&lt;/ul>"
-
-Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
     <string name="accessibility_screen_magnification_short_summary">Appuyez 3 fois pour zoomer</string>
+    <string name="accessibility_screen_magnification_shortcut_title">Magnification shortcut</string>
+    <string name="accessibility_screen_magnification_state_navbar_gesture">Agrandir avec un bouton et en appuyant trois fois</string>
+    <string name="accessibility_screen_magnification_summary">&lt;b>To zoom in:&lt;/b>&lt;br/> {0,number,integer}. Use shortcut to start magnification&lt;br/> {1,number,integer}. Tap the screen&lt;br/> {2,number,integer}. Drag 2 fingers to move around screen&lt;br/> {3,number,integer}. Pinch with 2 fingers to adjust zoom&lt;br/> {4,number,integer}. Use shortcut to stop magnification&lt;br/>&lt;br/> &lt;b>To zoom in temporarily:&lt;/b>&lt;br/> {0,number,integer}. Make sure your magnification type is set to full screen&lt;br/> {1,number,integer}. Use shortcut to start magnification&lt;br/> {2,number,integer}. Touch &amp; hold anywhere on the screen&lt;br/> {3,number,integer}. Drag finger to move around screen&lt;br/> {4,number,integer}. Lift finger to stop magnification</string>
     <string name="accessibility_screen_magnification_title">Agrandissement</string>
     <string name="accessibility_screen_option">Options</string>
     <string name="accessibility_screen_reader_haptic_title">"Lecteur d'écran"</string>
     <string name="accessibility_service_action_perform_description">Il peut suivre vos interactions avec une application ou un capteur matériel et interagir avec des applications en votre nom.</string>
     <string name="accessibility_service_action_perform_title">Voir et effectuer des actions</string>
+    <string name="accessibility_service_auto_added_qs_tooltip_content">%1$s added to Quick Settings. Swipe down to turn it on or off anytime.</string>
     <string name="accessibility_service_default_description">Aucune description fournie</string>
-    <string name="accessibility_service_master_open_title">Ouvrir %1$s</string>
-    <string name="accessibility_service_master_switch_title">Utiliser %1$s</string>
     <string name="accessibility_service_primary_open_title">Ouvrir %1$s</string>
     <string name="accessibility_service_primary_switch_title">Utiliser %1$s</string>
+    <string name="accessibility_service_qs_tooltip_content">You can also add %1$s to Quick Settings from the top of your screen</string>
     <string name="accessibility_service_screen_control_description">"Il peut lire tout le contenu à l'écran et afficher du contenu sur d'autres applications."</string>
     <string name="accessibility_service_screen_control_title">"Voir et contrôler l'écran"</string>
     <string name="accessibility_service_warning">"%1$s demande le contrôle total de cet appareil. Le service peut lire l'écran et agir au nom des utilisateurs ayant des besoins d'accessibilité. Ce niveau de contrôle n'est pas approprié pour la plupart des applications."</string>
@@ -246,6 +289,7 @@ Vous ne pouvez pas zoomer sur le clavier et la barre de navigation."</string>
     <string name="accessibility_shortcut_edit_dialog_summary_software">"Appuyez sur le bouton d'accessibilité %s au bas de votre écran.
 
 Pour basculer entre les fonctionnalités, appuyez et maintenez le bouton d'accessibilité enfoncé."</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_software_floating"><annotation id="link">More options</annotation></string>
     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Glisser du bas vers le haut avec 2 doigts.
 
 Pour basculer entre les fonctionnalités, balayez vers le haut avec 2 doigts et maintenez la pression."</string>
@@ -285,19 +329,30 @@ Pour basculer entre les fonctionnalités, balayez vers le haut avec 3 doigts et 
     <string name="accessibility_sync_in_progress">Synchronisation en cours</string>
     <string name="accessibility_system_controls_title">Contrôles du système</string>
     <string name="accessibility_tap_assistance_title">Contrôles de synchronisation</string>
-    <string name="accessibility_text_and_display_title">Texte et affichage</string>
+    <string name="accessibility_text_reading_confirm_dialog_message">Your display size and text preferences will reset to the phone’s original settings</string>
+    <string name="accessibility_text_reading_confirm_dialog_reset_button">Reset</string>
+    <string name="accessibility_text_reading_confirm_dialog_title">Reset display size and text?</string>
+    <string name="accessibility_text_reading_conversation_message_1">Any weekend plans?</string>
+    <string name="accessibility_text_reading_conversation_message_2">Heading to the beach. Want to join?</string>
+    <string name="accessibility_text_reading_options_suggestion_title">Change how text displays</string>
+    <string name="accessibility_text_reading_options_title">Display size and text</string>
+    <string name="accessibility_text_reading_preview_mail_content">"Good morning!
+
+I just wanted to check how the designs are coming. Will they be ready before we start building the new balloons?"</string>
+    <string name="accessibility_text_reading_preview_mail_from">From: Bill</string>
+    <string name="accessibility_text_reading_preview_mail_subject">Subject: Hot air balloon designs</string>
+    <string name="accessibility_text_reading_reset_button_title">Reset settings</string>
+    <string name="accessibility_text_reading_reset_message">Display size and text settings have been reset</string>
     <string name="accessibility_timeout_10secs">10 secondes</string>
     <string name="accessibility_timeout_1min">1 minute</string>
     <string name="accessibility_timeout_2mins">2 minutes</string>
     <string name="accessibility_timeout_30secs">30 secondes</string>
     <string name="accessibility_timeout_default">Par défaut</string>
+    <string name="accessibility_toggle_audio_description_preference_title">Audio description</string>
+    <string name="accessibility_toggle_high_text_contrast_preference_summary">Change text color to black or white. Maximizes contrast with the background.</string>
     <string name="accessibility_toggle_high_text_contrast_preference_title">Texte avec contraste élevé</string>
+    <string name="accessibility_toggle_large_pointer_icon_summary">Make the mouse pointer more noticeable</string>
     <string name="accessibility_toggle_large_pointer_icon_title">Grand curseur de souris</string>
-    <string name="accessibility_toggle_master_balance_left_label">Gauche</string>
-    <string name="accessibility_toggle_master_balance_right_label">Droit</string>
-    <string name="accessibility_toggle_master_balance_title">Balance audio</string>
-    <string name="accessibility_toggle_master_mono_summary">Combiner les chaînes lors de la lecture audio</string>
-    <string name="accessibility_toggle_master_mono_title">Audio mono</string>
     <string name="accessibility_toggle_primary_balance_left_label">Gauche</string>
     <string name="accessibility_toggle_primary_balance_right_label">Droit</string>
     <string name="accessibility_toggle_primary_balance_title">Balance audio</string>
@@ -311,18 +366,19 @@ Pour basculer entre les fonctionnalités, balayez vers le haut avec 3 doigts et 
     <string name="accessibility_tutorial_dialog_message_button">"Pour activer ou désactiver ce service, appuyez sur le bouton d'accessibilité en bas de votre écran.
 
 Pour basculer d'un service à l'autre, maintenez le bouton d'accessibilité enfoncé."</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">"Pour activer ou désactiver un service d'accessibilité, faites glisser votre doigt vers le haut avec trois doigts vers le haut.
+    <string name="accessibility_tutorial_dialog_message_floating_button">To use this feature, tap the accessibility button on your screen.</string>
+    <string name="accessibility_tutorial_dialog_message_gesture">"To use this feature, swipe up from the bottom of the screen with 2 fingers.
 
-Pour basculer entre les services, balayez avec trois doigts vers le haut."</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_settings_without_talkback">"Pour activer ou désactiver un service d'accessibilité, balayez du bas vers le haut avec deux doigts.
+To switch between features, swipe up with 2 fingers and hold."</string>
+    <string name="accessibility_tutorial_dialog_message_gesture_settings">"To use an accessibility feature, swipe up from the bottom of the screen with 2 fingers.
 
-Pour basculer entre les services, balayez vers le haut avec deux doigts et maintenez."</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_with_talkback">"Pour activer ou désactiver ce service, balayez du haut vers le bas avec trois doigts vers le haut.
+To switch between features, swipe up with 2 fingers and hold."</string>
+    <string name="accessibility_tutorial_dialog_message_gesture_settings_talkback">"To use an accessibility feature, swipe up from the bottom of the screen with 3 fingers.
 
-Pour basculer entre les services, balayez avec trois doigts vers le haut."</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_without_talkback">"Pour activer ou désactiver ce service, balayez du bas vers le haut avec deux doigts vers le haut.
+To switch between features, swipe up with 3 fingers and hold."</string>
+    <string name="accessibility_tutorial_dialog_message_gesture_talkback">"To use this feature, swipe up from the bottom of the screen with 3 fingers.
 
-Pour basculer entre les services, balayez vers le haut avec deux doigts et maintenez."</string>
+To switch between features, swipe up with 3 fingers and hold."</string>
     <string name="accessibility_tutorial_dialog_message_triple">"Pour démarrer et arrêter l'agrandissement, appuyez trois fois n'importe où sur votre écran."</string>
     <string name="accessibility_tutorial_dialog_message_volume">Pour utiliser cette fonction, appuyez et maintenez les deux touches de volume enfoncées.</string>
     <string name="accessibility_tutorial_dialog_title_button">"Utilisez le bouton d'accessibilité pour ouvrir"</string>
@@ -332,16 +388,12 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
     <string name="accessibility_tutorial_dialog_title_volume">Maintenez les touches de volume pour ouvrir</string>
     <string name="accessibility_tutorial_pager">Page %1$d sur %2$d</string>
     <string name="accessibility_usage_title">"Utilisation de l'accessibilité"</string>
-    <string name="accessibility_vibration_intensity_high">Fort</string>
-    <string name="accessibility_vibration_intensity_low">Faible</string>
-    <string name="accessibility_vibration_intensity_medium">Moyen</string>
-    <string name="accessibility_vibration_intensity_off">Désactivé</string>
+    <string name="accessibility_vibration_primary_switch_title">Use vibration &amp; haptics</string>
+    <string name="accessibility_vibration_setting_disabled_for_silent_mode_summary">Setting disabled because device is set to silent</string>
+    <string name="accessibility_vibration_settings_state_off">Off</string>
+    <string name="accessibility_vibration_settings_state_on">On</string>
+    <string name="accessibility_vibration_settings_summary">Control the vibration strength for different usages</string>
     <string name="accessibility_vibration_settings_title">Vibration</string>
-    <string name="accessibility_vibration_summary">Appel : %1$s - Appui : %2$s</string>
-    <string name="accessibility_vibration_summary_high">Sonneries et notifications définies sur \"Élevée\"</string>
-    <string name="accessibility_vibration_summary_low">Sonneries et notifications définies sur \"Faible\"</string>
-    <string name="accessibility_vibration_summary_medium">Sonneries et notifications définies sur \"Moyenne\"</string>
-    <string name="accessibility_vibration_summary_off">Sonneries et notifications définies sur \"Désactivée\"</string>
     <string name="accessibility_voice_access_title">Commandes vocales</string>
     <string name="accessibility_vpn_settings_info">Configuration du VPN</string>
     <string name="accessibility_wifi_off">Le Wi-Fi est désactivé.</string>
@@ -355,6 +407,7 @@ Pour basculer entre les services, balayez vers le haut avec deux doigts et maint
     <string name="accessibility_work_profile_app_description">Travail %s</string>
     <string name="accessor_expires_text">Le bail expire le %s</string>
     <string name="accessor_info_title">Applications partageant des données</string>
+    <string name="accessor_never_expires_text">Lease never expires.</string>
     <string name="accessor_no_description_text">"Aucune description fournie par l'application."</string>
     <string name="account_add">Ajouter</string>
     <string name="account_autostar_label">Démarrage automatique</string>
@@ -2762,7 +2815,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="display_vr_pref_title">"Lorsque l'appareil est en VR"</string>
     <string name="display_white_balance_title">Afficher la balance des blancs</string>
     <string name="diy_suppression_summary">Ajustez la taille de la zone près des bords où le toucher accidentel sera ignoré</string>
-    <string name="diy_suppression_title">Personnaliser</string>
+    <string name="diy_suppression_title">Personnalisé</string>
     <string name="dlg_cancel">Annuler</string>
     <string name="dlg_close">Fermer</string>
     <string name="dlg_confirm_unmount_text">"Si vous désinstallez la carte SD, certaines applications en cours d'utilisation s'arrêteront et risquent de ne plus être disponibles tant que vous n'aurez pas réinstallé la carte SD."</string>
@@ -4055,7 +4108,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="key_fsg_dialog_message">Vous utilisez les gestes en plein écran pour la navigation. Les fonctionnalités liées aux boutons ne sont actuellement pas disponibles. Voulez-vous changer la navigation ?</string>
     <string name="key_fsg_dialog_negative">Annuler</string>
     <string name="key_fsg_dialog_positive">Basculer sur les boutons</string>
-    <string name="key_gesture_function_dialog_message">%1$s est un raccourcis pour %2$s. Le remplacer par %3$s ?</string>
+    <string name="key_gesture_function_dialog_message">%1$s est un raccourci pour %2$s. Le remplacer par %3$s ?</string>
     <string name="key_gesture_function_dialog_negative">Annuler</string>
     <string name="key_gesture_function_dialog_positive">Remplacer</string>
     <string name="key_gesture_function_optional">Boutons et gestes facultatifs</string>
@@ -4748,7 +4801,7 @@ D'autres personnes utilisent cet appareil.
     <string name="maximum_memory_use">Utilisation mémoire (maximale)</string>
     <string name="mechanical_ime">Clavier mécanique</string>
     <string name="mechanical_ime_hint">Pris en charge uniquement par le clavier personnalisé pour Xiaomi</string>
-    <string name="media_button">Touches multimédias</string>
+    <string name="media_button">Bouton multimédia</string>
     <string name="media_category">Média</string>
     <string name="media_feedback_enable_title">Vibrer au rythme de la sonnerie</string>
     <string name="media_out_summary_ongoing_call_state">Indisponible pendant les appels</string>
@@ -10356,7 +10409,6 @@ Mettre à jour les paramètres pour :
     <string name="zen_onboarding_screen_on_summary">"Ne pas afficher les notifications du tout, sauf pour l'activité de base du téléphone et son état"</string>
     <string name="zen_onboarding_screen_on_title">"Bloquer quand l'écran est allumé"</string>
     <string name="zen_onboarding_settings">Paramètres</string>
-    <string name="zen_rule_name_hint"></string>
     <string name="zen_schedule_rule_enabled_toast">Règle automatique pour activer le mode \"Ne pas déranger\" aux heures indiquées</string>
     <string name="zen_schedule_rule_type_name">Heure</string>
     <string name="zen_settings_general">Général</string>
