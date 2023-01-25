@@ -2762,7 +2762,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="display_vr_pref_title">"Lorsque l'appareil est en VR"</string>
     <string name="display_white_balance_title">Afficher la balance des blancs</string>
     <string name="diy_suppression_summary">Ajustez la taille de la zone près des bords où le toucher accidentel sera ignoré</string>
-    <string name="diy_suppression_title">Personnaliser</string>
+    <string name="diy_suppression_title">Personnalisé</string>
     <string name="dlg_cancel">Annuler</string>
     <string name="dlg_close">Fermer</string>
     <string name="dlg_confirm_unmount_text">"Si vous désinstallez la carte SD, certaines applications en cours d'utilisation s'arrêteront et risquent de ne plus être disponibles tant que vous n'aurez pas réinstallé la carte SD."</string>
@@ -4055,7 +4055,7 @@ Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Acc�
     <string name="key_fsg_dialog_message">Vous utilisez les gestes en plein écran pour la navigation. Les fonctionnalités liées aux boutons ne sont actuellement pas disponibles. Voulez-vous changer la navigation ?</string>
     <string name="key_fsg_dialog_negative">Annuler</string>
     <string name="key_fsg_dialog_positive">Basculer sur les boutons</string>
-    <string name="key_gesture_function_dialog_message">%1$s est un raccourcis pour %2$s. Le remplacer par %3$s ?</string>
+    <string name="key_gesture_function_dialog_message">%1$s est un raccourci pour %2$s. Le remplacer par %3$s ?</string>
     <string name="key_gesture_function_dialog_negative">Annuler</string>
     <string name="key_gesture_function_dialog_positive">Remplacer</string>
     <string name="key_gesture_function_optional">Boutons et gestes facultatifs</string>
@@ -4748,7 +4748,7 @@ D'autres personnes utilisent cet appareil.
     <string name="maximum_memory_use">Utilisation mémoire (maximale)</string>
     <string name="mechanical_ime">Clavier mécanique</string>
     <string name="mechanical_ime_hint">Pris en charge uniquement par le clavier personnalisé pour Xiaomi</string>
-    <string name="media_button">Touches multimédias</string>
+    <string name="media_button">Bouton multimédia</string>
     <string name="media_category">Média</string>
     <string name="media_feedback_enable_title">Vibrer au rythme de la sonnerie</string>
     <string name="media_out_summary_ongoing_call_state">Indisponible pendant les appels</string>
@@ -10356,7 +10356,6 @@ Mettre à jour les paramètres pour :
     <string name="zen_onboarding_screen_on_summary">"Ne pas afficher les notifications du tout, sauf pour l'activité de base du téléphone et son état"</string>
     <string name="zen_onboarding_screen_on_title">"Bloquer quand l'écran est allumé"</string>
     <string name="zen_onboarding_settings">Paramètres</string>
-    <string name="zen_rule_name_hint"></string>
     <string name="zen_schedule_rule_enabled_toast">Règle automatique pour activer le mode \"Ne pas déranger\" aux heures indiquées</string>
     <string name="zen_schedule_rule_type_name">Heure</string>
     <string name="zen_settings_general">Général</string>

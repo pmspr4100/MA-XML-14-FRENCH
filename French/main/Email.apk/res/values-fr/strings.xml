@@ -1012,7 +1012,7 @@ Ce problème peut être causé par l'authentification à deux facteurs du compte
     <string name="mtrl_picker_toggle_to_day_selection">Appuyez pour passer à la sélection du jour</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
     <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
-    <string name="mute">Muet</string>
+    <string name="mute">Mode silencieux</string>
     <string name="nav_app_bar_navigate_up_description">Naviguer vers le haut</string>
     <string name="nav_app_bar_open_drawer_description">Ouvrir le tiroir de navigation</string>
     <string name="navigation_menu">Menu de navigation</string>
