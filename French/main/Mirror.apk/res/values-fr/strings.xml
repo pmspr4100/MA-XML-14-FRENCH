@@ -33,7 +33,7 @@
     <string name="cast_mcc_tips_message">"Pour éviter les retards lors de l'utilisation de MIUI+, connectez les deux appareils au même réseau Wi-Fi."</string>
     <string name="cast_mcc_tips_message_china">"Pour éviter la latence lors de l'utilisation de MIUI+, connectez les deux appareils au même réseau Wi-Fi."</string>
     <string name="cast_mcc_tips_title">Modifier les paramètres Wi-Fi</string>
-    <string name="circulate_cta_agree">D'accord</string>
+    <string name="circulate_cta_agree">"D'accord"</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
     <string name="circulate_cta_desc_phone">"Bienvenue sur Mi Smart Hub ! Vous pouvez utiliser cette application pour diffuser le contenu de l'écran, transférer la lecture multimédia sur plusieurs appareils, utiliser Mi Smart Play, MIUI+ et le transfert d'application. Cette application doit se connecter à Internet et nécessite les autorisations suivantes pour pouvoir fonctionner normalement :"</string>
     <string name="circulate_cta_exit">Refuser</string>
@@ -112,7 +112,7 @@
     <string name="global_cta_agree">Accepter</string>
     <string name="global_cta_desc">Bienvenue à %s ! Notre application fournit les services suivants :</string>
     <string name="global_cta_exit">Refuser</string>
-    <string name="global_cta_feature_connect">Connecter des téléphones et des tablettes à l'aide de votre compte Xiaomi</string>
+    <string name="global_cta_feature_connect">"Connecter des téléphones et des tablettes à l'aide de votre compte Xiaomi"</string>
     <string name="global_cta_feature_control">Afficher et utiliser des applications pour smartphone sur votre tablette</string>
     <string name="global_cta_user_agreement">"Avant d'utiliser %1$s, lisez et acceptez nos &lt;txt href=\"%2$s\">Conditions d'utilisation&lt;/txt> et notre &lt;txt href=\"%3$s\">Politique de confidentialité&lt;/txt>."</string>
     <string name="guide_window_btn_know">Compris</string>
