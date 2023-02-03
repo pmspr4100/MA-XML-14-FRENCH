@@ -8,6 +8,7 @@
     <string name="btn_error">"Une erreur s'est produite, essayez à nouveau ?"</string>
     <string name="btn_install">Vérifier MD5 et installer</string>
     <string name="btn_no">Annuler</string>
+    <string name="btn_not">Non</string>
     <string name="btn_ok">OK</string>
     <string name="btn_pause">Pause</string>
     <string name="btn_share">Partager</string>
@@ -18,10 +19,9 @@
     <string name="channel_service">Service de mise à jour en arrière-plan</string>
     <string name="channel_update">Nouvelle version disponible</string>
     <string name="check_new_version">Rechercher une mise à jour</string>
-    <string name="default_filedownloader_notification_content">"Le téléchargeur de fichiers est en cours d'exécution".</string>
-    <string name="default_filedownloader_notification_title">Téléchargeur de fichiers</string>
     <string name="dialog_3g_desc">"L'utilisation des données mobiles pour télécharger la nouvelle version peut consommer votre forfait rapidement."</string>
     <string name="dialog_3g_title">Attention !</string>
+    <string name="dialog_ab">"Votre appareil prend en charge les mises à jour système A/B transparentes, n'oubliez pas de sélectionner \"Slot A\" lorsque vous y êtes invité dans TWRP !"</string>
     <string name="dialog_btn_3g">Continuer quand même</string>
     <string name="dialog_btn_wifi">Basculer vers le Wi-Fi</string>
     <string name="dialog_stop_desc">Vous pouvez suspendre ou arrêter le téléchargement, faites votre choix maintenant.</string>
@@ -33,6 +33,7 @@
     <string name="download_fail_desc">La signature MD5 ne correspond pas</string>
     <string name="downloading">Téléchargement :</string>
     <string name="downloading_desc">Téléchargement en cours, contrôle du statut dans la zone de notification.</string>
+    <string name="fastboot_mode">"Updater est en mode Fastboot, vous ne pouvez flasher des ROM qu'avec Terminal sur PC !"</string>
     <string name="fastboot_update_warning">"Cette mise à jour est uniquement destinée à l'installation fastboot !"</string>
     <string name="fetch_notification_default_channel_name">Téléchargements</string>
     <string name="fetch_notification_download_cancel">Annuler</string>
@@ -52,8 +53,10 @@
 Les données ne seront pas effacées."</string>
     <string name="install_title">Continuer ?</string>
     <string name="menu_title_current_version_log">Découvrir les nouveautés</string>
+    <string name="menu_title_fastboot_mode">Mettre à jour en mode Fastboot</string>
     <string name="menu_title_pick_rom_file">Sélectionner un fichier de mise à jour</string>
     <string name="menu_title_recovery">Redémarrer en mode Recovery</string>
+    <string name="menu_title_recovery_mode">Update en mode Recovery</string>
     <string name="menu_title_show_notifications">Afficher les notifications</string>
     <string name="message_checkbox">"Masquer les futurs messages de l'équipe de Xiaomi.eu"</string>
     <string name="message_checkbox_device">Ne plus afficher</string>
@@ -79,10 +82,12 @@ Les mises à jour ne sont donc pas disponibles pour vous !"</string>
     <string name="pick_not_found">"Aucun gestionnaire de fichiers approprié n'a été trouvé."</string>
     <string name="pick_title">Sélectionner en utilisant :</string>
     <string name="recovery_desc">"L'appareil va maintenant redémarrer en mode Recovery. Si vous n'êtes pas familiarisé avec ce mode, il est préférable de ne pas continuer. Continuer ?"</string>
+    <string name="recovery_mode">Updater est en mode Recovery, vous pouvez flasher les ROM dans Updater !</string>
     <string name="server_error">"Le serveur ne répond pas, l'application risque de ne pas fonctionner correctement !"</string>
     <string name="share_desc">Découvrir les nouveautés de la version %1$s de Xiaomi.eu : %2$s</string>
     <string name="share_title">Partager avec</string>
     <string name="stable">Stable</string>
+    <string name="twrp_update_warning">To be able to use OTA you need to select whether or not you have TWRP installed on your device:</string>
     <string name="version">Actuellement installée :</string>
     <string name="weekly">Hebdomadaire</string>
     <string name="wifi_recommended">Aucune connexion Wi-Fi pour commencer le téléchargement sans encombre !</string>
