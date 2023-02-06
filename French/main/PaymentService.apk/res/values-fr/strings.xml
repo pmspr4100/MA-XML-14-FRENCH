@@ -695,7 +695,7 @@ Because the provision of MiCoin services relies on the collection of necessary p
     <string name="passport_wrong_captcha">Le code que vous avez entré est incorrect</string>
     <string name="passport_wrong_phone_number_format">Le format du numéro de téléphone entré est non valide</string>
     <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
-    <string name="passport_wrong_voice">The code you entered is incorrect</string>
+    <string name="passport_wrong_voice">Le code que vous avez entré est incorrect</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="phone_bind_too_many">"Ce téléphone a été associé à plusieurs Comptes Mi en peu de temps. Essayez d'utiliser un autre numéro de téléphone."</string>
     <string name="phone_hint">Phone number</string>

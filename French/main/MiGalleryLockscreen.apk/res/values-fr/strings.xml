@@ -773,7 +773,7 @@ dd/MM"</string>
     <string name="send_diagnosis_log">Envoyer les journaux</string>
     <string name="send_email_activate_message">E-mail de vérification envoyé avec succès</string>
     <string name="sending">Sending…</string>
-    <string name="service_error">Server error</string>
+    <string name="service_error">Erreur serveur</string>
     <string name="set_success">Modifié avec succès</string>
     <string name="setting_about_item_des">Version</string>
     <string name="setting_about_item_title">À propos</string>

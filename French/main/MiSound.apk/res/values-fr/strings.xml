@@ -21,6 +21,7 @@
     <string name="add_sound">Ajouter un préréglage personnalisé</string>
     <string name="afternoon">Après-midi</string>
     <string name="am">AM</string>
+    <string name="app_disable_description_title">Désactiver cette application ?</string>
     <string name="app_name">Écouteurs</string>
     <string name="apply_sound">Appliquer</string>
     <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
@@ -350,8 +351,8 @@
     <string name="music_unsupport_effect_summary">Les casques USB ne sont pas pris en charge</string>
     <string name="music_upper_sixty_years">Plus de %d ans</string>
     <string name="name">Nom</string>
-    <string name="night">Evening</string>
-    <string name="noon">Midday</string>
+    <string name="night">Soirée</string>
+    <string name="noon">Midi</string>
     <string name="not_set">Non défini</string>
     <string name="not_support_sound_transmission_content">"Cette fonctionnalité n'est pas prise en charge par l'appareil connecté. Essayez un autre périphérique Bluetooth."</string>
     <string name="not_support_sound_transmission_prompt">Attention</string>
@@ -364,9 +365,9 @@
     <string name="retry_test">Recommencer</string>
     <string name="ringtone_output_device_summary">"Lorsqu'un périphérique (casque filaire ou périphérique Bluetooth) est connecté, le haut-parleur aura également une sonnerie de téléphone ou un son de notification"</string>
     <string name="ringtone_output_device_title">Autoriser le haut-parleur à sonner</string>
-    <string name="saturday">Saturday</string>
-    <string name="saturday_short">Sat</string>
-    <string name="saturday_shortest">Sat</string>
+    <string name="saturday">Dimanche</string>
+    <string name="saturday_short">Dim</string>
+    <string name="saturday_shortest">Dim</string>
     <string name="save_and_apply">Enregistrer et appliquer</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="second_note">Mettez vos écouteurs.</string>
@@ -496,6 +497,9 @@
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
     <string name="transmission_volume_option_title">Volume microphone</string>
+    <string name="tuesday">Mardi</string>
+    <string name="tuesday_short">Mar</string>
+    <string name="tuesday_shortest">Mar</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
     <string name="wednesday">Mercredi</string>

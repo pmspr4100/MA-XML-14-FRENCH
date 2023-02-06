@@ -2455,7 +2455,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
     <string name="send_secret_file_failed">Impossible de partager</string>
     <string name="send_secret_file_space_low">Espace de stockage insuffisant</string>
     <string name="send_too_many_files_error">"Vous pouvez envoyer jusqu'à %d éléments en même temps"</string>
-    <string name="service_error">Erreur du serveur</string>
+    <string name="service_error">Erreur serveur</string>
     <string name="service_is_provided_by_miui_cloud_service">Ce service est fourni par Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">"Définir comme fond d'écran de verrouillage"</string>
     <string name="set_as_slide_wallpaper_description">"Cette image est une miniature, télécharger l'original ?"</string>

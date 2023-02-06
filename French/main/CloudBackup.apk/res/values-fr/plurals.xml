@@ -29,13 +29,13 @@
         <item quantity="other">Il y a %d min</item>
         <item quantity="one">Il y a 1 min</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">"Vous n'avez pas sauvegardé vos éléments depuis %s semaines. Appuyez pour voir comment activer les sauvegardes automatiques."</item>
+        <item quantity="one">"Vous n'avez pas sauvegardé vos éléments depuis %s semaine. Appuyez pour voir comment activer les sauvegardes automatiques."</item>
+    </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">"Il semble que vous n'ayez pas sauvegardé d'éléments depuis %s semaines. Créez des sauvegardes pour éviter de perdre quelque chose d'important."</item>
         <item quantity="one">"Il semble que vous n'ayez pas sauvegardé d'éléments depuis %s semaine. Créez des sauvegardes pour éviter de perdre quelque chose d'important."</item>
-    </plurals>
-    <plurals name="cloud_backup_detail_frequence_day">
-        <item quantity="other">Sauvegarder tous les %d jours</item>
-        <item quantity="one">Sauvegarder chaque jour</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s sauvegardes (%2$s)</item>
@@ -67,6 +67,14 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Il y a %d minutes</item>
         <item quantity="one">Il y a 1 minute</item>
+    </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">%d applications sauvegardées</item>
+        <item quantity="one">%d application sauvegardée</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">%d applications restaurées</item>
+        <item quantity="one">%d application restaurée</item>
     </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">Environ %s minutes restantes</item>

@@ -906,8 +906,8 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_wechat_not_install">"Installez d'abord WeChat"</string>
     <string name="passport_wrong_captcha">The code you entered is incorrect</string>
     <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
-    <string name="passport_wrong_vcode">The code you entered is incorrect</string>
-    <string name="passport_wrong_voice">The code you entered is incorrect</string>
+    <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
+    <string name="passport_wrong_voice">Le code que vous avez entré est incorrect</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="pause_download">Pause</string>
     <string name="pause_play">Pause playing</string>
@@ -1073,7 +1073,7 @@ Envoyez ce code au superviseur."</string>
     <string name="sending">Sending…</string>
     <string name="server_error">An error occurred, wait a minute or two and try again.</string>
     <string name="service_and_settings">Service and settings</string>
-    <string name="service_error">Server error</string>
+    <string name="service_error">Erreur serveur</string>
     <string name="set_as_ring">Set as ringtone</string>
     <string name="set_id3_failed">"Couldn't save info"</string>
     <string name="set_id3_not_have_read_or_write_permission">"You don't have permissions to edit this file."</string>

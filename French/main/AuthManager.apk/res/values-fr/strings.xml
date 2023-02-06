@@ -153,6 +153,7 @@
     <string name="blur_location_is_on_tip">"%1$s utilise votre localisation approximative. Continuer de l'utiliser au lieu de la localisation précise ?"</string>
     <string name="blur_location_now_tip">La location approximative est activée</string>
     <string name="blur_location_title">Localisation approximative</string>
+    <string name="carwith_grant_permission_tips_when_lock">"Déverrouillez d'abord votre téléphone"</string>
     <string name="cetus_invisible_mode_notice_audio">"Vous êtes en navigation privée. Impossible d'utiliser le microphone à présent."</string>
     <string name="cetus_invisible_mode_notice_camera">"Vous êtes en navigation privée. Impossible d'utiliser le capteur photo à présent."</string>
     <string name="cetus_invisible_mode_notice_location">"Vous êtes en navigation privée. Impossible d'utiliser les services de localisation à présent."</string>
@@ -231,6 +232,7 @@
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+    <string name="miuix_indexer_collect">Collections</string>
     <string name="miuix_indexer_selected">%s sélectionné</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
@@ -299,6 +301,7 @@
     <string name="permdesc_call_phone">Autoriser %1$s à passer des appels ?</string>
     <string name="permdesc_camera">Autoriser %1$s à prendre des photos et à enregistrer des vidéos ?</string>
     <string name="permdesc_get_account">Autoriser %1$s à accéder à tous les comptes stockés sur cet appareil ?</string>
+    <string name="permdesc_isolate_storage">Autoriser %1$s à accéder aux photos, vidéos et fichiers audio stockés sur cet appareil ?</string>
     <string name="permdesc_location">Autoriser %1$s à accéder aux informations de localisation ?</string>
     <string name="permdesc_location_background">Autoriser %1$s à accéder aux informations de localisation en arrière-plan ?</string>
     <string name="permdesc_microphone">"Autoriser %1$s à utiliser le microphone pour enregistrer de l'audio et passer des appels ?"</string>
@@ -329,6 +332,8 @@
     <string name="permgroupdesc_location">Autoriser %1$s à accéder aux informations de localisation ?</string>
     <string name="permgroupdesc_microphone">"Autoriser %1$s à enregistrer de l'audio ?"</string>
     <string name="permgroupdesc_phone">"Autoriser %1$s à passer des appels et à accéder aux informations sur l'appareil ?"</string>
+    <string name="permgroupdesc_read_media_aural">Autoriser %1$s à accéder aux fichiers audio stockés sur votre appareil ?</string>
+    <string name="permgroupdesc_read_media_visual">Autoriser %1$s à accéder aux photos et vidéos stockées sur votre appareil ?</string>
     <string name="permgroupdesc_recognition">"Autoriser %1$s à accéder aux données de santé et d'activité ?"</string>
     <string name="permgroupdesc_sensors">Autoriser %1$s à accéder aux données des capteurs corporels ?</string>
     <string name="permgroupdesc_sms">Autoriser %1$s à lire ou envoyer des SMS ?</string>
