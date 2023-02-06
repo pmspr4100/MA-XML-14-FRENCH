@@ -112,7 +112,7 @@ pour les voir à tout moment"</string>
     <string name="dialog_message_service_error">"Impossible de révoquer l'autorisation et deffectuer une réinitialisation des données dusine. Réessayez"</string>
     <string name="dialog_tip_need_network">"Votre appareil doit se connecter à internet pour révoquer l'autorisation."</string>
     <string name="dialog_title">Attention</string>
-    <string name="dialog_title_service_error">Erreur du serveur</string>
+    <string name="dialog_title_service_error">Erreur serveur</string>
     <string name="dialog_undo_negative">Ne pas révoquer</string>
     <string name="dialog_verify">Vérifiez votre empreinte digitale</string>
     <string name="dialog_verify_fingerprint_retry">"Impossible de vérifier l'empreinte digitale. Veuillez réessayer."</string>

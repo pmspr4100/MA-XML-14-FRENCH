@@ -1682,7 +1682,7 @@ Augmenter la sécurité de votre compte."</string>
     <string name="send_diagnosis_log">Envoyer les journaux</string>
     <string name="send_email_activate_message">E-mail de vérification envoyé avec succès</string>
     <string name="sending">Envoi…</string>
-    <string name="service_error">Erreur du serveur</string>
+    <string name="service_error">Erreur serveur</string>
     <string name="set_success">Modifié avec succès</string>
     <string name="settings_inline_auto_play">Toujours lire automatiquement</string>
     <string name="settings_inline_auto_play_close">Lecture automatique désactivée</string>
