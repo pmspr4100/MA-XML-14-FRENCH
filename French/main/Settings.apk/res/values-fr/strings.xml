@@ -2095,6 +2095,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="common_issue">F.A.Q</string>
     <string name="common_settings">Accès rapides</string>
     <string name="complete_parameters">Caractéristiques</string>
+    <string name="complete_parameters_new">Informations détaillées et spécifications</string>
     <string name="complete_settings">Paramètres</string>
     <string name="computer_backup_summary">"Sauvegarder et restaurer des éléments à l'aide d'un ordinateur"</string>
     <string name="computer_backup_title">Ordinateur</string>
