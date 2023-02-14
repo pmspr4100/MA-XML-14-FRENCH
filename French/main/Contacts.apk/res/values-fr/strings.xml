@@ -272,7 +272,7 @@
     <string name="call_feature_vowifi">Appel Wi-Fi</string>
     <string name="call_home">Appeler domicile</string>
     <string name="call_isdn">Appeler numéro RNIS</string>
-    <string name="call_limit">Restrictions d'appel</string>
+    <string name="call_limit">"Restrictions d'appel"</string>
     <string name="call_limit_content">"Impossible d'appeler « %s ». Vous ne pouvez appeler que les numéros de téléphone qui figurent sur votre liste de contacts approuvée."</string>
     <string name="call_main">Appeler numéro principal</string>
     <string name="call_mms">Appeler MMS</string>
