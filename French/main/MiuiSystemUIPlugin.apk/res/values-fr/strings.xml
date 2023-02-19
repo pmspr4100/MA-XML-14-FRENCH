@@ -20,8 +20,10 @@
     <string name="accessibility_airplane_mode">Mode avion.</string>
     <string name="accessibility_back">Retour</string>
     <string name="accessibility_brightness">"Luminosité de l'écran"</string>
+    <string name="accessibility_desc_add">Add</string>
     <string name="accessibility_desc_close">Quitter</string>
     <string name="accessibility_desc_edit">Modifier</string>
+    <string name="accessibility_desc_remove">Remove</string>
     <string name="accessibility_description_hours">Heures</string>
     <string name="accessibility_description_minutes">Minutes</string>
     <string name="accessibility_description_seconds">Secondes</string>
@@ -41,6 +43,7 @@
     <string name="accessibility_volume_expand">Déplier</string>
     <string name="actionbar_button_up_description">Retour</string>
     <string name="afternoon">Après-midi</string>
+    <string name="airplane">Avion</string>
     <string name="airplane_mode">Mode avion</string>
     <string name="already_in_small_freeform">Certaines applications sont ouvertes dans des fenêtres flottantes</string>
     <string name="am">AM</string>
@@ -49,6 +52,7 @@
     <string name="auto_brightness_on">La luminosité automatique est activée</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">"Boutons de navigation désactivés, appuyez deux fois sur n'importe quel bouton pour les réactiver."</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Boutons de navigation activés</string>
+    <string name="bootloader">Fastboot</string>
     <string name="bt_is_off">Bluetooth désactivé</string>
     <string name="character_counter_content_description">%1$d caractères sur %2$d entrés</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
@@ -62,7 +66,10 @@
     <string name="close_invisible_mode_dialog_title">Vous êtes en navigation privée</string>
     <string name="control_center_notification_switch_guide">Balayez pour basculer entre le centre de contrôle et le panneau des notifications</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
+    <string name="controls_add_device_guide">"You haven't added any smart home devices yet"</string>
+    <string name="controls_click_to_add_device">Add</string>
     <string name="controls_confirmation_message">Confirmer le changement pour %s</string>
+    <string name="controls_default_structure">Smart home</string>
     <string name="controls_dialog_confirmation">Contrôles mis à jour</string>
     <string name="controls_dialog_message">%s a suggéré que ce contrôle soit ajouté à vos favoris.</string>
     <string name="controls_dialog_ok">Ajouter aux favoris</string>
@@ -75,6 +82,12 @@
     <string name="controls_dismiss_dialog_message_international">"Supprimer la carte « Smart Home » maintenant ? Vous pourrez la restaurer dans Paramètres &gt; Centre de contrôle."</string>
     <string name="controls_dismiss_dialog_title">Appareils domestiques intelligents</string>
     <string name="controls_dismiss_dialog_title_international">Retirer la carte</string>
+    <string name="controls_edit_add_device_guide">No devices here yet</string>
+    <string name="controls_edit_added_subtitle">Drag items to rearrange them</string>
+    <string name="controls_edit_added_title">Added</string>
+    <string name="controls_edit_done_button">Done</string>
+    <string name="controls_edit_go_to_app_guide">Open</string>
+    <string name="controls_edit_not_added_title">Available</string>
     <string name="controls_edit_panel_not_added_title">Appareils disponibles</string>
     <string name="controls_edit_panel_save_button">Effectué</string>
     <string name="controls_edit_panel_subtitle">Faites glisser les éléments pour les réorganiser</string>
@@ -89,6 +102,8 @@
     <string name="controls_favorite_removed">Tous les contrôles ont été supprimés</string>
     <string name="controls_favorite_subtitle">"Choisissez les commandes auxquelles accéder dans le menu d'alimentation"</string>
     <string name="controls_favorite_toast_no_changes">Modifications non enregistrées</string>
+    <string name="controls_loading_device">Switching locations…</string>
+    <string name="controls_media_title">Media</string>
     <string name="controls_menu_add">Ajouter des contrôles</string>
     <string name="controls_mijia_setup_subtitle">Sélectionnez des applications pour ajouter des appareils et gérez-les ici</string>
     <string name="controls_mijia_setup_subtitle_login">Appuyez pour ajouter des appareils</string>
@@ -96,6 +111,9 @@
     <string name="controls_no_device_subtitle">"Ajoutez d'abord les appareils dans %s."</string>
     <string name="controls_no_device_title">Impossible de trouver les appareils</string>
     <string name="controls_no_favorites_title">Sélectionnez les applications pour gérer les appareils domestiques intelligents ici</string>
+    <string name="controls_not_found_device_toast">This item has already been deleted in the app</string>
+    <string name="controls_not_found_device_toast_mihome">This item has already been deleted in the app</string>
+    <string name="controls_offline_device_toast">This device is offline. Press and hold to open the app.</string>
     <string name="controls_pin_instructions">Entrez le code PIN</string>
     <string name="controls_pin_instructions_retry">Essayez un autre code PIN</string>
     <string name="controls_pin_use_alphanumeric">Le code PIN contient des lettres ou des symboles</string>
@@ -104,6 +122,7 @@
     <string name="controls_providers_title">Choisissez une application pour ajouter des contrôles</string>
     <string name="controls_seeding_in_progress">Chargement des recommandations</string>
     <string name="controls_structure_tooltip">Balayez pour en voir plus</string>
+    <string name="controls_unsupport_toggle_toast">"This device doesn't support quick actions. Press and hold to open the app."</string>
     <string name="copy">Copier</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
@@ -184,6 +203,8 @@
     <string name="miui_toast_zen_to_dnd_when_lock">"Les appels et les notifications seront coupés lorsque l'appareil sera verrouillé"</string>
     <string name="miui_toast_zen_to_standard">"Basculé en mode Silencieux. Les sonneries d'appels et les sons des notifications sont désactivés à présent."</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">"Basculé en mode Silencieux. Les sonneries d'appels, ainsi que les sons des notifications et des médias, sont désactivés à présent."</string>
+    <string name="miuix_access_state_desc">Sélectionné</string>
+    <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
@@ -198,6 +219,8 @@
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
+    <string name="miuix_indexer_collect">Collections</string>
+    <string name="miuix_indexer_selected">%s sélectionné</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tirez vers le bas pour actualiser</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualisé avec succès</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualisation…</string>
@@ -271,6 +294,8 @@
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+    <string name="mtrl_picker_text_input_day_abbr">j</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer en mode de saisie du calendrier</string>
     <string name="mtrl_picker_toggle_to_day_selection">Appuyez pour passer à la sélection du jour</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
@@ -280,6 +305,7 @@
     <string name="noon">Midi</string>
     <string name="not_set">Non défini</string>
     <string name="notification_control_center">Notifications et Centre de contrôle</string>
+    <string name="offline">Offline</string>
     <string name="online">En ligne</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="pm">PM</string>
@@ -330,11 +356,12 @@
     <string name="quick_settings_nightmode_label">Mode sombre</string>
     <string name="quick_settings_papermode_label">Mode lecture</string>
     <string name="quick_settings_pcmode_cancel_button">Annuler</string>
-    <string name="quick_settings_pcmode_dialog_description">Le mode PC gère les tâches multi-fenêtrées et peut être utiliser avec un clavier et une souris. Permuter dans ce mode va fermer toutes les applications lancées. Certaines applications peuvent ne pas supporter le mode PC.</string>
     <string name="quick_settings_pcmode_dialog_message_turnoff">Désactiver le mode PC</string>
+    <string name="quick_settings_pcmode_dialog_message_turnon">Activer le mode PC</string>
     <string name="quick_settings_pcmode_dialog_remember_text">Ne plus afficher</string>
     <string name="quick_settings_pcmode_error">"Application introuvable. Installez-la d'abord."</string>
     <string name="quick_settings_pcmode_label">Mode PC</string>
+    <string name="quick_settings_pcmode_ok_button">OK</string>
     <string name="quick_settings_pcmode_turn_off_description">"L'écran de votre téléphone s'affichera sur le moniteur externe. Désactiver le mode PC ?"</string>
     <string name="quick_settings_pcmode_turn_on_description">"L'écran de votre ordinateur s'affichera sur le moniteur externe. Désactiver le mode PC ?"</string>
     <string name="quick_settings_powermode_label">Mode performance</string>
@@ -346,7 +373,9 @@
     <string name="quick_settings_screenshot_label">"Capture d'écran"</string>
     <string name="quick_settings_sim_disabled">" (Désactivé)"</string>
     <string name="quick_settings_sync_label">Synchronisation</string>
+    <string name="quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,custom(com.miui.screenrecorder/.service.QuickService),scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),pcmode,custom(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,dolbyatomssound,circulateworld,custom(com.miui.securitycenter/com.miui.permcenter.settings.InvisibleModeTileService),edit</string>
     <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
+    <string name="quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,pcmode,uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,dolbyatomssound,circulateworld,edit,gps,drivemode,hearingassisttile</string>
     <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Pour ajouter un élément, appuyez dessus et maintenez-le enfoncé, puis faites-le glisser vers la partie supérieure du panneau.</string>
     <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>
@@ -365,6 +394,7 @@
     <string name="quick_settings_wireless_label">Inverser la charge sans fil</string>
     <string name="reboot_info_auto_boot">Prochain démarrage : %s</string>
     <string name="reboot_info_shutdown_alarm">Prochaine alarme : %s</string>
+    <string name="recovery">Récupération</string>
     <string name="reset">Réinitialiser</string>
     <string name="restart">Redémarrer</string>
     <string name="safe_media_volume_warning">"Augmenter le volume au-dessus du niveau recommandé ?
@@ -376,7 +406,10 @@ Une longue exposition à des sons forts peut entraîner des problèmes d'auditio
     <string name="save">Enregistrer</string>
     <string name="search_menu_title">Recherche</string>
     <string name="send">Envoyer</string>
+    <string name="silent">Silencieux</string>
     <string name="slider_view_content_description">Glissez vers le haut pour éteindre ou vers le bas pour redémarrer</string>
+    <string name="slider_view_content_left_description">Slide up to reboot to Fastboot mode or slide down to reboot to Recovery mode</string>
+    <string name="slider_view_content_right_description">Slide up to toggle Airplane mode or slide down to toggle Silent mode</string>
     <string name="smart_home_title">Appareils intelligents</string>
     <string name="solar_term_autumn_begins">"Début de l'automne"</string>
     <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>

@@ -417,9 +417,8 @@
     <string name="home_gesture_global_search">Rechercher</string>
     <string name="home_gesture_no_action">Aucun</string>
     <string name="home_gesture_notification_bar">Notifications</string>
-    <string name="home_pull_down_action">"Glisser vers le bas sur l'écran d'accueil"</string>
+    <string name="home_pull_down_action">Swipe down on the Home screen</string>
     <string name="home_screen">"Écran d'accueil"</string>
-    <string name="home_screen_settings">"Écran d'accueil"</string>
     <string name="home_slide_up_action">"Glisser vers le haut sur l'écran d'accueil"</string>
     <string name="home_switch_personal_assistant">Écran rapide</string>
     <string name="icon_content_description">Icône de dialogue</string>
@@ -488,7 +487,7 @@ Sécurité renforcée."</string>
     <string name="material_timepicker_hour">Heure</string>
     <string name="material_timepicker_minute">Minute</string>
     <string name="material_timepicker_pm">PM</string>
-    <string name="material_timepicker_select_time">"Sélectionner l'heure"</string>
+    <string name="material_timepicker_select_time">"Sélectionnez l'heure"</string>
     <string name="material_timepicker_text_input_mode_description">"Passer en mode de saisie de texte pour la saisie de l'heure."</string>
     <string name="memory_clear_nothing_result">Rien à effacer dans le cache</string>
     <string name="memory_clear_result">"%1$s o effacés"</string>
@@ -616,6 +615,8 @@ Sécurité renforcée."</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+    <string name="mtrl_picker_text_input_day_abbr">j</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer en mode de saisie du calendrier</string>
     <string name="mtrl_picker_toggle_to_day_selection">"Appuyez pour passer à la sélection d'un jour"</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
