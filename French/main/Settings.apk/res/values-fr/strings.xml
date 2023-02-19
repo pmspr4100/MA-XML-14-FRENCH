@@ -116,9 +116,6 @@
     <string name="accessibility_category_work">Comptes de profils professionnels – %s</string>
     <string name="accessibility_clear">Effacer</string>
     <string name="accessibility_close_tab">"Fermer l'onglet actuel"</string>
-    <string name="accessibility_control_timeout_preference_summary">"Choisissez la durée d'affichage des messages qui vous demandent d'agir, mais qui ne sont visibles que temporairement.
-
-Toutes les applications ne prennent pas en charge ce paramètre."</string>
     <string name="accessibility_color_correction_auto_added_qs_tooltip_content">Color correction added to Quick Settings. Swipe down to turn it on or off anytime.</string>
     <string name="accessibility_color_correction_qs_tooltip_content">You can also add color correction to Quick Settings from the top of your screen</string>
     <string name="accessibility_color_inversion_about_title">About color inversion</string>

@@ -1270,7 +1270,6 @@ Pour commencer, appuyez sur l'icône fusionner en bas de votre écran."</string>
     <string name="status_available">Disponible</string>
     <string name="status_away">Absent</string>
     <string name="status_busy">Occupé</string>
-    <string name="status_busy">Occupé</string>
     <string name="strequentList">Favoris</string>
     <string name="success_message_import_from_account">Contact importé</string>
     <string name="sunday">Dimanche</string>
