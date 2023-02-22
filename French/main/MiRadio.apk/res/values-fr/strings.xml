@@ -1193,7 +1193,7 @@ Envoyez ce code au superviseur."</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
     <string name="swipe_to_load_head_complete_fail">"Couldn't refresh. Try again."</string>
-    <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
+    <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
     <string name="tab_album">Albums</string>
     <string name="tab_artist">Artistes</string>
     <string name="tab_comment">Comments</string>
