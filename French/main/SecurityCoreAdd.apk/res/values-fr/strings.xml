@@ -46,6 +46,7 @@ cette fonctionnalité sera automatiquement ajoutée dans le Deuxième espace."</
     <string name="can_not_delete_when_calling">"Impossible de supprimer les espaces lors d'un appel"</string>
     <string name="can_not_switch_when_calling">"Impossible de basculer entre les espaces lors d'un appel"</string>
     <string name="can_not_switch_when_green_kid_active">Le basculement vers le Deuxième espace est restreint par le contrôle parental</string>
+    <string name="can_not_switch_when_green_kid_active_new">Impossible de passer au deuxième espace lorsque Family Guard est activé</string>
     <string name="can_not_switch_when_super_power_active">"Impossible de basculer entre les espaces lorsque l'ultra économiseur de batterie est activé"</string>
     <string name="cancelClosePassword">Ne pas désactiver</string>
     <string name="cancel_button">Annuler</string>
@@ -94,7 +95,7 @@ pour les voir à tout moment"</string>
     <string name="create_work_space">Créer un espace de travail</string>
     <string name="creating_app_icon">"Création de l'icône…"</string>
     <string name="cta_declaration_agree_and_continue">Accepter</string>
-    <string formatted="false" name="cta_declaration_message_format">Vous devez lire et accepter notre &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; avant dutiliser le mode Entreprise. Votre appareil doit se connecter à internet pour activer le mode Entreprise. Acceptez-vous ?</string>
+    <string name="cta_declaration_message_format" formatted="false" >Vous devez lire et accepter notre &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; avant dutiliser le mode Entreprise. Votre appareil doit se connecter à internet pour activer le mode Entreprise. Acceptez-vous ?</string>
     <string name="cta_declaration_title">"Conditions générales d'utilisation"</string>
     <string name="current_space">Espace actuel</string>
     <string name="dataSafe">Utiliser le Deuxième espace est comme si vous aviez deux appareils.</string>
@@ -125,8 +126,6 @@ pour les voir à tout moment"</string>
     <string name="dual_animation_description">"Afficher l'animation lors du lancement de deux applications"</string>
     <string name="early_morning">Matin</string>
     <string name="enable">Activer</string>
-    <string name="encrypt_space_delete_dialog_message">"Vous êtes sur le point d'effectuer une mise à jour du système. Après la mise à jour, les données du Deuxième espace deviendront incompatibles. Pour éviter cela, placez toutes les données dans le Premier espace, supprimez le Deuxième espace et créez-le à nouveau."</string>
-    <string name="encrypt_space_delete_dialog_title">Attention</string>
     <string name="ent_activating">Activation…</string>
     <string name="ent_activation">Activer</string>
     <string name="ent_activation_hint">"Saisissez votre code d'entreprise avec le code de licence pour activer le mode Entreprise. Après cela, les services d'entreprise personnalisés seront activés."</string>
@@ -353,7 +352,6 @@ Vous pouvez aussi les télécharger séparément."</string>
     <string name="notificationTitle">Raccourci du Panneau des notifications</string>
     <string name="notification_from_owner_user">Afficher les notifications du premier espace</string>
     <string name="notification_from_second_user">Afficher les notifications du second espace</string>
-    <string name="notification_recommend_title">Top 12 des applications du Deuxième espace</string>
     <string name="notification_setting_second_space">Configurer le Deuxième espace</string>
     <string name="notification_setting_second_space_desc">Ajoutez le mot de passe du Deuxième espace puis déplacez les données</string>
     <string name="ok_button">OK </string>
@@ -419,9 +417,11 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="second_space_desktop_tips_dialog_title">Mise à jour importante</string>
     <string name="second_space_finger_printf_desc">Ajoutez une empreinte digitale spécialement utilisée pour accéder au Deuxième espace</string>
     <string name="second_space_finger_printf_title">Empreinte digitale du Deuxième espace</string>
+    <string name="second_space_setting_search_label">Privacy protection/Protection/Privacy protection features</string>
     <string name="secondspace_homepage">"Paramétrez un verrouillage d'écran spécifique pour le Deuxième espace.
 Séparez et sécurisez vos données."</string>
     <string name="select_existed_fingerprint">Sélectionner une empreinte digitale</string>
+    <string name="send">Envoyer</string>
     <string name="serNameSummary">Deuxième espace</string>
     <string name="setSecondSpacePassword">Définir le mot de passe du Deuxième espace</string>
     <string name="setSecondSpacePasswordGuide">Définir le mot de passe du Deuxième espace</string>
@@ -447,6 +447,8 @@ Séparez et sécurisez vos données."</string>
     <string name="settings_notification_and_switch_second_space">Paramètre du Deuxième espace</string>
     <string name="settings_notification_from_owner_space_title">Afficher les notifications du premier espace</string>
     <string name="settings_notification_from_second_space_title">Afficher les notifications du Deuxième espace</string>
+    <string name="settings_notification_second_space_show_in_locked_summary">Show notifications from Second space on the Lock screen</string>
+    <string name="settings_notification_second_space_show_in_locked_title">Show Lock screen notifications</string>
     <string name="settings_second_space_entrance_summary">Afficher le raccourci du Deuxième espace dans les paramètres</string>
     <string name="settings_second_space_entrance_title">Raccourci dans les paramètres</string>
     <string name="settings_set_password_for_owner_space">"Définir un verrouillage d'écran dans le premier espace"</string>
@@ -470,11 +472,11 @@ Séparez et sécurisez vos données."</string>
     <string name="show_private_msg">Afficher les messages privés</string>
     <string name="show_private_msg_summary">Afficher les messages privés dans le Deuxième espace</string>
     <string name="size_byte">" o"</string>
-    <string name="size_giga_byte">" Go"</string>
-    <string name="size_kilo_byte">" Ko"</string>
-    <string name="size_mega_byte">" Mo"</string>
-    <string name="size_peta_byte">" Po"</string>
-    <string name="size_tera_byte">" To"</string>
+    <string name="size_giga_byte">" Gio"</string>
+    <string name="size_kilo_byte">" Kio"</string>
+    <string name="size_mega_byte">" Mio"</string>
+    <string name="size_peta_byte">" Pio"</string>
+    <string name="size_tera_byte">" Tio"</string>
     <string name="skip">Ignorer</string>
     <string name="solar_term_autumn_begins">"Début de l'automne"</string>
     <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
@@ -552,6 +554,46 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="switching_files">Déplacement des fichiers…</string>
     <string name="switching_photos">Déplacement des photos…</string>
     <string name="temporary_no_set">Pas maintenant</string>
+    <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
+    <string name="the_anti_aggression_day">Anti-Aggression Day</string>
+    <string name="the_arbor_day">Arbor Day</string>
+    <string name="the_armed_forces_day">Armed Forces Day</string>
+    <string name="the_armys_day">PLA Day</string>
+    <string name="the_childrens_day">"Children's Day"</string>
+    <string name="the_chinese_youth_day">Youth Day</string>
+    <string name="the_christmas_day">Christmas</string>
+    <string name="the_double_ninth_festival">Double Ninth Festival</string>
+    <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
+    <string name="the_easter_day">Easter</string>
+    <string name="the_eve_of_the_spring_festival">Eve of Chinese New Year</string>
+    <string name="the_fifth_day">Fifth day of Chinese New Year</string>
+    <string name="the_fools_day">"April Fool's Day"</string>
+    <string name="the_forth_day">Fourth day of Chinese New Year</string>
+    <string name="the_hksar_establishment_day">Hong Kong SAR Establishment Day</string>
+    <string name="the_international_womens_day">"Women's Day"</string>
+    <string name="the_laba_festival">Laba Festival</string>
+    <string name="the_labour_day">Labor Day</string>
+    <string name="the_lantern_festival">Lantern Festival</string>
+    <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
+    <string name="the_national_day">National Day</string>
+    <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
+    <string name="the_new_years_day">New Year</string>
+    <string name="the_night_of_sevens">Qixi Festival</string>
+    <string name="the_partys_day">CPC Day</string>
+    <string name="the_peace_day">Remembrance Day</string>
+    <string name="the_retrocession_day">Retrocession Day</string>
+    <string name="the_second_day">Second day of Chinese New Year</string>
+    <string name="the_seventh_day">Seventh day of Chinese New Year</string>
+    <string name="the_sixth_day">Sixth day of Chinese New Year</string>
+    <string name="the_spirit_festival">Ghost Festival</string>
+    <string name="the_spring_festival">Chinese New Year</string>
+    <string name="the_teachers_day">"Teachers' Day"</string>
+    <string name="the_third_day">Third day of Chinese New Year</string>
+    <string name="the_tw_childrens_day">"Children's Day"</string>
+    <string name="the_tw_youth_day">Youth Day</string>
+    <string name="the_united_nations_day">United Nations Day</string>
+    <string name="the_valentines_day">"Valentine's Day"</string>
+    <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="this_function_can_not_use_in_second_space">Cette fonctionnalité peut être seulement utilisée dans le premier espace</string>
     <string name="thursday">Jeudi</string>
     <string name="thursday_short">Jeu</string>
@@ -608,7 +650,7 @@ Certaines applications clônées nécessitent la prise en charge des Framework d
     <string name="xspace_disable">Non créé</string>
     <string name="xspace_enable">Créé</string>
     <string name="xspace_facebook_title">Facebook</string>
-    <string name="xspace_guide_button">Créer</string>
+    <string name="xspace_guide_content_bound">Applications disponibles</string>
     <string name="xspace_guide_des">Utiliser 2 comptes sans basculer</string>
     <string name="xspace_guide_description">"Chaque compte
 mérite sa propre application"</string>
