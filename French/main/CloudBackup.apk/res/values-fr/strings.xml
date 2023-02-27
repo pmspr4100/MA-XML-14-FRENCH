@@ -265,7 +265,6 @@ Envoyez ce code au superviseur."</string>
     <string name="home_restore_error">"Impossible de restaurer l'écran d'accueil"</string>
     <string name="lack_of_storage">Espace de stockage insuffisant</string>
     <string name="latest_backup_time_loading">Chargement…</string>
-    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
     <string name="library_android_database_sqlcipher_libraryDescription">API Android SQLite basée sur SQLCipher</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
     <string name="load_backup_failed">Impossible de charger les sauvegardes</string>

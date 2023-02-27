@@ -1590,7 +1590,7 @@ Accéder aux thèmes > Profil > Laboratoire thématique pour plus de fonctionnal
     <string name="xiaoai_speech_not_installed_message">"Télécharger et installer l'assistant vocal Mi IA pour continuer."</string>
     <string name="xiaoai_speech_not_installed_title">"L'assistant vocal Mi IA n'est pas installé."</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Mise à jour</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="yesterday">Hier</string>
 </resources>

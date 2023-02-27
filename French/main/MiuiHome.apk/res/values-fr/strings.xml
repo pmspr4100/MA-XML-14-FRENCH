@@ -1044,7 +1044,7 @@ Sécurité renforcée."</string>
     <string name="work_profile_title">Profil professionnel</string>
     <string name="work_profile_toggle_label">Profil professionnel</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Pas maintenant</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Mise à jour</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="yesterday">Hier</string>
 </resources>
