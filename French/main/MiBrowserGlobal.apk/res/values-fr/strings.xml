@@ -138,6 +138,10 @@
     <string name="already_add">"Ajout de %s à votre écran d'accueil"</string>
     <string name="am">AM</string>
     <string name="app_cache">Cache</string>
+    <string name="app_category_tag_daily_recommendation">"Les choix du jour"</string>
+    <string name="app_category_tag_editor_recommendation">"Choix de l'éditeur"</string>
+    <string name="app_category_tag_free">Gratuit</string>
+    <string name="app_category_tag_hot">Populaire</string>
     <string name="app_id">Firebase App ID (Cliquer pour exporter)</string>
     <string name="app_library_category_entertainment">Divertissement</string>
     <string name="app_library_category_financial_management">Finance</string>
@@ -194,6 +198,7 @@
     <string name="avatar">Photo du profil</string>
     <string name="back_description">Retour</string>
     <string name="back_home">"Relâcher pour la page d'accueil"</string>
+    <string name="batch_download">Télécharger</string>
     <string name="batch_download_tip">Il semble que plusieurs éléments soient téléchargés en même temps. Bloquer ces téléchargements ?</string>
     <string name="billing_unavailable_message">"- Assurez-vous d'être connecté au Play Store.
 - Mettez à jour Google Services Framework vers la dernière version.
@@ -983,6 +988,7 @@ Envoyez ce code au superviseur."</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="gaid">GAID(Cliquer pour exporter)</string>
+    <string name="game_center">Jeux</string>
     <string name="game_center_recommend_play">Jouer</string>
     <string name="game_center_recommend_title">Recommandé pour vous</string>
     <string name="game_exit_when_press_back_again">Appuyez à nouveau pour quitter</string>
@@ -1008,6 +1014,9 @@ Envoyez ce code au superviseur."</string>
     <string name="game_news_flow_download_bar_play">Lire</string>
     <string name="game_play">Lecture</string>
     <string name="game_played">Récent</string>
+    <string name="garbage_cleaning">Nettoyeur</string>
+    <string name="garbage_details">Détails</string>
+    <string name="garbage_file">Corbeille</string>
     <string name="gcm_fallback_notification_channel_label">Divers</string>
     <string name="general__add_book_to_launcher__success">ajouté avec succès</string>
     <string name="general__coin_not_enough">"pièces d'or insuffisantes"</string>
@@ -1368,8 +1377,8 @@ pour ajouter des livres sur le bureau"</string>
     <string name="miui_quicksearch_enable_pref_title">Barre de recherche dans le Panneau des notifications</string>
     <string name="miui_search_notification_message">Touchez pour ouvrir la barre de recherche.</string>
     <string name="miui_search_notification_title">Recherche</string>
-    <string name="miui_startpage">Start page</string>
-    <string name="miuishare_title_share">Share</string>
+    <string name="miui_startpage">Page de démarrage</string>
+    <string name="miuishare_title_share">Partager</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
@@ -2792,8 +2801,10 @@ Essayez de modifier votre mot-clé ?"</string>
     <string name="search_bar_hint_content">Rechercher des applications et du contenu</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Démarrer</string>
+    <string name="search_card_more">Plus</string>
     <string name="search_card_online_rec_app">"Marchés d'applications"</string>
     <string name="search_card_online_rec_app_install">Installer</string>
+    <string name="search_card_online_rec_app_installed">Installé</string>
     <string name="search_card_online_rec_app_open">Ouvrir</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>

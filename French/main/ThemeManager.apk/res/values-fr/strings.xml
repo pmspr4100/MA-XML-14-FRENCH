@@ -89,6 +89,7 @@
     <string name="app_name_pad">Personnalisation</string>
     <string name="application_list_permission_desc">"Pour afficher les applications compatibles avec les fonds d'écran transparents"</string>
     <string name="application_notify_title">Attention</string>
+    <string name="apply_4k_video_wallpaper_warning">"Les vidéos 4K et 8K ne peuvent pas être utilisées comme fonds d'écran vidéo."</string>
     <string name="apply_choosen_type_resource">Appliquer les éléments sélectionnés</string>
     <string name="apply_default_font_tip">Conserver la police actuelle ?</string>
     <string name="apply_failed">"Application impossible"</string>
@@ -98,10 +99,14 @@
     <string name="apply_not_support_aod">"Always-on display n'est pas pris en charge sur cet appareil"</string>
     <string name="apply_not_support_in_second_space">"Impossible d'appliquer cet élément dans le Deuxième espace"</string>
     <string name="apply_not_support_maml_aod">"Impossible de combiner Always-on display avec des thèmes sur cet appareil"</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">"Ce fond d'écran sera appliqué aux écrans de verrouillage intérieur et extérieur et aux écrans d'accueil."</string>
     <string name="apply_succeed">Appliqué avec succès</string>
     <string name="apply_success_not_enable_aod">"Activez d'abord Always-on display dans les paramètres"</string>
     <string name="apply_success_not_support_aod">"Impossible de combiner Always-on display avec des thèmes sur cet appareil. Les autres composants de ce thème ont été appliqués avec succès."</string>
     <string name="apply_theme_with_ringtones">Appliquer le thème avec la sonnerie</string>
+    <string name="apply_wallpaper_after_three_theme">"Vous utilisez actuellement un thème tiers. Si vous modifiez le fond d'écran de votre écran de verrouillage, cela peut entraîner la restauration du style d'horloge de l'écran de verrouillage par défaut. Appliquer maintenant ?"</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Vous utilisez actuellement un super fond d'écran. Si vous sélectionnez un nouveau fond d'écran, il sera appliqué à la fois à vos écrans d'accueil et de verrouillage, et l'affichage permanent sera restauré à son paramètre précédent . Appliquer maintenant ?"</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">"Vous utilisez actuellement un super fond d'écran. Si vous sélectionnez un nouveau fond d'écran, il sera appliqué à la fois à vos écrans d'accueil et de verrouillage. Appliquer maintenant ?"</string>
     <string name="apply_warning_get_device_dialog_message">"Pour pouvoir utiliser le contenu téléchargé, autorisez d'abord cette fonctionnalité à accéder à l'ID de votre appareil. Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</string>
     <string name="apply_warning_tip_get_device_status">"Autorisez d'abord cette application à accéder à l'ID de votre appareil dans Profil > Paramètres."</string>
     <string name="audio_duration_minutes_format">%1$d minutes</string>
@@ -174,6 +179,7 @@
     <string name="component_title_settings_video_wallpaper">"Fonds d'écran avec effets spéciaux"</string>
     <string name="component_title_video_wallpaper">"Films pour fond d'écran"</string>
     <string name="component_title_wallpaper">"Fonds d'écran"</string>
+    <string name="component_title_widget_suit">Widgets</string>
     <string name="concentration_old_period">Plus</string>
     <string name="configure_success_not_enable_aod">"Appliqué avec succès. Activez l'affichage permanent pour que le thème prenne effet."</string>
     <string name="copy">Copier</string>
@@ -283,6 +289,7 @@
     <string name="download_failed">Échec du téléchargement</string>
     <string name="download_preview_failed">"Impossible de charger l'aperçu"</string>
     <string name="download_success">Téléchargement terminé</string>
+    <string name="dynamic_large_icon_not_support_current_type">"%s n'est pas pris en charge pour cette icône dynamique"</string>
     <string name="dynamic_video_wallpaper">"Fond d'écran de 24h"</string>
     <string name="early_morning">Matin</string>
     <string name="enable_all_free_mode">Racheter</string>
@@ -383,6 +390,7 @@
     <string name="fold_restore_default_theme_dialog_content">Les thèmes ne peuvent pas être utilisés sur cet appareil pour le moment. Si vous avez déjà modifié votre thème, vous pouvez restaurer le thème par défaut maintenant. Vous ne pourrez plus changer de thème après cela.</string>
     <string name="fold_restore_default_theme_dialog_disagree">Non merci</string>
     <string name="fold_restore_default_theme_dialog_title">Rétablir le thème par défaut</string>
+    <string name="fold_sensor_video_wallpaper_group">"Fonds d'écran dynamiques pour appareils pliables"</string>
     <string name="font_compat_dialog_buy_confirm">Acheter</string>
     <string name="font_compat_dialog_buy_content">Les polices tierces peuvent ne pas être prises en charge par certaines applications. Ce problème de compatibilité sera résolu par une prochaine mise à jour du système. Acheter quand même cette police ?</string>
     <string name="font_compat_dialog_cancel">Annuler</string>
@@ -411,6 +419,7 @@
     <string name="has_mamual_hide_aod">Cet objet est maintenant masqué</string>
     <string name="has_mamual_hide_font">Caché</string>
     <string name="has_mamual_hide_icons">Icônes cachées</string>
+    <string name="has_mamual_hide_large_icons">Super icône masquée avec succès</string>
     <string name="has_mamual_hide_theme">Caché</string>
     <string name="has_mamual_hide_wallpaper">Caché</string>
     <string name="head_portraits">Photo de profil</string>
@@ -424,6 +433,7 @@
     <string name="hide_mamual_hide_aod">"Ne pas afficher les éléments masqués"</string>
     <string name="hide_mamual_hide_font">"Ne pas afficher les polices cachées"</string>
     <string name="hide_mamual_hide_icons">"Ne pas afficher les icônes masquées"</string>
+    <string name="hide_mamual_hide_large_icons">"Ne pas afficher les super icônes masquées"</string>
     <string name="hide_mamual_hide_miwallpaper">"Ne pas afficher les effets de l'écran d'accueil masqués"</string>
     <string name="hide_mamual_hide_theme">"Ne pas afficher les thèmes cachés"</string>
     <string name="hide_mamual_hide_wallpaper">"Ne pas afficher les fonds d'écran cachés"</string>
@@ -432,6 +442,7 @@
     <string name="hide_pull_down_negative">Ne pas masquer</string>
     <string name="hide_pull_down_positive">Masquer</string>
     <string name="hide_retract_button">Masquer</string>
+    <string name="historical_wallpaper">Utilisé précédemment</string>
     <string name="home_apply_failured">"Impossible d'appliquer le fond d'écran de l'écran d'accueil"</string>
     <string name="home_apply_success">"Fond d'écran de l'écran d'accueil appliqué"</string>
     <string name="home_daily">En avant quotidiennement</string>
@@ -469,6 +480,28 @@ Pour désactiver cette fonction, accédez à Paramètres > Sons &amp; vibrations
     <string name="kuyin_user_agreement_content_href">"Politique de confidentialité d'iFlytek"</string>
     <string name="lab">Laboratoire</string>
     <string name="label">Libellé</string>
+    <string name="large_icon_apply_fail_for_in_dock">"Impossible d'utiliser les super icônes pour les applications dans le dock des applications"</string>
+    <string name="large_icon_apply_fail_for_in_folder">"Impossible d'utiliser les super icônes pour les applications dans les dossiers"</string>
+    <string name="large_icon_apply_fail_for_in_oldmode">"Les super icônes ne sont pas prises en charge en mode Lite"</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">"Impossible d'utiliser les super icônes pour les applications qui ne sont pas sur l'écran d'accueil"</string>
+    <string name="large_icon_detail_title">%s Super icônes</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Super icônes</string>
+    <string name="large_icon_detail_warning_dialog_btn_not_keep">Icônes par défaut</string>
+    <string name="large_icon_detail_warning_dialog_msg">"Certaines applications utilisent des super icônes. Continuez à utiliser des super icônes ou revenez aux icônes par défaut de votre thème ?"</string>
+    <string name="large_icon_detail_warning_dialog_title">Paramètres des super icônes</string>
+    <string name="large_icon_no_more">Rien ici pour le moment</string>
+    <string name="large_icon_no_network">Impossible de se connecter au réseau</string>
+    <string name="large_icon_not_support">Impossible de définir des icônes pour %s</string>
+    <string name="large_icon_not_support_current_type">"%s n'est pas pris en charge pour cette icône"</string>
+    <string name="large_icon_official">Par défaut</string>
+    <string name="large_icon_picker_haven">Icônes disponibles</string>
+    <string name="large_icon_picker_more">Plus</string>
+    <string name="large_icon_picker_size">"Taille de l'icône"</string>
+    <string name="large_icon_theme">Thèmes</string>
+    <string name="large_icon_to_find_more">Afficher plus</string>
+    <string name="large_icon_warning_install">Installer</string>
+    <string name="large_icon_warning_not_install">Installer %s</string>
+    <string name="large_icon_warning_not_install_msg">Installez %s pour pouvoir utiliser une super icône. Installer maintenant ?</string>
     <string name="like_list">"Articles que j'ai aimé"</string>
     <string name="live_wallpaper">"Fond d'écran dynamique"</string>
     <string name="load_from_local_photos">Galerie</string>
@@ -734,6 +767,7 @@ Afficher et utiliser les éléments que vous avez achetés ou ajoutés à vos fa
     <string name="personalize_notify_ringtone_title">Notifications</string>
     <string name="personalize_notify_style_title">Effets</string>
     <string name="personalize_recommend_switch_desc">"Recevez des recommandations de contenu personnalisées en fonction de l'ID de l'appareil"</string>
+    <string name="personalize_second_space_not_support_buy_widget">"Impossible d'acheter des widgets dans le deuxième espace"</string>
     <string name="personalize_second_space_not_support_set_font">"Impossible de changer la police dans le Deuxième espace"</string>
     <string name="personalize_theme_entrance">Thèmes</string>
     <string name="personalize_third_font">Polices</string>
@@ -1027,6 +1061,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="resource_list_title">Récemment sélectionné</string>
     <string name="resource_local_picker">Choisir une sonnerie locale</string>
     <string name="resource_menu_refresh">Actualiser</string>
+    <string name="resource_mi_ai_picker">Choisir la sonnerie Mi AI</string>
     <string name="resource_mute">Vide</string>
     <string name="resource_my">Hors-ligne</string>
     <string name="resource_network_diagnostics">Tester le réseau</string>
@@ -1143,6 +1178,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="search_sort_news">Nouveauté</string>
     <string name="search_sort_synthesize">Général</string>
     <string name="search_sort_top">Populaire</string>
+    <string name="search_view_description_clear">Effacer la recherche</string>
     <string name="selected_resource_file_invalid">Le fichier sélectionné est non valide.</string>
     <string name="send">Envoyer</string>
     <string name="server_internal_error">"Une erreur de serveur s'est produite. Attendez une minute ou deux et réessayez."</string>
@@ -1191,6 +1227,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="show_mamual_hide_aod">Afficher les éléments masqués</string>
     <string name="show_mamual_hide_font">Afficher les polices masquées</string>
     <string name="show_mamual_hide_icons">Afficher les icônes masquées</string>
+    <string name="show_mamual_hide_large_icons">Afficher les Super icônes masquées</string>
     <string name="show_mamual_hide_miwallpaper">"Afficher les effets de l'écran d'accueil masqués"</string>
     <string name="show_mamual_hide_theme">Afficher les thèmes masqués</string>
     <string name="show_mamual_hide_wallpaper">"Afficher les fonds d'écran masqués"</string>
@@ -1338,6 +1375,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="theme_component_title_framework">Limites</string>
     <string name="theme_component_title_homepage">Accueil</string>
     <string name="theme_component_title_icon">Icônes</string>
+    <string name="theme_component_title_large_icon">Super icônes</string>
     <string name="theme_component_title_launcher">Bureau</string>
     <string name="theme_component_title_lockstyle">Style de verrouillage</string>
     <string name="theme_component_title_lockwallpaper">Écran de verrouillage</string>
@@ -1480,6 +1518,7 @@ Accéder aux thèmes > Profil > Laboratoire thématique pour plus de fonctionnal
     <string name="update_no_net">Une erreur de réseau est survenue. Réessayez.</string>
     <string name="update_title">NOUVELLE MISE À JOUR DISPONIBLE</string>
     <string name="use_hint">Attention</string>
+    <string name="use_now">Ajouter</string>
     <string name="using_theme_has_update_tips">Une mise à jour de ce thème est disponible.</string>
     <string name="using_theme_next_automatic_update">Mises à jour automatiques</string>
     <string name="using_theme_next_automatic_update_summary">"Mettre à jour via Wi-Fi les thèmes téléchargés quand l'appareil est verrouillé"</string>
