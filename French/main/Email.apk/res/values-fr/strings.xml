@@ -1627,7 +1627,7 @@ Appuyer sur "&lt;b>Sync Now&lt;/b> pour synchroniser maintenant, ou &lt;b>Modifi
     <string name="x_account_settings_mibill_resolve_label_summary">Reconnaître automatiquement les factures de carte de crédit</string>
     <string name="xiaomi_email">E-mail</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Mise à jour</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="yes">Oui</string>
     <string name="yesterday">Hier</string>

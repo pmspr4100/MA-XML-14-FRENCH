@@ -598,7 +598,7 @@ Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIU
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Mise à jour</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="year_month_day_format">d MMMM yyyy</string>
     <string name="yesterday">Hier</string>

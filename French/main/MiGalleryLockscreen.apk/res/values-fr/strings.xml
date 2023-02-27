@@ -300,7 +300,7 @@ Envoyez ce code au superviseur."</string>
     <string name="input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
     <string name="later">Ne pas désactiver</string>
     <string name="launch_bg_permission_exception">"Autoriser le diaporama de fonds d'écran à afficher des fenêtres contextuelles lors de l'exécution en arrière-plan dans Sécurité"</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API basée sur SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API Android SQLite basée sur SQLCipher</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
     <string name="like">Ajouter aux favoris</string>
     <string name="liked">Ajouté aux favoris</string>
@@ -1035,7 +1035,7 @@ dd/MM"</string>
     <string name="wp_desktop_enable_title">"Diaporama de l'écran d'accueil"</string>
     <string name="wp_lockscreen_enable_title">"Diaporama de l'écran de verrouillage"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Mise à jour</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="yesterday">Hier</string>
 </resources>

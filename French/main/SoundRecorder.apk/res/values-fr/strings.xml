@@ -139,8 +139,7 @@
     <string name="korea_permission_record_resc">"Pour enregistrer de l'audio"</string>
     <string name="korea_permission_storage">Stockage</string>
     <string name="korea_permission_storage_desc">Pour sauvegarder les enregistrements</string>
-    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API basé sur SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API Android SQLite basée sur SQLCipher</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
     <string name="loading_more">Chargement…</string>
     <string name="loading_order_list">Chargement…</string>
@@ -644,7 +643,7 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="wifi_recommended_body" formatted="false">Utiliser votre connexion internet mobile pour télécharger ce fichier (%s) va consommer beaucoup de données. Si votre limite de données est dépassée, votre opérateur peut vous facturer du hors forfait. Pour attendre dêtre connecté en Wi-Fi, appuyez %s.</string>
     <string name="wifi_recommended_title">"Avertissement de l'utilisation de données"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Plus tard</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Mettre à jour</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Mise à jour</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Une mise à jour est disponible</string>
     <string name="yesterday">Hier</string>
 </resources>
