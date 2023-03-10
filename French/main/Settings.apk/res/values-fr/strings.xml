@@ -5598,7 +5598,6 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="nfc_image_preference_text_noclick">"Placez votre appareil près d'un terminal sans contact pour utiliser Mi Pay, les cartes de transport, les cartes-clés et d'autres fonctionnalités NFC. "</string>
     <string name="nfc_main_switch_title">Utiliser le NFC</string>
     <string name="nfc_more_details">Learn more</string>
-    <string name="nfc_more_title">More…</string>
     <string name="nfc_payment_btn_text_set_deault">Set default</string>
     <string name="nfc_payment_btn_text_update">Update</string>
     <string name="nfc_more_title">Plus…</string>
@@ -6631,8 +6630,6 @@ Lisez et acceptez %s avant d'utiliser ce service."</string>
     <string name="quiet_no_interruptions_mode">Mettre en silencieux toutes les alertes</string>
     <string name="quiet_off_mode">Toujours autoriser toutes les alertes</string>
     <string name="radio_controls_summary">Gérer le Wi-Fi, Bluetooth, Mode Avion, Réseaux mobiles, et VPN</string>
-
-    <string name="radio_controls_summary">Gérer le Wi-Fi, Bluetooth, Mode Avion, Réseaux mobiles, et VPN</string>
     <string name="radio_controls_title">Paramètres additionnels</string>
     <string name="radio_info_asdiv_switch_label">État ASDiv :</string>
     <string name="radio_info_band_mode_label">Sélectionner une bande radio</string>
@@ -7409,10 +7406,9 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="security_advanced_settings_work_profile_settings_summary">Work profile lock, encryption, and more</string>
     <string name="security_center_title">Sécurité</string>
     <string name="security_check_progress_dialog_message">Vérification des problèmes de sécurité…</string>
-    <string name="security_dashboard_summary">"Verrouillage de l'écran, empreinte digitale"</string>
+    <string name="security_dashboard_summary">"Verrouillage de l'écran, Trouver mon appareil, sécurité des applications"</string>
     <string name="security_dashboard_summary_face">"Verrouillage d'écran, déverrouillage facial"</string>
     <string name="security_dashboard_summary_no_fingerprint">"Verrouillage de l'écran"</string>
-    <string name="security_dashboard_summary">Screen lock, Find My Device, app security</string>
     <string name="security_enable_widgets_disabled_summary">"Désactivé par l'administrateur"</string>
     <string name="security_enable_widgets_title">Activer les widgets</string>
     <string name="security_encryption_alert_dialog_info_first">"Définir le mot de passe de l'écran de verrouillage pour activer cette fonctionnalité. Vous allez devoir entrer le mot de passe de l'écran de verrouillage chaque redémarrage pour déchiffrer et utiliser l'appareil normalement."</string>
