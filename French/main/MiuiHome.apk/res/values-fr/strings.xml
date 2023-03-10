@@ -899,9 +899,9 @@ Sécurité renforcée."</string>
     <string name="split_screen_position_top">Diviser le haut</string>
     <string name="start_activity_failed">Impossible de démarrer</string>
     <string name="starting_preset_app">Démarrage…</string>
-    <string name="status_bar_recent_memory_giga">%1$s Go</string>
+    <string name="status_bar_recent_memory_giga">%1$s Gio</string>
     <string name="status_bar_recent_memory_info1">%1$s disponible sur %2$s</string>
-    <string name="status_bar_recent_memory_mega">%1$s Mo</string>
+    <string name="status_bar_recent_memory_mega">%1$s Mio</string>
     <string name="status_downloaded">Téléchargée</string>
     <string name="status_downloading">Téléchargement en cours</string>
     <string name="status_installing">Installation</string>

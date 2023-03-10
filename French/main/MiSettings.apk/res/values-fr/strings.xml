@@ -28,7 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
   <string name="actionbar_button_up_description">Retour</string>
-  <string name="adaptive_fps_tip">- Obtenez le meilleur équilibre entre douceur et durée de vie de la batterie en ajustant dynamiquement le taux de rafraîchissement.</string>
+  <string name="adaptive_fps_tip">- Obtenez le meilleur équilibre entre fluidité et durée de vie de la batterie en ajustant dynamiquement la vitesse de rafraîchissement.</string>
   <string name="advanced_mode">Paramètres additionnels</string>
   <string name="africa_introduction">"La faune prospère en Afrique, qui abrite de nombreux animaux parmi les plus célèbres du monde."</string>
   <string name="african_bush_elephant">Éléphant de brousse africaine</string>
@@ -514,7 +514,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="screen_confirm">Activer</string>
   <string name="screen_fps_summary_power_save">Using fixed rate consumes less power</string>
   <string name="screen_fps_summary_smooth">Some apps will increase refresh rate automatically to improve picture quality</string>
-  <string name="screen_fps_title">Refresh rate</string>
+  <string name="screen_fps_title">Vitesse de rafraîchissement</string>
   <string name="screen_fps_unit_power_save">%d Hz (Économise la batterie)</string>
   <string name="screen_fps_unit_smooth">%d Hz (Meilleure qualité)</string>
   <string name="screen_original_gamut">Renforcé</string>

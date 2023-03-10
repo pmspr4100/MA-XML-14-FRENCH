@@ -652,11 +652,11 @@ Libérez au moins %s."</string>
     <string name="service_stoped">Service arrêté</string>
     <string name="settings_summary">Paramètres du téléphone et de la messagerie</string>
     <string name="size_byte">" o"</string>
-    <string name="size_giga_byte">" Go"</string>
-    <string name="size_kilo_byte">" Ko"</string>
-    <string name="size_mega_byte">" Mo"</string>
-    <string name="size_peta_byte">" Po"</string>
-    <string name="size_tera_byte">" To"</string>
+    <string name="size_giga_byte">" Gio"</string>
+    <string name="size_kilo_byte">" Kio"</string>
+    <string name="size_mega_byte">" Mio"</string>
+    <string name="size_peta_byte">" Pio"</string>
+    <string name="size_tera_byte">" Tio"</string>
     <string name="sms_title">SMS</string>
     <string name="soft_ap_create_failed">"Impossible de créer le point d'accès"</string>
     <string name="soft_ap_creating">"Création d'un point d'accès…"</string>
@@ -845,7 +845,7 @@ pour télécharger et installer Mi Transfert."</string>
     <string name="trans_intro_desc_3">Annulez le transfert, quittez Mi Transfert et recommencez. Les fichiers en double seront écrasés au cours du nouveau transfert.</string>
     <string name="trans_intro_desc_4">"Mi Transfert utilise Wi-Fi pour transférer des fichiers. C'est pourquoi vous ne pouvez pas vous connecter à internet en utilisant Wi-Fi sur l'un ou l'autre périphérique pendant un transfert. Vous pouvez toujours utiliser des données mobiles. Cependant, certains périphériques plus récents (par exemple, Mi 6) pourraient toujours se connecter à internet en utilisant Wi-Fi pendant les transferts."</string>
     <string name="trans_intro_desc_4_market">"Mi Transfert utilise le Wi-Fi pour transférer les fichiers. C'est pourquoi vous ne pouvez pas vous connecter à internet avec le Wi-Fi sur les deux appareils pendant le transfert. Vous pouvez cependant continuer à utiliser les données mobiles."</string>
-    <string name="trans_intro_desc_5">"L'espace de stockage sur les anciens appareils est utilisé pour la création des paquets de transferts. Assurez-vous que vous avez au moins 500 Mo à 1 Go d'espace de stockage disponible sur votre ancien téléphone avant de commencer le transfert."</string>
+    <string name="trans_intro_desc_5">"L'espace de stockage sur les anciens appareils est utilisé pour la création des paquets de transferts. Assurez-vous que vous avez au moins 500 Mio à 1 Gio d'espace de stockage disponible sur votre ancien téléphone avant de commencer le transfert."</string>
     <string name="trans_intro_desc_6">"Il existe plusieurs raisons pour lesquelles cela peut se produire : Des problèmes de compatibilité de la version du système et de l'application, des problèmes de réseau, des problèmes de compatibilité spécifiques à un périphérique particulier, etc."</string>
     <string name="trans_intro_desc_7">"Certains profils d'applications (e-banking, finance, etc.) sont associés à un périphérique spécifique pour des raisons de sécurité. Essayez d'effacer les données de l'application ou de réinstaller l'application sur un nouvel appareil."</string>
     <string name="trans_intro_desc_8">"Les données de l'application WeChat et l'historique des conversations peuvent ne pas être transférés intégralement via Mi Transfert. Accédez aux paramètres de WeChat et déconnectez-vous de votre compte pour obtenir plus de chances pour un transfert réussi."</string>

@@ -765,7 +765,7 @@ Are you sure you want to navigate away from this page ?"</string>
   <string name="navigate_feedback_submit">Submit</string>
   <string name="navigation_delete_all">Swipe left and right to close all tabs</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Annuler</string>
-  <string name="navigationbar_rightbutton_actiontext_go">" Go"</string>
+  <string name="navigationbar_rightbutton_actiontext_go">" Gio"</string>
   <string name="navigationbar_rightbutton_actiontext_search">Rechercher</string>
   <string name="network_error_tips">A network error occurred. Try again.</string>
   <string name="network_not_available_comment">No internet connection, unable to comment</string>
@@ -989,7 +989,7 @@ Are you sure you want to navigate away from this page ?"</string>
   <string name="screenshot_loading_dialog_title">Capture</string>
   <string name="sdcard_error">Vérifiez votre carte SD</string>
   <string name="search">Recherche</string>
-  <string name="search_button_text">" Go"</string>
+  <string name="search_button_text">" Gio"</string>
   <string name="search_description">Barre de recherche</string>
   <string name="search_hint">Recherche</string>
   <string name="search_history">Search history</string>

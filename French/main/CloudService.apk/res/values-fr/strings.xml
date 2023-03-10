@@ -432,8 +432,8 @@
     <string name="micloud_storage_full_tip">Le stockage est plein</string>
     <string name="micloud_storage_normal_tip">%s restant</string>
     <string name="micloud_storage_share_family">Partage familial</string>
-    <string name="micloud_storage_unit_gb">%s Go</string>
-    <string name="micloud_storage_unit_mb">%s Mo</string>
+    <string name="micloud_storage_unit_gb">%s Gio</string>
+    <string name="micloud_storage_unit_mb">%s Mio</string>
     <string name="micloud_sync_alert_dialog_message">Synchronisez vos photos, contacts, notes et plus encore sur tous vos appareils.</string>
     <string name="micloud_sync_alert_dialog_message_v2">Synchronisez vos photos, contacts, notes et plus encore sur tous vos appareils.</string>
     <string name="micloud_sync_alert_dialog_negative">Annuler</string>
