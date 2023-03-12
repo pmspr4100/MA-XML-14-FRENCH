@@ -1529,6 +1529,7 @@ pour ajouter des livres sur le bureau"</string>
     <string name="mw_common_open_on_phone">Ouvrir sur le téléphone</string>
     <string name="mw_common_signin_button_text">"S'identifier"</string>
     <string name="mw_common_signin_button_text_long">Connectez-vous avec Google</string>
+    <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Impossible de copier dans le presse-papiers</string>
     <string name="mw_data_traffic_prompt_change">"L'utilisation de votre connexion de données mobiles pour diffuser des vidéos augmentera votre utilisation des données. Si vous dépassez la limite d'utilisation des données de votre forfait, votre opérateur vous facturera des frais supplémentaires."</string>
     <string name="mw_data_traffic_prompt_message">"L'utilisation de votre connexion de données mobiles pour diffuser des vidéos augmentera votre utilisation des données. Si vous dépassez la limite d'utilisation des données de votre forfait, votre opérateur vous facturera des frais supplémentaires."</string>
