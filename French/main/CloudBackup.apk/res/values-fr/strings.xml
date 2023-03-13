@@ -506,8 +506,8 @@ Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
     <string name="start_backup_to_micloud">Sauvegarder des applications sur Xiaomi Cloud</string>
     <string name="start_recover">Restaurer %s</string>
-    <string name="storage_unit_gb">%s Go</string>
-    <string name="storage_unit_mb">%s Mo</string>
+    <string name="storage_unit_gb">%s Gio</string>
+    <string name="storage_unit_mb">%s Mio</string>
     <string name="success_open_cloudbackup">Sauvegarde des applications activée</string>
     <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Données WeChat sauvegardées. Appuyez pour plus de détails.</string>
     <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Sauvegarde automatique terminée</string>

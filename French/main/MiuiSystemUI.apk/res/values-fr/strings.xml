@@ -2362,9 +2362,9 @@ Il peut surchauffer si vous :
     <string name="touch_filtered_warning">"Étant donné qu'une application masque une demande d'autorisation, les paramètres ne peuvent pas vérifier votre réponse."</string>
     <string name="track_frame_time">Rendu du profil HWUI</string>
     <string name="traffic_unit_byte">" o"</string>
-    <string name="traffic_unit_gigabyte">" Go"</string>
-    <string name="traffic_unit_kilobyte">" Ko"</string>
-    <string name="traffic_unit_megabyte">" Mo"</string>
+    <string name="traffic_unit_gigabyte">" Gio"</string>
+    <string name="traffic_unit_kilobyte">" Kio"</string>
+    <string name="traffic_unit_megabyte">" Mio"</string>
     <string name="transition_animation_scale_title">"Échelle de l'animation de transition"</string>
     <string name="tts_default_lang_summary">Définir une langue spécifique pour le texte lu</string>
     <string name="tts_default_lang_title">Langue</string>

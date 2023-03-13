@@ -188,7 +188,7 @@
     <string name="file_picker_title">Sélectionner des éléments</string>
     <string name="file_send_no_support">Impossible de partager des fichiers de ce type</string>
     <string name="file_size_is_zero">La taille du fichier doit être supérieure à 0</string>
-    <string name="file_size_lager_than_4g">La taille du fichier ne peut pas dépasser 4 Go</string>
+    <string name="file_size_lager_than_4g">La taille du fichier ne peut pas dépasser 4 Gio</string>
     <string name="file_sort_create_time">Trier par date de création</string>
     <string name="file_sort_modify_time">Trier par date de modification</string>
     <string name="file_sort_name">Trier par nom</string>

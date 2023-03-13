@@ -2025,9 +2025,9 @@ Il ne montre rien."</string>
     <string name="video_noyet_download_tip">Cette vidéo est toujours en cours de téléchargement</string>
     <string name="video_offline">"Ce produit n'est plus disponible"</string>
     <string name="video_resolution_b_size_suffix">%.2f o</string>
-    <string name="video_resolution_gb_size_suffix">%.2f Go</string>
-    <string name="video_resolution_kb_size_suffix">%.2f Ko</string>
-    <string name="video_resolution_mb_size_suffix">%.2f Mo</string>
+    <string name="video_resolution_gb_size_suffix">%.2f Gio</string>
+    <string name="video_resolution_kb_size_suffix">%.2f Kio</string>
+    <string name="video_resolution_mb_size_suffix">%.2f Mio</string>
     <string name="view">Afficher</string>
     <string name="vip_skip">Devenez VIP pour sauter la publicité</string>
     <string name="vk_video_tab">Pour vous</string>
