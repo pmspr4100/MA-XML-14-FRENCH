@@ -374,13 +374,11 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="branch_grant_permission">Autorisations requises</string>
     <string name="branch_local_search_settings">Paramètres de recherche locale</string>
     <string name="branch_search_bar_tips">Rechercher des applications et des jeux</string>
-    <string name="branch_search_guide_privacy">"Cette fonctionnalité est fournie par Branch Metrics Inc. Nous partagerons votre position, vos recherches et votre identifiant Google Ads avec eux. Lisez et acceptez leur "<font color="#B3000000"><a href="http://url1">Conditions générales</a></font> et <font color="#B3000000"><a href="http://url2">Politique de confidentialité</a></font> avant de continuer.</string>
     <string name="branch_search_in_browser">Rechercher \"%1$s\" dans le navigateur</string>
     <string name="branch_setting">Paramètres</string>
     <string name="branch_short_message">Messagerie</string>
     <string name="branch_shortcuts">Raccourcis</string>
     <string name="branch_show_more">Plus</string>
-    <string name="branch_terms_condition">Termes et conditions</string>
     <string name="branch_trending_google_news">Google Actualités</string>
     <string name="branch_trending_youtube_news">YouTube</string>
     <string name="branch_viewpage_title_app_recommend">Recommandé</string>
@@ -654,7 +652,6 @@ Envoyez ce code au superviseur."</string>
     <string name="dialog_channel_cancel">Annuler</string>
     <string name="dialog_channel_confirm">OK</string>
     <string name="dialog_channel_remove_content">La suppression de tous les canaux supprimera également le flux de contenu.</string>
-    <string name="dialog_game_banner">Découvrez les jeux populaires !</string>
     <string name="dialog_game_close">Annuler</string>
     <string name="dialog_game_play">Lire</string>
     <string name="discovery__edit_feed_item_view__desc_hint">+ ajouter une introduction</string>
@@ -2320,14 +2317,12 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="privacy_disagree">"Je ne suis pas d'accord"</string>
     <string name="privacy_improve_performance">"Programme d'expérience utilisateur"</string>
     <string name="privacy_improve_performance_desc">"Permettre à Xiaomi de collecter et d'analyser les données des utilisateurs afin d'améliorer nos produits et services"</string>
-    <string name="privacy_local_app_discovery">Découvrir des applications locales</string>
     <string name="privacy_message">"Avant d'utiliser le Navigateur, vous devez accepter notre &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5;>Contrat utilisateur&lt;/a>&lt;/font> et notre &lt;font color=#4086f5>&lt;a href=%2$s style=color:#4086f5;>Politique de confidentialité&lt;/a>&lt;/font>."</string>
     <string name="privacy_message_main_tips_first">"Mi Browser doit collecter les informations personnelles nécessaires pour vous fournir les services de base. Vous pouvez apprendre comment nous traitons les informations que nous collectons dans notre &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Politique de confidentialité&lt;/a>&lt;/font>. Vous pouvez toujours retirer votre consentement à la Politique de confidentialité de Mi Browser dans Paramètres > Confidentialité &amp; Sécurité. Lisez et acceptez notre &lt;font color=#0a84ff>&lt;a href=%2$s style=color:#0a84ff;>Accord de l'utilisateur&lt;/a>&lt;/font> et notre &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Politique de confidentialité&lt;/a>&lt;/font> avant d'utiliser Mi Browser."</string>
     <string name="privacy_message_main_tips_second">"Pour pouvoir rechercher des applications sur cet appareil et savoir quelles applications sont installées, Mi Browser doit accéder aux informations d'installation de l'application, qui ne seront pas enregistrées localement ni téléchargées sous quelque forme que ce soit."</string>
     <string name="privacy_message_welcome">Bienvenue sur Mi Browser ! Notre application fournit les services suivants :</string>
     <string name="privacy_message_welcome_tip_first">- Une navigation web rapide et sécurisée</string>
     <string name="privacy_message_welcome_tip_second">"- Le téléchargement d'images et de vidéos à partir de plateformes de médias sociaux"</string>
-    <string name="privacy_new_function">Nouvelle fonctionnalité</string>
     <string name="privacy_permission_name">Ne pas autoriser le suivi de votre activité</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="privacy_reset_fail">Impossible de réinitialiser. Réessayer.</string>
