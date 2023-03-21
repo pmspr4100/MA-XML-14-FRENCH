@@ -46,8 +46,8 @@
     <string name="accelerometer_summary_off">"Changer automatiquement d'orientation lors de la rotation du téléphone"</string>
     <string name="accelerometer_summary_on">"Changer automatiquement d'orientation lors de la rotation du téléphone"</string>
     <string name="accelerometer_title">"Rotation automatique de l'écran"</string>
-    <string name="accept_new_connection">Allow connecting to new devices</string>
-    <string name="accept_new_connection_detail">New connections were restricted in Control center</string>
+    <string name="accept_new_connection">Autoriser la connexion à de nouveaux appareils</string>
+    <string name="accept_new_connection_detail">Les nouvelles connexions ont été restreintes dans le centre de contrôle</string>
     <string name="access_control_app_entry_multiple">Ouvrir %s</string>
     <string name="access_control_app_entry_single">"Ouvrir l'application"</string>
     <string name="access_control_need_password">"%s a été protégé
@@ -59,15 +59,15 @@
     <string name="access_control_reset_by_account">Se connecter à votre Compte Xiaomi pour réinitialiser le mot de passe</string>
     <string name="access_denied_info">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
     <string name="access_point_names">"Noms des points d'accès"</string>
-    <string name="accessibility_alarm_vibration_title">Alarm vibration</string>
+    <string name="accessibility_alarm_vibration_title">"Vibration d'alarme"</string>
     <string name="accessibility_audio_adjustment_title">Ajustement audio</string>
-    <string name="accessibility_audio_description_summary">Hear a description of what’s happening on screen in supported movies and shows</string>
-    <string name="accessibility_autoclick_about_title">About autoclick (dwell timing)</string>
+    <string name="accessibility_audio_description_summary">"Écoutez une description de ce qui se passe à l'écran dans les films et émissions compatibles"</string>
+    <string name="accessibility_autoclick_about_title">"À propos du clic automatique (durée d'attente)"</string>
     <string name="accessibility_autoclick_custom_title">Personnalisé</string>
     <string name="accessibility_autoclick_default_title">Désactivé</string>
     <string name="accessibility_autoclick_description">"Si vous utilisez une souris, vous pouvez configurer votre appareil de sorte qu'un clic s'effectue automatiquement lorsque le curseur s'immobilise pendant un certain laps de temps."</string>
-    <string name="accessibility_autoclick_footer_learn_more_content_description">Learn more about autoclick (dwell timing)</string>
-    <string name="accessibility_autoclick_intro_text">You can set a connected mouse to click automatically when the cursor stops moving for a certain amount of time</string>
+    <string name="accessibility_autoclick_footer_learn_more_content_description">"En savoir plus sur le clic automatique (temps d'attente)"</string>
+    <string name="accessibility_autoclick_intro_text">"Vous pouvez configurer une souris connectée pour qu'elle clique automatiquement lorsque le curseur s'arrête de bouger pendant un certain temps"</string>
     <string name="accessibility_autoclick_long_summary">1 seconde</string>
     <string name="accessibility_autoclick_long_title">Long</string>
     <string name="accessibility_autoclick_longer_desc">Plus long</string>
@@ -80,23 +80,23 @@
     <string name="accessibility_autoclick_shorter_desc">Plus court</string>
     <string name="accessibility_back">Retour</string>
     <string name="accessibility_banner_message_dismiss">Rejeter</string>
-    <string name="accessibility_button_about_title">About accessibility button</string>
-    <string name="accessibility_button_description"><b>To get started</b>"
-1. Go to accessibility settings
-2. Select a feature and tap the shortcut
-3. Choose the button to access the feature"</string>
+    <string name="accessibility_button_about_title">"À propos du bouton d'accessibilité"</string>
+    <string name="accessibility_button_description"><b>Pour commencer</b>"
+1. Accédez aux paramètres d'accessibilité
+2. Sélectionnez une fonctionnalité et appuyez sur le raccourci
+3. Choisissez le bouton pour accéder à la fonctionnalité"</string>
     <string name="accessibility_button_fade_summary">"S'estompe après quelques secondes pour mieux voir votre écran"</string>
     <string name="accessibility_button_fade_title">"Estompement lorsqu'il n'est pas utilisé"</string>
-    <string name="accessibility_button_gesture_about_title">About accessibility button &amp; gesture</string>
-    <string name="accessibility_button_gesture_description"><b>To get started</b>"
-1. Go to accessibility settings
-2. Select a feature and tap the shortcut
-3. Choose whether you want to use a button or gesture to access the feature"</string>
-    <string name="accessibility_button_gesture_footer_learn_more_content_description">Learn more about accessibility button &amp; gesture</string>
-    <string name="accessibility_button_gesture_title">"Bouton d'accessibilité &amp; gestes"</string>
+    <string name="accessibility_button_gesture_about_title">"À propos du bouton d'accessibilité et geste"</string>
+    <string name="accessibility_button_gesture_description"><b>Pour commencer</b>"
+1. Accédez aux paramètres d'accessibilité
+2. Sélectionnez une fonctionnalité et appuyez sur le raccourci
+3. Choisissez si vous souhaitez utiliser un bouton ou un geste pour accéder à la fonctionnalité"</string>
+    <string name="accessibility_button_gesture_footer_learn_more_content_description">"En savoir plus sur le bouton d'accessibilité et geste"</string>
+    <string name="accessibility_button_gesture_title">"Bouton d'accessibilité et gestes"</string>
     <string name="accessibility_button_high_label">Non transparent</string>
     <string name="accessibility_button_intro">"Utilisation du bouton d'accessibilité. Le geste n'est pas disponible avec la navigation à 3 boutons."</string>
-    <string name="accessibility_button_intro_text">Quickly access accessibility features from any screen</string>
+    <string name="accessibility_button_intro_text">"Accédez rapidement aux fonctions d'accessibilité depuis n'importe quel écran"</string>
     <string name="accessibility_button_location_title">Position</string>
     <string name="accessibility_button_low_label">Transparent</string>
     <string name="accessibility_button_opacity_title">Transparence hors utilisation</string>
@@ -104,34 +104,34 @@
     <string name="accessibility_button_size_title">Taille</string>
     <string name="accessibility_button_summary">"Accédez rapidement aux fonctionnalités d'accessibilité"</string>
     <string name="accessibility_button_title">"Bouton d'accessibilité"</string>
-    <string name="accessibility_call_vibration_category_title">Calls</string>
-    <string name="accessibility_caption_preference_intro">Customize caption size and style to make them easier to read</string>
+    <string name="accessibility_call_vibration_category_title">Appels</string>
+    <string name="accessibility_caption_preference_intro">Personnalisez la taille et le style des légendes pour les rendre plus faciles à lire</string>
     <string name="accessibility_caption_preference_summary">Toutes les applications ne prennent pas en charge ces préférences de sous-titres</string>
     <string name="accessibility_caption_primary_switch_summary">"Pour l'application prise en charge uniquement"</string>
     <string name="accessibility_caption_primary_switch_title">Afficher les sous-titres</string>
-    <string name="accessibility_captioning_about_title">About caption preferences</string>
-    <string name="accessibility_captioning_footer_learn_more_content_description">Learn more about caption preferences</string>
+    <string name="accessibility_captioning_about_title">À propos des préférences de sous-titres</string>
+    <string name="accessibility_captioning_footer_learn_more_content_description">En savoir plus sur les préférences de sous-titres</string>
     <string name="accessibility_captioning_title">Préférences sous-titres</string>
     <string name="accessibility_category_personal">Comptes de profils personnels</string>
     <string name="accessibility_category_work">Comptes de profils professionnels – %s</string>
     <string name="accessibility_clear">Effacer</string>
     <string name="accessibility_close_tab">"Fermer l'onglet actuel"</string>
-    <string name="accessibility_color_correction_auto_added_qs_tooltip_content">Color correction added to Quick Settings. Swipe down to turn it on or off anytime.</string>
-    <string name="accessibility_color_correction_qs_tooltip_content">You can also add color correction to Quick Settings from the top of your screen</string>
-    <string name="accessibility_color_inversion_about_title">About color inversion</string>
-    <string name="accessibility_color_inversion_auto_added_qs_tooltip_content">Color inversion added to Quick Settings. Swipe down to turn it on or off anytime.</string>
-    <string name="accessibility_color_inversion_footer_learn_more_content_description">Learn more about color inversion</string>
-    <string name="accessibility_color_inversion_qs_tooltip_content">You can also add color inversion to Quick Settings from the top of your screen</string>
-    <string name="accessibility_control_timeout_about_title">About time to take action (Accessibility timeout)</string>
-    <string name="accessibility_control_timeout_footer_learn_more_content_description">Learn more about time to take action (Accessibility timeout)</string>
-    <string name="accessibility_control_timeout_preference_intro_text">Choose how long to show temporary messages that ask you to take action</string>
-    <string name="accessibility_control_timeout_preference_summary">This timing preference isn’t supported by all apps</string>
+    <string name="accessibility_color_correction_auto_added_qs_tooltip_content">"Correction des couleurs ajoutée aux paramètres rapides. Balayez vers le bas pour l'activer ou la désactiver à tout moment."</string>
+    <string name="accessibility_color_correction_qs_tooltip_content">Vous pouvez également ajouter une correction des couleurs aux paramètres rapides depuis le haut de votre écran</string>
+    <string name="accessibility_color_inversion_about_title">"À propos de l'inversion des couleurs"</string>
+    <string name="accessibility_color_inversion_auto_added_qs_tooltip_content">"Inversion des couleurs ajoutée aux paramètres rapides. Balayez vers le bas pour l'activer ou la désactiver à tout moment."</string>
+    <string name="accessibility_color_inversion_footer_learn_more_content_description">"En savoir plus sur l'inversion des couleurs"</string>
+    <string name="accessibility_color_inversion_qs_tooltip_content">Vous pouvez également ajouter une inversion des couleurs aux paramètres rapides depuis le haut de votre écran</string>
+    <string name="accessibility_control_timeout_about_title">"Il est temps d'agir (Délai d'expiration de l'accessibilité)"</string>
+    <string name="accessibility_control_timeout_footer_learn_more_content_description">"En savoir plus sur le délai d'action (délai d'expiration de l'accessibilité)"</string>
+    <string name="accessibility_control_timeout_preference_intro_text">"Choisissez la durée d'affichage des messages temporaires vous demandant d'agir"</string>
+    <string name="accessibility_control_timeout_preference_summary">"Cette préférence de synchronisation n'est pas prise en charge par toutes les applications"</string>
     <string name="accessibility_control_timeout_preference_title">"Il est temps d'agir"</string>
-    <string name="accessibility_daltonizer_about_intro_text">Adjust how colors display on your phone</string>
-    <string name="accessibility_daltonizer_about_title">About color correction</string>
-    <string name="accessibility_daltonizer_footer_learn_more_content_description">Learn more about color correction</string>
+    <string name="accessibility_daltonizer_about_intro_text">"Ajustez l'affichage des couleurs sur votre téléphone"</string>
+    <string name="accessibility_daltonizer_about_title">À propos de la correction des couleurs</string>
+    <string name="accessibility_daltonizer_footer_learn_more_content_description">En savoir plus sur la correction des couleurs</string>
     <string name="accessibility_daltonizer_primary_switch_title">Utiliser la correction des couleurs</string>
-    <string name="accessibility_daltonizer_shortcut_title">Color correction shortcut</string>
+    <string name="accessibility_daltonizer_shortcut_title">Raccourci de correction des couleurs</string>
     <string name="accessibility_data_one_bar">Une barre de données.</string>
     <string name="accessibility_data_signal_full">Signal de données complet.</string>
     <string name="accessibility_data_three_bars">Trois barres de données.</string>
@@ -142,13 +142,13 @@
     <string name="accessibility_dialog_button_deny">Refuser</string>
     <string name="accessibility_dialog_button_stop">Arrêter</string>
     <string name="accessibility_disable_animations">Supprimer les animations</string>
-    <string name="accessibility_disable_animations_summary">Reduce movement on the screen</string>
+    <string name="accessibility_disable_animations_summary">"Réduire les mouvements à l'écran"</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">"Réglez l'affichage des couleurs sur votre appareil. Cela peut être utile lorsque vous souhaitez :<ol><li><br/><br/> Voir les couleurs avec plus de précision</li><li>Supprimer les couleurs pour vous aider à vous concentrer</li></ol>"</string>
     <string name="accessibility_display_daltonizer_preference_title">Correction des couleurs</string>
-    <string name="accessibility_display_inversion_preference_intro_text">Color inversion turns light screens dark. It also turns dark screens light.</string>
+    <string name="accessibility_display_inversion_preference_intro_text">"L'inversion des couleurs assombrit les écrans lumineux. Il éclaircit également les écrans sombres."</string>
     <string name="accessibility_display_inversion_preference_subtitle">Peut affecter les performances</string>
     <string name="accessibility_display_inversion_preference_title">Inversion des couleurs</string>
-    <string name="accessibility_display_inversion_shortcut_title">Color inversion shortcut</string>
+    <string name="accessibility_display_inversion_shortcut_title">"Raccourci d'inversion des couleurs"</string>
     <string name="accessibility_display_inversion_switch_title">"Utiliser l'inversion des couleurs"</string>
     <string name="accessibility_enable">Accessibilité</string>
     <string name="accessibility_ethernet_connected">Ethernet.</string>
