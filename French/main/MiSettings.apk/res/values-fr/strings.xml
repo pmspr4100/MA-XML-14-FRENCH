@@ -517,6 +517,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="screen_fps_title">Vitesse de rafraîchissement</string>
   <string name="screen_fps_unit_power_save">%d Hz (Économise la batterie)</string>
   <string name="screen_fps_unit_smooth">%d Hz (Meilleure qualité)</string>
+  <string name="screen_fps_unit_string">%s Hz</string>
   <string name="screen_original_gamut">Renforcé</string>
   <string name="screen_original_gamut_summary">"Afficher tout le contenu de l'écran dans la gamme de couleurs la plus large possible"</string>
   <string name="screen_paper_mode_apps_loading">Chargement…</string>

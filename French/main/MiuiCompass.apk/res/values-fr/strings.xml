@@ -41,9 +41,9 @@
   <string name="app_description_content">"Boussole est une application système. Vous ne pourrez pas l'utiliser pour vérifier les directions, les coordonnées, la pression atmosphérique et l'altitude actuelle après l'avoir désinstallée."</string>
   <string name="app_label">Boussole</string>
   <string name="app_name">blur</string>
-  <string name="calibrate_failed">"L'étalonnage de l'altitude a échoué"</string>
-  <string name="calibrate_failed_no_location">Étalonnage échoué</string>
-  <string name="calibrate_failed_timeout">Impossible de se connecter au serveur</string>
+  <string name="calibrate_failed">"Impossible de calibrer l'altitude"</string>
+  <string name="calibrate_failed_no_location">"Impossible de calibrer. Une erreur de localisation s'est produite"</string>
+  <string name="calibrate_failed_timeout">"Impossible de calibrer. Une erreur du serveur s'est produite"</string>
   <string name="calibrate_rotate_again">Réessayez</string>
   <string name="calibrate_success">Étalonnée</string>
   <string name="calibrate_tip">Inclinez votre appareil pour mettre la balle dans le cercle</string>
