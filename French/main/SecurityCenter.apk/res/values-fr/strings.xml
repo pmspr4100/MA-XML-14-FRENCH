@@ -3548,7 +3548,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pm_auto_start_proc_is_running">En cours</string>
     <string name="pm_newfeature_sub_text">NOUVEAU</string>
     <string name="pm_remember_choice">Se souvenir de mon choix</string>
-    <string name="pm_root_success_notification_infomation">Assurez-vous de comprendre les risques liés à l'accès root</string>
+    <string name="pm_root_success_notification_infomation">"Assurez-vous de comprendre les risques liés à l'accès root"</string>
     <string name="power_5g_popups_content">Les réseaux 5G offrent une vitesse de connexion élevée et une latence plus faible.</string>
     <string name="power_5g_popups_title">Utiliser les réseaux 5G</string>
     <string name="power_ambient_display">Affichage Always-on</string>

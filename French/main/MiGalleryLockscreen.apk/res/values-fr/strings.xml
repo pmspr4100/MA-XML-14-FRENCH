@@ -654,7 +654,6 @@ dd/MM"</string>
     <string name="passport_user_id_hint">E-mail/numéro de téléphone/identifiant de Compte Xiaomi</string>
     <string name="passport_user_id_intro">Entrez le mot de passe pour %1$s</string>
     <string name="passport_user_password_hint">Mot de passe</string>
-    <string name="passport_vcode_what_app_send_prompt">Votre code de vérification WhatsApp sera envoyé à votre téléphone de récupération (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">"Installez d'abord WeChat"</string>
     <string name="passport_wrong_captcha">Le code que vous avez entré est incorrect</string>
     <string name="passport_wrong_phone_number_format">"Le format du numéro de téléphone que vous avez entré n'est pas valide"</string>

@@ -42,7 +42,7 @@
     <string name="app_name">Calculatrice</string>
     <string name="app_notification_info">La calculatrice fonctionne en arrière-plan</string>
     <string name="base_rate">"Taux d'intérêt de base"</string>
-    <string name="bmi_error_text">"Cet IMC ne semble pas correct. Assurez-vous que la taille et le poids que vous avez saisis sont corrects."</string>
+    <string name="bmi_error_text">Entrez des paramètres valides</string>
     <string name="bmi_label_information">Information</string>
     <string name="bmi_label_normal">Normal</string>
     <string name="bmi_label_overweight">En surpoids</string>
@@ -171,6 +171,7 @@
     <string name="install_scanner_to_continued_use">Scanner est désinstallé. Installer à nouveau ?</string>
     <string name="interest_rate_hint">"Entrer le taux d'intérêt"</string>
     <string name="investment_invalid_duration">"La durée de l'investissement doit être supérieure à zéro"</string>
+    <string name="investment_loan_result">Détails</string>
     <string name="investment_type_once">Une fois</string>
     <string name="investment_type_recurring">Récurrent</string>
     <string name="item_page_title_investment">"Calculateur d'investissement"</string>
@@ -526,7 +527,6 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
     <string name="tax_result_real_get">Après taxe</string>
     <string name="tax_social_insurance">Assurance sociale</string>
     <string name="tax_thershold_foreign">%s (Ressortissants étrangers)</string>
-    <string name="tax_thershold_native">%s (Chine Continentale)</string>
     <string name="tax_thershold_native_new">%s (nouveau)</string>
     <string name="tax_thershold_native_new_description">Les taxes seront calculées selon la nouvelle loi fiscale à partir de 1er octobre 2018</string>
     <string name="tax_threshold">"Taxe d'exonération d'impôt"</string>
@@ -730,7 +730,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">Fathom</string>
     <string name="unit_data_display_length_ft">Pied</string>
-    <string name="unit_data_display_length_fur">Femara</string>
+    <string name="unit_data_display_length_fur">Furlong</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">Pouce</string>

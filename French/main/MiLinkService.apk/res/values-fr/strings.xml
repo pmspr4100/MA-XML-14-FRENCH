@@ -454,6 +454,7 @@ Lisez et acceptez notre &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et notre &l
     <string name="toast_msg_for_multi_window">"Impossible d'utiliser cette fonctionnalité avec l'Écran divisé"</string>
     <string name="toast_msg_for_small_window">"Vous pouvez réduire la fenêtre en cours de diffusion pour pouvoir utiliser d'autres fonctionnalités de votre téléphone sans interrompre le processus de diffusion."</string>
     <string name="toast_nfc_dont_move">"N'éloignez pas votre téléphone"</string>
+    <string name="toast_nfc_same_wifi">Connectez votre téléviseur et cet appareil au même réseau</string>
     <string name="toast_title_for_small_window">"Sélectionnez \"Réduire la fenêtre\" dans l'application"</string>
     <string name="toast_turn_off_hotspot_before_cast">"Désactiver le point d'accès portable avant de diffuser"</string>
     <string name="today">"Aujourd'hui"</string>

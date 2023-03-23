@@ -162,14 +162,13 @@
     <string name="common_downloading">Téléchargements…</string>
     <string name="common_format_date_no_year">dd/MM</string>
     <string name="common_skip">Suivant</string>
-    <string name="community_community_message_trigger_summary">"Recevez des notifications sur les réponses, les mentions J'aime et les mises à jour du statut de la communauté Mi en utilisant votre identifiant de Compte Xiaomi"</string>
+    <string name="community_community_message_trigger_summary">"Recevez des notifications sur les réponses, les mentions J'aime et les mises à jour du statut de la communauté Xiaomi en utilisant votre identifiant de Compte Xiaomi"</string>
     <string name="community_community_message_trigger_title">"Notifier l'activité"</string>
     <string name="community_cta_dialog_cancel">Non merci</string>
-    <string name="community_cta_dialog_des">Les thèmes tiers prennent désormais en charge le widget Mi Community. Autorisez les thèmes à accéder à votre ID de Compte Xiaomi et aux statuts de la communauté Mi associés au compte pour pouvoir les consulter ici.</string>
+    <string name="community_cta_dialog_des">Les thèmes tiers prennent désormais en charge le widget de la communauté Xiaomi. Autorisez les thèmes à accéder à votre ID de Compte Xiaomi et aux statuts de la communauté Xiaomi associés au compte pour pouvoir les consulter ici.</string>
     <string name="community_cta_dialog_ok">Autoriser</string>
     <string name="community_cta_dialog_title">Autorisations requises</string>
-    <string name="community_entrance_summary">Trouvez du contenu lié à un thème dans Mi Community. Cette fonctionnalité est prise en charge par des thèmes sélectionnés.</string>
-    <string name="community_entrance_title">"Widget d'horloge Mi Community"</string>
+    <string name="community_entrance_title">"Widget d'horloge de la communauté Xiaomi"</string>
     <string name="community_message_trigger_disabled">Désactiver</string>
     <string name="community_message_trigger_triggered">Activer</string>
     <string name="component_backup_preference_title">Sauvegarder le thème</string>
@@ -917,7 +916,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="pull_down_view_refresh">Actualiser</string>
     <string name="pull_down_view_title">"Quoi de neuf"</string>
     <string name="purchased">Commandes</string>
-    <string name="read_and_agree_account_privacy"><Data>"J'ai lu et j'accepte le &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a>&lt;/font> du Compte Xiaomi et la &lt; font color=\"#37A5FF\">&lt;a href=\"%4$s\">Politique de confidentialité&lt;/a>&lt;/font>."</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>"J'ai lu et j'accepte le &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrat d'utilisation&lt;/a>&lt;/font> du Compte Xiaomi et la &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Politique de confidentialité&lt;/a>&lt;/font>."</Data></string>
     <string name="recently_used">Récemment utilisé</string>
     <string name="recommend_trigger">Recommandations personnalisées </string>
     <string name="recommend_trigger_summary">Activez-le pour recevoir des recommandations en fonction de vos préférences</string>
@@ -1208,7 +1207,6 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="share_save_success">Enregistré avec succès</string>
     <string name="share_save_to_photo">Galerie</string>
     <string name="share_theme_content_text">"Vous pouvez télécharger un thème incroyable \"%1$s\" ici : %2$s. Depuis "</string>
-    <string name="share_vipaccount">Communauté Mi</string>
     <string name="share_wallpaper_content_text">"Vous pouvez télécharger un fond d'écran incroyable \"%1$s\" ici : %2$s. Depuis "</string>
     <string name="shortcut_add">Ajouter</string>
     <string name="shortcut_cancel">Non merci</string>
@@ -1509,7 +1507,7 @@ Accéder aux thèmes > Profil > Laboratoire thématique pour plus de fonctionnal
     <string name="update_btn">METTRE À JOUR MAINTENANT</string>
     <string name="update_check">Rechercher des mises à jour</string>
     <string name="update_checking">Recherche de nouvelles mises à jour…</string>
-    <string name="update_community_tip">Mettre à jour Mi Community pour activer cette fonction</string>
+    <string name="update_community_tip">Mettre à jour la communauté Xiaomi pour activer cette fonction</string>
     <string name="update_downloading">Téléchargement des mises à jour…</string>
     <string name="update_fail">"Impossible d'obtenir les informations. Réessayez plus tard."</string>
     <string name="update_flag">Mise à jour</string>
