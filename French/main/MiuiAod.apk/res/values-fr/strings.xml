@@ -100,6 +100,8 @@ dd/MM"</string>
   <string name="disable_aod_in_dark_room">"Désactiver lorsque l'appareil est plongé dans le noir"</string>
   <string name="disable_aod_in_power_save_mode">"Désactiver lorsque l'économiseur de batterie est activé"</string>
   <string name="disable_aod_in_power_save_mode_summary">"Les éléments ne s'afficheront pas afin d'économiser de l'énergie"</string>
+  <string name="dual_clock_tip">La double horloge est activée. Appuyez pour ouvrir les paramètres.</string>
+  <string name="early_morning">Matin</string>
   <string name="eras_ad">Apr. J.-C.</string>
   <string name="eras_bc">Av. J.-C.</string>
   <string name="error_a11y_label">Erreur : invalide</string>
