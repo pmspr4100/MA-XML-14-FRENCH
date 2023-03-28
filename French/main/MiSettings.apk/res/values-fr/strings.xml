@@ -8,16 +8,6 @@
   <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
   <string name="abc_capital_off">DÉSACTIVÉ</string>
   <string name="abc_capital_on">ACTIVÉ</string>
-  <string name="abc_menu_alt_shortcut_label">Alt+</string>
-  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">supprimer</string>
-  <string name="abc_menu_enter_shortcut_label">entrée</string>
-  <string name="abc_menu_function_shortcut_label">Fonction+</string>
-  <string name="abc_menu_meta_shortcut_label">Méta+</string>
-  <string name="abc_menu_shift_shortcut_label">Maj+</string>
-  <string name="abc_menu_space_shortcut_label">espace</string>
-  <string name="abc_menu_sym_shortcut_label">Sym+</string>
-  <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Recherche…</string>
   <string name="abc_searchview_description_clear">Effacer la requête</string>
   <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -37,6 +27,7 @@
   <string name="all_ringtone">Plus</string>
   <string name="all_ringtone_summary">Sélectionnez des sonneries en ligne</string>
   <string name="all_ringtone_summary_pad">Sélectionnez des sonneries</string>
+  <string name="am">AM</string>
   <string name="amazon_introduction">La région la plus riche en biodiversité de notre planète, souvent appelée "poumon de la Terre".</string>
   <string name="amazon_orange_winged_info">"L'amazone aourou est un grand perroquet bruyant qui pousse des cris forts et aigus."</string>
   <string name="animal_branch">Famille</string>
@@ -128,6 +119,7 @@
   <string name="clearable_edittext_clear_description">Effacer</string>
   <string name="click_to_save">Appuyez sur \"Terminé\" pour régler une sonnerie générale.</string>
   <string name="close">Fermer</string>
+  <string name="closed_high_refresh_options">"Les applications n'utilisent pas un taux de rafraîchissement élevé"</string>
   <string name="color_gamut">Gamme de couleurs</string>
   <string name="common_brushtail">Trichosurus</string>
   <string name="common_ostrich">Autruche</string>
@@ -146,6 +138,8 @@
   <string name="created_successfully">Créé avec succès</string>
   <string name="crowned_hornbill">Calao couronné</string>
   <string name="cu_confirm">Définir</string>
+  <string name="customize_high_refresh_summary">"Cette fonctionnalité prend en charge un taux de rafraîchissement allant jusqu'à %d Hz. Le taux de rafraîchissement approprié peut être sélectionné automatiquement en fonction des préférences de l'appareil."</string>
+  <string name="customize_high_refresh_title">Applications utilisant un taux de rafraîchissement élevé</string>
   <string name="customize_radio_btn_summary">Préférer le taux de rafraîchissement sélectionné</string>
   <string name="customize_radio_btn_title">Personnaliser</string>
   <string name="dall_sheep">Mouflon de Dall</string>
@@ -180,6 +174,8 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="elk_info">Les élans vivent dans des climats subarctiques. Ce sont des herbivores brouteurs et sont capables de consommer de nombreux types de plantes ou de fruits.</string>
   <string name="emperor_penguin">Manchot empereur</string>
   <string name="emu">"Émeu d'Australie"</string>
+  <string name="eras_ad">Apr. J.-C.</string>
+  <string name="eras_bc">Av. J.-C.</string>
   <string name="ermine">Hermine</string>
   <string name="evening">Après-midi</string>
   <string name="exit_easymode">Désactiver le mode simplifié</string>
@@ -247,6 +243,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d to %d minutes</string>
   <string name="focus_mode_timer_pick_dialog_title">Entrez la durée</string>
   <string name="focus_time_exception_tip">"On dirait que l'heure du système a changé. Mode de mise au point désactivé."</string>
+  <string name="follow_apps_settings">"Basé sur les paramètres de l'application"</string>
   <string name="follow_sim1">Appliquer les paramètres de la carte SIM 1</string>
   <string name="force_rest">Utiliser des pauses de session</string>
   <string name="force_rest_summary">Prendre des pauses obligatoires lorsque les sessions atteignent la limite définie</string>
@@ -298,10 +295,11 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="has_applied">Appliqué</string>
   <string name="healthy_use_phone">"Gérer le Temps d'utilisation"</string>
   <string name="helmeted_guineafowl">Pintade</string>
-  <string name="hippopotamus">Hippopotame</string>
-  <string name="holiday_limit">Congés</string>
   <string name="high_fps_description">"Taux de rafraîchissement d'écran élevé. Consommation d'énergie plus élevée."</string>
   <string name="high_fps_tip_footer">"L'utilisation de taux de rafraîchissement plus élevés rend l'expérience de visionnage plus fluide mais consomme plus d'énergie."</string>
+  <string name="high_refresh_options_title">Applications prises en charge</string>
+  <string name="hippopotamus">Hippopotame</string>
+  <string name="holiday_limit">Congés</string>
   <string name="hsv_space_color">Espace colorimétrique HSV</string>
   <string name="hsv_space_color_hue">Teinte</string>
   <string name="hsv_space_color_saturation">Saturation</string>
@@ -449,6 +447,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="nature_mix_summary">Créez un mélange personnalisé</string>
   <string name="nazca_booby">Fou de Grant</string>
   <string name="network_error">"Une erreur de réseau s'est produite. Réessayer."</string>
+  <string name="new_customize_high_refresh_title">Taux de rafraîchissement élevé</string>
   <string name="next_day">"(Jour suivant) "</string>
   <string name="night">Soirée</string>
   <string name="nine_banded_armadillo">Tatou</string>
@@ -465,6 +464,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="notification_sound">Sons de notification</string>
   <string name="ocelot">Ocelot</string>
   <string name="olive_baboon">Babouin olive</string>
+  <string name="opened_high_refresh_options">Applications utilisant un taux de rafraîchissement élevé</string>
   <string name="orange_winged_amazon">Amazone aourou</string>
   <string name="orca">Orque</string>
   <string name="ostrich_info">"Les autruches sont de grands oiseaux d'Afrique incapables de voler qui pondent les plus gros œufs de tous les animaux terrestres vivants."</string>
@@ -480,8 +480,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="plains_zebra">Zèbre</string>
   <string name="platpus_info">"L'ornithorynque est un sujet important dans l'étude de la biologie évolutive. C'est aussi l'une des rares espèces de mammifères venimeux."</string>
   <string name="platypus">Ornithorynque</string>
-  <string name="permission_china_version_msg"><Data>"Avant d'utiliser \"Services &amp; Retour d'information\", vous devez lire et accepter notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>. Cette application doit également se connecter à internet pour fonctionner normalement."</Data></string>
-  <string name="permission_region_version_msg"><Data>"Avant d'utiliser \"Services &amp; Retour d'information\", vous devez lire et accepter notre &lt;a href=%1$s>Accord d'utilisation&lt;/a> et notre &lt;a href=%2$s>Politique de confidentialité&lt;/a>."</Data></string>
+  <string name="pm">PM</string>
   <string name="polar_bear">Ours polaire</string>
   <string name="pomarine_jaeger">Labbe pomarin</string>
   <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
@@ -526,6 +525,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="sea_otter">Loutre de mer</string>
   <string name="seal_info">Les phoques sont des mammifères marins qui peuvent se déplacer rapidement dans les eaux profondes, se nourrissant de poissons et de crevettes.</string>
   <string name="search_app_name">Rechercher des applications</string>
+  <string name="search_app_tips">Rechercher des applications</string>
   <string name="search_empty">Aucune applications trouvées</string>
   <string name="search_menu_title">Recherche</string>
   <string name="send">Envoyer</string>
@@ -537,6 +537,12 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="silver_pheasant">Faisan argenté</string>
   <string name="sim_slot_1">" (SIM 1)"</string>
   <string name="sim_slot_2">" (SIM 2)"</string>
+  <string name="size_byte">" o"</string>
+  <string name="size_giga_byte">Gio</string>
+  <string name="size_kilo_byte">Kio</string>
+  <string name="size_mega_byte">Mio</string>
+  <string name="size_peta_byte">Pio</string>
+  <string name="size_tera_byte">Tio</string>
   <string name="skywalker_hoolock_gibbon">Gibbon Skywalker</string>
   <string name="small_ground_finch">Géospize fuligineux</string>
   <string name="sms_delivered_sound_title">Message livré</string>
@@ -747,7 +753,7 @@ Cette application doit également se connecter à internet et nécessite les aut
   <string name="usage_new_home_app_limit_summary">"Définir une limite quotidienne de temps d'écran pour cette application"</string>
   <string name="usage_new_home_app_limit_title">"Limiter le temps d'écran"</string>
   <string name="usage_new_home_average">"Moy. "</string>
-  <string name="usage_new_home_avg_usage_day">Avg %s daily</string>
+  <string name="usage_new_home_avg_usage_day">En moy. %s par jour</string>
   <string name="usage_new_home_category">Catégorie</string>
   <string name="usage_new_home_classify_manage">"Gérer les catégories d'applications"</string>
   <string name="usage_new_home_compare_text1">%.2f plus que la veille</string>
@@ -895,7 +901,6 @@ Cette application doit se connecter à Internet et requiert les autorisations su
   <string name="usage_state_wednesday">Mer</string>
   <string name="usage_state_week_day_hour_minute">Weekends : %1$d h %2$d m</string>
   <string name="usage_state_week_total_text">Utilisation (7 derniers jours)</string>
-  <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">Semaine</string>
   <string name="usage_state_work_day_hour_minute">Semaine : %1$d h %2$d m</string>
   <string name="usage_stats_device_limit">"Limite de temps d'écran quotidienne"</string>
@@ -915,9 +920,9 @@ Cette application doit se connecter à Internet et requiert les autorisations su
   <string name="usage_stats_normal_day">Semaine</string>
   <string name="usage_stats_week_day">Week-ends</string>
   <string name="usage_total_days">Total jours</string>
-  <string name="usage_total_times">Total sessions</string>
-  <string name="usage_week_avg_usage_title">Avg this week</string>
-  <string name="usage_week_avg_usage_title2">Avg time</string>
+  <string name="usage_total_times">Total des sessions</string>
+  <string name="usage_week_avg_usage_title">Moy. cette semaine</string>
+  <string name="usage_week_avg_usage_title2">Durée moy.</string>
   <string name="usage_weekly_report_summary">Découvrez comment vous passez du temps avec votre appareil</string>
   <string name="usage_weekly_report_title">Rapport hebdomadaire</string>
   <string name="usagestats_app_category_miui_education">Éducation</string>
