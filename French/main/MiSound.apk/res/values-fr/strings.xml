@@ -359,6 +359,9 @@
     <string name="now_here">Et maintenant ?</string>
     <string name="original_sound">Lire le son original</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
+    <string name="permission_go_to_settings">Paramètres</string>
+    <string name="permission_requesr_content">Autoriser cette application à se connecter aux appareils à proximité dans les paramètres.</string>
+    <string name="permission_requesr_title">Autorisations requises</string>
     <string name="personal_sound">Lire avec le préréglage appliqué</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>

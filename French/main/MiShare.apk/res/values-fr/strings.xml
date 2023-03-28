@@ -358,7 +358,11 @@ Avant d'utiliser Mi Share, vous devez accorder les autorisations suivantes, ains
     <string name="transfer_to_pc_summary_new"><Data>"La dernière version de MIUI+ installée sur Mi Notebooks est compatible avec Mi Share. Vous pouvez consulter la liste des modèles d'ordinateurs portables pris en charge sur le site Web MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Si votre ordinateur portable figure sur la liste, mais que MIUI+ n'y est pas installé, mettez à jour le BIOS et le pilote de la carte réseau de votre ordinateur portable et téléchargez MIUI+."</Data></string>
     <string name="transfer_to_pc_title">Envoyer des fichiers aux ordinateurs</string>
     <string name="transfer_to_phone_summary">"Activez Mi Share à l'aide de l'interrupteur dans le Panneau des notifications. Après cela, vous pourrez voir les appareils à proximité lorsque vous commencerez à partager une photo ou un fichier. Appuyez sur l'appareil du destinataire pour envoyer l'élément que vous partagez."</string>
+    <string name="transfer_to_phone_summary_new">"Activez Mi Share dans le centre de contrôle pour pouvoir facilement envoyer et recevoir des éléments. Après l'avoir activé, vous pouvez partager des éléments avec des appareils à proximité pendant %d minutes avant qu'il ne s'éteigne automatiquement."</string>
     <string name="transfer_to_phone_title">Envoyer des fichiers aux téléphones</string>
+    <string name="transfer_to_summary">"Activez Mi Share à l'aide de la bascule dans la nuance Notification. Après cela, vous pourrez voir les appareils à proximité lorsque vous commencez à partager une photo ou un fichier. Appuyez sur l'appareil du destinataire pour envoyer l'élément que vous partagez."</string>
+    <string name="transfer_to_summary_new">"Activez Mi Share dans le centre de contrôle pour pouvoir envoyer et recevoir facilement des éléments. Après l'avoir activé, vous pouvez partager des éléments avec des appareils à proximité pendant %d minutes avant qu'il ne s'éteigne automatiquement."</string>
+    <string name="transfer_to_title">Envoyer des fichiers vers des appareils mobiles</string>
     <string name="tuesday">Mardi</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
