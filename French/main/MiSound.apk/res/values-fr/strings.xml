@@ -87,11 +87,11 @@
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="first_note">Testez votre perception auditive pour ajuster le volume en conséquence.</string>
     <string name="fmt_date_long_month_day">MMMM d</string>
-    <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
-    <string name="fmt_date_numeric_month_day">M/d</string>
-    <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
-    <string name="fmt_date_short_month_day">MMM d</string>
-    <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM d yyyy</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="four_note">Le test durera environ %d minutes.</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
@@ -234,6 +234,8 @@
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+    <string name="mtrl_picker_text_input_day_abbr">j</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer en mode de saisie du calendrier</string>
     <string name="mtrl_picker_toggle_to_day_selection">Appuyez pour passer à la sélection du jour</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
@@ -359,6 +361,9 @@
     <string name="now_here">Et maintenant ?</string>
     <string name="original_sound">Lire le son original</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
+    <string name="permission_go_to_settings">Paramètres</string>
+    <string name="permission_requesr_content">Autoriser cette application à se connecter aux appareils à proximité dans les paramètres.</string>
+    <string name="permission_requesr_title">Autorisations requises</string>
     <string name="personal_sound">Lire avec le préréglage appliqué</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>

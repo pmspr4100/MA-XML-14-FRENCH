@@ -362,6 +362,7 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="pa_picker_detail_bottom_bt_text_upgrade">"Mettre à jour l'application pour utiliser ses widgets"</string>
   <string name="pa_picker_detail_bottom_download_app_and_add_widget">"Installer l'application"</string>
   <string name="pa_picker_detail_bottom_update_app_and_add_widget">"Mettre à jour l'application"</string>
+  <string name="pa_picker_detail_bt_loading">Un instant…</string>
   <string name="pa_picker_detail_dialog_open_pa_in_setting_message">"Ouvrez le coffre-fort d'applications pour y ajouter des widgets."</string>
   <string name="pa_picker_detail_dialog_open_pa_in_setting_title">"Utiliser le coffre-fort d'applications"</string>
   <string name="pa_picker_detail_download_app_dialog_cancel">Annuler</string>
@@ -384,8 +385,13 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="pa_picker_detail_net_error">Erreur réseau. Appuyez pour réessayer.</string>
   <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Un instant…</string>
   <string name="pa_picker_detail_small_widget">Widgets</string>
+  <string name="pa_picker_detail_state_error_retry">"Une erreur s'est produite. Réessayez."</string>
+  <string name="pa_picker_detail_suit_price_already_bought">Acheté</string>
+  <string name="pa_picker_detail_suit_price_placeholder">5 Mi Coin</string>
   <string name="pa_picker_detail_theme_app_cta">Paramètres</string>
   <string name="pa_picker_detail_theme_app_cta_pre">"Pour pouvoir utiliser ce widget, autorisez d'abord les thèmes à se connecter à Internet."</string>
+  <string name="pa_picker_detail_theme_app_need_login">Se connecter</string>
+  <string name="pa_picker_detail_theme_app_need_login_pre">"Connectez-vous d'abord à votre compte Xiaomi. "</string>
   <string name="pa_picker_detail_vp2_indicator">Page %1$d sur %2$d sélectionnée</string>
   <string name="pa_picker_detail_wait_wifi_download_maml">Cet élément sera téléchargé via Wi-Fi</string>
   <string name="pa_picker_empty">"Les widgets ne sont pas disponibles dans cette version de l'application.
@@ -626,6 +632,7 @@ pour afficher les widgets."</string>
   <string name="pa_vertical_center">Disposition verticale. Aligné au centre.</string>
   <string name="pa_vertical_left">Disposition verticale. Aligné à gauche.</string>
   <string name="pa_vertical_right">Disposition verticale. Aligné à droite.</string>
+  <string name="pa_widget_advert_loading_dialog_message">Un instant…</string>
   <string name="pa_widget_menu_edit">Modifier</string>
   <string name="pa_widget_menu_remove">Supprimer</string>
   <string name="pa_widget_menu_replace">Permuter</string>

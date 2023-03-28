@@ -222,7 +222,7 @@ dd/MM"</string>
     <string name="page_detail_publish_time_gallery_label">"Added: "</string>
     <string name="page_detail_publish_time_label">"Published: "</string>
     <string name="page_detail_version_label">"Version: "</string>
-    <string name="page_time_format_string">MM/dd/yyyy</string>
+    <string name="page_time_format_string">dd/MM/yyyy</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="please_input_signature">Enter signature</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
