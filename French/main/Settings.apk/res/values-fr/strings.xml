@@ -259,7 +259,7 @@ Il est impossible de faire un zoom avant sur le clavier ou la barre de navigatio
     <string name="accessibility_screen_magnification_short_summary">Appuyez 3 fois pour zoomer</string>
     <string name="accessibility_screen_magnification_shortcut_title">"Raccourci d'agradissement"</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Agrandir avec un bouton et en appuyant trois fois</string>
-    <string name="accessibility_screen_magnification_summary">&lt;b>Pour agrandir :&lt;/b>&lt;br/> {0,number,integer}. Utilisez le raccourci pour démarrer l'agrandissement&lt;br/> {1,number,integer}. Appuyez sur l'écran&lt;br/> {2,number,integer}. Faites traîner 2 doigts autour de l'écran&lt;br/> {3,number,integer}. Pincez avec 2 doigts pour ajuster l'agrandissement&lt;br/> {4,number,integer}. Utilisez le raccourci pour arrêter l'agrandissement&lt;br/>&lt;br/> &lt;b>Pour agrandir temporairement :&lt;/b>&lt;br/> {0,number,integer}. Vérifiez que votre type d'agrandissement est réglé sur plein écran&lt;br/> {1,number,integer}. Utilisez le raccourci pour démarrer l'agrandissement&lt;br/> {2,number,integer}. Touchez et maintenez n'importe où sur l'écran&lt;br/> {3,number,integer}. Faites traîner le doigt autour de l'écran&lt;br/> {4,number,integer}. Soulevez le doigt pour arrêter l'agrandissement</string>
+    <string name="accessibility_screen_magnification_summary">"&lt;b>Pour agrandir :&lt;/b>&lt;br/> {0,number,integer}. Utilisez le raccourci pour démarrer l'agrandissement&lt;br/> {1,number,integer}. Appuyez sur l'écran&lt;br/> {2,number,integer}. Faites traîner 2 doigts autour de l'écran&lt;br/> {3,number,integer}. Pincez avec 2 doigts pour ajuster l'agrandissement&lt;br/> {4,number,integer}. Utilisez le raccourci pour arrêter l'agrandissement&lt;br/>&lt;br/> &lt;b>Pour agrandir temporairement :&lt;/b>&lt;br/> {0,number,integer}. Vérifiez que votre type d'agrandissement est réglé sur plein écran&lt;br/> {1,number,integer}. Utilisez le raccourci pour démarrer l'agrandissement&lt;br/> {2,number,integer}. Touchez et maintenez n'importe où sur l'écran&lt;br/> {3,number,integer}. Faites traîner le doigt autour de l'écran&lt;br/> {4,number,integer}. Soulevez le doigt pour arrêter l'agrandissement"</string>
     <string name="accessibility_screen_magnification_title">Agrandissement</string>
     <string name="accessibility_screen_option">Options</string>
     <string name="accessibility_screen_reader_haptic_title">"Lecteur d'écran"</string>
@@ -340,7 +340,7 @@ Je voulais juste vérifier comment les dessins arrivent. Seront-ils prêts avant
     <string name="accessibility_text_reading_preview_mail_from">De : facture</string>
     <string name="accessibility_text_reading_preview_mail_subject">Objet : conceptions de montgolfières</string>
     <string name="accessibility_text_reading_reset_button_title">Réinitialiser les paramètres</string>
-    <string name="accessibility_text_reading_reset_message">La taille d'affichage et les paramètres de texte ont été réinitialisés</string>
+    <string name="accessibility_text_reading_reset_message">"La taille d'affichage et les paramètres de texte ont été réinitialisés"</string>
     <string name="accessibility_timeout_10secs">10 secondes</string>
     <string name="accessibility_timeout_1min">1 minute</string>
     <string name="accessibility_timeout_2mins">2 minutes</string>
@@ -536,7 +536,7 @@ Pour basculer d'un service à l'autre, maintenez le bouton d'accessibilité enfo
     <string name="added_sources_title">Sources de diffusion</string>
     <string name="adding_profile_owner_warning">"Si vous continuez, votre profil utilisateur sera géré par votre administrateur, lequel pourra également stocker des données associées, en plus de vos données personnelles.
 
-        Votre administrateur a la possibilité de surveiller et de gérer les paramètres, l'accès, les applications et les données associées à ce profil utilisateur, y compris l'activité réseau et les informations de localisation de votre appareil."</string>
+Votre administrateur a la possibilité de surveiller et de gérer les paramètres, l'accès, les applications et les données associées à ce profil utilisateur, y compris l'activité réseau et les informations de localisation de votre appareil."</string>
     <string name="additional_battery_info">"Alertes d'utilisation"</string>
     <string name="additional_permissions">Autorisations supplémentaires</string>
     <string name="additional_permissions_more">%1$d autres</string>
@@ -604,6 +604,7 @@ Si cette autorisation est désactivée, les alarmes existantes et les événemen
     <string name="alarms_and_reminders_title">Alarmes &amp; rappels</string>
     <string name="all_apps">Toutes les applications</string>
     <string name="all_network_unavailable">Aucun réseau disponible</string>
+    <string name="all_supported_app_locales_title">Toutes les langues</string>
     <string name="all_volume_title">Volume</string>
     <string name="allow">Autoriser</string>
     <string name="allow_all_rotations_title">Autoriser toutes les rotations</string>
@@ -626,11 +627,15 @@ Widget : %2$s
     <string name="allow_manage_external_storage_description">"Autorisez cette application à lire, modifier et supprimer tous les fichiers de cet appareil ou de tout volume de stockage connecté. Si cela est accordé, l'application peut accéder aux fichiers à votre insu."</string>
     <string name="allow_mock_location">Autoriser les simulations de localisations</string>
     <string name="allow_mock_location_summary">Autoriser les simulations de localisations</string>
+    <string name="allow_mock_modem">Allow Mock Modem</string>
+    <string name="allow_mock_modem_summary">Allow this device to run Mock Modem service for instrumentation testing. Do not enable this during normal usage of the phone</string>
     <string name="allow_oaid_used">"Utiliser l'ID virtuel"</string>
     <string name="allow_oaid_used_desc">"MIUI ne fournira pas d'ID virtuel (OAID) aux applications installées. Certaines fonctionnalités de recommandations personnelles peuvent ne pas fonctionner correctement à cause de cela."</string>
     <string name="allow_ongoing_title">Autoriser les notifications permanentes</string>
     <string name="allow_overlay_description">Autorisez cette application à se superposer aux autres applications que vous utilisez. Cette autorisation peut avoir un impact sur votre utilisation de ces dernières, ou modifier leur apparence ou leur comportement.</string>
     <string name="allow_sound_title">Autoriser le son</string>
+    <string name="allow_turn_screen_on">Allow turning the screen on</string>
+    <string name="allow_turn_screen_on_description">Allow an app to turn the screen on. If this permission is granted, the app may turn on the screen at any time without your explicit intent.</string>
     <string name="allow_vibrate_title">Autoriser les vibrations</string>
     <string name="alpha_build">Alpha</string>
     <string name="already_delete_system_app">Applications système désinstallées</string>
@@ -737,6 +742,7 @@ Widget : %2$s
     <string name="app_floating_window_dlg_enable">"L'activation de la fenêtre flottante %1$s nécessite le redémarrage de l'application."</string>
     <string name="app_forward_locked">"L'application est protégée contre la copie."</string>
     <string name="app_function">"Fonctionnalité de l'application"</string>
+    <string name="app_info_all_services_label">All Services</string>
     <string name="app_info_storage_title">Espace utilisé</string>
     <string name="app_install_details_group_title">Boutique</string>
     <string name="app_install_details_summary">Application installée depuis la boutique %1$s</string>
@@ -765,6 +771,10 @@ Widget : %2$s
     <string name="app_link_title">"Paramètres additionnels dans l'application"</string>
     <string name="app_list_memory_use">Utilisation par les applis</string>
     <string name="app_list_preference_none">Aucune</string>
+    <string name="app_locale_picker_summary">Set the language for each app</string>
+    <string name="app_locale_picker_title">App Language</string>
+    <string name="app_locale_preference_title">Language</string>
+    <string name="app_locales_picker_menu_title">App Languages</string>
     <string name="app_memory_use">Utilisation de la mémoire</string>
     <string name="app_mobile">Données mobiles</string>
     <string name="app_name">Préférence</string>
@@ -798,6 +808,7 @@ Widget : %2$s
     <string name="app_pinning_intro">"L'épinglage d'application vous permet de garder l'application actuelle en vue jusqu'à ce que vous la détachiez. Cette fonctionnalité peut être utilisée, par exemple, pour permettre à un ami de confiance de jouer à un jeu spécifique."</string>
     <string name="app_pinning_main_switch_title">"Utiliser l'épinglage d'application"</string>
     <string name="app_process_limit_title">Limite du processus en arrière-plan</string>
+    <string name="app_restricted_settings_lockscreen_title">Allow restricted settings</string>
     <string name="app_restrictions_custom_label">"Définir des restrictions d'applis"</string>
     <string name="app_sees_restricted_accounts">Cette application peut accéder à vos comptes.</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Cette application peut accéder à vos comptes. Contrôlée par %1$s.</string>
@@ -852,9 +863,12 @@ Widget : %2$s
     <string name="assist_flash_title">"Faire clignoter l'écran"</string>
     <string name="assist_footer">"Les applications d'assistance peuvent vous aider en fonction des informations affichées à l'écran. Certaines applications sont compatibles à la fois avec le lanceur d'applications et les services de saisie vocale, de sorte que vous puissiez bénéficier d'une assistance intégrée."</string>
     <string name="assist_gesture_title">"Geste d'assistance"</string>
+    <string name="assistance_category_title">Accessibilité</string>
     <string name="assistant_corner_gesture_summary">"Faites glisser vers le haut depuis un coin inférieur pour appeler l'application d'assistant numérique."</string>
     <string name="assistant_corner_gesture_title">"Balayez pour appeler l'assistant"</string>
     <string name="assistant_gesture_category_title">Assistant numérique</string>
+    <string name="assistant_long_press_home_gesture_summary">Press and hold the Home button to invoke digital assistant app.</string>
+    <string name="assistant_long_press_home_gesture_title">Hold Home for Assistant</string>
     <string name="assistant_security_warning">"L'assistant pourra accéder aux informations relatives aux applications en cours d'utilisation sur votre système, y compris aux informations visibles à l'écran ou accessibles au sein des applications."</string>
     <string name="assistant_security_warning_agree">Accepter</string>
     <string name="assistant_security_warning_disagree">Refuser</string>
@@ -874,12 +888,13 @@ Widget : %2$s
     <string name="asst_importance_reset_title">"Réinitialiser l'importance des notifications"</string>
     <string name="attempt_other_network">Changer de réseaux</string>
     <string name="au_pay">au PAY</string>
-    <string name="audio_and_captions_category_title">"Audio et texte à l'écran"</string>
-    <string name="audio_files_title">Fichiers audio</string>
+    <string name="audio_category_title">Audio</string>
+    <string name="audio_not_synced">Audio not synced</string>
     <string name="audio_profile_settings_title">Profil audio</string>
     <string name="audio_record_proc_title">Suppression du bruit</string>
     <string name="audio_share_cancel">Non merci</string>
     <string name="audio_share_confirm">Partager</string>
+    <string name="audio_synced">Audio Synced</string>
     <string name="auto_adjst_effect_summary">Ajustez automatiquement la température de couleur à la lumière ambiante afin de maintenir un niveau de confort optimal</string>
     <string name="auto_adjust_effect_title">Ajustement automatique de la température de couleur</string>
     <string name="auto_anc_closed">Désactivé</string>
@@ -941,11 +956,14 @@ Widget : %2$s
     <string name="auto_restore_title">Restaurer automatiquement</string>
     <string name="auto_rotate_camera_lock_summary">"L'appareil photo doit être déverrouillé pour la détection de visage"</string>
     <string name="auto_rotate_camera_lock_title">Appareil photo verrouillée</string>
+    <string name="auto_rotate_link_a11y">Learn more about auto-rotate</string>
     <string name="auto_rotate_manage_permission_button">Gérer les autorisations</string>
     <string name="auto_rotate_option_face_based">Activé - Basé sur le visage</string>
     <string name="auto_rotate_option_off">Désactivé</string>
     <string name="auto_rotate_option_on">Activé</string>
+    <string name="auto_rotate_screen_summary">Automatically adjust the screen orientation when you move your phone between portrait and landscape</string>
     <string name="auto_rotate_settings_primary_switch_title">Utiliser la rotation automatique</string>
+    <string name="auto_rotate_summary_a11y">When you move your phone between portrait and landscape</string>
     <string name="auto_rotate_summary_no_permission">"L'accès à l'appareil photo est requis pour la détection des visages. Appuyez pour gérer les autorisations pour les services de personnalisation des appareils"</string>
     <string name="auto_rotate_switch_face_based">Activer la détection de visage</string>
     <string name="auto_rule">Minuteur</string>
@@ -972,7 +990,6 @@ Widget : %2$s
     <string name="automatic_storage_manager_freed_bytes">"%1$s libéré(s) au total
 
 Dernière exécution le %2$s"</string>
-    <string name="automatic_storage_manager_master_switch_title">"Utiliser le gestionnaire d'espace de stockage"</string>
     <string name="automatic_storage_manager_preference_title">"Gestionnaire d'espace de stockage"</string>
     <string name="automatic_storage_manager_primary_switch_title">"Utiliser le Gestionnaire d'espace de stockage"</string>
     <string name="automatic_storage_manager_settings">"Gérer l'espace de stockage"</string>
@@ -983,6 +1000,7 @@ Dernière exécution le %2$s"</string>
     <string name="available_via_carrier">Disponible via %1$s</string>
     <string name="available_via_passpoint">Disponible via %1$s</string>
     <string name="available_virtual_keyboard_category">Clavier virtuel disponible</string>
+    <string name="avatar_picker_title">Select a profile picture</string>
     <string name="average_memory_use">Utilisation mémoire (moyenne)</string>
     <string name="average_used">Utilisation moyenne (%)</string>
     <string name="avoid_ui">"Désactiver l'écran tactile"</string>
@@ -992,6 +1010,9 @@ Dernière exécution le %2$s"</string>
     <string name="back_button">Retour</string>
     <string name="back_double_tap">"Taper deux fois le dos de l'appareil"</string>
     <string name="back_key">Retour</string>
+    <string name="back_navigation_animation">Predictive back animations</string>
+    <string name="back_navigation_animation_dialog">This setting enables system animations for predictive gestures. It requires setting enableOnBackInvokedCallback to true in the manifest file of each app.</string>
+    <string name="back_navigation_animation_summary">Enable system animations for predictive back</string>
     <string name="back_sensitivity_dialog_message">"
 Une sensibilité plus élevée peut entrer en conflit avec tous les gestes de l'application le long des bords de l'écran."</string>
     <string name="back_sensitivity_dialog_title">Sensibilité de retour</string>
@@ -1003,7 +1024,6 @@ Activez optimisation batterie."</string>
     <string name="background_activity_summary">"Autoriser l'application à s'exécuter en arrière-plan"</string>
     <string name="background_activity_summary_allowlisted">"L'utilisation en arrière-plan ne peut pas être restreinte"</string>
     <string name="background_activity_summary_disabled">"Application non autorisée à s'exécuter en arrière-plan"</string>
-    <string name="background_activity_summary_whitelisted">"L'utilisation en arrière-plan ne peut pas être restreinte"</string>
     <string name="background_activity_title">"Restriction de l'activité en arrière-plan"</string>
     <string name="background_activity_warning_dialog_text">"Si vous limitez l'activité en arrière-plan d'une application, cela peut provoquer son dysfonctionnement"</string>
     <string name="background_activity_warning_dialog_title">"Limiter l'activité en arrière-plan ?"</string>
@@ -1130,21 +1150,24 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="battery_info_health_unspecified_failure">Erreur inconnue</string>
     <string name="battery_info_label">Infos de la batterie</string>
     <string name="battery_info_level_label">Niveau de la batterie :</string>
+    <string name="battery_info_power_ac">AC</string>
+    <string name="battery_info_power_ac_usb">AC+USB</string>
     <string name="battery_info_power_label">Alimentation électrique :</string>
     <string name="battery_info_power_unknown">Inconnu</string>
     <string name="battery_info_power_unplugged">Débranché</string>
+    <string name="battery_info_power_usb">USB</string>
     <string name="battery_info_power_wireless">Sans fil</string>
     <string name="battery_info_scale_label">Dimension de la batterie :</string>
     <string name="battery_info_screen_on">"Temps de veille de l'écran :"</string>
     <string name="battery_info_status_charging">En charge</string>
     <string name="battery_info_status_charging_ac">Chargement depuis AC</string>
     <string name="battery_info_status_charging_fast">En charge rapide</string>
-    <string name="battery_info_status_charging_lower">Chargement</string>
     <string name="battery_info_status_charging_slow">En charge lente</string>
     <string name="battery_info_status_charging_usb">En charge via USB</string>
     <string name="battery_info_status_charging_wireless">Chargement sans fil</string>
     <string name="battery_info_status_discharging">En décharge</string>
     <string name="battery_info_status_full">Pleine</string>
+    <string name="battery_info_status_full_charged">Fully charged</string>
     <string name="battery_info_status_label">État de la batterie :</string>
     <string name="battery_info_status_not_charging">Pas en charge</string>
     <string name="battery_info_status_unknown">Inconnu</string>
@@ -1159,8 +1182,8 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="battery_light_summary">"Allumer le voyant de notification lorsque l'appareil est en charge"</string>
     <string name="battery_light_title">Allumer lors de la charge</string>
     <string name="battery_manager_off">Désactivé</string>
-    <string name="battery_manager_on">Activé/Détection des applications qui déchargent la batterie</string>
     <string name="battery_manager_summary">Détecter quand les applications déchargent la batterie</string>
+    <string name="battery_manager_summary_unsupported">Detecting when apps drain battery</string>
     <string name="battery_missing_link_a11y_message">Appuyez pour en savoir plus sur cette erreur</string>
     <string name="battery_missing_message">Problème de lecture de la jauge de batterie.</string>
     <string name="battery_msg_unaccounted">"L'utilisation de la batterie est une approximation de la consommation d'énergie et n'inclut pas toutes les sources de décharge de la batterie. La catégorie \"Autres utilisations\" représente la différence entre le calcul approximatif de la consommation d'énergie et le niveau de décharge réel de la batterie."</string>
@@ -1169,7 +1192,6 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="battery_overall_usage">%1$s de la batterie</string>
     <string name="battery_percentage">Pourcentage de la batterie</string>
     <string name="battery_percentage_description">"Afficher le pourcentage de la batterie dans la barre d'état"</string>
-    <string name="battery_power_management">"Gestion de l'alimentation"</string>
     <string name="battery_saver">Économiseur de batterie</string>
     <string name="battery_saver_auto_no_schedule">Aucune planification</string>
     <string name="battery_saver_auto_percentage">Basé sur le pourcentage</string>
@@ -1179,10 +1201,13 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="battery_saver_auto_title">Activer automatiquement</string>
     <string name="battery_saver_button_turn_off">Désactiver maintenant</string>
     <string name="battery_saver_button_turn_on">Activer maintenant</string>
+    <string name="battery_saver_link_a11y">Learn more about Battery saver</string>
+    <string name="battery_saver_main_switch_title">Use battery saver</string>
     <string name="battery_saver_master_switch_title">"Utiliser l'économiseur de batterie"</string>
     <string name="battery_saver_off_scheduled_summary">Activer à %1$s</string>
     <string name="battery_saver_off_summary">Désactivé</string>
     <string name="battery_saver_on_summary">Activé</string>
+    <string name="battery_saver_pref_auto_routine_summary">Will turn on based on your routine</string>
     <string name="battery_saver_schedule_settings_title">Programmer</string>
     <string name="battery_saver_seekbar_title">À %1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Activer</string>
@@ -1218,6 +1243,9 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="battery_sugg_wifi">"Désactivez le Wi-Fi lorsque vous ne l'utilisez pas ou lorsqu'il n'est pas disponible"</string>
     <string name="battery_suggestion_title">"Améliorer l'autonomie de batterie du téléphone"</string>
     <string name="battery_summary">Utilisation depuis la dernière charge complète : %1$s</string>
+    <string name="battery_summary_24hr">%1$s use for past 24 hours</string>
+    <string name="battery_system_usage_for">System usage for %s</string>
+    <string name="battery_system_usage_for_past_24">System usage for past 24 hr</string>
     <string name="battery_tip_dialog_message">"Votre téléphone a été plus utilisé que d'habitude. Il est possible que vous soyez à court de batterie plus vite que prévu.
 
 Classement des applications par utilisation de la batterie :"</string>
@@ -1231,6 +1259,12 @@ Vous pouvez toujours activer l'économiseur de batterie si le niveau de votre ba
     <string name="battery_tip_early_heads_up_title">"Activer l'économiseur de batterie ?"</string>
     <string name="battery_tip_high_usage_summary">Il est possible que vous soyez bientôt à court de batterie</string>
     <string name="battery_tip_high_usage_title">"Téléphone plus utilisé que d'habitude"</string>
+    <string name="battery_tip_limited_temporarily_dialog_msg">"In certain conditions, like high temperatures and long charging periods, charging may be limited to %1$s to help preserve battery health.
+
+When those conditions end, your phone will automatically charge normally."</string>
+    <string name="battery_tip_limited_temporarily_dialog_resume_charge">Resume charging</string>
+    <string name="battery_tip_limited_temporarily_summary">To preserve your battery. Learn more.</string>
+    <string name="battery_tip_limited_temporarily_title">Charging temporarily limited</string>
     <string name="battery_tip_low_battery_summary">"L'autonomie de la batterie est faible"</string>
     <string name="battery_tip_low_battery_title">Autonomie de la batterie faible</string>
     <string name="battery_tip_restrict_app_dialog_message">"Pour économiser la batterie, empêchez %1$s de l'utiliser en arrière-plan. Cette application peut ne pas fonctionner correctement et ses notifications risquent d'être retardées."</string>
@@ -1250,8 +1284,46 @@ Applications :
     <string name="battery_tip_unrestrict_app_dialog_message">Cette application pourra utiliser la batterie en arrière-plan. Il se peut que vous arriviez à court de batterie plus vite que prévu.</string>
     <string name="battery_tip_unrestrict_app_dialog_ok">Supprimer</string>
     <string name="battery_tip_unrestrict_app_dialog_title">Supprimer la restriction ?</string>
+    <string name="battery_total_and_bg_usage">"^1 total • ^2 background
+from last full charge"</string>
+    <string name="battery_total_and_bg_usage_24hr">"^1 total • ^2 background
+for past 24 hr"</string>
+    <string name="battery_total_and_bg_usage_with_period">"^1 total • ^2 background
+for ^3"</string>
+    <string name="battery_total_usage">^1 total from last full charge</string>
+    <string name="battery_total_usage_24hr">^1 total for past 24 hr</string>
+    <string name="battery_total_usage_and_bg_less_minute_usage">"^1 total • background less than a minute
+from last full charge"</string>
+    <string name="battery_total_usage_and_bg_less_minute_usage_24hr">"^1 total • background less than a minute
+for past 24 hr"</string>
+    <string name="battery_total_usage_and_bg_less_minute_usage_with_period">"^1 total • background less than a minute
+for ^2"</string>
+    <string name="battery_total_usage_less_minute">Total less than a minute from last full charge</string>
+    <string name="battery_total_usage_less_minute_24hr">Total less than a minute for past 24 hr</string>
+    <string name="battery_total_usage_less_minute_with_period">Total less than a minute for ^1</string>
+    <string name="battery_total_usage_with_period">^1 total for ^2</string>
+    <string name="battery_usage_background_less_than_one_minute">Background: less than a min</string>
+    <string name="battery_usage_chart">Battery usage chart</string>
+    <string name="battery_usage_chart_graph_hint">Battery level for past 24 hr</string>
+    <string name="battery_usage_for_background_time">Background: %s</string>
+    <string name="battery_usage_for_total_time">Total: %s</string>
+    <string name="battery_usage_screen_footer">"Battery usage data is approximate and doesn't measure usage when phone is charging"</string>
+    <string name="battery_usage_screen_footer_empty">Battery usage data will be available after you use your phone for a few hours</string>
+    <string name="battery_usage_total_less_than_one_minute">Total: less than a min</string>
     <string name="battery_used_by">%1$s utilisé(s) par %2$s</string>
     <string name="battery_used_for">"Temps d'utilisation : ^1"</string>
+    <string name="bcast_audio_sync_state">Audio Sync status</string>
+    <string name="bcast_enable_audio_sync">Audio sync</string>
+    <string name="bcast_enable_metadata_sync">Metadata sync</string>
+    <string name="bcast_info_update">Update Source Info</string>
+    <string name="bcast_metadata_sync_state">Metadata Sync status</string>
+    <string name="bcast_sink_volume_title">Broadcast sink volume</string>
+    <string name="bcast_source_address">Broadcast Source Device</string>
+    <string name="bcast_source_enc_status">Encryption Status</string>
+    <string name="bcast_source_info_sid">Broadcast Source Id</string>
+    <string name="bcast_source_metadata">Metadata</string>
+    <string name="bcast_update_code_summary">Add broadcast code here, and click Update Broadcast Source Info</string>
+    <string name="bcast_update_code_title">Update Broadcast code</string>
     <string name="bearer">Réseau</string>
     <string name="beauty_camera">Beautify pour les appels vidéo</string>
     <string name="beauty_camera_summary">Utiliser Beautify pour les appels vidéo WeChat</string>
@@ -1264,11 +1336,29 @@ Applications :
     <string name="bind_xiaomi_account_confirm">Ajouter</string>
     <string name="bind_xiaomi_account_dialog_summery">"Vous êtes sur le point d'ajouter le Compte Xiaomi %s. Si vous oubliez votre mot de passe, vous pouvez utiliser ce compte pour le réinitialiser."</string>
     <string name="bind_xiaomi_account_success">Compte Xiaomi ajouté avec succès</string>
+    <string name="biometric_settings_category_ways_to_unlock">Ways to unlock</string>
+    <string name="biometric_settings_hand_back_to_guardian">Hand the phone back to your parent</string>
+    <string name="biometric_settings_hand_back_to_guardian_ok">OK</string>
+    <string name="biometric_settings_intro">When you set up Face Unlock and Fingerprint Unlock, your phone will ask for your fingerprint when you wear a mask or are in a dark area</string>
+    <string name="biometric_settings_use_biometric_for_apps">Verify it’s you in apps</string>
+    <string name="biometric_settings_use_biometric_unlock_phone">Unlock your phone</string>
+    <string name="biometric_settings_use_face_or_fingerprint_preference_summary">Using face or fingerprint</string>
+    <string name="biometric_settings_use_face_preference_summary">Using face</string>
+    <string name="biometric_settings_use_fingerprint_preference_summary">Using fingerprint</string>
     <string name="biometric_weak_improve_matching_title">Améliorer la correspondance de visages</string>
     <string name="biometric_weak_liveliness_summary">Un clignement est exigé pour déverrouiller</string>
     <string name="biometric_weak_liveliness_title">Contrôle de personne réelle</string>
+    <string name="biometrics_unlock_set_unlock_password">Password • Face • Fingerprint</string>
+    <string name="biometrics_unlock_set_unlock_pattern">Pattern • Face • Fingerprint</string>
+    <string name="biometrics_unlock_set_unlock_pin">PIN • Face • Fingerprint</string>
+    <string name="biometrics_unlock_skip_biometrics">Continue without face or fingerprint</string>
+    <string name="biometrics_unlock_title">You can unlock your phone using your face or fingerprint. For security, this option requires a backup screen lock.</string>
     <string name="blank_screen_no_device">Aucun périphérique</string>
+    <string name="blank_screen_no_record">No records here yet</string>
     <string name="ble_scan_notify_text">Pour améliorer la précision de la localisation, les applications et les services système peuvent toujours détecter les périphériques Bluetooth. Vous pouvez modifier ce paramètre dans les LINK_BEGINparamètres de rechercheLINK_END.</string>
+    <string name="blob_expires_text">Expires at %s</string>
+    <string name="blob_id_text">Shared data ID: %d</string>
+    <string name="blob_never_expires_text">Never expires.</string>
     <string name="block_list_connected_devices">Appareils connectés</string>
     <string name="block_list_diaglog_cancle">Annuler</string>
     <string name="block_list_diaglog_ok">OK</string>
@@ -1280,6 +1370,8 @@ Applications :
     <string name="block_list_summary">"Afficher les appareils qui ne sont pas autorisés à se connecter à ce point d'accès"</string>
     <string name="block_list_title">Liste noire</string>
     <string name="block_title">Afficher les notifications</string>
+    <string name="blocked_by_restricted_settings_content">For your security, this setting is currently unavailable.</string>
+    <string name="blocked_by_restricted_settings_title">Restricted setting</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_1">Optimisé pour la qualité audio (%1$dkbps/%2$dkbps)</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Qualité audio et connexion équilibrée (%1$dkbps/%2$dkbps)</string>
@@ -1306,13 +1398,39 @@ Applications :
     <string name="bluetooth_ask_enablement_no_name">"Une application requiert l'activation du Bluetooth."</string>
     <string name="bluetooth_ask_lasting_discovery">"%1$s nécessite que d'autres périphériques Bluetooth puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres Bluetooth."</string>
     <string name="bluetooth_ask_lasting_discovery_no_name">"Une application nécessite que d'autres périphériques Bluetooth puissent détecter votre téléphone. Vous pourrez ensuite annuler cette opération dans les paramètres Bluetooth."</string>
-    <string name="bluetooth_auto_connect">Connexion automatique</string>
+    <string name="bluetooth_audio_share_feature_notice_summary">Share audio with other connected devices?</string>
+    <string name="bluetooth_audio_share_feature_notice_title">Share audio</string>
     <string name="bluetooth_battery_level">%1$s de batterie</string>
     <string name="bluetooth_battery_level_untethered">G : %1$s - D : %2$s (batterie)</string>
+    <string name="bluetooth_bc_profile_summary_connected">Connected to BA server</string>
+    <string name="bluetooth_bc_profile_summary_use_for">Use for BA</string>
+    <string name="bluetooth_bcast_rcvr_device_name">Broadcast receiver</string>
     <string name="bluetooth_blacklist_cancel_remove_device">Annuler</string>
     <string name="bluetooth_blacklist_remove_device">Débloquer</string>
+    <string name="bluetooth_broadcast_dialog_broadcast_app">Broadcast %1$s</string>
+    <string name="bluetooth_broadcast_dialog_broadcast_message">Broadcast media to devices near you, or listen to someone else’s broadcast</string>
+    <string name="bluetooth_broadcast_dialog_find_message">Listen to broadcasts that are playing near you</string>
+    <string name="bluetooth_broadcast_dialog_title">Broadcast</string>
+    <string name="bluetooth_broadcast_pin_configure">Broadcast: Bluetooth Privacy Code</string>
+    <string name="bluetooth_broadcast_pin_configure_dialog">Broadcast: Configure Bluetooth Privacy Code</string>
     <string name="bluetooth_broadcasting">Diffusion</string>
+    <string name="bluetooth_col_grp_source_selection_options_detail">"Broadcast source
+%1$s is being added to the connected
+group members."</string>
+    <string name="bluetooth_col_source_selection_options_detail">"Broadcast source
+%1$s is being added to receiver"</string>
+    <string name="bluetooth_companion_app_body">%1$s app will no longer connect to your %2$s</string>
+    <string name="bluetooth_companion_app_remove_association_confirm_button">Disconnect app</string>
+    <string name="bluetooth_companion_app_remove_association_dialog_title">Disconnect App?</string>
     <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à : &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assurez-vous que le mot de passe &lt;br>&lt;b>%2$s&lt;/b> s'affiche."</string>
+    <string name="bluetooth_connect_access_dialog_content">"%1$s wants to connect to this phone.
+
+You haven’t connected to %2$s before."</string>
+    <string name="bluetooth_connect_access_dialog_negative">Don’t connect</string>
+    <string name="bluetooth_connect_access_dialog_positive">Connect</string>
+    <string name="bluetooth_connect_access_dialog_title">Connect to Bluetooth device?</string>
+    <string name="bluetooth_connect_access_notification_content">A device wants to connect. Tap for details.</string>
+    <string name="bluetooth_connect_access_notification_title">Bluetooth device available</string>
     <string name="bluetooth_connect_failed">Impossible de se connecter. Réessayez.</string>
     <string name="bluetooth_connect_settings">Connexion</string>
     <string name="bluetooth_connect_specific_profiles_title">Se connecter à…</string>
@@ -1332,6 +1450,10 @@ Applications :
     <string name="bluetooth_connection_dialog_text">Voulez-vous vous connecter à \"%1$s\" ?</string>
     <string name="bluetooth_connection_notif_message">"Appuyez pour vous connecter à l'appareil \"%1$s\"."</string>
     <string name="bluetooth_connection_permission_request">Demande de connexion Bluetooth</string>
+    <string name="bluetooth_details_head_tracking_summary">Audio changes as you move your head to sound more natural</string>
+    <string name="bluetooth_details_head_tracking_title">Head tracking</string>
+    <string name="bluetooth_details_spatial_audio_summary">Audio from compatible media becomes more immersive</string>
+    <string name="bluetooth_details_spatial_audio_title">Spatial Audio</string>
     <string name="bluetooth_device">Périphérique Bluetooth sans nom</string>
     <string name="bluetooth_device_address">Adresse :</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Autoriser les fichiers entrants</string>
@@ -1358,16 +1480,13 @@ Applications :
     <string name="bluetooth_devices_card_off_summary">Appuyez pour activer</string>
     <string name="bluetooth_devices_card_off_title">Bluetooth est désactivé</string>
     <string name="bluetooth_disable_a2dp_hw_offload">Désact. décharg. Bluetooth A2DP</string>
-    <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Annuler</string>
-    <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Redémarrer</string>
-    <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">"Vous devez redémarrer l'appareil pour modifier ce paramètre."</string>
-    <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Redémarrer ?</string>
-    <string name="bluetooth_disable_absolute_volume">Désactiver le volume absolu</string>
-    <string name="bluetooth_disable_absolute_volume_summary">"Désactivez le volume absolu pour les périphériques Bluetooth si le volume sonore est trop élevé ou s'il ne peut pas être contrôlé"</string>
-    <string name="bluetooth_disable_inband_ringing">Disable in-band ringing</string>
-    <string name="bluetooth_disable_inband_ringing_summary">Ne jouez pas de sonneries personnalisées sur les casques Bluetooth</string>
-    <string name="bluetooth_disable_mi_fast_connect">Désactiver Mi Link</string>
-    <string name="bluetooth_disable_mi_fast_connect_summary">Désactiver la fonctionnalité Mi Link</string>
+    <string name="bluetooth_disable_absolute_volume">Disable absolute volume</string>
+    <string name="bluetooth_disable_absolute_volume_summary">Disable absolute volume for Bluetooth in case of volume issues with remote devices, such as unacceptably loud volume or inability to control it.</string>
+    <string name="bluetooth_disable_hw_offload_dialog_cancel">Annuler</string>
+    <string name="bluetooth_disable_hw_offload_dialog_confirm">Redémarrer</string>
+    <string name="bluetooth_disable_hw_offload_dialog_message">"Vous devez redémarrer l'appareil pour modifier ce paramètre."</string>
+    <string name="bluetooth_disable_hw_offload_dialog_title">"Redémarrer l'appareil ?"</string>
+    <string name="bluetooth_disable_le_audio_hw_offload">Disable Bluetooth LE AUDIO hardware offload</string>
     <string name="bluetooth_disable_profile_message">Le profil :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>va être désactivé sur :&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Désactiver le profil ?</string>
     <string name="bluetooth_disabled">Désactivé</string>
@@ -1411,6 +1530,11 @@ Applications :
     <string name="bluetooth_enter_pin_other_device">"Vous devrez peut-être également saisir ce code sur l'autre appareil."</string>
     <string name="bluetooth_fastConnect_key_device_id">ID appareil</string>
     <string name="bluetooth_fastConnect_resource_load">Bluetooth fastConnect resource load</string>
+    <string name="bluetooth_find_broadcast">Find broadcasts</string>
+    <string name="bluetooth_find_broadcast_button_leave">Leave broadcast</string>
+    <string name="bluetooth_find_broadcast_button_scan">Scan QR code</string>
+    <string name="bluetooth_find_broadcast_summary">Listening to</string>
+    <string name="bluetooth_find_broadcast_title">Broadcasts</string>
     <string name="bluetooth_footer_mac_message">Adresse Bluetooth du téléphone : %1$s</string>
     <string name="bluetooth_grp_source_selection_options_detail">"Source de diffusion
 %1$s est ajouté aux membres du groupe connecté.
@@ -1419,8 +1543,11 @@ Applications :
     <string name="bluetooth_hd_music_play_title">Lire une audio %d kHz</string>
     <string name="bluetooth_headset_profile_summary_connected">"Connecter à l'audio des appels téléphoniques"</string>
     <string name="bluetooth_headset_profile_summary_use_for">"Jouer l'audio des appels téléphoniques"</string>
+    <string name="bluetooth_hearing_aid_left_active">Active (left only)</string>
+    <string name="bluetooth_hearing_aid_left_and_right_active">Active (both)</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">"Connecté à l'assistance auditive"</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">"Utiliser pour l'assistance auditive"</string>
+    <string name="bluetooth_hearing_aid_right_active">Active (right only)</string>
     <string name="bluetooth_hearingaid_left_battery_level">Gauche - %1$s de batterie</string>
     <string name="bluetooth_hearingaid_left_pairing_message">"Association de l'aide auditive gauche…"</string>
     <string name="bluetooth_hearingaid_right_battery_level">Droite - %1$s de batterie</string>
@@ -1443,6 +1570,7 @@ Voici ce qui a pu mal se passer :
     <string name="bluetooth_left_name">Gauche</string>
     <string name="bluetooth_lock_voice_dialing">Bloquer les appels par reconnaissance vocale</string>
     <string name="bluetooth_lock_voice_dialing_summary">"Désactiver les appels via le Bluetooth lorsque l'écran est verrouillé"</string>
+    <string name="bluetooth_main_switch_title">Use Bluetooth</string>
     <string name="bluetooth_map_acceptance_dialog_text">"Une demande d'accès à vos messages a été envoyée pour \"%1$s\". Accorder l'accès à \"%2$s\" ?"</string>
     <string name="bluetooth_map_profile_summary_connected">Connecté à MAP</string>
     <string name="bluetooth_map_profile_summary_use_for">Utiliser pour MAP</string>
@@ -1460,6 +1588,8 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
     <string name="bluetooth_mi_fast_connect_summary">"Connectez rapidement des écouteurs, des haut-parleurs et d'autres appareils compatibles"</string>
     <string name="bluetooth_middle_name">Boîtier</string>
     <string name="bluetooth_move_out_of_blacklist">"Débloquer l'appareil"</string>
+    <string name="bluetooth_multuple_devices_mac_address">"Device's Bluetooth address:
+%1$s"</string>
     <string name="bluetooth_name_not_set">"Aucun nom n'a été défini. Utilisation du nom du compte…"</string>
     <string name="bluetooth_no_devices_found">Aucun périphérique Bluetooth détecté.</string>
     <string name="bluetooth_not_visible_to_other_devices">"Non visible par d'autres périphériques Bluetooth"</string>
@@ -1468,13 +1598,20 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
     <string name="bluetooth_notif_title">"Demande d'association"</string>
     <string name="bluetooth_off_footer">"Activez le Bluetooth pour vous connecter à d'autres appareils."</string>
     <string name="bluetooth_on_time">Temps de fonctionnement du Wi-Fi</string>
-    <string name="bluetooth_on_while_driving_pref">Utiliser le Bluetooth en conduisant</string>
-    <string name="bluetooth_on_while_driving_summary">Activer automatiquement le Bluetooth lorsque vous conduisez</string>
     <string name="bluetooth_only_visible_to_paired_devices">Visible uniquement par les périphériques associés</string>
     <string name="bluetooth_opp_profile_summary_connected">Connecté au serveur de transfert de fichiers</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Pas connecté au serveur de transfert de fichiers</string>
     <string name="bluetooth_opp_profile_summary_use_for">Utiliser pour les transferts de fichiers</string>
     <string name="bluetooth_other_settings">Paramètres supplémentaires</string>
+    <string name="bluetooth_pair_other_ear_dialog_left_ear_message">"Your left hearing aid is connected.
+
+        To pair the right one, make sure it’s turned on and ready to pair."</string>
+    <string name="bluetooth_pair_other_ear_dialog_left_ear_positive_button">Pair left ear</string>
+    <string name="bluetooth_pair_other_ear_dialog_right_ear_message">"Your right hearing aid is connected.
+
+        To pair the left one, make sure it’s turned on and ready to pair."</string>
+    <string name="bluetooth_pair_other_ear_dialog_right_ear_positive_button">Pair right ear</string>
+    <string name="bluetooth_pair_other_ear_dialog_title">Pair your other ear</string>
     <string name="bluetooth_paired">Sauvegardé</string>
     <string name="bluetooth_paired_device_title">Vos appareils</string>
     <string name="bluetooth_pairing">Appairage en cours…</string>
@@ -1501,6 +1638,7 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">"Partage de connexion internet locale avec le périphérique"</string>
     <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à internet"</string>
     <string name="bluetooth_pan_user_profile_summary_connected">"Connecté au périphérique pour l'accès à internet"</string>
+    <string name="bluetooth_paring_group_msg">Confirm to pair with the coordinated set</string>
     <string name="bluetooth_pb_acceptance_dialog_text">"%1$s requiert l'accès à vos contacts et à l'historique de vos appels. Autoriser l'accès à %2$s ?"</string>
     <string name="bluetooth_pb_remember_choice">Ne plus me demander</string>
     <string name="bluetooth_phonebook_access_dialog_content">"Un périphérique Bluetooth non approuvé, %1$s, souhaite accéder à vos contacts et au journal des appels. Cela inclut les données sur les appels entrants et sortants.
@@ -1530,6 +1668,8 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
     <string name="bluetooth_profile_a2dp">Audio du contenu multimédia</string>
     <string name="bluetooth_profile_a2dp_high_quality">Utiliser audio haut qualité : %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Utiliser audio haut qualité</string>
+    <string name="bluetooth_profile_bc">BC Profile</string>
+    <string name="bluetooth_profile_broadcast">Broadcast</string>
     <string name="bluetooth_profile_details">Paramètres du profil</string>
     <string name="bluetooth_profile_dun">Utilisé pour accéder au réseau téléphonique</string>
     <string name="bluetooth_profile_headset">Audio des appels téléphoniques</string>
@@ -1543,6 +1683,8 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
     <string name="bluetooth_profile_pbap">Partager les contacts</string>
     <string name="bluetooth_profile_pbap_summary">Utiliser pour partager les contacts</string>
     <string name="bluetooth_profile_sap">Utilisé pour accéder à la SIM</string>
+    <string name="bluetooth_profile_vcp">Volume control</string>
+    <string name="bluetooth_profile_volume_control">Volume control</string>
     <string name="bluetooth_quick_toggle_summary">Activer le Bluetooth</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_remember_choice">Ne plus me demander</string>
@@ -1554,9 +1696,13 @@ Vous ne vous êtes jamais connecté à %2$s auparavant."</string>
     <string name="bluetooth_sap_profile_summary_use_for">Utiliser pour accéder à la SIM</string>
     <string name="bluetooth_sap_request">"Demande d'accès à la carte SIM"</string>
     <string name="bluetooth_scan_for_devices">Recherche de périphériques</string>
+    <string name="bluetooth_scan_source_title">Scan for Broadcast sources for</string>
     <string name="bluetooth_scanning_on_info_message">"Lorsque le Bluetooth est activé, votre appareil peut communiquer avec d'autres périphériques Bluetooth à proximité.
 
 Pour améliorer l'expérience d'utilisation de l'appareil, les applications et les services peuvent continuer de rechercher les périphériques à proximité à tout moment, même si le Bluetooth est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation. Vous pouvez modifier cette option dans les "&lt;annotation id="link">paramètres de recherche&lt;/annotation>.</string>
+    <string name="bluetooth_screen_related">Related</string>
+    <string name="bluetooth_search_bcast_sources_pref_title">Search Broadcast sources</string>
+    <string name="bluetooth_search_broadcasters">Search Broadcasters</string>
     <string name="bluetooth_search_for_devices">Actualiser</string>
     <string name="bluetooth_searching_for_devices">Recherche...</string>
     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Mode audio BT aptX adaptatif</string>
@@ -1587,15 +1733,41 @@ Qualité de lecture"</string>
     <string name="bluetooth_select_avrcp_version_string">Version Bluetooth AVRCP</string>
     <string name="bluetooth_select_map_version_dialog_title">Sélectionner version Bluetooth MAP</string>
     <string name="bluetooth_select_map_version_string">Version Bluetooth MAP</string>
+    <string name="bluetooth_setting_off">Désactivé</string>
+    <string name="bluetooth_setting_on">Activé</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">"Gérer les connexions, configurer le nom et l'identification de l'appareil"</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
     <string name="bluetooth_show_devices_without_names">Afficher les périphériques Bluetooth sans nom</string>
     <string name="bluetooth_show_devices_without_names_summary">Les périphériques Bluetooth sans nom (adresses MAC uniquement) seront affichés</string>
-    <string name="bluetooth_show_files_received_via_bluetooth">Fichiers reçus via Bluetooth</string>
-    <string name="bluetooth_show_received_files">Fichiers reçus</string>
+    <string name="bluetooth_show_received_files">Received files</string>
+    <string name="bluetooth_sim_card_access_dialog_content">"A Bluetooth device, %1$s, wants to access data on your SIM card. This includes your contacts.
+
+While connected, %2$s will receive all calls made to %3$s."</string>
+    <string name="bluetooth_sim_card_access_dialog_title">Allow access to SIM card?</string>
+    <string name="bluetooth_sim_card_access_notification_content">A device wants to access your SIM card. Tap for details.</string>
+    <string name="bluetooth_sim_card_access_notification_title">SIM card access request</string>
+    <string name="bluetooth_source_added_message">Broadcast source added successfully to receiver %1$s.</string>
+    <string name="bluetooth_source_addition_error_message">"Couldn't add the Broadcast source to receiver %1$s."</string>
+    <string name="bluetooth_source_dup_addition_error_message">"Couldn't add the Broadcast source to receiver %1$s . Duplicate source"</string>
+    <string name="bluetooth_source_no_empty_slot_error_message">Consider removing some source from receiver %1$s. No empty slot</string>
+    <string name="bluetooth_source_removal_error_message">"Couldn't remove the Broadcast Source from %1$s."</string>
+    <string name="bluetooth_source_remove_invalid_group_op">"Couldn't remove the Broadcast Source from %1$s.Invalid Group operation, Try non-Group operation"</string>
+    <string name="bluetooth_source_remove_invalid_src_id">"Couldn't remove the Broadcast Source from %1$s.Invalid Source Id"</string>
+    <string name="bluetooth_source_selection_error_message">Invalid Broadcast source selected for Receiver %1$s.</string>
+    <string name="bluetooth_source_selection_error_src_unavail_message">selected source for receiver %1$s. is Unavailable</string>
+    <string name="bluetooth_source_selection_options_detail">"Broadcast source
+%1$s is being added to receiver.
+(Leave Broadcast PIN blank if
+It is Unencrypted broadcast Source)"</string>
+    <string name="bluetooth_source_selection_options_detail_title">Configure Broadcast receiver</string>
+    <string name="bluetooth_source_setpin_error_message">"Couldn't update the Broadcast PIN code for %1$s."</string>
+    <string name="bluetooth_source_update_error_message">"Couldn't update Broadcast source details of receiver %1$s."</string>
+    <string name="bluetooth_source_update_invalid_group_op">"Couldn't update the Broadcast Source from %1$s.Invalid Group operation, Try non-Group operation"</string>
+    <string name="bluetooth_source_update_invalid_src_id">"Couldn't update the Broadcast Source from %1$s.Invalid Source Id"</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Ordinateur</string>
+    <string name="bluetooth_talkback_group">Grouper les appareils</string>
     <string name="bluetooth_talkback_headphone">Écouteurs</string>
     <string name="bluetooth_talkback_headset">Écouteurs</string>
     <string name="bluetooth_talkback_imaging">"Périphérique d'acquisition d'images"</string>
@@ -1616,7 +1788,6 @@ Qualité de lecture"</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">"Le nouveau périphérique Bluetooth remplacera l'ancien."</string>
     <string name="bluetooth_unlock_change_matched_device">Autre périphérique</string>
     <string name="bluetooth_unlock_confirm_device_text">Confirmez sur le périphérique Bluetooth.</string>
-    <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirmez sur le bracelet.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Appuyez sur le bouton de la montre pour déverrouiller.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Confirmez sur le périphérique Bluetooth.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_miband2">Appuyez sur le bouton du bracelet pour déverrouiller.</string>
@@ -1625,7 +1796,6 @@ Qualité de lecture"</string>
     <string name="bluetooth_unlock_device_matched_text">Utilisez celui-ci pour déverrouiller.</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Aucun périphérique détecté</string>
     <string name="bluetooth_unlock_reject">La demande de déverrouillage de cet appareil a été rejetée</string>
-    <string name="bluetooth_unlock_settings_devices_prompt">Uniquement compatible avec certains appareils Bluetooth (ex.: bracelets connectés et montres connectées)</string>
     <string name="bluetooth_unlock_settings_devices_title">Périphérique</string>
     <string name="bluetooth_unlock_settings_toggle_title">Appliquer pour</string>
     <string name="bluetooth_unlock_settings_unlock_device">"Déverrouiller l'appareil"</string>
@@ -1643,7 +1813,6 @@ Qualité de lecture"</string>
     <string name="bluetooth_unpair_dialog_forget_confirm_button">"Dissocier l'appareil"</string>
     <string name="bluetooth_unpair_dialog_title">"Dissocier l'appareil ?"</string>
     <string name="bluetooth_untether_blank">Le partage connexion avec %1$s va être annulé.</string>
-    <string name="bluetooth_untethered_unpair_dialog_body">%1$s ne sera plus appairé à aucun appareil lié à ce compte</string>
     <string name="bluetooth_version">Version du Bluetooth</string>
     <string name="bluetooth_version_message">Mise à jour</string>
     <string name="bluetooth_visibility_timeout">Délai de visibilité</string>
@@ -1715,16 +1884,25 @@ Vous pouvez le modifier dans les paramètres."</string>
     <string name="bt_aac_open_dialog_summary">"L'AAC risque de ne pas reproduire le son en raison de problèmes de compatibilité.
 Vous pouvez désactiver cette fonctionnalité dans Paramètres > Bluetooth > Périphérique Bluetooth associé"</string>
     <string name="bt_aac_open_dialog_title">Basculer vers le codec AAC</string>
+    <string name="bt_aac_pre_title">AAC</string>
     <string name="bt_absVolume_open_dialog_summary">En raison de problèmes de compatibilité, certains périphériques Bluetooth peuvent avoir des niveaux de volume anormaux, ce qui peut être résolu en désactivant cette fonction.</string>
     <string name="bt_absVolume_open_dialog_title">Attention</string>
     <string name="bt_absVolume_pre_title">Volume absolu</string>
     <string name="bt_absVolume_summary">"Synchronise le volume sonore du périphérique Bluetooth avec celui de l'appareil"</string>
+    <string name="bt_always_show_icon">Always show status bar icon</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">"aptX Adaptive fournira une lecture de haute qualité et réduira la latence audio pour les jeux et la vidéo tout en augmentant la consommation d'énergie. La lecture peut être saccadée en raison des limitations matérielles Bluetooth et des interférences environnementales."</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Passer à aptX Adaptive ?</string>
     <string name="bt_audio_repair_property">Résoudre les problèmes audio</string>
     <string name="bt_audio_share_property">Partage</string>
     <string name="bt_audio_share_switch_summary">"Partager l'audio avec les périphériques Bluetooth connectés"</string>
     <string name="bt_audio_share_switch_title">Partage audio</string>
+    <string name="bt_audiorepair_dialog_open_success">Fixed successfully. Wait until the device reconnects.</string>
+    <string name="bt_audiorepair_dialog_openok">Fix</string>
+    <string name="bt_audiorepair_open_dialog_summary">"MIUI will detect and fix the problems that cause Bluetooth audio stutter. Bluetooth will be restarted during this process. Don't leave this page until you see the results."</string>
+    <string name="bt_audiorepair_open_dialog_title">Fix audio stutter</string>
+    <string name="bt_audiorepair_pre_title">Fix audio stutter</string>
+    <string name="bt_audiorepair_summary">Fix audio stutter on connected Bluetooth devices</string>
+    <string name="bt_audiorepair_working">Fixing audio stutter…</string>
     <string name="bt_dialog_remember_choice">Se souvenir de ce choix</string>
     <string name="bt_dialog_settings">Paramètres</string>
     <string name="bt_hci_snoop_log">Log Bluetooth HCI snoop</string>
@@ -1736,7 +1914,14 @@ Vous pouvez désactiver cette fonctionnalité dans Paramètres > Bluetooth > Pé
     <string name="bt_ldac_dialog_title">"L'appareil actuel supporte LDAC, qui a été connecté par défaut :"</string>
     <string name="bt_ldac_open_dialog_summary">"LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
     <string name="bt_ldac_open_dialog_title">Activer LDAC ?</string>
-    <string name="bt_ldac_property">Attributs</string>
+    <string name="bt_ldac_pre_title">LDAC</string>
+    <string name="bt_ldac_property">Propriétés</string>
+    <string name="bt_le_audio_broadcast_dialog_different_output">Change output</string>
+    <string name="bt_le_audio_broadcast_dialog_sub_title">If you broadcast %1$s or change the output, your current broadcast will stop.</string>
+    <string name="bt_le_audio_broadcast_dialog_switch_app">Broadcast %1$s</string>
+    <string name="bt_le_audio_broadcast_dialog_title">Stop broadcasting %1$s?</string>
+    <string name="bt_le_audio_qr_code_is_not_valid_format">"QR code isn't a valid format"</string>
+    <string name="bt_le_audio_scan_qr_code_scanner">To start listening, center the QR code below</string>
     <string name="bt_leaudio_cg_dialog_summary">"Certaines fonctionnalités ne seront plus disponibles une fois cette fonctionnalité activée. Cette fonctionnalité ne prend pas non plus en charge la connexion de plusieurs appareils à vos écouteurs. Si vous êtes déjà connecté à deux appareils différents, déconnectez-vous de l'un d'eux en premier. Allumez LC3 maintenant ?"</string>
     <string name="bt_leaudio_open_dialog_summary">"Vous ne pourrez pas connecter plusieurs appareils à votre casque lorsque le LC3 est activé. Les autres appareils connectés seront déconnectés si vous activez cette fonction. Allumez quand même LC3 ?"</string>
     <string name="bt_leaudio_open_dialog_title">Attention</string>
@@ -1748,6 +1933,7 @@ Vous pouvez désactiver cette fonctionnalité dans Paramètres > Bluetooth > Pé
     <string name="bt_lhdc_dialog_title">Le périphérique actuel prend en charge LHDC, qui a été connecté par défaut :</string>
     <string name="bt_lhdc_open_dialog_summary">"LHDC permet de lire un son de haute qualité et réduit la latence pendant le jeu, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir pendant la lecture en raison des limitations matérielles Bluetooth."</string>
     <string name="bt_lhdc_open_dialog_title">Activer LHDC ?</string>
+    <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Propriétés</string>
     <string name="bt_plugin_current_version">Version actuelle</string>
     <string name="bt_plugin_new_version">Mettre à jour</string>
@@ -1779,7 +1965,9 @@ Vous pouvez désactiver cette fonctionnalité dans Paramètres > Bluetooth > Pé
     <string name="bubbles_conversation_toggle_title">Bulles pour cette conversation</string>
     <string name="bubbles_feature_disabled_button_approve">"Activer pour l'appareil"</string>
     <string name="bubbles_feature_disabled_button_cancel">Annuler</string>
-    <string name="bubbles_feature_disabled_dialog_text">"Pour activer les bulles pour cette application, vous devez d'abord les activer sur votre appareil. Cela impactera les autres applications pour lesquelles vous aviez précédemment activer les bulles."</string>
+    <string name="bubbles_feature_disabled_dialog_text">"Pour activer les bulles pour cette application, vous devez d'abord les activer sur votre appareil.
+
+Cela impactera les autres applications pour lesquelles vous aviez précédemment activer les bulles."</string>
     <string name="bubbles_feature_disabled_dialog_title">Activation des bulles</string>
     <string name="bubbles_feature_education">"Certaines notification et d'autres contenus peuvent apparaître sous forme de bulles à l'écran. Pour ouvrir une bulle, appuyez dessus. Pour la faire disparaître, déplacez-la vers le bas de l'écran."</string>
     <string name="bug_report_handler_picker_footer_text">Détermine quelle application gère le raccourci Rapport de bogue sur votre appareil.</string>
@@ -1790,11 +1978,10 @@ Vous pouvez désactiver cette fonctionnalité dans Paramètres > Bluetooth > Pé
     <string name="build_number">Numéro de build</string>
     <string name="builtin_keyboard_settings_summary">Paramètres du clavier physique</string>
     <string name="builtin_keyboard_settings_title">Clavier physique</string>
-    <string name="button_confirm_convert_fbe">Effacer et chiffrer</string>
-    <string name="button_convert_fbe">Nettoyer et convertir…</string>
     <string name="button_disconnect_network">Déconnecter du réseau</string>
     <string name="button_height_text">Un bouton de confirmation générique (par ex. \"OK\", \"Effectué\")</string>
     <string name="button_light_timeout">Garder les boutons allumés</string>
+    <string name="button_navigation_settings_activity_title">Button navigation</string>
     <string name="button_normal_text">Bouton classique</string>
     <string name="button_text_accept">Accepter</string>
     <string name="button_text_accept_timer">Accepter (%d)</string>
@@ -1839,9 +2026,19 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="call_settings_summary">"Messagerie vocale, transferts d'appel, mise en attente, numéro de l'appelant"</string>
     <string name="call_settings_title">"Paramètres d'appel"</string>
     <string name="call_volume_option_title">"Volume d'appel"</string>
+    <string name="calls_and_sms">Calls &amp; SMS</string>
     <string name="calls_and_sms_ask_every_time">Demander à chaque fois</string>
+    <string name="calls_and_sms_category">Wi‑Fi calling</string>
     <string name="calls_preference">Préférence des appels</string>
-    <string name="calls_title">Appels</string>
+    <string name="calls_preference_title">Calls</string>
+    <string name="calls_sms_calls_preferred">preferred for calls</string>
+    <string name="calls_sms_footnote">With Wi‑Fi calling, calls are made and received over non‑carrier Wi‑Fi networks. <annotation id="url">Learn more</annotation></string>
+    <string name="calls_sms_no_sim">No SIM</string>
+    <string name="calls_sms_preferred">preferred</string>
+    <string name="calls_sms_sms_preferred">preferred for SMS</string>
+    <string name="calls_sms_temp_unavailable">Temporarily unavailable</string>
+    <string name="calls_sms_unavailable">unavailable</string>
+    <string name="calls_sms_wfc_summary">Make and receive calls over Wi‑Fi</string>
     <string name="camera_double_tap_power_gesture_desc">"Lancer rapidement l'appareil photo sans déverrouiller l'écran"</string>
     <string name="camera_double_tap_power_gesture_title">"Appuyer 2x sur Marche/Arrêt pour l'appareil photo"</string>
     <string name="camera_front">Appareil photo avant %s</string>
@@ -1861,18 +2058,18 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="camera_key_action_toggle_title">Accès rapide à un paramètre</string>
     <string name="camera_laser_sensor_switch">"Capteur du laser de l'appareil photo"</string>
     <string name="camera_rear">Appareil photo arrière %s</string>
+    <string name="camera_toggle_title">Camera access</string>
     <string name="cancel">Annuler</string>
     <string name="cancel_action">Annuler</string>
     <string name="cancel_alert">Annuler vos changements ?</string>
     <string name="cancel_button">Annuler</string>
     <string name="cancel_download_buton_text">Annuler</string>
     <string name="cancel_lock_screen_dialog_button_label">Annuler</string>
+    <string name="cancel_refresh_group">Cancel Refresh</string>
     <string name="cannot_change_apn_toast">Cet APN ne peut pas être modifié.</string>
     <string name="cant_sync_dialog_message">La synchronisation de cet élément est actuellement désactivée. Pour modifier ce paramètre, activez temporairement les données en arrière-plan et la synchronisation automatique.</string>
     <string name="cant_sync_dialog_title">Impossible de procéder à la synchronisation manuelle.</string>
     <string name="capabilities_list_title">%1$s doit pouvoir :</string>
-    <string name="capability_desc_receiveAccessibilityEvents">Reçoit des notifications lorsque vous interagissez avec une application.</string>
-    <string name="capability_title_receiveAccessibilityEvents">Observer vos actions</string>
     <string name="captioning_background_color">"Couleur d'arrière-plan"</string>
     <string name="captioning_background_opacity">"Opacité de l'arrière-plan"</string>
     <string name="captioning_caption_appearance_summary">Taille de texte %1$s</string>
@@ -1883,6 +2080,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="captioning_foreground_color">Couleur du texte</string>
     <string name="captioning_foreground_opacity">Opacité du texte</string>
     <string name="captioning_locale">Langue</string>
+    <string name="captioning_more_options_title">More options</string>
     <string name="captioning_preset">Style des sous-titres</string>
     <string name="captioning_preview_characters">Aa</string>
     <string name="captioning_preview_text">Aperçu des sous-titres</string>
@@ -1892,27 +2090,36 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="captioning_typeface">Famille de polices</string>
     <string name="captioning_window_color">Couleur de la zone de sous-titres</string>
     <string name="captioning_window_opacity">Opacité de la zone de sous-titres</string>
+    <string name="captions_category_title">Captions</string>
     <string name="capture_system_heap_dump_title">Capturer le vidage mémoire système</string>
     <string name="capturing_system_heap_dump_message">Capturing system heap dump</string>
     <string name="card_holder_header_title">Portefeuille</string>
     <string name="card_main_hbassistant_title">Enveloppes rouges; Enveloppe rouge; Argent</string>
     <string name="cards_passes_lower">cartes et pass</string>
     <string name="cards_passes_sentence">Cartes et pass</string>
-    <string name="cards_passes_setting_subtitle">"Pour accéder à des éléments tels que vos modes de paiement et vos cartes d'embarquement, maintenez le bouton Marche / Arrêt enfoncé."</string>
-    <string name="cards_passes_setting_toggle">Afficher cartes et pass</string>
     <string name="carrier">Opérateur</string>
     <string name="carrier_and_update_now_text">"Mis à jour par ^1 à l'instant"</string>
     <string name="carrier_and_update_text">Mis à jour par ^1 il y a ^2</string>
     <string name="carrier_enabled">"Activer / Désactiver l'APN"</string>
     <string name="carrier_enabled_summaryOff">APN désactivé</string>
     <string name="carrier_enabled_summaryOn">APN activé</string>
+    <string name="carrier_network_change_mode">Carrier network changing</string>
     <string name="carrier_provisioning">Informations de gestion des comptes opérateur</string>
     <string name="carrier_settings_euicc">Opérateur</string>
     <string name="carrier_settings_title">Réglages opérateur</string>
     <string name="carrier_settings_version">Version des paramètres</string>
+    <string name="carrier_wifi_network_title">W+ network</string>
+    <string name="carrier_wifi_offload_summary">Allow Google Fi to use W+ networks to improve speed and coverage</string>
+    <string name="carrier_wifi_offload_title">W+ connections</string>
+    <string name="category_name_appearance">Appearance</string>
+    <string name="category_name_brightness">Brightness</string>
+    <string name="category_name_color">Color</string>
+    <string name="category_name_display_controls">Other display controls</string>
+    <string name="category_name_general">General</string>
+    <string name="category_name_lock_display">Lock display</string>
+    <string name="category_name_others">Others</string>
     <string name="category_personal">Personnelles</string>
     <string name="category_work">Travail</string>
-    <string name="cbrs_data_switch_string">Données CBRS</string>
     <string name="cdma_lte_data_service">Configurer le service de données</string>
     <string name="cdma_security_settings_summary">"Définir les paramètres de la fonction Ma position, de déverrouillage de l'écran et de verrouillage du stockage des identifiants"</string>
     <string name="cdma_subscription_dialogtitle">abonnement</string>
@@ -1923,16 +2130,16 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="cdma_system_select_title">Sélection du système</string>
     <string name="cell_broadcast_settings">"Alertes d'urgences"</string>
     <string name="cell_data_limit">Limite de données : ^1</string>
+    <string name="cell_data_off_content_description">Mobile data is off</string>
     <string name="cell_data_template">^1 de données mobiles</string>
     <string name="cell_data_warning">"Seuil d'avertissement sur la consommation des données : ^1"</string>
     <string name="cell_data_warning_and_limit">"Seuil d'avertissement sur la consommation des données : ^1 – Limite de consommation des données : ^2"</string>
-    <string name="cell_warning_and_limit">Avertissement relatif aux données : %1$s / Limite de consommation des données : %2$s</string>
-    <string name="cell_warning_only">Limite déclenchant un avertissement sur la consommation des données : %1$s</string>
-    <string name="cellular_data_summary">Autoriser conso données sur réseau mobile</string>
-    <string name="cellular_data_title">Données mobiles</string>
-    <string name="cellular_data_usage">Conso. données mobiles</string>
-    <string name="cert_not_installed">Certificat non installé</string>
-    <string name="certificate_warning_dont_install">Ne pas installer</string>
+    <string name="cellular_data_summary">Allow data usage over mobile network</string>
+    <string name="cellular_data_usage">Mobile data usage</string>
+    <string name="cert_not_installed">Certificate not installed</string>
+    <string name="certificate_management_app">Certificate management app</string>
+    <string name="certificate_management_app_description">Certificates will verify you when you use the apps and URLs below</string>
+    <string name="certificate_warning_dont_install">Don’t install</string>
     <string name="certificate_warning_install_anyway">Installer quand même</string>
     <string name="change">Éditer</string>
     <string name="change_brightness">Ajuster la luminosité</string>
@@ -1950,7 +2157,6 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="charge_animation_style_lollipop">Flux</string>
     <string name="charge_animation_style_none">Désactivé</string>
-    <string name="charge_animation_style_particle">Particule</string>
     <string name="charge_animation_style_summary">"Choisissez votre style d'animation de charge d'écran de verrouillage préféré"</string>
     <string name="charge_animation_style_title">Animation de charge</string>
     <string name="charge_animation_style_video">Lueur</string>
@@ -1961,7 +2167,6 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="check_update">Vérifier les mises à jour</string>
     <string name="checkbox_notification_same_as_incoming_call">Utiliser le volume des appels entrants pour les notifications</string>
     <string name="checkbox_text">Switch</string>
-    <string name="checking_decryption">Vérification en cours…</string>
     <string name="checking_find_device_status">"Vérification de l'état de Localiser l'appareil…"</string>
     <string name="checking_for_updates">Vérification des mises à jour…</string>
     <string name="chip_text">Chip text</string>
@@ -1971,6 +2176,11 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="choose_lock_pattern_header_text">Définir un schéma</string>
     <string name="choose_network_title">Choisissez le réseau</string>
     <string name="choose_profile">Sélectionnez un profil</string>
+    <string name="choose_sim_activating">Activating…</string>
+    <string name="choose_sim_could_not_activate">Couldn’t be activated right now</string>
+    <string name="choose_sim_item_summary_unknown">Unknown number</string>
+    <string name="choose_sim_text">{count, plural, =1 {1 number is available on this device, but only one can be used at a time} =2 {2 numbers are available on this device, but only one can be used at a time} other {# numbers are available on this device, but only one can be used at a time} }</string>
+    <string name="choose_sim_title">Choose a number to use</string>
     <string name="choose_smartcover_type">"Choisir le type d'étui"</string>
     <string name="choose_spell_checker">Sélectionner correcteur ortho</string>
     <string name="choose_timezone">Sélectionner le fuseau horaire</string>
@@ -1980,6 +2190,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="classic_mode_summary">Passe à des couleurs plus chaudes pour réduire la quantité de lumière bleue</string>
     <string name="classic_mode_title">Classique</string>
     <string name="cleaner">Nettoyeur</string>
+    <string name="clear">Clear</string>
     <string name="clear_activities">Effacer les actions par défaut</string>
     <string name="clear_activities_summary">Utiliser cette application pour certaines opérations par défaut</string>
     <string name="clear_adb_keys">Révoquer les permissions du débogage USB</string>
@@ -2092,14 +2303,15 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="color_temperature">Température des couleurs froides</string>
     <string name="color_temperature_desc">"Utiliser des couleurs plus froides à l'écran"</string>
     <string name="color_temperature_toast">"Pour appliquer la modification des couleurs, éteignez l'écran."</string>
-    <string name="color_theme">Palette de couleurs</string>
     <string name="color_title">Couleur</string>
     <string name="color_unspecified">Par défaut</string>
     <string name="color_white">Blanc</string>
     <string name="color_yellow">Jaune</string>
+    <string name="colors_viewpager_content_description">Color preview</string>
     <string name="common_issue">F.A.Q</string>
     <string name="common_settings">Accès rapides</string>
     <string name="complete_parameters">Caractéristiques</string>
+    <string name="complete_parameters_new">Detailed info and specs</string>
     <string name="complete_settings">Paramètres</string>
     <string name="computer_backup_summary">"Sauvegarder et restaurer des éléments à l'aide d'un ordinateur"</string>
     <string name="computer_backup_title">Ordinateur</string>
@@ -2121,7 +2333,6 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="condition_expand_show">Afficher</string>
     <string name="condition_grayscale_summary">"N'afficher qu'en niveaux de gris"</string>
     <string name="condition_grayscale_title">Niveaux de gris</string>
-    <string name="condition_hotspot_summary">"Le point d'accès Wi-Fi \"%1$s\" est actif. Le Wi-Fi est désactivé pour cet appareil."</string>
     <string name="condition_hotspot_title">"Le point d'accès est activé"</string>
     <string name="condition_night_display_summary">"L'écran prend une teinte rouge ambré qui peut vous aider à vous endormir."</string>
     <string name="condition_night_display_title">Éclairage nocturne activé</string>
@@ -2132,6 +2343,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="condition_zen_summary_phone_muted">Téléphone muet</string>
     <string name="condition_zen_summary_with_exceptions">Avec exceptions</string>
     <string name="condition_zen_title">Mode \"Ne pas déranger\" activé</string>
+    <string name="config_charging_function_name">charging</string>
     <string name="config_list_label">Réseaux configurés</string>
     <string name="configure">Configurer</string>
     <string name="configure_apps">Configurer les applis</string>
@@ -2140,7 +2352,6 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="configure_section_header">Configurer</string>
     <string name="confirm_action">OK</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Ajouter</string>
-    <string name="confirm_convert_to_fbe_warning">Voulez-vous vraiment effacer les données des utilisateurs et chiffrer les fichiers ?</string>
     <string name="confirm_device_credential_password">Utiliser mot de passe</string>
     <string name="confirm_device_credential_pattern">Utiliser schéma</string>
     <string name="confirm_device_credential_pin">Utiliser PIN</string>
@@ -2149,7 +2360,6 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
     <string name="confirm_erase">Supprimer</string>
     <string name="confirm_fingerprint">Vérifiez votre empreinte digitale</string>
-    <string name="confirm_fingerprint_icon_content_description">Utilisez votre empreinte digitale pour continuer.</string>
     <string name="confirm_fingerprint_msg">Placez votre doigt sur le capteur</string>
     <string name="confirm_frp_credential_message">"Votre appareil a été réinitialisé aux paramètres d'usine, vous pouvez le déverrouiller avec votre ancien mot de passe."</string>
     <string name="confirm_frp_credential_skip_txt">Utiliser plutôt un compte Google</string>
@@ -2161,25 +2371,35 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="confirm_privacy_password">Saisissez le mot de passe de protection de confidentialité</string>
     <string name="confirm_privacy_password_fingerprint">Lisez votre empreinte digitale ou saisissez votre mot de passe de protection de confidentialité</string>
     <string name="confirm_reset_aaid">OK </string>
+    <string name="confirm_sim_deletion_description">"Verify it's you before erasing a downloaded SIM"</string>
+    <string name="confirm_sim_deletion_title">Confirm SIM deletion</string>
+    <string name="confirmation_turn_on">Turn on</string>
+    <string name="connect_group">Connect Group</string>
     <string name="connect_later">Impossible de se connecter à ce réseau. Réessayez plus tard.</string>
     <string name="connect_mode">Type de connexion</string>
     <string name="connect_to_internet">Connexion à internet</string>
     <string name="connected">Connecté</string>
     <string name="connected_device_add_device_summary">"Le Bluetooth sera activé pour permettre l'association"</string>
+    <string name="connected_device_bluetooth_turned_on_toast">Bluetooth turned on</string>
     <string name="connected_device_add_device_title">Ajouter un appareil</string>
-    <string name="connected_device_available_call_title">"Périphériques d'appel disponibles"</string>
-    <string name="connected_device_available_media_title">Périphériques multimédias disponibles</string>
-    <string name="connected_device_bluetooth_turned_on_toast">Bluetooth activé</string>
-    <string name="connected_device_connected_title">Actuellement connecté</string>
-    <string name="connected_device_connections_title">Préférences de connexion</string>
+    <string name="connected_device_connections_title">Connection preferences</string>
+    <string name="connected_device_media_device_title">Media devices</string>
+    <string name="connected_device_other_device_title">Other devices</string>
     <string name="connected_device_previously_connected_screen_title">Connecté précédemment</string>
     <string name="connected_device_previously_connected_title">Appareils connectés précédemment</string>
     <string name="connected_device_saved_title">Appareils enregistrés</string>
+    <string name="connected_device_see_all_summary">Bluetooth will turn on</string>
+    <string name="connected_devices_dashboard_android_auto_no_driving_mode_summary">Bluetooth, Android Auto, NFC</string>
+    <string name="connected_devices_dashboard_android_auto_no_nfc_no_driving_mode">Bluetooth, Android Auto</string>
+    <string name="connected_devices_dashboard_android_auto_no_nfc_summary">Bluetooth, Android Auto, driving mode</string>
+    <string name="connected_devices_dashboard_android_auto_summary">Bluetooth, Android Auto, driving mode, NFC</string>
+    <string name="connected_devices_dashboard_default_summary">Bluetooth, pairing</string>
     <string name="connected_devices_dashboard_no_driving_mode_no_nfc_summary">Bluetooth</string>
     <string name="connected_devices_dashboard_no_driving_mode_summary">Bluetooth, NFC</string>
     <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth, mode voiture</string>
     <string name="connected_devices_dashboard_summary">Bluetooth, mode voiture, NFC</string>
     <string name="connected_devices_dashboard_title">Appareils connectés</string>
+    <string name="connected_to_metered_access_point">Connected to metered network</string>
     <string name="connected_tws_device_saved_title">Earbuds enregistrés</string>
     <string name="connected_via_app">Connecté via %1$s</string>
     <string name="connected_via_carrier">Connecté à %1$s</string>
@@ -2191,6 +2411,16 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="connection_and_sharing">Connexion &amp; partage</string>
     <string name="connection_control">Gérer les connexions</string>
     <string name="contact_data">Contacts</string>
+    <string name="contact_discovery_opt_in_dialog_message">"Your contacts’ phone numbers will be periodically sent to %1$s.
+
+        This info identifies whether your contacts can use certain features, like video calls or some messaging features."</string>
+    <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"Your contacts’ phone numbers will be periodically sent to your carrier.
+
+        This info identifies whether your contacts can use certain features, like video calls or some messaging features."</string>
+    <string name="contact_discovery_opt_in_dialog_title">Send contacts to %1$s?</string>
+    <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">Send contacts to your carrier?</string>
+    <string name="contact_discovery_opt_in_summary">Send your contacts’ phone numbers to provide enhanced features</string>
+    <string name="contact_discovery_opt_in_title">Send contacts to carrier</string>
     <string name="content_capture">Contenu application</string>
     <string name="content_capture_summary">Autoriser les applications à envoyer du contenu au système Android</string>
     <string name="content_description_menu_button">Menu</string>
