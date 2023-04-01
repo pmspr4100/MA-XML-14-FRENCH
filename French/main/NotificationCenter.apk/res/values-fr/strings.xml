@@ -30,10 +30,8 @@
     <string name="actionbar_button_up_description">Retour</string>
     <string name="afternoon">Après-midi</string>
     <string name="cancel">Annuler</string>
-    <string name="back">Retour</string>
     <string name="category_other">Autre</string>
     <string name="channel_name_aggregation">Notifications groupées</string>
-    <string name="channel_name_notification">"Notifications d'applications"</string>
     <string name="channel_name_recovered">Notifications restaurées</string>
     <string name="character_counter_content_description">>%1$d caractères entrés sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
@@ -76,7 +74,6 @@
     <string name="menu_setting_unfold">Important</string>
     <string name="midnight">Nuit</string>
     <string name="miui_snooze_always_float">Ne pas masquer</string>
-    <string name="miui_snooze_cancel">Annuler</string>
     <string name="miui_snooze_default_time">Pendant %d minute(s)</string>
     <string name="miui_snooze_until_unlock_screen">"Jusqu'au verrouillage de l'appareil"</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
@@ -306,7 +303,6 @@
     <string name="notification_fold_footer_icon_title">"Afficher les icônes d'application"</string>
     <string name="notification_fold_summary">Toutes les notifications sans importance apparaîtront dans un dossier séparé</string>
     <string name="notification_fold_title">Dossier notifications</string>
-    <string name="notification_manager">"Notifications d'application"</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">Désactivé</string>

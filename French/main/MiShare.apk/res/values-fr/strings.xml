@@ -8,16 +8,6 @@
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">supprimer</string>
-    <string name="abc_menu_enter_shortcut_label">entrée</string>
-    <string name="abc_menu_function_shortcut_label">Fonction+</string>
-    <string name="abc_menu_meta_shortcut_label">Méta+</string>
-    <string name="abc_menu_shift_shortcut_label">Maj+</string>
-    <string name="abc_menu_space_shortcut_label">espace</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -55,6 +45,8 @@
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="default_device_name">Appareil inconnu</string>
+    <string name="device_list_all">Tous les appareils</string>
+    <string name="device_list_more">Plus</string>
     <string name="device_name">"Nom de l'appareil"</string>
     <string name="device_offline">"L'autre appareil est hors ligne. Recommencer."</string>
     <string name="device_status_failed">"Impossible d'envoyer"</string>
@@ -293,6 +285,7 @@ Avant d'utiliser Mi Share, vous devez accorder les autorisations suivantes, ains
     <string name="start_scan">START SCAN</string>
     <string name="stop_advertise">STOP ADVERTISE</string>
     <string name="stop_scan">STOP SCAN</string>
+    <string name="sub_title_mishare_switch">Cette fonctionnalité se désactivera automatiquement après %d minutes</string>
     <string name="success_receive_much_file_from_pc">Received more than 200 files from %1$s. Tap to view.</string>
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
@@ -351,6 +344,8 @@ Avant d'utiliser Mi Share, vous devez accorder les autorisations suivantes, ains
     <string name="tips_p2p_support_use5g_china">Pour de meilleurs résultats, utilisez un réseau Wi-Fi 5 GHz.</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Rapporter</string>
+    <string name="toast_auto_close_in_minutes">"Mi Share s'éteindra après %d minutes"</string>
+    <string name="toast_transfering">Transfert des éléments. Réessayez plus tard.</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
     <string name="transfer_intercept_to_remote">"Impossible d'envoyer : %1$s"</string>
@@ -358,7 +353,11 @@ Avant d'utiliser Mi Share, vous devez accorder les autorisations suivantes, ains
     <string name="transfer_to_pc_summary_new"><Data>"La dernière version de MIUI+ installée sur Mi Notebooks est compatible avec Mi Share. Vous pouvez consulter la liste des modèles d'ordinateurs portables pris en charge sur le site Web MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Si votre ordinateur portable figure sur la liste, mais que MIUI+ n'y est pas installé, mettez à jour le BIOS et le pilote de la carte réseau de votre ordinateur portable et téléchargez MIUI+."</Data></string>
     <string name="transfer_to_pc_title">Envoyer des fichiers aux ordinateurs</string>
     <string name="transfer_to_phone_summary">"Activez Mi Share à l'aide de l'interrupteur dans le Panneau des notifications. Après cela, vous pourrez voir les appareils à proximité lorsque vous commencerez à partager une photo ou un fichier. Appuyez sur l'appareil du destinataire pour envoyer l'élément que vous partagez."</string>
+    <string name="transfer_to_phone_summary_new">"Activez Mi Share dans le centre de contrôle pour pouvoir facilement envoyer et recevoir des éléments. Après l'avoir activé, vous pouvez partager des éléments avec des appareils à proximité pendant %d minutes avant qu'il ne s'éteigne automatiquement."</string>
     <string name="transfer_to_phone_title">Envoyer des fichiers aux téléphones</string>
+    <string name="transfer_to_summary">"Activez Mi Share à l'aide de la bascule dans la nuance Notification. Après cela, vous pourrez voir les appareils à proximité lorsque vous commencez à partager une photo ou un fichier. Appuyez sur l'appareil du destinataire pour envoyer l'élément que vous partagez."</string>
+    <string name="transfer_to_summary_new">"Activez Mi Share dans le centre de contrôle pour pouvoir envoyer et recevoir facilement des éléments. Après l'avoir activé, vous pouvez partager des éléments avec des appareils à proximité pendant %d minutes avant qu'il ne s'éteigne automatiquement."</string>
+    <string name="transfer_to_title">Envoyer des fichiers vers des appareils mobiles</string>
     <string name="tuesday">Mardi</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
@@ -366,6 +365,15 @@ Avant d'utiliser Mi Share, vous devez accorder les autorisations suivantes, ains
     <string name="unrecognized_manufacture">Inconnu</string>
     <string name="unrecognized_model">Appareil inconnu</string>
     <string name="user_instructions">Attention</string>
+    <string name="uwb_guide_summary_1">"Si vous ne trouvez pas l'appareil cible, demandez à l'autre personne d'appuyer sur l'interrupteur Mi Share dans son centre de contrôle."</string>
+    <string name="uwb_guide_title_1">"Demandez à l'autre personne d'activer Mi Share"</string>
+    <string name="uwb_guide_title_2">"Trouvez l'appareil cible plus rapidement avec Beam"</string>
+    <string name="uwb_setting_guide">En savoir plus</string>
+    <string name="uwb_setting_guide_summary">"Beam utilise la technologie UWB pour reconnaître sans fil les appareils cibles. Une fois que l'appareil cible est reconnu, son icône viendra au premier plan."</string>
+    <string name="uwb_setting_guide_title">"Gardez cet appareil directement en face de l'appareil cible compatible"</string>
+    <string name="uwb_summary">"Beam utilise la technologie UWB pour reconnaître les appareils cibles sans fil. Le transfert d'éléments entre appareils alimentés par la technologie UWB est plus rapide et plus pratique."</string>
+    <string name="uwb_support_device">"Appareils compatibles : "</string>
+    <string name="uwb_title">Faisceau</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
     <string name="view_file">Afficher</string>

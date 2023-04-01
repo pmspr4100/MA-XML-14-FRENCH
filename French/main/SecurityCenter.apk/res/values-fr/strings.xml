@@ -1750,17 +1750,16 @@ des tremblements de terre"</string>
     <string name="exo_controls_pause_description">Pause</string>
     <string name="exo_controls_play_description">Lecture</string>
     <string name="exo_controls_playback_speed">Vitesse</string>
-    <string name="exo_controls_playback_speed_normal">Normal</string>
     <string name="exo_controls_previous_description">Titre précédent</string>
-    <string name="exo_controls_repeat_all_description">Tout lire en boucle</string>
-    <string name="exo_controls_repeat_off_description">Ne rien lire en boucle</string>
-    <string name="exo_controls_repeat_one_description">Lire un titre en boucle</string>
+    <string name="exo_controls_repeat_all_description">Mode actuel : Tout répéter. Basculer le mode de répétition.</string>
+    <string name="exo_controls_repeat_off_description">Mode actuel : ne répéter aucun. Basculer le mode de répétition.</string>
+    <string name="exo_controls_repeat_one_description">Mode actuel : Répétez un. Basculer le mode de répétition.</string>
     <string name="exo_controls_rewind_description">Retour arrière</string>
     <string name="exo_controls_seek_bar_description">Progression de la lecture</string>
     <string name="exo_controls_settings_description">Réglages</string>
     <string name="exo_controls_show">Afficher les contrôles du lecteur</string>
-    <string name="exo_controls_shuffle_off_description">Lecture aléatoire désactivée</string>
-    <string name="exo_controls_shuffle_on_description">Lecture aléatoire activée</string>
+    <string name="exo_controls_shuffle_off_description">Activer la lecture aléatoire</string>
+    <string name="exo_controls_shuffle_on_description">Désactiver la lecture aléatoire</string>
     <string name="exo_controls_stop_description">Arrêter</string>
     <string name="exo_controls_vr_description">Mode VR</string>
     <string name="exo_download_completed">Téléchargement terminé</string>
@@ -1934,14 +1933,10 @@ des tremblements de terre"</string>
     <string name="full_fill_oprator_and_location">"Fournissez les informations et l'emplacement de votre opérateur"</string>
     <string name="full_fill_sim_location">"Définir d'abord l'emplacement"</string>
     <string name="fully_informed_privacy">Sensibilisation à la confidentialité</string>
-    <string name="function_auto_reject_detail">"À propos de cette fonctionnalité :
-1. Pendant que vous jouez à des jeux, tous les appels entrants vers la carte SIM sans service de données mobiles seront automatiquement rejetés.
-2. Vous verrez des notifications sur les appels manqués et l'autre personne entendra un message audio indiquant que vous êtes occupé à ce moment-là.
-3. Cette fonctionnalité n'est prise en charge que par les opérateurs de téléphonie mobile en Chine."</string>
     <string name="function_auto_reject_detail_new">"À propos de cette fonctionnalité :
 %1$d. Pendant que vous jouez à des jeux, tous les appels entrants vers la carte SIM sans service de données mobiles seront automatiquement rejetés.
 %2$d. Vous verrez des notifications sur les appels manqués et l'autre personne entendra un message audio indiquant que vous êtes occupé en ce moment.
-%3$d. Cette fonctionnalité n'est prise en charge que par les opérateurs de téléphonie mobile en Chine."</string>
+%3$d. Cette fonctionnalité n'est prise en charge que par les opérateurs de téléphonie mobile en Chine continentale."</string>
     <string name="function_auto_reject_title">Rejeter les appels VoLTE vers les cartes SIM sans service de données</string>
     <string name="function_close">Désactivé</string>
     <string name="function_gwsd_detail">"À propos de cette fonctionnalité :
@@ -2410,8 +2405,6 @@ de vos sessions de jeu"</string>
     <string name="gs_autobooster_dialog_message">"Si vous utilisez l'accélérateur de vitesse Xunyou, ouvrez les jeux sur la page désignée."</string>
     <string name="gs_call_handsfree">Répondre aux appels les mains libres</string>
     <string name="gs_call_handsfree_mute">Mode silencieux</string>
-    <string name="gs_dialog_confirm_close_msg">"Le raccourci sera retiré de votre Écran d'accueil. Rendez-vous à Sécurité &gt; Paramètres pour le restaurer."</string>
-    <string name="gs_dialog_confirm_close_title">Désactiver</string>
     <string name="gs_forbid_autosync">Restreindre la synchronisation en arrière-plan</string>
     <string name="gs_game_ai_record">"Enregistrer à l'aide de l'IA"</string>
     <string name="gs_game_disturb_msg">NPD</string>
@@ -2445,6 +2438,7 @@ de vos sessions de jeu"</string>
     <string name="gtb_brightness_adjust">Luminosité</string>
     <string name="gtb_brightness_dialog_right_btn">Continuer</string>
     <string name="gtb_brightness_dialog_sub_message">*Vous pouvez activer et désactiver cette fonctionnalité dans les paramètres.</string>
+    <string name="gtb_casual_guide_toast">Découvrez-en encore plus dans Jeux</string>
     <string name="gtb_content_switch">Recommandations de contenu</string>
     <string name="gtb_content_switch_summary">Recevoir des recommandations de contenu lié aux jeux</string>
     <string name="gtb_deep_garbage_cleaning">Effectuer un nettoyage en profondeur…</string>
@@ -2656,11 +2650,11 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous utilisez 
     <string name="lock_screen_warning_switch_title">"Afficher les avertissements à l'écran de verrouillage"</string>
     <string name="lock_screen_warning_value">"Alerte d'utilisations de données"</string>
     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">"Impossible de reconnaître l'empreinte digitale, réessayez."</string>
-    <string name="lockpattern_access_need_to_unlock_wrong_pattern">Le mot de passe est incorrect, réessayez.</string>
+    <string name="lockpattern_access_need_to_unlock_wrong_pattern">Le mot de passe entré est incorrect, réessayez.</string>
     <string name="lockpattern_confirm_button_text">OK</string>
     <string name="lockpattern_continue_button_text">Suivant</string>
     <string name="lockpattern_need_to_confirm">Redessinez le schéma pour confirmer :</string>
-    <string name="lockpattern_need_to_unlock_wrong">Les mots de passe ne correspondent pas, réessayez.</string>
+    <string name="lockpattern_need_to_unlock_wrong">Les mots de passe ne correspondent pas. Réessayez.</string>
     <string name="lockpattern_pattern_confirmed_header">Définir un nouveau schéma de déverrouillage</string>
     <string name="lockpattern_pattern_entered_header">Schéma ajouté</string>
     <string name="lockpattern_recording_inprogress">Soulevez votre doigt pour terminer</string>
@@ -3345,6 +3339,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">"Consommation d'énergie totale"</string>
     <string name="pc_battery_history_usetime_title">Actif</string>
+    <string name="pc_close_notifi_action">Activer</string>
     <string name="pc_emergency_call">Urgence</string>
     <string name="pc_endurance_calculation">Calcul…</string>
     <string name="pc_entered_extreme_mode">Le mode veille prolongée est activé</string>
@@ -3879,7 +3874,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pp_one_app_two_use">Utilisez deux comptes sans vous déconnecter</string>
     <string name="pp_one_phone_two_space">Utilisez deux appareils en un</string>
     <string name="pp_only_allow_permission_during_this_run">Autoriser les applications à utiliser les permissions une seule fois</string>
-    <string name="pp_only_allow_permission_during_this_run_detail">"Vous ne pouvez autoriser l'utilisation des permissions liées à l'emplacement, à l'enregistrement audio et aux contacts qu'une seule fois. Ces permissions seront à nouveau restreintes peu de temps après la fermeture de l'application."</string>
+    <string name="pp_only_allow_permission_during_this_run_detail">"Vous pouvez autoriser l'utilisation des autorisations liées à l'emplacement, à l'enregistrement audio et aux contacts une seule fois. Ces autorisations seront à nouveau restreintes peu de temps après la fermeture de l'application."</string>
     <string name="pp_operator_get_number">"Exiger l'approbation pour accéder au numéro de téléphone"</string>
     <string name="pp_operator_get_number_summary">"Les applications vous demanderont votre autorisation lorsqu'elles souhaiteront accéder à votre numéro de téléphone pour vous connecter."</string>
     <string name="pp_optional_protection_function">Mesures de protection optionnelles</string>
@@ -5700,6 +5695,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="vb_video_effects_dolby_headset">" (écouteurs uniquement)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos est activé</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Stéréo étendue</string>
+    <string name="vb_video_effects_dolby_tips">"Les dialogues améliorés et la stéréo étendue ne fonctionnent pas lorsque le son immersif est activé"</string>
     <string name="vb_video_effects_immersion_sound">Son immersif</string>
     <string name="vb_video_effects_immersion_sound_summary">"Découvrez l'immersion et la sensation d'espace lorsque l'audio pris en charge est lu via des écouteurs"</string>
     <string name="vb_video_effects_liquid_summary">Améliore la clarté des dialogues dans les vidéos</string>
@@ -5725,6 +5721,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="vb_video_effects_spatial">Suivre le mouvement de la tête</string>
     <string name="vb_video_effects_spatial_summary">"Ajuste le son Surround en fonction du mouvement de la tête
 *Pris en charge uniquement sur les modèles d'écouteurs de jeu"</string>
+    <string name="vb_video_effects_spatial_summary_new">"Expérimentez une meilleure sensation d'espace et de direction pour l'audio pris en charge lors de l'utilisation d'un casque"</string>
     <string name="vb_video_effects_srs_premium_sound">Son</string>
     <string name="vb_video_super_division">"mise à l'échelle"</string>
     <string name="vb_video_super_division_desc">"Mettre à l'échelle automatiquement la définition lorsqu'elle est ≤720p.

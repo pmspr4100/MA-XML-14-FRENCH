@@ -551,7 +551,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="unit">Unités</string>
     <string name="unit_temperature">Unités de température</string>
     <string name="unit_wind">Unités de la vitesse du vent</string>
-    <string name="update_night_setting_summary_text">Mettre à jour les infos de la météo entre 23:00 et 07:00</string>
+    <string name="update_night_setting_summary_text">Mettre à jour les infos météo entre %1$s et %2$s</string>
     <string name="update_night_setting_title_text">Mettre à jour automatiquement pendant la nuit</string>
     <string name="update_notification_info">Mise à jour des données en arrière-plan…</string>
     <string name="updated_a_moment_ago">Mis à jour il y a un moment</string>
