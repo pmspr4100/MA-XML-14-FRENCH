@@ -150,21 +150,21 @@
     <string name="advertisements_enable">Les publicités sont activées</string>
     <string name="afternoon">Après-midi</string>
     <string name="ai_assistant_not_installed">"Installez d'abord l'assistant d'appel IA"</string>
-    <string name="ai_assistant_setting_title">AI Call Assistant</string>
-    <string name="alert_dialog_dismiss">Dismiss</string>
-    <string name="alert_dialog_exit_ecm">{count, plural, =1 {The phone will be in Emergency Callback mode for one minute. While in this mode no apps using a data connection can be used. Do you want to exit now?} other {The phone will be in Emergency Callback mode for %s minutes. While in this mode no applications using a data connection can be used. Do you want to exit now?} }</string>
-    <string name="alert_dialog_exit_ecm_without_data_restriction_hint">"{count, plural, =1 {The phone will be in emergency callback mode for one minute.
-        Do you want to exit now?} other {The phone will be in emergency callback mode for %s minutes.
-        Do you want to exit now?} }"</string>
-    <string name="alert_dialog_exit_scm">The phone is in SMS Callback mode. While in this mode, no apps using a data connection can be used. Do you want to exit now?</string>
-    <string name="alert_dialog_in_ecm_call">"The selected action isn't available while in an emergency call."</string>
-    <string name="alert_dialog_in_scm_call">"The selected action isn't available while in an emergency call."</string>
-    <string name="alert_dialog_no">No</string>
-    <string name="alert_dialog_not_avaialble_in_ecm">"{count, plural, =1 {The selected action isn't available while in the Emergency Callback mode. The phone will be in this mode for one minute. Do you want to exit now?} other {The selected action isn't available while in the Emergency Callback mode. The phone will be in this mode for %s minutes. Do you want to exit now?} }"</string>
-    <string name="alert_dialog_not_avaialble_in_scm">"The selected action isn't available while in the SMS Callback mode.Do you want to exit now?"</string>
+    <string name="ai_assistant_setting_title">"Assistant d'appel IA"</string>
+    <string name="alert_dialog_dismiss">Ignorer</string>
+    <string name="alert_dialog_exit_ecm">"{count, plural, =1 {Le téléphone sera en mode de rappel d'urgence pendant une minute. Dans ce mode, aucune application utilisant une connexion de données ne peut être utilisée. Voulez-vous quitter maintenant ?} autre {Le téléphone sera en mode de rappel d'urgence pendant %s minutes. Dans ce mode, aucune application utilisant une connexion de données ne peut être utilisée. Voulez-vous quitter maintenant ?} }"</string>
+    <string name="alert_dialog_exit_ecm_without_data_restriction_hint">"{count, plural, =1 {Le téléphone sera en mode de rappel d'urgence pendant une minute.
+Voulez-vous quitter maintenant ?} autre {Le téléphone sera en mode de rappel d'urgence pendant %s minutes.
+Voulez-vous quitter maintenant ?} }"</string>
+    <string name="alert_dialog_exit_scm">Le téléphone est en mode SMS Callback. Dans ce mode, aucune application utilisant une connexion de données ne peut être utilisée. Voulez-vous quitter maintenant ?</string>
+    <string name="alert_dialog_in_ecm_call">"L'action sélectionnée n'est pas disponible lors d'un appel d'urgence."</string>
+    <string name="alert_dialog_in_scm_call">"L'action sélectionnée n'est pas disponible pendant un appel d'urgence."</string>
+    <string name="alert_dialog_no">Non</string>
+    <string name="alert_dialog_not_avaialble_in_ecm">"{count, plural, =1 {L'action sélectionnée n'est pas disponible en mode de rappel d'urgence. Le téléphone restera dans ce mode pendant une minute. Voulez-vous quitter maintenant ?} other {L'action sélectionnée n'est pas disponible en mode de rappel d'urgence. Le téléphone restera dans ce mode pendant %s minutes. Voulez-vous quitter maintenant ?} }"</string>
+    <string name="alert_dialog_not_avaialble_in_scm">"L'action sélectionnée n'est pas disponible en mode de rappel par SMS. Voulez-vous quitter maintenant ?"</string>
     <string name="alert_dialog_yes">Oui</string>
     <string name="alertdialogtitle">Résultats</string>
-    <string name="all_day">" Toute la journée "</string>
+    <string name="all_day">Toute la journée</string>
     <string name="allow">Accepté</string>
     <string name="already_auto">La sélection automatique est déjà activée.</string>
     <string name="always_enable_mms">Toujours recevoir les MMS</string>
@@ -178,13 +178,13 @@
     <string name="antispam_setting">Paramètres liste noire</string>
     <string name="apn_settings">"Noms des points d'accès"</string>
     <string name="app_name">Préférence</string>
-    <string name="arrears_sim_summary">Top up your phone balance to stay connected.</string>
-    <string name="arrears_sim_title">Insufficient funds</string>
+    <string name="arrears_sim_summary">Rechargez le solde de votre téléphone pour rester connecté.</string>
+    <string name="arriérés_sim_title">Fonds insuffisants</string>
     <string name="ask">Demander</string>
     <string name="atr_disable">Les rapports de trafic aérien sont désactivés</string>
     <string name="atr_enable">Les rapports de trafic aérien sont activés</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
-    <string name="audio_mode_earpiece">Type découteurs</string>
+    <string name="audio_mode_earpiece">"Type d'écouteurs"</string>
     <string name="audio_mode_speaker">Haut-parleur</string>
     <string name="audio_mode_wired_headset">Casque filaire</string>
     <string name="auto_answer_delay_entries_delay_10s">%d secondes</string>
@@ -206,23 +206,23 @@
     <string name="auto_redial_pref_title">Recomposer automatiquement</string>
     <string name="auto_retry_mode_summary">Activer le mode de recomposition automatique</string>
     <string name="auto_retry_mode_title">Nouvel essai auto</string>
-    <string name="autoip">Auto IP dialing</string>
-    <string name="autoip_add_zero_prefix">Add 0 prefix for mobile</string>
-    <string name="autoip_areacode_required">Area code required</string>
+    <string name="autoip">Numérotation IP automatique</string>
+    <string name="autoip_add_zero_prefix">Ajouter le préfixe 0 pour mobile</string>
+    <string name="autoip_areacode_required">Indicatif régional requis</string>
     <string name="autoip_areacode_required_accept">OK</string>
     <string name="autoip_areacode_required_for_emergency_number">"Code pays local nécessaire pour les appels d'urgence"</string>
-    <string name="autoip_autoip_current_areacode_summary">Current area code is %s</string>
-    <string name="autoip_current_areacode">Current area code</string>
-    <string name="autoip_current_areacode_summary">"Current location's area code"</string>
-    <string name="autoip_exception">"Numbers that don't need IP prefix"</string>
+    <string name="autoip_autoip_current_areacode_summary">"L'indicatif régional actuel est %s"</string>
+    <string name="autoip_current_areacode">Indicatif régional actuel</string>
+    <string name="autoip_current_areacode_summary">"Indicatif régional de l'emplacement actuel"</string>
+    <string name="autoip_exception">"Numéros qui n'ont pas besoin de préfixe IP"</string>
     <string name="autoip_exception_summary">%d total</string>
     <string name="autoip_exception_summary_more">, %d total</string>
-    <string name="autoip_no_exceptions">"Add numbers that don't require an IP prefix"</string>
-    <string name="autoip_prefix">IP prefix</string>
-    <string name="autoip_prefix_summary">"Carrier's IP prefix is %s"</string>
-    <string name="autoip_setting">Automatic IP settings</string>
-    <string name="autoip_summary">Add an IP prefix for international numbers</string>
-    <string name="autoip_support_local_numbers">Always use IP prefix</string>
+    <string name="autoip_no_exceptions">Ajouter des numéros qui ne nécessitent pas de préfixe IP</string>
+    <string name="autoip_prefix">Préfixe IP</string>
+    <string name="autoip_prefix_summary">"Le préfixe IP de l'opérateur est %s"</string>
+    <string name="autoip_setting">Paramètres IP automatiques</string>
+    <string name="autoip_summary">Ajouter un préfixe IP pour les numéros internationaux</string>
+    <string name="autoip_support_local_numbers">Toujours utiliser le préfixe IP</string>
     <string name="back">Retour</string>
     <string name="badPin">"L'ancien code PIN saisi est incorrect. Veuillez réessayer."</string>
     <string name="badPin2">Ancien PIN 2 incorrect. Réessayez.</string>
@@ -237,24 +237,23 @@
     <string name="band_mode_set">Définir</string>
     <string name="band_mode_succeeded">OK</string>
     <string name="band_mode_title">Définir le mode de bande radio</string>
-    <string name="bf_news_settings">Business and Financial News</string>
-    <string name="c_iwlan_channel_name">C_IWi-Fi</string>
-    <string name="c_iwlan_exit_notification_description">Disabling it might help acquire service.</string>
-    <string name="c_iwlan_exit_notification_negative_button">DISMISS</string>
-    <string name="c_iwlan_exit_notification_positive_button">OPEN SETTINGS</string>
-    <string name="c_iwlan_exit_notification_title">Voice Over Cellular Internet unavailable</string><string name="cached_apps_freezer_device_default">Device default</string>
+    <string name="bf_news_settings">Actualités commerciales et financières</string>
+    <string name="c_iwlan_exit_notification_description">Le désactiver peut aider à acquérir le service.</string>
+    <string name="c_iwlan_exit_notification_negative_button">IGNORER</string>
+    <string name="c_iwlan_exit_notification_positive_button">OUVRIR LES PARAMÈTRES</string>
+    <string name="c_iwlan_exit_notification_title">Voix sur Internet mobile indisponible</string><string name="cached_apps_freezer_device_default">Device default</string>
     <string name="callEnded_pulled">Appel transféré sur un autre appareil.</string>
-    <string name="callFailed_NetworkBusy">Network is busy. Please try your call again later.</string>
-    <string name="callFailed_NetworkCongested">Network is congested. Contact your mobile operator for assistance.</string>
+    <string name="callFailed_NetworkBusy">Le réseau est occupé. Veuillez réessayer plus tard.</string>
+    <string name="callFailed_NetworkCongested">"Le réseau est congestionné. Contactez votre opérateur de téléphonie mobile pour obtenir de l'aide."</string>
     <string name="callFailed_QOS_unavailable">Qualité de service indisponible</string>
     <string name="callFailed_access_information_discarded">"Information sur l'accès rejetée"</string>
-    <string name="callFailed_already_dialing">Cannot place a call as another outgoing call is already dialing.</string>
-    <string name="callFailed_already_ringing">Cannot place a call as there is an unanswered incoming call. Answer or reject the incoming call prior to placing a new call.</string>
+    <string name="callFailed_already_dialing">Impossible de passer un appel car un autre appel sortant est déjà en cours de numérotation.</string>
+    <string name="callFailed_already_ringing">"Impossible de passer un appel car il y a un appel entrant sans réponse. Répondez ou rejetez l'appel entrant avant de passer un nouvel appel."</string>
     <string name="callFailed_bearer_capability_not_authorized">Capacité du porteur non autorisée</string>
     <string name="callFailed_bearer_capability_unavailable">"La capacité de support n'est pas disponible actuellement"</string>
     <string name="callFailed_bearer_service_not_implemented">Service au porteur non implémenté</string>
     <string name="callFailed_call_rejected">Appel rejeté</string>
-    <string name="callFailed_calling_disabled">Cannot place a call as calling has been disabled using the ro.telephony.disable-call system property.</string>
+    <string name="callFailed_calling_disabled">"Impossible de passer un appel car l'appel a été désactivé à l'aide de la propriété système ro.telephony.disable-call."</string>
     <string name="callFailed_cb_enabled">"Impossible d'émettre des appels sortants si le blocage d'appels est activé."</string>
     <string name="callFailed_cdma_activation">"Une carte SIM a activé le service et mis à jour les données d'itinérance de votre téléphone."</string>
     <string name="callFailed_cdma_call_limit">"Il y a trop d'appels actifs. Veuillez terminer ou fusionner les appels existants avant d'en passer un autre."</string>
@@ -277,7 +276,7 @@
     <string name="callFailed_dsac_restricted">"Appels limités par un contrôle d'accès."</string>
     <string name="callFailed_dsac_restricted_emergency">"Appels d'urgence limités par un contrôle d'accès."</string>
     <string name="callFailed_dsac_restricted_normal">"Appels standards limités par un contrôle d'accès."</string>
-    <string name="callFailed_emergency_call_over_wfc_not_available">Emergency calls over Wi-Fi calling not available in this location.</string>
+    <string name="callFailed_emergency_call_over_wfc_not_available">"Les appels d'urgence via les appels Wi-Fi ne sont pas disponibles à cet endroit."</string>
     <string name="callFailed_facility_rejected">Installation rejetée</string>
     <string name="callFailed_fdn_only">Les appels sortants sont restreints par la liste de numéros autorisés.</string>
     <string name="callFailed_imei_not_accepted">Impossible de se connecter, insérez une carte SIM valide.</string>
@@ -310,7 +309,7 @@
     <string name="callFailed_number_unreachable">Numéro injoignable.</string>
     <string name="callFailed_only_digital_information_bearer_available">"Seule la capacité de support d'information numérique restreinte est disponible"</string>
     <string name="callFailed_operator_determined_barring">"Opérateur déterminé à l'exclusion"</string>
-    <string name="callFailed_otasp_provisioning_in_process">Cannot place a call as the device is currently being provisioned.</string>
+    <string name="callFailed_otasp_provisioning_in_process">"Impossible de passer un appel car l'appareil est en cours de provisionnement."</string>
     <string name="callFailed_outOfService">Réseau mobile indisponible.</string>
     <string name="callFailed_out_of_network">Appel en dehors du réseau.</string>
     <string name="callFailed_powerOff">Signal radio désactivé.</string>
@@ -322,7 +321,7 @@
     <string name="callFailed_requested_facility_not_subscribed">Facilité demandée non souscrite</string>
     <string name="callFailed_resources_unavailable_or_unspecified">Ressources non disponibles, non précisées</string>
     <string name="callFailed_resp_to_status_enquiry">"Réponse à l'ENQUÊTE SUR L'ÉTAT"</string>
-    <string name="callFailed_secure_mode">Cannot place a non-emergency call in Secure Mode.</string>
+    <string name="callFailed_secure_mode">Impossible de passer un appel non urgent en mode sécurisé.</string>
     <string name="callFailed_semantically_incorrect_message">Message sémantiquement incorrect</string>
     <string name="callFailed_server_error">Erreur serveur : Réessayez plus tard.</string>
     <string name="callFailed_server_unreachable">Serveur injoignable.</string>
@@ -337,7 +336,7 @@
     <string name="callFailed_userBusy">Ligne occupée.</string>
     <string name="callFailed_user_not_member_of_CUG">Utilisateur non membre du GUC</string>
     <string name="callFailed_video_call_tty_enabled">Impossible de passer des appels vidéo lorsque le mode TTY est activé.</string>
-    <string name="callFailed_wfc_service_not_available_in_this_location">Wi-Fi calling is not available in this location.</string>
+    <string name="callFailed_wfc_service_not_available_in_this_location">Les appels Wi-Fi ne sont pas disponibles à cet endroit.</string>
     <string name="callFailed_wifi_lost">La connexion Wi-Fi est perdue. Appel terminé.</string>
     <string name="callUnanswered_forwarded">Appel sans réponse et transféré</string>
     <string name="call_advanced_setting_title">Paramètres avancés</string>
@@ -379,8 +378,8 @@
     <string name="call_forwarding_number_hint">Transférer les appels vers</string>
     <string name="call_forwarding_settings">"Paramètres de transfert d'appel"</string>
     <string name="call_forwarding_settings_with_label">"Paramètres de transfert d'appel (%s)"</string>
-    <string name="call_quality_notification_bluetooth_details">Your bluetooth signal is weak. Try switching to speakerphone.</string>
-    <string name="call_quality_notification_name">Call Quality Notification</string>
+    <string name="call_quality_notification_bluetooth_details">Votre signal Bluetooth est faible. Essayez de passer au haut-parleur.</string>
+    <string name="call_quality_notification_name">Notification de la qualité des appels</string>
     <string name="call_record_add_numbers">Ajouter des numéros</string>
     <string name="call_record_auto_always">Tous les numéros</string>
     <string name="call_record_auto_scenario_title">Enregistrer les appels de</string>
@@ -427,8 +426,8 @@
     <string name="card_title_on_hold">"En attente "</string>
     <string name="card_title_redialing">Nouvelle composition</string>
     <string name="carrier_info">"Infos de l'opérateur"</string>
-    <string name="carrier_mmi_msg_title">%s Message</string>
-    <string name="carrier_provisioning">Carrier Provisioning Info</string>
+    <string name="carrier_mmi_msg_title">Message %s</string>
+    <string name="carrier_provisioning"></string>
     <string name="carrier_settings_euicc">Opérateur</string>
     <string name="carrier_settings_title">Paramètres opérateur</string>
     <string name="cb_sms_settings">Paramètres de la diffusion mobile par SMS</string>
@@ -436,9 +435,9 @@
     <string name="cdma_activate_device">"Activez l'appareil"</string>
     <string name="cdma_alert_message">"Si vous sélectionnez une autre carte par défaut pour vos données mobiles, vous ne serez plus en mesure d'utiliser votre carte China Telecom UIM (sauf en itinérance)."</string>
     <string name="cdma_alert_title">La carte UIM doit être par défaut</string>
-    <string name="cdma_call_waiting">Turn on call waiting?</string>
-    <string name="cdma_call_waiting_in_ims_off">CDMA Call Waiting under IMS Off</string>
-    <string name="cdma_call_waiting_in_ims_on">CDMA Call Waiting under IMS On</string>
+    <string name="cdma_call_waiting">"Activer l'appel en attente ?"</string>
+    <string name="cdma_call_waiting_in_ims_off">Appel CDMA en attente sous IMS désactivé</string>
+    <string name="cdma_call_waiting_in_ims_on">Appel CDMA en attente sous IMS activé</string>
     <string name="cdma_display_precise_call_state_message">"Si votre réseau ne supporte pas cette fonction, l'état de l'appel peut ne pas être précis."</string>
     <string name="cdma_display_precise_call_state_summary">Confirmez que votre opérateur supporte cette fonction</string>
     <string name="cdma_display_precise_call_state_title">"Afficher l'état de l'appel"</string>
@@ -459,13 +458,13 @@
     <string name="cfb_title">Transférer si occupé</string>
     <string name="cfnrc_title">Transférer si injoignable</string>
     <string name="cfnrc_title_cta">Transfert si injoignable</string>
-    <string name="cfnry_time_fifteen_sec">%d sec</string>
-    <string name="cfnry_time_five_sec">%d sec</string>
+    <string name="cfnry_time_fifteen_sec">%d s</string>
+    <string name="cfnry_time_five_sec">%d s</string>
     <string name="cfnry_time_setting_title">"Définir la durée d'attente"</string>
-    <string name="cfnry_time_ten_sec">%d sec</string>
-    <string name="cfnry_time_thirty_sec">%d sec</string>
-    <string name="cfnry_time_twenty_five_sec">%d sec</string>
-    <string name="cfnry_time_twenty_sec">%d sec</string>
+    <string name="cfnry_time_ten_sec">%d s</string>
+    <string name="cfnry_time_thirty_sec">%d s</string>
+    <string name="cfnry_time_twenty_five_sec">%d s</string>
+    <string name="cfnry_time_twenty_sec">%d s</string>
     <string name="cfnry_title">Transférer si pas de réponse</string>
     <string name="cfu_title">Toujours transférer les appels</string>
     <string name="change_data_preference_4g_only_prompt">"Il semble que vous avez une carte SIM qui a seulement la 4G. Pour vous assurer qu'elle fonctionne normalement, définissez-la comme carte SIM par défaut pour les données mobiles. Définir maintenant ?"</string>
@@ -488,10 +487,10 @@
     <string name="change_pin_succeeded">Code PIN de messagerie vocale mis à jour</string>
     <string name="change_pin_system_error">Impossible de définir un code PIN</string>
     <string name="change_pin_title">Modifier le code PIN de la messagerie vocale</string>
-    <string name="china_mobile_palm_category">Carrier services</string>
+    <string name="china_mobile_palm_category">"Services de l'opérateur"</string>
     <string name="china_mobile_palm_title">CMCC Online Service Hall</string>
-    <string name="clear_all_set_button">clear setting</string>
-    <string name="clear_all_set_title">this button is for clear all setting</string>
+    <string name="clear_all_set_button">effacer le paramètre</string>
+    <string name="clear_all_set_title">ce bouton est pour effacer tout le paramètre</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="clh_callFailed_ACM_equal_to_or_greater_than_ACMmax_txt">ACM est supérieur ou égal à ACMmax</string>
     <string name="clh_callFailed_access_information_discarded_txt">"Informations d'accès ignorées"</string>
@@ -595,14 +594,14 @@
     <string name="data_usage_title">Consommation des données</string>
     <string name="data_usage_uninstalled_apps">Applications supprimées</string>
     <string name="data_usage_uninstalled_apps_users">Applications et utilisateurs supprimés</string>
-    <string name="date_picker_lunar">Chinese Traditional Calendar</string>
-    <string name="date_time_picker_dialog_title">Set date and time</string>
+    <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
+    <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="dc_alert_dialog_message">Certaines applications nécessitent une connexion de données mobile. Vous pouvez contacter votre opérateur pour savoir quels sont les %s disponibles pour vous.</string>
     <string name="dc_alert_dialog_title">"Alerte d'utilisation des données"</string>
     <string name="dds_switch_warning_message_data_off">Impossible de détecter la carte SIM %1$s. La carte SIM %2$s est définie désormais comme votre carte de données mobiles par défaut. Les données mobiles sont maintenant désactivées.</string>
     <string name="dds_switch_warning_message_data_on">Impossible de détecter la carte SIM %1$s. La carte SIM %2$s est définie désormais comme votre carte de données mobiles par défaut. Les données mobiles sont désactivées pour éviter des frais opérateur inutiles.</string>
     <string name="deactivate_all">Tout annuler</string>
-    <string name="default_carrier_mmi_msg_title">Carrier Message</string>
+    <string name="default_carrier_mmi_msg_title">Message Opérateur</string>
     <string name="default_notification_description">Sonnerie par défaut (%1$s)</string>
     <string name="delete">Supprimer</string>
     <string name="delete_fdn_contact">Supprimer un numéro autorisé</string>
@@ -610,7 +609,7 @@
     <string name="description_delete_button">retour arrière</string>
     <string name="description_dial_button">composer</string>
     <string name="description_dialpad_back">Revenir en arrière</string>
-    <string name="description_dialpad_button">show dialpad</string>
+    <string name="description_dialpad_button">afficher le clavier</string>
     <string name="description_dialpad_overflow">"Plus d'options"</string>
     <string name="description_image_button_eight">huit</string>
     <string name="description_image_button_five">cinq</string>
@@ -626,7 +625,7 @@
     <string name="description_image_button_two">deux</string>
     <string name="description_image_button_zero">zéro</string>
     <string name="description_voicemail_button">messagerie vocale</string>
-    <string name="detect_fakecell">Recognize SMS from fake base stations</string>
+    <string name="detect_fakecell">Reconnaître les SMS de fausses stations de base</string>
     <string name="dialFailed_low_battery">Batterie faible ! Impossible de passer un appel vidéo.</string>
     <string name="dial_emergency_calling_not_available">"Appels d'urgence non disponibles"</string>
     <string name="dial_emergency_empty_error">"Impossible d'appeler. Veuillez composer un numéro d'urgence."</string>
@@ -645,7 +644,7 @@
     <string name="disable">Désactiver</string>
     <string name="disable_all_cf">"Désactiver toutes les fonctions de transfert d'appels"</string>
     <string name="disable_cdma_cw">Annuler</string>
-    <string name="disable_cfb_forbidden">"Your operator doesn't support disabling call forwarding when your phone is busy."</string>
+    <string name="disable_cfb_forbidden">"Votre opérateur ne prend pas en charge la désactivation du transfert d'appel lorsque votre téléphone est occupé."</string>
     <string name="disable_cfnrc_forbidden">"Votre opérateur n'accepte pas de désactiver le transfert d'appels lorsque votre téléphone est injoignable."</string>
     <string name="disable_cfnry_forbidden">"Votre opérateur ne prend pas en charge la désactivation du renvoi d'appel lorsque votre téléphone ne répond pas."</string>
     <string name="disable_esim_dialog_summary">"La carte SIM %s sera activée si vous désactivez la eSIM maintenant.
@@ -663,10 +662,10 @@ Désactiver la eSIM quand même ?"</string>
     <string name="dsda_summary">La veille double SIM 5G + 4G est prise en charge par les réseaux sélectionnés</string>
     <string name="dsda_title">Activer 5G+4G DSDA</string>
     <string name="dsds_dialog_cancel">Annuler</string>
-    <string name="dsds_dialog_confirm">Restart</string>
-    <string name="dsds_dialog_message">You need to restart your device to change this setting.</string>
-    <string name="dsds_dialog_title">Restart Device?</string>
-    <string name="dsds_switch_string">Enable DSDS</string>
+    <string name="dsds_dialog_confirm">Redémarrer</string>
+    <string name="dsds_dialog_message">Vous devez redémarrer votre appareil pour modifier ce paramètre.</string>
+    <string name="dsds_dialog_title">"Redémarrer l'appareil ?"</string>
+    <string name="dsds_switch_string">Activer DSDS</string>
     <string name="dtmf_tone_entries_long">Long</string>
     <string name="dtmf_tone_entries_normal">Normal</string>
     <string name="dtmf_tones_summary">Définir la durée des tonalités DTMF</string>
@@ -675,7 +674,6 @@ Désactiver la eSIM quand même ?"</string>
     <string name="dual_4g_switch_title">Dual 4G</string>
     <string name="eab_provisioned_switch_string">EAB/Presence Provisioned</string>
     <string name="early_morning">Matin</string>
-    <string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="edit_fdn_contact">Modifier le numéro autorisé</string>
     <string name="emergencyDialerIconLabel">"Composeur d'urgence"</string>
     <string name="emergency_broadcast_disable">"Diffusion d'urgence désactivée"</string>
@@ -700,8 +698,8 @@ Désactiver la eSIM quand même ?"</string>
     <string name="enable">Activer</string>
     <string name="enable_antispam_strange_summary">Couper la première sonnerie pour les appels provenant de numéros inconnus</string>
     <string name="enable_antispam_strange_title">Couper la première sonnerie</string>
-    <string name="enable_cdma_call_waiting_setting">"During a call, you'll be notified about incoming calls"</string>
-    <string name="enable_cdma_cw">Turn on</string>
+    <string name="enable_cdma_call_waiting_setting">Pendant un appel, vous serez averti des appels entrants</string>
+    <string name="enable_cdma_cw">Activer</string>
     <string name="enable_disable_administrative">Administration</string>
     <string name="enable_disable_advertisements">Annonces</string>
     <string name="enable_disable_atr">Rapports du trafic aérien</string>
@@ -747,7 +745,7 @@ Activer la eSIM quand même ?"</string>
     <string name="enhanced_4g_lte_mode_off_failed">"Impossible d'activer VoLTE."</string>
     <string name="enhanced_4g_lte_mode_on_failed">"Impossible d'activer VoLTE."</string>
     <string name="enhanced_4g_lte_mode_summary">Utilisez les services LTE pour améliorer la voix et autres communications (recommandé)</string>
-    <string name="enhanced_4g_lte_mode_summary_o2">Use 4G services to improve voice and other communications (recommended)</string>
+    <string name="enhanced_4g_lte_mode_summary_o2">Utiliser les services 4G pour améliorer la voix et les autres communications (recommandé)</string>
     <string name="enhanced_4g_lte_mode_title">Mode 4G LTE amélioré</string>
     <string name="enter_callbarring_password">"Mot de passe d'interdiction (%d chiffres)"</string>
     <string name="enter_esim_manager">Gérer la eSIM</string>
@@ -758,8 +756,8 @@ Activer la eSIM quand même ?"</string>
     <string name="entertainment_news_settings">Actualités de divertissement</string>
     <string name="eo_disable">"Les offres d'emploi sont désactivées"</string>
     <string name="eo_enable">"Les offres d'emploi sont activées"</string>
-    <string name="eps_only_set_button">set eps only</string>
-    <string name="eps_only_set_title">this button is for setting eps only</string>
+    <string name="eps_only_set_button">définir eps uniquement</string>
+    <string name="eps_only_set_title">ce bouton sert uniquement à définir eps</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
     <string name="error_updating_title">"Erreur des paramètres d'appel"</string>
@@ -770,7 +768,7 @@ Activer la eSIM quand même ?"</string>
     <string name="esim_inactive_notification_title_global">Double carte SIM et réseaux mobiles</string>
     <string name="esim_inactive_settings_title">Double carte SIM et réseaux mobiles</string>
     <string name="esim_setting_title">Paramètres eSIM</string>
-    <string name="evening">Afternoon</string>
+    <string name="evening">Après-midi</string>
     <string name="exception_error">Erreur de réseau ou de carte SIM.</string>
     <string name="expand_button_title">Options avancées</string>
     <string name="failedToImportSingleContactMsg">"Impossible d'importer le contact"</string>
@@ -792,14 +790,14 @@ Activer la eSIM quand même ?"</string>
     <string name="fdn_list_with_label">Liste FDN (%s)</string>
     <string name="fdn_summary">Restreindre les appels sortants à une liste de numéros FDNs ou à des numéros avec certains préfixes</string>
     <string name="fdn_with_label">"Paramètres d'appel (%s)"</string>
-    <string name="fire_type_description">Fire</string>
+    <string name="fire_type_description">Feu</string>
     <string name="fiveg_available_status1">NR disponible :</string>
     <string name="fiveg_bearer_status1">5G bearer status:</string>
     <string name="fiveg_carrier_aggregation_title">Agrégation des bandes 5G</string>
     <string name="fiveg_endc_available1">NR ENDC disponible :</string>
     <string name="fiveg_endc_status1">Endc Status:</string>
     <string name="fiveg_hosted_mode_summary">Sélectionner automatiquement le meilleur réseau pour économiser la batterie</string>
-    <string name="fiveg_hosted_mode_title">5G Smart Switch</string>
+    <string name="fiveg_hosted_mode_title">Bascule intelligente en 5G</string>
     <string name="fiveg_icon_type1">Nr Icon Type:</string>
     <string name="fiveg_info">"Afficher l'information 5G"</string>
     <string name="fiveg_infos">Informations 5G</string>
@@ -823,7 +821,7 @@ Activer la eSIM quand même ?"</string>
     <string name="fiveg_sa_vice_switch_summary">Autoriser la carte SIM secondaire à utiliser un réseau 5G indépendant</string>
     <string name="fiveg_sa_vice_switch_title">SA sur la deuxième SIM</string>
     <string name="fiveg_signal_strength1">Puissance signal 5G :</string>
-    <string name="fiveg_switch_per_slot_summary">Use 5G to increase mobile data connection speed</string>
+    <string name="fiveg_switch_per_slot_summary">Utilisez la 5G pour augmenter la vitesse de connexion des données mobiles</string>
     <string name="fiveg_switch_per_slot_title">5G</string>
     <string name="fiveg_switch_status1">Statut permutation 5G :</string>
     <string name="fiveg_switch_title">Réseau 5G</string>
@@ -832,8 +830,8 @@ Activer la eSIM quand même ?"</string>
     <string name="flash_when_ring_title">"Flash lors d'un appel"</string>
     <string name="fold_answer_pref_summary">"Pliez l'appareil pour accepter automatiquement un appel entrant"</string>
     <string name="fold_answer_pref_title">Plier pour accepter les appels</string>
-    <string name="forbidden_fakecell">"Don't connect to fake base stations"</string>
-    <string name="forbidden_fakecell_summary">Prevent your phone from connecting to fake base stations</string>
+    <string name="forbidden_fakecell">"Ne vous connectez pas à de fausses stations de base"</string>
+    <string name="forbidden_fakecell_summary">Empêcher votre téléphone de se connecter à de fausses stations de base</string>
     <string name="forbidden_network">(Limité)</string>
     <string name="forced_to_display">"Forcer l'affichage"</string>
     <string name="forced_to_hide">Forcer le masquage</string>
@@ -841,14 +839,14 @@ Activer la eSIM quand même ?"</string>
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
-    <string name="full_forwarding_number">Forwarding number</string>
-    <string name="full_forwarding_number_error_msg">Only phone numbers that start with \"0\" are supported.</string>
-    <string name="full_forwarding_number_error_title">Invalid phone number</string>
-    <string name="full_forwarding_number_prefix">"Phone number: "</string>
-    <string name="full_forwarding_option_forwarding">Forwarding</string>
+    <string name="full_forwarding_number">Numéro de transfert</string>
+    <string name="full_forwarding_number_error_msg">Seuls les numéros de téléphone commençant par \"0\" sont pris en charge.</string>
+    <string name="full_forwarding_number_error_title">Numéro de téléphone invalide</string>
+    <string name="full_forwarding_number_prefix">"Numéro de téléphone : "</string>
+    <string name="full_forwarding_option_forwarding">Transfert</string>
     <string name="full_forwarding_option_off">OFF</string>
-    <string name="full_forwarding_option_voicemail">Voicemail</string>
-    <string name="full_forwarding_settings">Full forwarding</string>
+    <string name="full_forwarding_option_voicemail">Messagerie vocale</string>
+    <string name="full_forwarding_settings">Transfert complet</string>
     <string name="fw_change_failed">"Impossible de modifier le numéro de transfert.
 Veuillez contacter votre opérateur si le problème persiste."</string>
     <string name="fw_get_in_vm_failed">"Impossible de récupérer et d'enregistrer les paramètres actuels du numéro de transfert.
@@ -886,18 +884,18 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="incall_error_out_of_service_wfc">"Le réseau mobile n'est pas disponible. Connectez vous à un réseau sans fil pour passer un appel."</string>
     <string name="incall_error_outgoing_call_failed">"Impossible de passer un appel"</string>
     <string name="incall_error_power_off">Désactivez le mode Avion pour passer un appel.</string>
-    <string name="incall_error_power_off_thermal"><b>Phone too hot</b>"
+    <string name="incall_error_power_off_thermal"><b>Téléphone trop chaud</b>"
 
-Can't complete this call. Try again when your phone cools down.
+Impossible de terminer cet appel. Réessayez lorsque votre téléphone aura refroidi.
 
-You can still make emergency calls."</string>
+Vous pouvez toujours passer des appels d'urgence."</string>
     <string name="incall_error_power_off_wfc">Désactivez le mode Avion ou connectez-vous à un réseau sans fil pour passer un appel.</string>
     <string name="incall_error_promote_wfc">Activer les appels via Wi-Fi pour passer un appel.</string>
     <string name="incall_error_supp_service_conference">Impossible de créer une conférence téléphonique.</string>
     <string name="incall_error_supp_service_hangup">Impossible de raccrocher les appels.</string>
     <string name="incall_error_supp_service_hold">Impossible de mettre les appels en attente.</string>
     <string name="incall_error_supp_service_reject">"Impossible de rejeter l'appel."</string>
-    <string name="incall_error_supp_service_resume">"Can't resume call."</string>
+    <string name="incall_error_supp_service_resume">"Impossible de reprendre l'appel."</string>
     <string name="incall_error_supp_service_separate">"Impossible de dissocier l'appel."</string>
     <string name="incall_error_supp_service_switch">Impossible de basculer les appels.</string>
     <string name="incall_error_supp_service_transfer">"Impossible de transférer l'appel."</string>
@@ -910,7 +908,7 @@ You can still make emergency calls."</string>
     <string name="international_disable">Les informations internationales sont désactivées</string>
     <string name="international_enable">Les informations internationales sont activées</string>
     <string name="international_roaming_setting">Itinérance des données</string>
-    <string name="international_roaming_setting_kr">International roaming</string>
+    <string name="international_roaming_setting_kr">Itinérance internationale</string>
     <string name="international_roaming_setting_kr_skt">T roaming</string>
     <string name="internet_phone">Appel VoIP</string>
     <string name="invalidPin">Saisissez un code PIN de 4 à 8 chiffres.</string>
@@ -933,10 +931,10 @@ You can still make emergency calls."</string>
     <string name="ivr_type_cu_1">China Unicom 3G</string>
     <string name="ivr_type_cu_2">China Unicom 4G</string>
     <string name="ivr_type_cu_3">China Unicom 2G</string>
-    <string name="ivr_type_settings">Data plan settings</string>
-    <string name="ivr_type_settings_hint">Enter your data plan code</string>
-    <string name="jp_sb_label_ndp">"other career's USIM is inserted
-waiting for inputting unlock code"</string>
+    <string name="ivr_type_settings">Paramètres du forfait de données</string>
+    <string name="ivr_type_settings_hint">Entrez le code de votre forfait de données</string>
+    <string name="jp_sb_label_ndp">"l'USIM de l'autre opérateur est inséré
+en attente de saisie du code de déverrouillage"</string>
     <string name="jp_sb_sim_lock_unlock_psw_max_length">Le code de déverrouillage saisi est inférieur à 8 chiffres ou supérieur à 16 chiffres</string>
     <string name="jp_sb_unlock_failed">Échec de la vérification du code de déverrouillage.</string>
     <string name="jp_sb_unlock_success">Réussite de la vérification du code de déverrouillage.</string>
@@ -976,8 +974,8 @@ waiting for inputting unlock code"</string>
     <string name="labelCallBarring">"Interdiction d'appel"</string>
     <string name="labelCallerId">"Numéro de l'appelant"</string>
     <string name="labelCdmaMore_with_label">"Paramètres d'appel CDMA (%s)"</string>
-    <string name="labelCommonMore">Call settings</string>
-    <string name="labelCommonMore_with_label">Call settings (%s)</string>
+    <string name="labelCommonMore">"Paramètres d'appel"</string>
+    <string name="labelCommonMore_with_label">"Paramètres d'appel (%s)"</string>
     <string name="labelGSMMore">"Paramètres d'appel GSM"</string>
     <string name="labelGsmMore_with_label">"Paramètres d'appel GSM (%s)"</string>
     <string name="labelNwService">Paramètres du service réseau</string>
