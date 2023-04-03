@@ -610,6 +610,8 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
     <string name="privacy_runtime_perm_contacts_title">Accéder et modifier des contacts</string>
     <string name="privacy_runtime_perm_external_storage_desc">Pour synchroniser les photos de profil de contact et les pièces jointes des messages</string>
     <string name="privacy_runtime_perm_external_storage_title">Accéder au stockage</string>
+    <string name="privacy_runtime_perm_notification_desc">Pour envoyer des notifications de services Xiaomi Cloud</string>
+    <string name="privacy_runtime_perm_notification_title">Notifications</string>
     <string name="privacy_runtime_perm_phone_state_desc">"Pour accéder au numéro de téléphone et à l'état de l'appareil"</string>
     <string name="privacy_runtime_perm_phone_state_title">"Accéder aux informations sur l'appareil"</string>
     <string name="privacy_runtime_perm_sms_desc">Pour synchroniser les messages</string>

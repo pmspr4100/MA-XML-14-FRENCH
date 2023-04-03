@@ -48,6 +48,7 @@
     <string name="backup_failed_reason_app_usage_denied">Accordez les autorisations requises pour sauvegarder les éléments</string>
     <string name="backup_failed_reason_cloud_space_not_enough">"Espace disponible sur le cloud insuffisant pour créer cette sauvegarde. Changez votre abonnement ou libérez de l'espace de stockage cloud."</string>
     <string name="backup_failed_reason_disk_space_not_enough">"Pas assez d'espace de stockage. Libérez d'abord le stockage."</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Accorder les autorisations requises dans les paramètres pour sauvegarder les éléments</string>
     <string name="backup_failed_reason_network_error">Vérifiez vos paramètres réseau et réessayez</string>
     <string name="backup_finished_notification_content">"Les applications sur l'écran d'accueil, les paramètres du système, etc. ont été sauvegardés."</string>
     <string name="backup_now">Sauvegarder maintenant</string>
@@ -198,6 +199,8 @@ Envoyez ce code au superviseur."</string>
     <string name="dialog_btn_restore_skip">Restaurer plus tard</string>
     <string name="dialog_button_agree">Autoriser</string>
     <string name="dialog_button_disagree">Refuser</string>
+    <string name="dialog_button_get_installed_apps_agree">Paramètres</string>
+    <string name="dialog_button_get_installed_apps_disagree">Annuler</string>
     <string name="dialog_buy_cloud_space">Mettre à jour</string>
     <string name="dialog_cancel_backup_cancel">Annuler</string>
     <string name="dialog_cancel_backup_confirm">OK</string>
@@ -206,6 +209,8 @@ Envoyez ce code au superviseur."</string>
     <string name="dialog_cloud_space_not_enough">"Cette sauvegarde nécessite %1$s d'espace de stockage cloud gratuit. Mettez à niveau votre forfait de stockage pour sauvegarder les éléments."</string>
     <string name="dialog_content_cancel_backup">Les données déjà téléchargées seront perdues si vous annulez la sauvegarde. Annuler quand même ?</string>
     <string name="dialog_content_cancel_restore">Les données déjà restaurées seront conservées si vous arrêtez la restauration. Arrêter la restauration maintenant ?</string>
+    <string name="dialog_get_installed_apps_consent_message">"Pour pouvoir sauvegarder automatiquement, accordez à cette application l'autorisation dans les paramètres d'accéder à la liste des applications installées sur votre appareil, puis sélectionnez Toujours autoriser."</string>
+    <string name="dialog_get_installed_apps_consent_title">Autorisations requises</string>
     <string name="dialog_msg_overwrite_backup">La sauvegarde locale est différente de celle de Xiaomi Cloud. Si vous continuez, la sauvegarde actuelle écrasera la précédente.</string>
     <string name="dialog_msg_restore_require_wlan">La restauration des sauvegardes nécessite la connexion au Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">La restauration des sauvegardes requiert une connexion au WLAN.</string>
@@ -271,6 +276,10 @@ Envoyez ce code au superviseur."</string>
     <string name="loading_progress_num">%s%% chargés</string>
     <string name="loading_user_backup">"Chargement des sauvegardes d'utilisateur…"</string>
     <string name="managespace_delete_backup">Supprimer</string>
+    <string name="manual_request_notification_permission_dialog_negative_button">Fermer</string>
+    <string name="manual_request_notification_permission_dialog_positive_button">Paramètres</string>
+    <string name="manual_request_permissions_dialog_description">"Si vous n'accordez pas d'autorisations pour \"%s\", vous ne recevrez pas de notifications en temps opportun sur les échecs de sauvegarde et d'autres actions importantes. Vous pouvez accorder cette autorisation dans les paramètres."</string>
+    <string name="manual_request_permissions_dialog_title">Autorisations requises</string>
     <string name="menu_item_managespace">"Gérer l'espace de stockage"</string>
     <string name="menu_item_sort">Trier par</string>
     <string name="menu_item_sort_name">Nom</string>
@@ -387,6 +396,11 @@ Envoyez ce code au superviseur."</string>
     <string name="remove_unfinished">Retrait, réessayez plus tard</string>
     <string name="repeat_recommend_wechat_backup_notification_content">Vous pouvez maintenant sauvegarder les données WeChat. Appuyez pour plus de détails.</string>
     <string name="repeat_recommend_wechat_backup_notification_title">Sauvegarder les données WeChat</string>
+    <string name="request_notification_permission_dialog_confirm">Compris</string>
+    <string name="request_permission_post_notification">Pour envoyer des notifications sur les sauvegardes cloud</string>
+    <string name="request_permission_post_notification_title">Notifications</string>
+    <string name="request_permissions_dialog_description">Accorder des autorisations pour envoyer des notifications et des rappels afin de pouvoir profiter de tous les services que la sauvegarde Cloud a à offrir.</string>
+    <string name="request_permissions_dialog_title">Autorisations requises</string>
     <string name="restore_app_order_finish">Terminé</string>
     <string name="restore_app_order_loading">Chargement…</string>
     <string name="restore_app_order_retry">Réessayer</string>
@@ -456,6 +470,8 @@ Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="session_failed_disk_no_space_restore_detail">Au moins %s est requis pour restaurer les éléments.</string>
     <string name="session_failed_disk_no_space_title">"Stockage interne insuffisant. Effacez l'espace de stockage et réessayez."</string>
     <string name="session_failed_dist_no_space_btn_text">Effacer le stockage</string>
+    <string name="session_failed_get_installed_apps_denied_detail">"Pour pouvoir sauvegarder automatiquement, accordez à cette application l'autorisation dans les paramètres d'accéder à la liste des applications installées sur votre appareil, puis sélectionnez Toujours autoriser."</string>
+    <string name="session_failed_get_installed_apps_denied_title">Autorisations requises</string>
     <string name="session_failed_no_server_response_title">Impossible de se connecter au serveur.</string>
     <string name="session_failed_override_detail">La sauvegarde locale est différente de celle de Xiaomi Cloud. Si vous continuez, la sauvegarde actuelle écrasera la précédente. Remplacer maintenant ?</string>
     <string name="session_failed_override_title">Écraser la sauvegarde</string>
