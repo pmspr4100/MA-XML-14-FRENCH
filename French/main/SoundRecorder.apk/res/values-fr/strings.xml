@@ -128,6 +128,10 @@
     <string name="head_set_tip_dialog_title">Utiliser le microphone interne</string>
     <string name="icon_content_description">Icône de dialogue</string>
     <string name="invalid_argument">Argument non valide</string>
+    <string name="invisible_mode_dialog_message">"Impossible d'utiliser le microphone lorsque vous êtes en navigation privée. Désactivez d'abord le mode navigation privée."</string>
+    <string name="invisible_mode_dialog_negative">Annuler</string>
+    <string name="invisible_mode_dialog_positive">Désactiver</string>
+    <string name="invisible_mode_dialog_title">"Vous êtes en navigation privée"</string>
     <string name="invisible_mode_error_tip">Désactivez le mode navigation privée dans les Paramètres pour pouvoir utiliser le microphone</string>
     <string name="item_view_role_description">Onglet</string>
     <string name="keywords_search_call_record">Enregistrer appels;Enregistrer appel;Appel enregistré;Appels enregistrés</string>
