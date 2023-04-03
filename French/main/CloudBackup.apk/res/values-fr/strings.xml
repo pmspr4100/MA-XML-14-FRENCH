@@ -278,7 +278,7 @@ Envoyez ce code au superviseur."</string>
     <string name="managespace_delete_backup">Supprimer</string>
     <string name="manual_request_notification_permission_dialog_negative_button">Fermer</string>
     <string name="manual_request_notification_permission_dialog_positive_button">Paramètres</string>
-    <string name="manual_request_permissions_dialog_description">"Si vous n'accordez pas d'autorisations pour \"%s\", vous ne recevrez pas de notifications en temps opportun sur les échecs de sauvegarde et d'autres actions importantes. Vous pouvez accorder cette autorisation dans les paramètres."</ chaîne>
+    <string name="manual_request_permissions_dialog_description">"Si vous n'accordez pas d'autorisations pour \"%s\", vous ne recevrez pas de notifications en temps opportun sur les échecs de sauvegarde et d'autres actions importantes. Vous pouvez accorder cette autorisation dans les paramètres."</string>
     <string name="manual_request_permissions_dialog_title">Autorisations requises</string>
     <string name="menu_item_managespace">"Gérer l'espace de stockage"</string>
     <string name="menu_item_sort">Trier par</string>
