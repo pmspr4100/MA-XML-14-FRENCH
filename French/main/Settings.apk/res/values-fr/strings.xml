@@ -7039,22 +7039,22 @@ Press Power and Volume up at the same time."</string>
     <string name="rank_title">Classements</string>
     <string name="rarely_running">"Rarement en cours d'exécution (%s)"</string>
     <string name="reading_data">"Obtention d'informations…"</string>
-    <string name="reading_settings">Reading settings…</string>
+    <string name="reading_settings">Lecture des paramètres…</string>
     <string name="really_remove_account_message">La suppression de ce compte entraînera la suppression de tous les messages, contacts et autres données du téléphone.</string>
     <string name="really_remove_account_title">Supprimer le compte ?</string>
-    <string name="reboot_dialog_enable_freeform_support">A reboot is required to enable freeform support.</string>
-    <string name="reboot_dialog_force_desktop_mode">A reboot is required to force desktop mode on secondary displays.</string>
-    <string name="reboot_dialog_reboot_later">Reboot later</string>
-    <string name="reboot_dialog_reboot_now">Reboot now</string>
-    <string name="reboot_with_mte_message">System will reboot and allow to experiment with Memory Tagging Extension (MTE). MTE may negatively impact system performance and stability. Will be reset on next subsequent reboot.</string>
-    <string name="reboot_with_mte_title">Reboot with MTE</string>
+    <string name="reboot_dialog_enable_freeform_support">Un redémarrage est requis pour activer la prise en charge de la forme libre.</string>
+    <string name="reboot_dialog_force_desktop_mode">Un redémarrage est nécessaire pour forcer le mode bureau sur les écrans secondaires.</string>
+    <string name="reboot_dialog_reboot_later">Redémarrer plus tard</string>
+    <string name="reboot_dialog_reboot_now">Redémarrer maintenant</string>
+    <string name="reboot_with_mte_message">Le système va redémarrer et permettre d’expérimenter l’extension de marquage de mémoire (MTE). MTE peut avoir un impact négatif sur les performances et la stabilité du système. Sera réinitialisé au prochain redémarrage suivant.</string>
+    <string name="reboot_with_mte_title">Redémarrer avec MTE</string>
     <string name="rebootiing_for_updates">Redémarrage…</string>
     <string name="receiver_clean">"Libérer de l'espace"</string>
     <string name="recent_app_category_title">Applications ouvertes récemment</string>
-    <string name="recent_apps_label">Recents</string>
-    <string name="recent_conversations">Recent conversations</string>
-    <string name="recent_convo_removed">Conversation removed</string>
-    <string name="recent_convos_removed">Recent conversations removed</string>
+    <string name="recent_apps_label">Récents</string>
+    <string name="recent_conversations">Conversations récentes</string>
+    <string name="recent_convo_removed">Conversation supprimée</string>
+    <string name="recent_convos_removed">Conversations récentes supprimées</string>
     <string name="recent_location_requests_summary">Afficher les applications demandant à accéder vos infos de localisation</string>
     <string name="recent_location_requests_title">Localisation</string>
     <string name="recent_notifications">Envoyées récemment</string>
@@ -7068,18 +7068,18 @@ Press Power and Volume up at the same time."</string>
     <string name="recommend_tip">"Besoin d'autres paramètres ?"</string>
     <string name="recommend_tip_wakeup_xiaoai">"L'utilisation de boutons pour interagir avec Mi IA nécessite de désactiver les gestes en plein écran et de sélectionner des boutons comme méthode de navigation."</string>
     <string name="recompute_size">Calcul de la taille…</string>
-    <string name="reduce_bright_colors_about_title">About extra dim</string>
-    <string name="reduce_bright_colors_intensity_end_label">Brighter</string>
-    <string name="reduce_bright_colors_intensity_preference_title">Intensity</string>
-    <string name="reduce_bright_colors_intensity_start_label">Dimmer</string>
-    <string name="reduce_bright_colors_persist_preference_title">Keep on after device restarts</string>
-    <string name="reduce_bright_colors_preference_intro_text">Make your screen dimmer so it’s more comfortable to read</string>
-    <string name="reduce_bright_colors_preference_subtitle">Extra dim can be helpful when: &lt;ol> &lt;li> Your phone’s default minimum brightness is still too bright&lt;/li> &lt;li> You’re using your phone in dark situations, like at night or in a dark room before bed&lt;/li> &lt;/ol></string>
-    <string name="reduce_bright_colors_preference_summary">Dim screen beyond your phone’s minimum brightness</string>
-    <string name="reduce_bright_colors_preference_title">Extra dim</string>
-    <string name="reduce_bright_colors_shortcut_title">Extra dim shortcut</string>
-    <string name="reduce_bright_colors_switch_title">Make screen extra dim</string>
-    <string name="refresh_group">Refresh Group</string>
+    <string name="reduce_bright_colors_about_title">À propos de la luminosité supplémentaire</string>
+    <string name="reduce_bright_colors_intensity_end_label">Plus lumineux</string>
+    <string name="reduce_bright_colors_intensity_preference_title">Intensité</string>
+    <string name="reduce_bright_colors_intensity_start_label">Variateur</string>
+    <string name="reduce_bright_colors_persist_preference_title">Continuer après le redémarrage de l’appareil</string>
+    <string name="reduce_bright_colors_preference_intro_text">Réduisez la luminosité de votre écran pour qu’il soit plus confortable à lire</string>
+    <string name="reduce_bright_colors_preference_subtitle">Une luminosité supplémentaire peut être utile lorsque :&lt;ol>&lt;li> La luminosité minimale par défaut de votre téléphone est encore trop élevée&lt;/li>&lt;li> Vous utilisez votre téléphone dans des situations sombres, comme la nuit ou dans une pièce sombre avant de se coucher&lt;/li>&lt;/ol></string>
+    <string name="reduce_bright_colors_preference_summary">Assombrir l’écran au-delà de la luminosité minimale de votre téléphone</string>
+    <string name="reduce_bright_colors_preference_title">Dim supplémentaire</string>
+    <string name="reduce_bright_colors_shortcut_title">Raccourci supplémentaire dim</string>
+    <string name="reduce_bright_colors_switch_title">Rendre l’écran plus sombre</string>
+    <string name="refresh_group">Actualiser le groupe</string>
     <string name="regional_screen_shot">"Capture d'écran partielle"</string>
     <string name="register_automatically">Inscription automatique…</string>
     <string name="register_on_network">Inscription sur %s…</string>
@@ -7090,11 +7090,11 @@ Press Power and Volume up at the same time."</string>
     <string name="remove_account_failed">"Votre administrateur n'autorise pas cette modification"</string>
     <string name="remove_account_label">Supprimer le compte</string>
     <string name="remove_and_uninstall_device_admin">Désactiver et désinstaller</string>
-    <string name="remove_association_button">Remove association</string>
+    <string name="remove_association_button">Supprimer l’association</string>
     <string name="remove_continue">Désinstaller</string>
-    <string name="remove_credential_management_app">Remove app</string>
-    <string name="remove_credential_management_app_dialog_message">This app won’t manage certificates, but it will stay on your device. Any certificates installed by the app will be uninstalled.</string>
-    <string name="remove_credential_management_app_dialog_title">Remove this app?</string>
+    <string name="remove_credential_management_app">Supprimer l’application</string>
+    <string name="remove_credential_management_app_dialog_message">Cette application ne gérera pas les certificats, mais elle restera sur votre appareil. Tous les certificats installés par l’application seront désinstallés.</string>
+    <string name="remove_credential_management_app_dialog_title">Supprimer cette application ?</string>
     <string name="remove_device_admin">Désactiver</string>
     <string name="remove_from_frequently_fragment">Supprimer %s des paramètres rapides ?</string>
     <string name="remove_managed_profile_label">Supprimer le profil professionnel</string>
@@ -7106,12 +7106,12 @@ Press Power and Volume up at the same time."</string>
     <string name="repeat_days_in_week">Répéter</string>
     <string name="repeat_never">Jamais</string>
     <string name="repeat_title">Répéter</string>
-    <string name="request_manage_bluetooth_permission_dont_allow">Don’t allow</string>
-    <string name="request_manage_credentials_allow">Allow</string>
-    <string name="request_manage_credentials_description">These certificates will verify you by sharing your device’s unique ID with the apps and URLs below</string>
-    <string name="request_manage_credentials_dont_allow">Don’t allow</string>
-    <string name="request_manage_credentials_more">Show more</string>
-    <string name="request_manage_credentials_title">Allow <b>^1</b> to install certificates on this device?</string>
+    <string name="request_manage_bluetooth_permission_dont_allow">Ne pas autoriser</string>
+    <string name="request_manage_credentials_allow">Autoriser</string>
+    <string name="request_manage_credentials_description">Ces certificats vous vérifieront en partageant l’identifiant unique de votre appareil avec les applications et les URL ci-dessous</string>
+    <string name="request_manage_credentials_dont_allow">Ne pas autoriser</string>
+    <string name="request_manage_credentials_more">Afficher plus</string>
+    <string name="request_manage_credentials_title">Autoriser <b>^1</b> à installer des certificats sur cet appareil ?</string>
     <string name="requires_modern_control_center">Fonctionne avec la nouvelle version du Centre de contrôle</string>
     <string name="reset_aaid">"Réinitialiser l'identificateur de publicité"</string>
     <string name="reset_app_preferences">Réinitialiser les préférences</string>
@@ -7138,9 +7138,9 @@ Vous ne perdrez aucune donnée d'application."</string>
 Redémarrez votre appareil et réessayez."</string>
     <string name="reset_esim_error_title">Impossible de réinitialiser les cartes eSIM</string>
     <string name="reset_esim_title">"Réinitialiser également l'eSIM"</string>
-    <string name="reset_importance_completed">Reset notification importance completed.</string>
-    <string name="reset_internet_text">This will end your phone call</string>
-    <string name="reset_legacy_password_settings_preface_text">"Vous devez réinitialiser votre mot de passe d'écran de verrouillage."</string>
+    <string name="reset_importance_completed">Réinitialiser l’importance des notifications terminée.</string>
+    <string name="reset_internet_text">Cela mettra fin à votre appel téléphonique</string>
+    <string name="reset_legacy_password_settings_preface_text">Vous devez réinitialiser votre mot de passe d’écran de verrouillage.</string>
     <string name="reset_network_bluetooth">Bluetooth</string>
     <string name="reset_network_button_text">Réinitialiser les paramètres</string>
     <string name="reset_network_category">Cela réinitialisera tous les paramètres de réseau, y compris :</string>
@@ -7166,8 +7166,8 @@ Redémarrez votre appareil et réessayez."</string>
     <string name="reset_shortcut_manager_throttling">Réinitialiser la limitation de débit de ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">La limitation de débit ShortcutManager a bien été réinitialisée.</string>
     <string name="reset_title">Réinitialiser</string>
-    <string name="reset_your_internet_title">Reset your internet?</string>
-    <string name="resetting_internet_text">Resetting your internet…</string>
+    <string name="reset_your_internet_title">Réinitialiser votre internet ?</string>
+    <string name="resetting_internet_text">Réinitialiser votre connexion Internet…</string>
     <string name="resetting_second_space_passwd">Réinitialisation du mot de passe du second espace</string>
     <string name="resident_timezone_summary">Seconde Horloge</string>
     <string name="resolution_fhd_summary" formatted="false">%d×%d (économise la batterie)</string>
@@ -7213,9 +7213,9 @@ Redémarrez votre appareil et réessayez."</string>
     <string name="retry">Réessayer</string>
     <string name="rgb_face_data_manage_delete_msg">Supprimer les données de visage 2D</string>
     <string name="rgb_manage_facerecoginition_text">Gérer la reconnaissance faciale 2D</string>
-    <string name="right_edge">Right edge</string>
+    <string name="right_edge">Bord droit</string>
     <string name="right_function_key">Raccourci droit</string>
-    <string name="right_shoulder_key">Right</string>
+    <string name="right_shoulder_key">Droite</string>
     <string name="ring_to_you">Sonnerie personnalisée</string>
     <string name="ring_to_you_info">Définissez un ton personnalisé que les autres entendront avant de décrocher</string>
     <string name="ring_volume_option_title">Volume de la sonnerie</string>
@@ -7228,7 +7228,7 @@ Redémarrez votre appareil et réessayez."</string>
     <string name="ringtones_category_preference_title">Sonneries</string>
     <string name="ringtones_install_custom_sound_content">Ce fichier sera copié dans le dossier %s</string>
     <string name="ringtones_install_custom_sound_title">Ajouter un signal sonore personnalisé ?</string>
-    <string name="risk_tip">Risk detected</string>
+    <string name="risk_tip">Risque détecté</string>
     <string name="roaming">Itinérance des données</string>
     <string name="roaming_alert_title">"Autoriser l'itinérance des données ?"</string>
     <string name="roaming_check_price_warning">Vérifiez les prix auprès de votre FAI.</string>
@@ -7274,8 +7274,8 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="rx_wifi_speed">Vitesse de connexion en réception</string>
     <string name="safe_install_mode_settings">Mode sécurisé</string>
     <string name="safety_and_regulatory_info">Manuel de sécurité et réglementation</string>
-    <string name="safety_center_summary">App security, device lock, permissions</string>
-    <string name="safety_center_title">Security &amp; privacy</string>
+    <string name="safety_center_summary">Sécurité des applications, verrouillage de l’appareil, autorisations</string>
+    <string name="safety_center_title">Sécurité et confidentialité</string>
     <string name="sar">"Informations sur l'exposition aux RF"</string>
     <string name="saturday">Samedi</string>
     <string name="saturday_short">Sam</string>
@@ -7287,8 +7287,8 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="saved_wifi">Gérer les réseaux enregistrés</string>
     <string name="saved_wifi_delete">Retirer</string>
     <string name="scan_list_label">"Résultats d'analyse :"</string>
-    <string name="scanning_status_text_off">Off</string>
-    <string name="scanning_status_text_on">On</string>
+    <string name="scanning_status_text_off">Désactivé</string>
+    <string name="scanning_status_text_on">Activé</string>
     <string name="scanning_status_text_wifi_off_ble_off">Balayages Wi-Fi et Bluetooth désactivés</string>
     <string name="scanning_status_text_wifi_off_ble_on">Balayage Bluetooth activé, balayage Wi-Fi désactivé</string>
     <string name="scanning_status_text_wifi_on_ble_off">Balayage Wi-Fi activé, balayage Bluetooth désactivé</string>
@@ -7440,7 +7440,7 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="screen_recorder_title">"Enregistreur d'écran"</string>
     <string name="screen_refresh_unavailable_prompt">"La modification du taux de rafraîchissement n'est prise en charge que par l'écran extérieur"</string>
     <string name="screen_resolution_dialog_title">Changer de résolution</string>
-    <string name="screen_resolution_footer">Switching your resolution might cause some apps currently running to close.</string>
+    <string name="screen_resolution_footer">Le changement de résolution peut entraîner la fermeture de certaines applications en cours d’exécution.</string>
     <string name="screen_resolution_high_format">Haute (%1$s)</string>
     <string name="screen_resolution_normal_format">Normale (%1$s)</string>
     <string name="screen_resolution_option_high">Haute définition</string>
@@ -7487,7 +7487,7 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="screensaver_settings_summary_off">Désactivé</string>
     <string name="screensaver_settings_summary_sleep">Pendant la charge</string>
     <string name="screensaver_settings_title">"Économiseur d'écran"</string>
-    <string name="screensaver_settings_toggle_title">Use screen saver</string>
+    <string name="screensaver_settings_toggle_title">Utiliser l’économiseur d’écran</string>
     <string name="screensaver_settings_when_to_dream">Quand commencer</string>
     <string name="screenshot">"Capture d'écran"</string>
     <string name="screenshot_label">"Capture d'écran"</string>
@@ -7581,7 +7581,7 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="search_dndm_vip_call_setting_title">VIP;Exceptions</string>
     <string name="search_dndm_wristband">Activer avec le Mi Fit;Mi Fit</string>
     <string name="search_do_not_disturb_mode">Ne pas déranger</string>
-    <string name="search_doze_always_on_title">Always on</string>
+    <string name="search_doze_always_on_title">Toujours actif</string>
     <string name="search_dtmf_tone_enable_title">Activer la tonalité des touches du pavé numérique;Touches du pavé numérique;tonalité des touches;sons des touches;sons du pavé numérique</string>
     <string name="search_empty">Aucun résultat</string>
     <string name="search_enable_adb">Débogage USB</string>
@@ -7593,8 +7593,8 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="search_gps">GPS;Accès à la localisation;Services de localisation</string>
     <string name="search_handy_mode">Mode une main;Mode une-main;Mode une main;Une main</string>
     <string name="search_hint">Recherche dans les paramètres</string>
-    <string name="search_history_clear_description">Clear search history</string>
-    <string name="search_history_description">Search history</string>
+    <string name="search_history_clear_description">Effacer l’historique des recherches</string>
+    <string name="search_history_description">Historique des recherches</string>
     <string name="search_home_key">"Accueil;Bouton d'accueil;Touche d'accueil"</string>
     <string name="search_input_hint">Rechercher dans les paramètres</string>
     <string name="search_key_settings_title">Boutons;Touches</string>
@@ -7647,7 +7647,7 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="search_preferred_network_type_title">Type de réseau préféré;Réseau préféré;Type de réseau</string>
     <string name="search_privacy_policy">Politique de confidentialité</string>
     <string name="search_privacy_settings">Sauvegarde et réinitialisation;Sauvegarde et réinitialisation;réinitialisation;Sauvegarde</string>
-    <string name="search_result_feedback_text">"Couldn't find results"</string>
+    <string name="search_result_feedback_text">Impossible de trouver des résultats</string>
     <string name="search_results_title">Paramètres</string>
     <string name="search_ring_volume_option_title">Volume;volume;Sonnerie et notifications;sonnerie;sonneries;Alarme;Musique</string>
     <string name="search_ringtone_title">Sonnerie du téléphone;sonnerie;sonneries</string>
@@ -7732,7 +7732,7 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="secspace_fod_finger_title">Vérifiez votre empreinte digitale</string>
     <string name="secspace_fod_use_password">Saisir le mot de passe</string>
     <string name="secure_keyguard_business_title">"Définir le verrouillage de l'écran"</string>
-    <string name="security_advanced_settings">More security settings</string>
+    <string name="security_advanced_settings">Plus de paramètres de sécurité</string>
     <string name="security_advanced_settings_keywords">security, more security settings, more settings, advanced security settings</string>
     <string name="security_advanced_settings_no_work_profile_settings_summary">Encryption, credentials, and more</string>
     <string name="security_advanced_settings_work_profile_settings_summary">Work profile lock, encryption, and more</string>
@@ -7757,8 +7757,8 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="security_encryption_progress_dialog_open">Chiffrement…</string>
     <string name="security_encryption_rejected_via_home_manager">"Cette fonctionnalité n'est pas prise en charge par la version démo."</string>
     <string name="security_encryption_title">"Chiffrer un appareil en utilisant le mot de passe de l'écran de verrouillage"</string>
-    <string name="security_fingerprint_disclaimer_lockscreen_disabled_1">The screen lock option is disabled. To learn more, contact your organization’s admin.</string>
-    <string name="security_fingerprint_disclaimer_lockscreen_disabled_2">You can still use your fingerprint to authorize purchases and app access.</string>
+    <string name="security_fingerprint_disclaimer_lockscreen_disabled_1">L’option de verrouillage de l’écran est désactivée. Pour en savoir plus, contactez l’administrateur de votre organisation.</string>
+    <string name="security_fingerprint_disclaimer_lockscreen_disabled_2">Vous pouvez toujours utiliser votre empreinte digitale pour autoriser les achats et l’accès aux applications.</string>
     <string name="security_input">Clavier sécurisé</string>
     <string name="security_input_enable">Clavier sécurisé</string>
     <string name="security_input_hint">Utilisez le clavier sécurisé quand vous entrez vos mots de passe</string>
@@ -7771,11 +7771,11 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="security_patch">Niveau du correctif de sécurité Android</string>
     <string name="security_privacy_settings_title">Paramètres de confidentialité</string>
     <string name="security_relative">Sécurité</string>
-    <string name="security_settings_biometric_preference_summary_both_fp_multiple">Face and fingerprints added</string>
-    <string name="security_settings_biometric_preference_summary_both_fp_single">Face and fingerprint added</string>
-    <string name="security_settings_biometric_preference_summary_none_enrolled">Tap to set up</string>
-    <string name="security_settings_biometric_preference_title">Face &amp; Fingerprint Unlock</string>
-    <string name="security_settings_face_enroll_consent_introduction_title">Allow face unlock</string>
+    <string name="security_settings_biometric_preference_summary_both_fp_multiple">Visage et empreintes digitales ajoutés</string>
+    <string name="security_settings_biometric_preference_summary_both_fp_single">Visage et empreinte digitale ajoutés</string>
+    <string name="security_settings_biometric_preference_summary_none_enrolled">Appuyer pour configurer</string>
+    <string name="security_settings_biometric_preference_title">Visage et déverrouillage par empreintes digitales</string>
+    <string name="security_settings_face_enroll_consent_introduction_title">Autoriser le déverrouillage par reconnaissance faciale</string>
     <string name="security_settings_face_enroll_dialog_ok">OK</string>
     <string name="security_settings_face_enroll_done">Terminé</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_message">If accessibility Face Unlock is turned off, some setup steps may not work properly with TalkBack.</string>
@@ -7790,58 +7790,40 @@ Pour utiliser l'épinglage d'application : \u0009
     <string name="security_settings_face_enroll_error_generic_dialog_message">"L'inscription sur le visage n'a pas fonctionné."</string>
     <string name="security_settings_face_enroll_error_timeout_dialog_message">"Délai d'inscription atteint. Réessayer."</string>
     <string name="security_settings_face_enroll_finish_title">Tout est prêt. En regardant bien.</string>
-    <string name="security_settings_face_enroll_improve_face_alert_body">"Delete your current face model to set up Face Unlock again.
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Supprimez votre modèle de visage actuel pour reconfigurer Face Unlock.
 
-Your face model will be permanently and securely deleted.
+Votre modèle de visage sera définitivement et en toute sécurité supprimé.
 
-After deletion, you will need your PIN, pattern, or password to unlock your phone or for authentication in apps."</string>
-    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Delete your current face model to set up Face Unlock again.
+Après la suppression, vous aurez besoin de votre code PIN, schéma ou mot de passe pour déverrouiller votre téléphone ou pour vous authentifier dans les applications."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Supprimez votre modèle de visage actuel pour reconfigurer Face Unlock.
 
-Your face model will be permanently and securely deleted.
+Votre modèle de visage sera définitivement et en toute sécurité supprimé.
 
-After deletion, you will need your fingerprint, PIN, pattern, or password to unlock your phone or for authentication in apps."</string>
-    <string name="security_settings_face_enroll_improve_face_alert_title">Set up Face Unlock</string>
-    <string name="security_settings_face_enroll_introduction_accessibility">Use accessibility setup</string>
-    <string name="security_settings_face_enroll_introduction_accessibility_diversity" />
-    <string name="security_settings_face_enroll_introduction_accessibility_expanded" />
-    <string name="security_settings_face_enroll_introduction_accessibility_vision" />
-    <string name="security_settings_face_enroll_introduction_agree">I agree</string>
-    <string name="security_settings_face_enroll_introduction_cancel">Cancel</string>
-    <string name="security_settings_face_enroll_introduction_consent_message">Allow your child to use their face to unlock their phone or verify it’s them. This happens when they sign in to apps, approve a purchase, and more.</string>
-    <string name="security_settings_face_enroll_introduction_control_consent_message" />
-    <string name="security_settings_face_enroll_introduction_control_consent_title" />
-    <string name="security_settings_face_enroll_introduction_control_message" />
-    <string name="security_settings_face_enroll_introduction_control_title" />
-    <string name="security_settings_face_enroll_introduction_how_consent_message" />
-    <string name="security_settings_face_enroll_introduction_how_message" />
-    <string name="security_settings_face_enroll_introduction_how_title" />
-    <string name="security_settings_face_enroll_introduction_info_consent_gaze" />
-    <string name="security_settings_face_enroll_introduction_info_consent_glasses" />
-    <string name="security_settings_face_enroll_introduction_info_consent_looking" />
-    <string name="security_settings_face_enroll_introduction_info_gaze" />
-    <string name="security_settings_face_enroll_introduction_info_glasses" />
-    <string name="security_settings_face_enroll_introduction_info_less_secure" />
-    <string name="security_settings_face_enroll_introduction_info_looking" />
-    <string name="security_settings_face_enroll_introduction_info_title" />
-    <string name="security_settings_face_enroll_introduction_message">Use your face to unlock your phone, authorize purchases, or sign in to apps.</string>
+Après la suppression, vous aurez besoin de votre empreinte digitale, de votre code PIN, de votre schéma ou de votre mot de passe pour déverrouiller votre téléphone ou pour vous authentifier dans les applications."</string>
+    <string name="security_settings_face_enroll_improve_face_alert_title">Configurer Face Unlock</string>
+    <string name="security_settings_face_enroll_introduction_accessibility">Utiliser la configuration de l’accessibilité</string>
+    <string name="security_settings_face_enroll_introduction_agree">J’accepte</string>
+    <string name="security_settings_face_enroll_introduction_cancel">Annuler</string>
+    <string name="security_settings_face_enroll_introduction_consent_message">Autorisez votre enfant à utiliser son visage pour déverrouiller son téléphone ou vérifier qu’il s’agit bien de lui. Cela se produit lorsqu’ils se connectent à des applications, approuvent un achat, etc.</string>
+    <string name="security_settings_face_enroll_introduction_message">Utilisez votre visage pour déverrouiller votre téléphone, autoriser des achats ou vous connecter à des applications.</string>
     <string name="security_settings_face_enroll_introduction_message_setup">Utilisez votre visage pour déverrouiller votre téléphone, autoriser des achats ou vous connecter à des applications</string>
     <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Utilisez votre visage pour déverrouiller votre téléphone ou approuver des achats.
 
-Remarque : Vous ne pouvez pas utiliser votre visage pour déverrouiller cet appareil. Pour plus d'informations, contactez l'administrateur de votre organisation."</string>
+Remarque : Vous ne pouvez pas utiliser votre visage pour déverrouiller cet appareil. Pour plus d’informations, contactez l’administrateur de votre organisation."</string>
     <string name="security_settings_face_enroll_introduction_more">Plus</string>
     <string name="security_settings_face_enroll_introduction_no_thanks">Non merci</string>
     <string name="security_settings_face_enroll_introduction_title">Déverrouillez avec votre visage</string>
     <string name="security_settings_face_enroll_introduction_title_unlock_disabled">Utilisez votre visage pour vous authentifier</string>
     <string name="security_settings_face_enroll_must_re_enroll_subtitle">Améliorez la sécurité et les performances</string>
     <string name="security_settings_face_enroll_must_re_enroll_title">Configurer à nouveau le déverrouillage facial</string>
-    <string name="security_settings_face_enroll_repeat_title">Center your face in the circle</string>
-    <string name="security_settings_face_enroll_should_re_enroll_subtitle">Set up Face Unlock again</string>
-    <string name="security_settings_face_enroll_should_re_enroll_title">Improve Face Unlock performance</string>
+    <string name="security_settings_face_enroll_repeat_title">Centrez votre visage dans le cercle</string>
+    <string name="security_settings_face_enroll_should_re_enroll_subtitle">Configurer à nouveau Face Unlock</string>
+    <string name="security_settings_face_enroll_should_re_enroll_title">Améliorer les performances de Face Unlock</string>
     <string name="security_settings_face_preference_summary">Visage ajouté</string>
     <string name="security_settings_face_preference_summary_none">"Appuyez pour configurer l'authentification faciale"</string>
     <string name="security_settings_face_preference_title">Authentification faciale</string>
-    <string name="security_settings_face_profile_preference_title">Face Unlock for work</string>
-    <string name="security_settings_face_settings_context_subtitle">Use Face Unlock to unlock your phone</string>
+    <string name="security_settings_face_profile_preference_title">Face Unlock pour le travail</string>
+    <string name="security_settings_face_settings_context_subtitle">Utilisez Face Unlock pour déverrouiller votre téléphone</string>
     <string name="security_settings_face_settings_enroll">Configurer un nouveau déverrouillage facial</string>
     <string name="security_settings_face_settings_footer">"Utilisez votre visage pour déverrouiller votre appareil, connectez-vous aux applications et confirmez les paiements.
 
@@ -7851,23 +7833,23 @@ En regardant le téléphone, vous pouvez le déverrouiller lorsque vous n'en ave
 Votre téléphone peut être déverrouillé par quelqu'un d'autre s'il est placé devant votre visage alors que vos yeux sont ouverts.
 
 Votre téléphone peut être déverrouillé par quelqu'un qui vous ressemble beaucoup, par exemple un jumeau."</string>
-    <string name="security_settings_face_settings_footer_attention_not_supported">"Use your face to unlock your phone or for authentication in apps, like when you sign in or approve a purchase.
+    <string name="security_settings_face_settings_footer_attention_not_supported">"Utilisez votre visage pour déverrouiller votre téléphone ou pour vous authentifier dans les applications, comme lorsque vous vous connectez ou approuvez un achat.
 
-Keep in mind:
-You can only have one face set up at a time. To add another face, delete the current one.
+Gardez à l’esprit:
+Vous ne pouvez configurer qu’un seul visage à la fois. Pour ajouter un autre visage, supprimez celui en cours.
 
-Looking at the phone can unlock it when you don’t intend to.
+Regarder le téléphone peut le déverrouiller lorsque vous n’en avez pas l’intention.
 
-Your phone can be unlocked by someone else if it’s held up to your face, even if your eyes are closed.
+Votre téléphone peut être déverrouillé par quelqu’un d’autre s’il est tenu devant votre visage, même si vos yeux sont fermés.
 
-Your phone can be unlocked by someone who looks a lot like you, like an identical sibling."</string>
-    <string name="security_settings_face_settings_preferences_category">When using Face Unlock</string>
-    <string name="security_settings_face_settings_remove_dialog_details">"Your face model will be permanently and securely deleted.
+Votre téléphone peut être déverrouillé par quelqu’un qui vous ressemble beaucoup, comme un frère ou une sœur identique."</string>
+    <string name="security_settings_face_settings_preferences_category">Lorsque vous utilisez Face Unlock</string>
+    <string name="security_settings_face_settings_remove_dialog_details">"Votre modèle de visage sera définitivement et en toute sécurité supprimé.
 
-After deletion, you will need your PIN, pattern, or password to unlock your phone or for authentication in apps."</string>
-    <string name="security_settings_face_settings_remove_dialog_details_convenience">"Your face model will be permanently and securely deleted.
+Après la suppression, vous aurez besoin de votre code PIN, schéma ou mot de passe pour déverrouiller votre téléphone ou pour vous authentifier dans les applications."</string>
+    <string name="security_settings_face_settings_remove_dialog_details_convenience">"Votre modèle de visage sera définitivement et en toute sécurité supprimé.
 
-After deletion, you will need your PIN, pattern, or password to unlock your phone."</string>
+Après la suppression, vous aurez besoin de votre code PIN, schéma ou mot de passe pour déverrouiller votre téléphone."</string>
     <string name="security_settings_face_settings_remove_dialog_title">Supprimer les données du visage ?</string>
     <string name="security_settings_face_settings_remove_face_model">Delete face model</string>
     <string name="security_settings_face_settings_require_attention">"Ouvrez les yeux en regardant l'écran"</string>
@@ -9692,7 +9674,7 @@ ou des écouteurs avec fiche de 3,5 mm."</string>
     <string name="user_add_on_lockscreen_menu">"Ajouter des utilisateurs depuis l'écran de verrouillage"</string>
     <string name="user_add_profile_item_summary">"Vous pouvez limiter l'accès aux applications et au contenu depuis votre compte."</string>
     <string name="user_add_profile_item_title">Profil limité</string>
-    <string name="user_add_user">Add user</string>
+    <string name="user_add_user">Ajouter un utilisateur</string>
     <string name="user_add_user_item_summary">Les utilisateurs disposent de leurs propres applications et de leur propre contenu.</string>
     <string name="user_add_user_item_title">Utilisateur</string>
     <string name="user_add_user_message_long">"Vous pouvez partager cet appareil avec d'autres personnes par la création d'utilisateurs supplémentaires. Chaque utilisateur dispose de son propre espace, où ils peut personnaliser ses propres applications, fonds d'écran, et ainsi de suite. Les utilisateurs peuvent également régler les paramètres de l'appareil comme le Wi-Fi qui touche tout le monde.
@@ -9712,12 +9694,12 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="user_cannot_add_accounts_message">Les profils limités ne peuvent pas ajouter de compte.</string>
     <string name="user_cannot_manage_message">Seul le propriétaire du téléphone peut gérer les utilisateurs.</string>
     <string name="user_certificate">"VPN et certificat d'utilisateur d'application"</string>
-    <string name="user_choose_copy_apps_to_another_user">Choose apps to install</string>
+    <string name="user_choose_copy_apps_to_another_user">Choisissez les applications à installer</string>
     <string name="user_confirm_remove_message">"L'ensemble des applications et des données seront supprimées."</string>
     <string name="user_confirm_remove_self_message">Votre espace et vos données vont être supprimés de ce téléphone. Cette action est irréversible.</string>
     <string name="user_confirm_remove_self_title">Supprimer cet utilisateur ?</string>
     <string name="user_confirm_remove_title">Supprimer cet utilisateur ?</string>
-    <string name="user_copy_apps_menu_title">Install available apps</string>
+    <string name="user_copy_apps_menu_title">Installer les applications disponibles</string>
     <string name="user_credential_none_installed">"Aucun identifiant de l'utilisateur n'est installé"</string>
     <string name="user_credential_removed">"L'identifiant suivant a été supprimé : %s."</string>
     <string name="user_credential_title">Informations sur les identifiants</string>
@@ -9801,8 +9783,8 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="uwb_settings_title">Ultra-Wideband (UWB)</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
-    <string name="var_font_switch_dialog_summary">You need to reboot your device to change this setting.</string>
-    <string name="var_font_switch_dialog_title">Reboot device?</string>
+    <string name="var_font_switch_dialog_summary">Vous devez redémarrer votre appareil pour modifier ce paramètre.</string>
+    <string name="var_font_switch_dialog_title">Redémarrer l’appareil ?</string>
     <string name="var_font_switch_title">"Police variable à l'échelle du système"</string>
     <string name="verify_apps_over_usb_summary">Vérifier les applications installées via ADB/ADT pour un comportement dangereux.</string>
     <string name="verify_apps_over_usb_title">Vérifier les applications via USB</string>
@@ -10112,19 +10094,18 @@ Merci de prendre connaissance de la politique de données personnells de votre f
     <string name="wifi_add_network">Ajouter un réseau</string>
     <string name="wifi_advanced_device_mac_address_title">"Adresse MAC de l'appareil"</string>
     <string name="wifi_advanced_ip_address_title">Adresse IP</string>
-    <string name="wifi_advanced_not_available">Wi‑Fi advanced settings are not available for this user</string>
-    <string name="wifi_advanced_randomized_mac_address_disconnected_title">Randomized MAC address (last used)</string>
+    <string name="wifi_advanced_not_available">Les paramètres Wi‑Fi avancés ne sont pas disponibles pour cet utilisateur</string>
+    <string name="wifi_advanced_randomized_mac_address_disconnected_title">Adresse MAC aléatoire (dernière utilisée)</string>
     <string name="wifi_advanced_randomized_mac_address_title">Adresse MAC aléatoire</string>
     <string name="wifi_advanced_settings_label">Paramètres IP</string>
     <string name="wifi_advanced_ssid_title">SSID</string>
     <string name="wifi_advanced_titlebar">Paramètres Wi-Fi avancés</string>
-    <string name="wifi_advanced_toggle_description">Drop down list Advanced Options</string>
-    <string name="wifi_advanced_toggle_description_collapsed">expand</string>
+    <string name="wifi_advanced_toggle_description">Liste déroulante Options avancées</string>
+    <string name="wifi_advanced_toggle_description_collapsed">développer</string>
     <string name="wifi_ap_2G">2,4 GHz</string>
     <string name="wifi_ap_5G">5,0 GHz</string>
     <string name="wifi_ap_band_config">"Sélectionner la bande du point d'accès"</string>
     <string name="wifi_ap_band_select_one">"Sélectionnez au moins une bande pour le point d'accès Wi-Fi :"</string>
-    <string name="wifi_ap_choose">%1$s GHz</string>
     <string name="wifi_ap_choose_2G">Bande 2,4 GHz</string>
     <string name="wifi_ap_choose_5G">Bande 5,0 GHz</string>
     <string name="wifi_ap_choose_6G">Bande 6,0 GHz</string>
@@ -10431,8 +10412,8 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_no_related_sim_card">Aucun</string>
     <string name="wifi_no_sim_card">Pas de SIM</string>
     <string name="wifi_no_user_cert_warning">Certificat requis.</string>
-    <string name="wifi_non_persistent_mac_randomization">Wi-Fi non-persistent MAC randomization</string>
-    <string name="wifi_non_persistent_mac_randomization_summary">"When this mode is enabled, this device's MAC address may change each time it connects to a network that has MAC randomization enabled."</string>
+    <string name="wifi_non_persistent_mac_randomization">Randomisation MAC Wi-Fi non persistante</string>
+    <string name="wifi_non_persistent_mac_randomization_summary">Lorsque ce mode est activé, l’adresse MAC de cet appareil peut changer chaque fois qu’il se connecte à un réseau sur lequel la randomisation MAC est activée.</string>
     <string name="wifi_not_in_range">Hors de portée</string>
     <string name="wifi_not_in_range_message">Réseau hors de portée</string>
     <string name="wifi_notify_cmcc_connected_summary">Afficher une notification quand vous êtes connecté à un réseau CMCC</string>
@@ -10467,7 +10448,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_password">Mot de passe</string>
     <string name="wifi_poor_network_detection">Éviter les connexions instables</string>
     <string name="wifi_poor_network_detection_summary">Ne pas utiliser de réseau Wi-Fi, sauf en cas de connexion internet de bonne qualité</string>
-    <string name="wifi_primary">Primary network</string>
+    <string name="wifi_primary">Réseau principal</string>
     <string name="wifi_priority_changed" formatted="false">Ancienne valeur %s | Nouvelle valeur %s</string>
     <string name="wifi_priority_label">Priorité</string>
     <string name="wifi_priority_settings_label">Paramètres prioritaires</string>
@@ -10494,7 +10475,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_save">Enregistrer</string>
     <string name="wifi_saved_access_point">Réseaux enregistrés</string>
     <string name="wifi_saved_access_points_label">Réseaux enregistrés</string>
-    <string name="wifi_saved_other_networks_tab">Other networks</string>
+    <string name="wifi_saved_other_networks_tab">Autres réseaux</string>
     <string name="wifi_scan_always_available">Recherche toujours disponible</string>
     <string name="wifi_scan_always_available_summary">"Autoriser le service de localisation de Google et d'autres applications à rechercher des réseaux, même lorsque le Wi-Fi est désactivé"</string>
     <string name="wifi_scan_always_confirm_allow">Autoriser</string>
@@ -10648,8 +10629,8 @@ vous pouvez aussi utiliser les réseaux des autres"</string>
     <string name="wifi_switch_to_gsm_message">Connexion Wi-Fi perdue. Utiliser la connexion de données mobiles ?</string>
     <string name="wifi_switch_to_gsm_title">Utiliser le GSM ?</string>
     <string name="wifi_tap_to_sign_in">Appuyez ici pour vous connecter au réseau</string>
-    <string name="wifi_tether_carrier_unsupport_dialog_content">Contact your carrier for details</string>
-    <string name="wifi_tether_carrier_unsupport_dialog_title">Tethering unavailable</string>
+    <string name="wifi_tether_carrier_unsupport_dialog_content">Contacter votre opérateur pour les détails</string>
+    <string name="wifi_tether_carrier_unsupport_dialog_title">Partage de connexion non disponible</string>
     <string name="wifi_tether_checkbox_kddi_text">Partage Wi-Fi</string>
     <string name="wifi_tether_checkbox_text">"Point d'accès portable"</string>
     <string name="wifi_tether_configure_ap_kddi_text">"Configurer le partage Wi-Fi"</string>
@@ -10682,7 +10663,7 @@ vous pouvez aussi utiliser les réseaux des autres"</string>
     <string name="wifi_unspecified">Veuillez sélectionner un élément</string>
     <string name="wifi_update">Actualiser les statistiques</string>
     <string name="wifi_use_system_certs">Utiliser les certificats du système</string>
-    <string name="wifi_venue_website_button_text">Open site</string>
+    <string name="wifi_venue_website_button_text">Ouvrir le site</string>
     <string name="wifi_verbose_logging">"Enregistrement infos Wi-Fi détaillées"</string>
     <string name="wifi_verbose_logging_summary">Augmentez le niveau de la connexion Wi-Fi, affichez les RSSI pour chaque SSID dans la liste des réseaux Wi-Fi.</string>
     <string name="wifi_wakeup">Activation automatique du Wi-Fi</string>
@@ -10804,8 +10785,8 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="wizard_finish">Terminé</string>
     <string name="wizard_next">Suivant</string>
     <string name="wlan_scanner_unresizeble">"Impossible d'afficher les paramètres Wi-Fi en mode écran partagé"</string>
-    <string name="wlan_switch_tips">Switching Wi-Fi networks</string>
-    <string name="wlan_switch_tips_message">When switching between auxiliary and main Wi-Fi networks, your device will be temporarily disconnected from auxiliary Wi-Fi. Switch anyway?</string>
+    <string name="wlan_switch_tips">Changer de réseau Wi-Fi</string>
+    <string name="wlan_switch_tips_message">Lorsque vous basculez entre les réseaux Wi-Fi auxiliaire et principal, votre appareil sera temporairement déconnecté du Wi-Fi auxiliaire. Changer quand même ?</string>
     <string name="words_title">Texte</string>
     <string name="work_alarm_ringtone_title">"Son de l'alarme professionnelle par défaut"</string>
     <string name="work_mode_label">Profil professionnel</string>
@@ -10997,18 +10978,18 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="zen_mode_events_list_first">Événements</string>
     <string name="zen_mode_events_summary">À partir des événements du calendrier à venir</string>
     <string name="zen_mode_forever">"Jusqu'à la désactivation"</string>
-    <string name="zen_mode_from_all_conversations">All conversations</string>
+    <string name="zen_mode_from_all_conversations">Toutes les conversations</string>
     <string name="zen_mode_from_anyone">"De n'importe qui"</string>
     <string name="zen_mode_from_call">"Appels provenant de "</string>
     <string name="zen_mode_from_contacts">Seulement ceux de vos contacts</string>
-    <string name="zen_mode_from_important_conversations">Priority conversations</string>
-    <string name="zen_mode_from_important_conversations_second">priority conversations</string>
-    <string name="zen_mode_from_no_conversations">None</string>
+    <string name="zen_mode_from_important_conversations">Conversations prioritaires</string>
+    <string name="zen_mode_from_important_conversations_second">conversations prioritaires</string>
+    <string name="zen_mode_from_no_conversations">Aucune</string>
     <string name="zen_mode_from_sms">"Messages provenant de "</string>
-    <string name="zen_mode_from_some">Some people or conversations</string>
+    <string name="zen_mode_from_some">Certaines personnes ou conversations</string>
     <string name="zen_mode_from_starred">Des contacts favoris uniquement</string>
     <string name="zen_mode_important_category">Paramètres</string>
-    <string name="zen_mode_lockscreen">When locked</string>
+    <string name="zen_mode_lockscreen">Lorsque verrouillé</string>
     <string name="zen_mode_media">Médias</string>
     <string name="zen_mode_media_list">média</string>
     <string name="zen_mode_media_list_first">Média</string>
@@ -11029,7 +11010,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="zen_mode_other_sounds_summary">"{count, plural, offset:2 =0 {Rien ne peut interrompre} =1 {{sound_category_1} peut interrompre} =2 {{sound_category_1} et {sound_category_2} peuvent interrompre} =3 {{sound_category_1}, {sound_category_2} et {sound_category_3} peuvent interrompre} d'autres {{sound_category_1}, {sound_category_2} et # autres peuvent interrompre} }"</string>
     <string name="zen_mode_people_all">Toutes les personnes peuvent interrompre</string>
     <string name="zen_mode_people_calls_messages_section_title">Qui peut interrompre</string>
-    <string name="zen_mode_people_footer">"Even if messaging or calling apps can't notify you, people you choose here can still reach you through those apps"</string>
+    <string name="zen_mode_people_footer">Même si les applications de messagerie ou d’appel ne peuvent pas vous avertir, les personnes que vous choisissez ici peuvent toujours vous joindre via ces applications</string>
     <string name="zen_mode_people_none">Personne ne peut interrompre</string>
     <string name="zen_mode_people_some">Certaines personnes peuvent interrompre</string>
     <string name="zen_mode_phone_calls">Appels</string>
@@ -11037,7 +11018,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="zen_mode_reminders">Rappels</string>
     <string name="zen_mode_reminders_list">rappels</string>
     <string name="zen_mode_reminders_list_first">Rappels</string>
-    <string name="zen_mode_reminders_summary">From tasks and reminders</string>
+    <string name="zen_mode_reminders_summary">À partir des tâches et des rappels</string>
     <string name="zen_mode_repeat_callers">Appels répétés</string>
     <string name="zen_mode_repeat_callers_list">appelants récurrents</string>
     <string name="zen_mode_repeat_callers_summary">Si la même personne appelle deux fois en %d minutes</string>
@@ -11047,9 +11028,9 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="zen_mode_restrict_notifications_disable_custom">Supprimer le paramètre personnalisé</string>
     <string name="zen_mode_restrict_notifications_enable_custom">Activer le paramètre personnalisé</string>
     <string name="zen_mode_restrict_notifications_hide">Aucune notification visuelle ni sonore</string>
-    <string name="zen_mode_restrict_notifications_hide_footer">"Aucune notification (nouvelle ou existante) n'est visible. Le téléphone n'émet aucun son et ne vibre pas. Aucune notification ne s'affiche lorsque vous balayez l'écran vers le bas.
+    <string name="zen_mode_restrict_notifications_hide_footer">"Aucune notification (nouvelle ou existante) n’est visible. Le téléphone n’émet aucun son et ne vibre pas. Aucune notification ne s’affiche lorsque vous balayez l’écran vers le bas.
 
-Les notifications nécessaires pour l'activité du téléphone et son état sont toujours affichées."</string>
+Les notifications nécessaires pour l’activité du téléphone et son état sont toujours affichées."</string>
     <string name="zen_mode_restrict_notifications_hide_summary">Vous ne recevrez aucune notification visuelle ni sonore</string>
     <string name="zen_mode_restrict_notifications_mute">Aucune notification sonore</string>
     <string name="zen_mode_restrict_notifications_mute_footer">"À la réception de notifications, votre téléphone n'émet aucun son et ne vibre pas."</string>
@@ -11148,7 +11129,7 @@ Mettre à jour les paramètres pour :
     <string name="zen_onboarding_screen_on_summary">"Ne pas afficher les notifications du tout, sauf pour l'activité de base du téléphone et son état"</string>
     <string name="zen_onboarding_screen_on_title">"Bloquer quand l'écran est allumé"</string>
     <string name="zen_onboarding_settings">Paramètres</string>
-    <string name="zen_rule_name_hint">Enter name for this rule</string>
+    <string name="zen_rule_name_hint">Entrez le nom de cette règle</string>
     <string name="zen_schedule_rule_enabled_toast">Règle automatique pour activer le mode \"Ne pas déranger\" aux heures indiquées</string>
     <string name="zen_schedule_rule_type_name">Heure</string>
     <string name="zen_settings_general">Général</string>
