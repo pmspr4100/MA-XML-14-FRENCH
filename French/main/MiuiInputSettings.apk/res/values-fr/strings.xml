@@ -205,7 +205,7 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
     <string name="long_press_power_guide_message" formatted="false">"Appuyez sur le bouton d'alimentation et maintenez-le enfoncé pendant %s secondes pour réveiller Google Assistant.
 Si vous maintenez le bouton enfoncé pendant %s secondes, vous ouvrirez le menu d'arrêt à la place."</string>
     <string name="long_press_power_guide_settings">Paramètres</string>
-    <string name="long_press_power_guide_title">Réveil avec le bouton d'alimentation</string>
+    <string name="long_press_power_guide_title">Réveil avec le bouton d’alimentation</string>
     <string name="long_press_power_key">"Appuyez longuement sur le bouton d'alimentation"</string>
     <string name="long_press_power_key_half_of_second">"Appuyez et maintenez le bouton d'alimentation pendant 0,5 s pour activer Google Assistant"</string>
     <string name="long_press_power_key_half_second">"Appuyez et maintenez le bouton d'alimentation pendant 0,5 s"</string>
