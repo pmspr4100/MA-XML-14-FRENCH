@@ -7,7 +7,7 @@
     <string name="search_filter_color_all">All colors</string>
     <string name="search_filter_size_all">All sizes</string>
     <string name="widget_apps">Apps with widget support</string>
-    <string name="widget_num_limit">Can't add more widgets to App vault. Delete older widgets to add new ones.</string>
+    <string name="widget_num_limit">Can’t add more widgets to App vault. Delete older widgets to add new ones.</string>
     <string name="widget_num_warn">Added successfully. Remember that placing too many widgets on your Home screen may slow down your device.</string>
     <!-- Categories -->
     <string name="theme_clock">Custom clocks</string>
@@ -74,7 +74,7 @@
     <string name="widget_calendar_countdown">Countdown</string>
     <string name="widget_calendar_countdown_desc">View countdown info</string>
     <string name="widget_calendar_date">Date</string>
-    <string name="widget_calendar_date_desc">View today's date info</string>
+    <string name="widget_calendar_date_desc">View today’s date info</string>
     <string name="widget_camera_filter">Leica filters</string>
     <string name="widget_camera_filter_desc">Four sets of Leica filters</string>
     <string name="widget_camera_lens">Pro lenses</string>
@@ -114,7 +114,7 @@
     <string name="widget_notes_view">Notes</string>
     <string name="widget_notes_view_desc">View and open your notes</string>
     <string name="widget_pals_cat">Kitty</string>
-    <string name="widget_pals_cat_desc">Meow ~ don't disturb me when I sleep…</string>
+    <string name="widget_pals_cat_desc">Meow ~ don’t disturb me when I sleep…</string>
     <string name="widget_pals_dog">Doggy</string>
     <string name="widget_pals_dog_desc">Woof ~ play with me!</string>
     <string name="widget_security_app_behavior">Privacy</string>

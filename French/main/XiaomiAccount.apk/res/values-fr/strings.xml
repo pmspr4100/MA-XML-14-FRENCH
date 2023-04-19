@@ -553,7 +553,7 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_account_user_phone">Téléphone de récupération</string>
     <string name="passport_active_email_visit">Vérifiez votre boîte de réception à %s</string>
     <string name="passport_activing_account">Activation…</string>
-    <string name="passport_activity_not_found_notice">Impossible de trouver l'application</string>
+    <string name="passport_activity_not_found_notice">Impossible de trouver l’application</string>
     <string name="passport_adding_account">Ajout du compte…</string>
     <string name="passport_agree">Accepter</string>
     <string name="passport_area_code_hot">UTILISÉ FRÉQUEMMENT</string>
@@ -566,7 +566,7 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_barcode_add_account_prompt">Pour connecter un compte, scannez le QR code à nouveau après vous être connecté.</string>
     <string name="passport_btn_change_account">Changer de compte</string>
     <string name="passport_can_not_receive_verification_code">Impossible de recevoir le code de vérification ?</string>
-    <string name="passport_can_not_recevie_verify_code">Vous n'avez pas reçu de code ?</string>
+    <string name="passport_can_not_recevie_verify_code">Vous n’avez pas reçu de code ?</string>
     <string name="passport_change_account">Changer de compte</string>
     <string name="passport_change_password">Changer le mot de passe</string>
     <string name="passport_change_phone_number">Changer de numéro</string>
