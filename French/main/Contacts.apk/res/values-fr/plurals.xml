@@ -138,9 +138,9 @@
         <item quantity="other">%1$d numéros</item>
         <item quantity="one">%1$d numéro</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d éléments trouvés</item>
-        <item quantity="one">%1$d élément trouvé</item>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">Les SMS ne peuvent pas avoir plus de %d destinataires.</item>
+        <item quantity="one">Les SMS ne peuvent pas avoir plus de %d destinataire.</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contacts</item>

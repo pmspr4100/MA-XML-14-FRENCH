@@ -228,7 +228,7 @@
     <string name="micloud_space_duokan_detail">"Ouvrez Duokan sur votre téléphone et accédez à Bookshelf &gt; Stockage cloud pour gérer l'espace de stockage.
 Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIUI."</string>
     <string name="micloud_space_duokan_title">Espace de stockage Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">"Ouvrez l'application Magnéto sur votre appareil mobile et sélectionnez le dossier contenant les éléments stockés dans le cloud.
+    <string name="micloud_space_soundrecorder_detail">"Ouvrez Magnéto sur votre appareil mobile et sélectionnez le dossier contenant les éléments stockés dans le cloud.
 Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIUI."</string>
     <string name="micloud_space_soundrecorder_title">Enregistrements audio</string>
     <string name="midnight">Nuit</string>
