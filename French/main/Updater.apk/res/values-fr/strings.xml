@@ -33,6 +33,7 @@
     <string name="download_fail_desc">La signature MD5 ne correspond pas</string>
     <string name="downloading">Téléchargement :</string>
     <string name="downloading_desc">Téléchargement en cours, contrôle du statut dans la zone de notification.</string>
+    <string name="fastboot_desc">L’appareil va maintenant redémarrer en mode Fastboot. Si vous n’êtes pas familiarisé avec le mode, annulez les actions futures. Continuer ?</string>
     <string name="fastboot_mode">"Updater est en mode Fastboot, vous ne pouvez flasher des ROM qu'avec Terminal sur PC !"</string>
     <string name="fastboot_update_warning">"Cette mise à jour est uniquement destinée à l'installation fastboot !"</string>
     <string name="fetch_notification_default_channel_name">Téléchargements</string>
@@ -53,6 +54,7 @@
 Les données ne seront pas effacées."</string>
     <string name="install_title">Continuer ?</string>
     <string name="menu_title_current_version_log">Découvrir les nouveautés</string>
+    <string name="menu_title_fastboot">Redémarrer en mode Fastboot</string>
     <string name="menu_title_fastboot_mode">Mettre à jour en mode Fastboot</string>
     <string name="menu_title_pick_rom_file">Sélectionner un fichier de mise à jour</string>
     <string name="menu_title_recovery">Redémarrer en mode Recovery</string>

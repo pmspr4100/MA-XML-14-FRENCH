@@ -68,12 +68,12 @@ dd/MM"</string>
   <string name="bold_font">Police en gras</string>
   <string name="bottomsheet_action_collapse">Réduire la feuille du bas</string>
   <string name="bottomsheet_action_expand">Développer la feuille du bas</string>
-  <string name="bottomsheet_action_expand_halfway">Développer à mi-chemin</string>
+  <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
   <string name="bottomsheet_drag_handle_clicked">Faites glisser la poignée en appuyant deux fois</string>
   <string name="bottomsheet_drag_handle_content_description">Faire glisser la poignée</string>
   <string name="btn_know">Compris</string>
   <string name="cancel">Annuler</string>
-  <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
+  <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
   <string name="choose_aod_style">Sélectionner un thème</string>
   <string name="chosen_picture">Sélectionner le fond</string>
@@ -126,8 +126,8 @@ dd/MM"</string>
   <string name="line_space">Espacement des lignes</string>
   <string name="material_clock_toggle_content_description">Sélectionnez AM ou PM</string>
   <string name="material_hour_24h_suffix">%1$s heures</string>
-  <string name="material_hour_selection">Select heure</string>
-  <string name="material_minute_selection">Sélectionnez minutes</string>
+  <string name="material_hour_selection">"Sélectionner l'heure"</string>
+  <string name="material_minute_selection">Sélectionner les minutes</string>
   <string name="material_minute_suffix">%1$s minutes</string>
   <string name="material_slider_range_end">"Fin d'intervalle"</string>
   <string name="material_slider_range_start">"Début d'intervalle"</string>

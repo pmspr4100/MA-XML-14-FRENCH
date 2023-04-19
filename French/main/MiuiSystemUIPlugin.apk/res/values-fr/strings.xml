@@ -54,7 +54,7 @@
     <string name="auto_disable_screenbuttons_enable_toast_text">Boutons de navigation activés</string>
     <string name="bootloader">Fastboot</string>
     <string name="bt_is_off">Bluetooth désactivé</string>
-    <string name="character_counter_content_description">%1$d caractères sur %2$d entrés</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="chip_text">Chip text</string>
     <string name="clear_text_end_icon_content_description">Effacer le texte</string>

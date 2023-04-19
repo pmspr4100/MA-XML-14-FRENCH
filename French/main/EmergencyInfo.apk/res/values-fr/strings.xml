@@ -237,7 +237,7 @@ Sélection"</string>
     <string name="category_personal">Personnel</string>
     <string name="category_work">Travail</string>
     <string name="cell_data_off_content_description">Données mobiles désactivées</string>
-    <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="charge_length_format">IL y a %1$s</string>
     <string name="chip_text">Chip text</string>

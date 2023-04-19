@@ -4,6 +4,10 @@
         <item>Homme</item>
         <item>Femme</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Comptes</item>
         <item>Ajouter et gérer les comptes tiers</item>

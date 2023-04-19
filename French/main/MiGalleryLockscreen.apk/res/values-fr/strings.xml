@@ -126,7 +126,7 @@
     <string name="change_activate_email">"Modifier l'adresse e-mail"</string>
     <string name="change_password">Changer le mot de passe</string>
     <string name="change_time">"Changer de fonds d'écran"</string>
-    <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="chip_text">Chip text</string>
     <string name="clear_history">"Effacer l'historique"</string>

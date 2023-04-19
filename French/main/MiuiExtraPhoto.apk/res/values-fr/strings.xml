@@ -163,6 +163,9 @@
   <string name="noon">Midi</string>
   <string name="ok">OK</string>
   <string name="open">Activé</string>
+  <string name="operation_original">Comparer</string>
+  <string name="operation_redo">Rétablir</string>
+  <string name="operation_undo">Annuler</string>
   <string name="pm">PM</string>
   <string name="refocus_discard_confirm_message">Sauvegarder les modifications ?</string>
   <string name="refocus_discard_negative_btn">Abandonner</string>
