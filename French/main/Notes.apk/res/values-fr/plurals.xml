@@ -4,13 +4,13 @@
         <item quantity="other">Il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Il y a 1 heure</item>
+        <item quantity="other">Il y a %d heure</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Il y a 1 demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Dans 1 heure</item>
+        <item quantity="other">Dans %d heure</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Dans 1 demi-heure</item>
@@ -20,14 +20,14 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Dans %d min</item>
-        <item quantity="one">Dans 1 min</item>
+        <item quantity="one">Dans %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Il y a %d min</item>
-        <item quantity="one">Il y a 1 min</item>
+        <item quantity="one">Il y a %d min</item>
     </plurals>
     <plurals name="alert_message_delete">
         <item quantity="other">Supprimer %1$s fichiers ?</item>
@@ -73,10 +73,6 @@
         <item quantity="other">dans %d minutes</item>
         <item quantity="one">dans 1 minute</item>
     </plurals>
-    <plurals name="item_terms">
-        <item quantity="other">%1$s éléments</item>
-        <item quantity="one">%1$s élément</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
     </plurals>
@@ -107,10 +103,6 @@
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d secondes restantes</item>
         <item quantity="one">%d seconde restante</item>
-    </plurals>
-    <plurals name="toast_notes_hidden_count">
-        <item quantity="other">Chiffrer %1$s notes avec succès</item>
-        <item quantity="one">Chiffrer %1$s note avec succès</item>
     </plurals>
     <plurals name="toast_notes_unhidden_count">
         <item quantity="other">Déchiffrer %1$s notes avec succès</item>

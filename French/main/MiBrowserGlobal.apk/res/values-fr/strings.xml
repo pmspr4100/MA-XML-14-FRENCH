@@ -2913,6 +2913,7 @@ Essayez de modifier votre mot-clé ?"</string>
     <string name="skip_current_version">Ignorer cette version</string>
     <string name="sku_all">Tous</string>
     <string name="sku_price_everymonth">%1$s chaque mois</string>
+    <string name="slide_card">Balayer pour en savoir plus</string>
     <string name="sms_send_success">Envoyé avec succès</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Impossible d'enregistrer la page"</string>
@@ -3207,6 +3208,7 @@ Il n'affiche rien."</string>
     <string name="toast_exit_browser">Appuyez à nouveau pour quitter le navigateur</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
+    <string name="top_news">Meilleurs articles</string>
     <string name="top_up">Recharger</string>
     <string name="topsite_click">Clic TopSite</string>
     <string name="track_permission_name">Ne pas suivre</string>
