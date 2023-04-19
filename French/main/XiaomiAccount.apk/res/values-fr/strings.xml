@@ -631,12 +631,6 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_error_unknow_error">Une erreur s’est produite</string>
     <string name="passport_error_unknow_host_network_error">"Impossible de se connecter au réseau"</string>
     <string name="passport_error_unknow_network_error">Une erreur réseau s’est produite</string>
-    <string name="passport_error_ticket_invalid">Ce code est incorrect</string>
-    <string name="passport_error_timeout_network_error">La demande a expiré</string>
-    <string name="passport_error_token_expired">Code expiré. Réessayez.</string>
-    <string name="passport_error_unknow_error">Une erreur s’est produite</string>
-    <string name="passport_error_unknow_host_network_error">"Impossible de se connecter au réseau"</string>
-    <string name="passport_error_unknow_network_error">Une erreur réseau s’est produite</string>
     <string name="passport_error_unknown">Erreur inconnue</string>
     <string name="passport_error_user_agreement_error">"Acceptez d'abord les conditions générales"</string>
     <string name="passport_error_user_name">"L'identifiant saisi n'est pas valide"</string>
