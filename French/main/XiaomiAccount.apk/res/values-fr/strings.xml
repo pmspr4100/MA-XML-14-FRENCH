@@ -825,6 +825,8 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_trust_device">Ajouter cet appareil aux appareils de confiance</string>
     <string name="passport_trying_read_verify_code_sms">Obtention du code de vérification…</string>
     <string name="passport_tz_invalid">"Risques de sécurité détectés. Cet appareil a peut-être été rooté ou flashé. Essayez d'autres options de connexion."</string>
+    <string name="passport_unknown_error">Erreur inconnue</string>
+    <string name="passport_unknown_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
     <string name="passport_uplink_reg">Utiliser un numéro de téléphone</string>
     <string name="passport_uplink_send_sms_hint">"Appuyez sur \"Envoyer\" après avoir été redirigé vers la page avec un message composé."</string>
     <string name="passport_uplink_slot1_reg">Utiliser la SIM 1</string>
@@ -852,7 +854,9 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_user_avatar_update_title">Changer la photo de profil</string>
     <string name="passport_user_avatar_uploading">Un instant…</string>
     <string name="passport_user_id_hint">E-mail/numéro de téléphone/identifiant de compte Xiaomi</string>
-    <string name="passport_user_id_notice">Votre ID de Compte Xiaomi est %s.</string>
+    <string name="passport_user_id_notice">Votre ID de compte Xiaomi est %s.</string>
+    <string name="passport_user_name_phone_number">Numéro de téléphone</string>
+    <string name="passport_user_password_hint">Mot de passe</string>
     <string name="passport_user_reg_region">Pays/Région</string>
     <string name="passport_user_reg_region_warning">Vous ne serez plus en mesure de modifier votre pays/région une fois le compte créé.</string>
     <string name="passport_vcode_notification_title">"La vérification n'est pas terminée"</string>
@@ -863,6 +867,9 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_verify">Vérifier</string>
     <string name="passport_verifying_activator_phone">Vérification de la sécurité du téléphone…</string>
     <string name="passport_wait_for_sms_prompt">Recommencez du début ? Les messages de vérifications peuvent mettre 10 minutes à être reçus quand votre téléphone est couvert par le réseau de votre opérateur.</string>
+    <string name="passport_wechat_not_install">Installez d’abord WeChat</string>
+    <string name="passport_weibo_login_btn_content_description">Se connecter avec Weibo</string>
+    <string name="passport_weixin_login_btn_content_description">Se connecter avec WeChat</string>
     <string name="passport_wrong_captcha">Le code que vous avez entré est incorrect</string>
     <string name="passport_wrong_phone_number_format">Le format du numéro de téléphone entré est non valide</string>
     <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
@@ -909,6 +916,8 @@ Envoyez ce code au superviseur."</string>
     <string name="qrcode_login_load_retry"><Data>Chargement impossible. &lt;a href=>Réessayez&lt;/a>.</Data></string>
     <string name="qrcode_login_message">"Numérisez avec l'application Scanner de votre téléphone ou tablette Xiaomi, Mi Home ou une autre application Xiaomi pour vous connecter"</string>
     <string name="qrcode_login_title">Scannez pour vous connecter</string>
+    <string name="range_end">"Fin d'intervalle"</string>
+    <string name="range_start">"Début d'intervalle"</string>
     <string name="recycle_phone_notification_msg">On dirait que votre numéro de téléphone a été recyclé. Appuyez pour mettre à jour.</string>
     <string name="recycle_phone_notification_title">Rsique de sécurité du Compte Xiaomi</string>
     <string name="removing_account">Suppression du compte…</string>
@@ -951,6 +960,7 @@ Envoyez ce code au superviseur."</string>
     <string name="search_user_detail_path">Paramètres/Compte Xiaomi/Informations personnelles</string>
     <string name="search_user_detail_top_key_words">"Informations personnelles,Changer la photo de profile,Changer le Nom d'utilisateur,Changer le pseudo,Changer la date d'anniversaire,Changer le sexe"</string>
     <string name="select_all">Tout sélectionner</string>
+    <string name="selected">Sélectionné</string>
     <string name="self_account_info">Informations personnelles</string>
     <string name="send">Envoyer</string>
     <string name="send_diagnosis_log">Envoyer les journaux</string>
@@ -958,6 +968,8 @@ Envoyez ce code au superviseur."</string>
     <string name="sending">Envoi…</string>
     <string name="service_error">Erreur de service</string>
     <string name="set_success">Modifié avec succès</string>
+    <string name="setting_later">Plus tard</string>
+    <string name="setting_now">Ajouter</string>
     <string name="sign_in">Connexion</string>
     <string name="sim_card">Carte SIM</string>
     <string name="sim_changed_notification_msg">Appuyez pour mettre à jour votre numéro de téléphone de récupération et sécuriser davantage votre compte.</string>
@@ -1000,8 +1012,9 @@ Envoyez ce code au superviseur."</string>
     <string name="system_ad_summary">"Activez cette fonctionnalité pour permettre la diffusion d'un petit nombre d'annonces dans les applications système. Ces publicités nous aident à développer et à améliorer nos produits et services. Vous pouvez choisir de désactiver cette fonctionnalité à tout moment. Merci pour votre aide ! "</string>
     <string name="system_ad_switch">Annonces dans les applications système</string>
     <string name="system_ad_switch_failed">échec</string>
-    <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
+    <string name="tab">Onglet</string>
     <string name="talkback_scan_barcode">Scanner un QR code</string>
+    <string name="template_percent">%1$d pourcent.</string>
     <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
@@ -1065,11 +1078,10 @@ Envoyez ce code au superviseur."</string>
     <string name="unbind_sns_description">"Après avoir supprimé ce compte, vous ne serez plus en mesure d'utiliser les informations du compte  %s pour vous connecter à votre Compte Xiaomi."</string>
     <string name="unit_gb">" Gio"</string>
     <string name="unit_mb">" Mio"</string>
-    <string name="unknown_error_info">Erreur inconnue</string>
     <string name="unlock_help_notice">"Aide :
-1. Si vous avez oublié votre mot de passe, rendez-vous sur id.mi.com pour le réinitialiser.
-2. Si vous ne parvenez pas à réinitialiser votre mot de passe ou si quelqu'un a verrouillé votre appareil, rendez-vous sur i.mi.com pour le déverrouiller.
-3. Votre numéro de déverrouillage : %s"</string>
+%1$d. Si vous avez oublié votre mot de passe, rendez-vous sur id.mi.com pour le réinitialiser.
+%2$d. Si vous ne parvenez pas à réinitialiser votre mot de passe ou si quelqu'un a verrouillé votre appareil, rendez-vous sur i.mi.com pour le déverrouiller.
+%3$d. Votre numéro de déverrouillage : %4$s"</string>
     <string name="update_apk_version_later">Pas maintenant</string>
     <string name="update_apk_version_now">Mettre à jour</string>
     <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>
@@ -1094,14 +1106,19 @@ Envoyez ce code au superviseur."</string>
     <string name="user_license_with_3rd_app"><Data>"En me connectant avec mon Compte Xiaomi, je confirme avoir lu et accepté les &lt;a href=%1$s>Conditions d'utilisation&lt;/a> et &lt;a href =%2$s>Politique de confidentialité&lt;/a> et &lt;a href=%3$s>Contrat d'utilisation&lt;/a> et &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Xiaomi."</Data></string>
     <string name="user_license_with_3rd_app_mobile"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/a>, le &lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que &lt;a href=%5$s>Conditions générales des services de vérification de China Mobile&lt;/a>.
 "</Data></string>
-    <string name="user_license_with_3rd_app_no_operator"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/a> et l'&lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Xiaomi.
+    <string name="user_license_with_3rd_app_no_operator"><Data>"J'ai lu et j'accepte le &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> de cette application, ainsi que le &lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du compte Xiaomi.
 "</Data></string>
     <string name="user_license_with_3rd_app_telcom"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/a>, l'&lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que &lt;a href=%5$s>Conditions générales des services de vérification de compte eSurfing&lt;/a>.
 "</Data></string>
-    <string name="user_license_with_out_3rd_app_no_operator"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et &lt;a href=%2$s>Politique de confidentialité&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>"J'ai lu et j'accepte le &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> de cette application, le &lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du compte Xiaomi, ainsi que les &lt;a href=%5$s>Conditions d'utilisation de China Unicom Authentication&lt;/a>.
+"</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et &lt;a href=%2$s>Politique de confidentialité&lt;/a>.
+"</Data></string>
     <string name="user_license_without_3rd_app"><Data>"J'ai lu et j'accepte l'&lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_mobile"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_telcom"><Data>"J'ai lu et j'accepte l'&lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de China Mobile&lt;/a>.
+"</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>"J'ai lu et j'accepte l'&lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de compte eSurfing&lt;/a>.
+"</Data></string>
     <string name="user_license_without_3rd_unicom"><Data>"J'ai lu et j'accepte l'&lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de China Unicom&lt;/a>."</Data></string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
