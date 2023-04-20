@@ -108,7 +108,6 @@
     <string name="activity_title_antivirus_kddi">Analyse de sécurité</string>
     <string name="activity_title_apps_manager">Applications</string>
     <string name="activity_title_auto_start_manager">Démarrage automatique</string>
-    <string name="activity_title_create_shortcut">Gérer les raccourcis</string>
     <string name="activity_title_garbage_cleanup">Nettoyeur</string>
     <string name="activity_title_license_manager">Autorisations</string>
     <string name="activity_title_networkassistants">Utilisation des données</string>
@@ -523,6 +522,7 @@
 
 Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_manager_reset_app_preferences_title">"Réinitialiser les préférences de l'application ?"</string>
+    <string name="app_manager_restricted_settings_title">Autoriser les paramètres restreints</string>
     <string name="app_manager_search_prompt">"Impossible de trouver des résultats ? Essayer d'afficher les résultats depuis toutes les applications."</string>
     <string name="app_manager_show_all_apps">Afficher toutes les applications</string>
     <string name="app_manager_show_all_apps_opened">Affichage des résultats depuis toutes les applications…</string>
@@ -549,6 +549,8 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_mobile">Données mobiles</string>
     <string name="app_name">"Verrouillage d'application"</string>
     <string name="app_name_na">Utilisation des données</string>
+    <string name="app_name_pad">Securité</string>
+    <string name="app_name_phone">Securité</string>
     <string name="app_name_securitycenter">Sécurité</string>
     <string name="app_not_installed_toast">"L'application n'est pas installée sur votre appareil."</string>
     <string name="app_perm_manager_service">Autorisations</string>
@@ -1241,14 +1243,31 @@ Cependant, certaines de vos transactions ne sont pas encore terminées. Pour pou
     <string name="continue_set">Continuer</string>
     <string name="convenient_mode">Déverrouiller toutes vos applications à la fois</string>
     <string name="convenient_summary">Entrez le mot de passe une fois pour déverrouiller toutes les applications</string>
+    <string name="conversation_settings_top">"·Faites glisser la barre d'outils de conférence pendant les appels audio et vidéo en plein écran pour accéder à ses fonctionnalités.
+·Le type et le nombre de fonctionnalités dépendent du modèle de l'appareil."</string>
+    <string name="conversation_sider_tips">Utilisez les nouveaux outils de conférence pour la meilleure expérience d’appel</string>
+    <string name="conversation_summary">Embellissement, transcription des sous-titres et autres fonctionnalités pendant les appels audio et vidéo</string>
+    <string name="conversation_title">Outils de conférence</string>
     <string name="copy">Copier</string>
-    <string name="correction_attention_dialog_message">"Modification des paramètres en cours. Patientez jusqu'à ce que le processus finisse pour réessayer."</string>
     <string name="cpu_usage_android_system">Système Android</string>
     <string name="cpu_usage_process_run_time_little_time">Moins de 1 minute</string>
     <string name="cpu_usage_process_run_time_little_time_new">Moins de %d minute</string>
     <string name="cpu_usage_view_action_btn_text">Appuyer pour voir</string>
     <string name="create_gamebooster_destop">"Création du raccourci de l'écran d'accueil avec succès"</string>
     <string name="create_shortcut">"Créer un raccourci vers l'écran d'accueil pour Game Turbo"</string>
+    <string name="cs_color_sense">Température de couleur</string>
+    <string name="cs_func_toast_headset">Déconnectez votre casque pour pouvoir utiliser cette fonctionnalité</string>
+    <string name="cs_func_toast_light">Passez à la caméra frontale pour pouvoir utiliser cette fonctionnalité</string>
+    <string name="cs_func_toast_pickup">Passez à un appel vidéo pour pouvoir utiliser cette fonctionnalité</string>
+    <string name="cs_pickup_multi_desc">capture audio à %d degrés</string>
+    <string name="cs_pickup_multi_title">Plusieurs participants</string>
+    <string name="cs_pickup_single_desc">Captez uniquement le son devant l’écran</string>
+    <string name="cs_pickup_single_title">Participant seul</string>
+    <string name="cs_pickup_surround_desc">Utilise l’IA pour réduire le bruit pour un son clair et net</string>
+    <string name="cs_pickup_surround_title">Réduction du bruit du microphone</string>
+    <string name="cs_title_pickup">Réduction du bruit</string>
+    <string name="cs_title_smart_subtitle">Transcription des sous-titres</string>
+    <string name="cs_title_ultraclear">Mode Ultra HD</string>
     <string name="cta_HIPS_Perm_Location_Desc">"Pour utiliser vos informations de localisation dans le Centre d'avertissement MIUI, SOS d'urgence, l'économiseur de batterie de l'application et le scanner de sécurité des paiements, ainsi que pour activer l'emplacement approximatif"</string>
     <string name="cta_agree_desc">Pour pouvoir utiliser nos services, autorisez cette application à se connecter à Internet et accordez les autorisations indiquées ci-dessus.</string>
     <string name="cta_close_dialog_cancel">Annuler</string>
