@@ -254,7 +254,7 @@
     <string name="change_password">Modifier le mot de passe</string>
     <string name="changepassword_hint_input1">Mot de passe actuel</string>
     <string name="changepassword_toast_passworderror">Le mot de passe est incorrect</string>
-    <string name="character_counter_content_description">Caractères saisis %1$d sur %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="character_type">Sélectionner la catégorie de chambre</string>
     <string name="charm_advantage">"Avantages d'une grande popularité"</string>

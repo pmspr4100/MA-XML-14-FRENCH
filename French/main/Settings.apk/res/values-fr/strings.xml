@@ -2153,7 +2153,7 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="change_wifi_state_title">Contrôle Wi-Fi</string>
     <string name="channel_group_notifications_off_desc">"À votre demande, Android bloque l'affichage de ce groupe de notifications sur cet appareil"</string>
     <string name="channel_notifications_off_desc">"À votre demande, Android bloque l'affichage de cette catégorie de notifications sur cet appareil"</string>
-    <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="charge_animation_style_lollipop">Flux</string>
     <string name="charge_animation_style_none">Désactivé</string>
@@ -5185,10 +5185,9 @@ There are other users present on this device.
     <string name="master_clear_title">"Effacer toutes les données (rétablir la configuration d'usine)"</string>
     <string name="master_clear_title_new">"Effacer toutes les données (rétablir la configuration d'usine)"</string>
     <string name="material_clock_display_divider">:</string>
-    <string name="material_clock_toggle_content_description">Select AM or PM</string>
-    <string name="material_hour_selection">Select hour</string>
-    <string name="material_hour_suffix">"%1$s o'clock"</string>
-    <string name="material_minute_selection">Select minutes</string>
+    <string name="material_clock_toggle_content_description">Sélectionner AM ou PM</string>
+    <string name="material_hour_selection">"Sélectionner l'heure"</string>
+    <string name="material_minute_selection">Sélectionner les minutes</string>
     <string name="material_minute_suffix">%1$s minutes</string>
     <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
     <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>

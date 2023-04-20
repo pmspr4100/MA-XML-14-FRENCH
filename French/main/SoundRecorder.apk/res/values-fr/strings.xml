@@ -42,7 +42,7 @@
     <string name="call_record_list_group_connected">Connecté</string>
     <string name="call_record_list_group_unconnected">Non connecté</string>
     <string name="cancel_rename">Annuler</string>
-    <string name="character_counter_content_description">Caractères saisis  %1$d sur %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée  %1$d sur %2$d</string>
     <string name="chip_text">Chip text</string>
     <string name="clear_data_dialog_content">"Les éléments mis en cache, les données d'application et les paramètres personnalisés seront supprimés, mais vos enregistrements resteront en place. "</string>

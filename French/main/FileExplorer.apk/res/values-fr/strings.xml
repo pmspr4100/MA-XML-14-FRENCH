@@ -117,7 +117,7 @@
     <string name="category_zip">Archives</string>
     <string name="cdd_message">"En raison des restrictions d'Android 11, vous ne pourrez pas afficher certains des fichiers générés dans les applications tierces dans l'Explorateur de fichiers."</string>
     <string name="cdd_title">Attention</string>
-    <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="clean_hint">"Appuyez pour libérer de l'espace"</string>
     <string name="clean_hint_pad">"Videz la corbeille pour libérer de l'espace de stockage"</string>
@@ -626,6 +626,9 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="otg_data_transferring">Transfert de fichiers… Ne déconnectez pas le stockage externe.</string>
     <string name="otg_file_security_note">Sécurité OGT</string>
     <string name="overwrite_msg">\"%s\" existe déjà. Appuyez pour le remplacer par le nouveau fichier.</string>
+    <string name="pad">Tablette</string>
+    <string name="pad_homepage_tab_file_view_phone">Tablette</string>
+    <string name="pad_start_phone">Stockage</string>
     <string name="partial_cancel_successful">Impossible de retirer certains fichiers. Le reste des fichiers a été déplacé vers %s.</string>
     <string name="partial_delete_failure">Impossible de supprimer certains fichiers. Veuillez réessayer.</string>
     <string name="partial_encrypt_success">"Certains fichiers n'ont pas pu être rendus privés. Veuillez réessayer."</string>
