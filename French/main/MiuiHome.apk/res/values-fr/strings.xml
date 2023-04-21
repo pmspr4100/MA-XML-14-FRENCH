@@ -318,6 +318,9 @@
     <string name="home_gesture_global_search">Rechercher</string>
     <string name="home_gesture_no_action">Aucun</string>
     <string name="home_gesture_notification_bar">Notifications</string>
+    <string name="home_pull_down_content">Balayer vers le bas sur l’écran d’accueil pour rechercher des éléments sur cet appareil et en ligne.</string>
+    <string name="home_pull_down_content_tips">Vous pouvez modifier vos préférences dans Paramètres > Écran d’accueil > Balayez vers le bas sur l’écran d’accueil. Vos préférences pour le geste de balayage vers le haut resteront inchangées.</string>
+    <string name="home_pull_down_know">Compris</string>
     <string name="home_screen">"Écran d'accueil"</string>
     <string name="home_slide_up_action">"Glisser vers le haut sur l'écran d'accueil"</string>
     <string name="home_switch_personal_assistant">Écran rapide</string>

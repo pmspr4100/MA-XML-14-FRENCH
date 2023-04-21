@@ -4,13 +4,13 @@
         <item quantity="other">Il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Il y a 1 heure</item>
+        <item quantity="other">Il y a %d heure</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Il y a 1 demi-heure</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Dans 1 heure</item>
+        <item quantity="other">Dans %d heure</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Dans 1 demi-heure</item>
@@ -20,14 +20,14 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Dans %d min</item>
-        <item quantity="one">Dans 1 min</item>
+        <item quantity="one">Dans %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Il y a %d min</item>
-        <item quantity="one">Il y a 1 min</item>
+        <item quantity="one">Il y a %d min</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d jeux ajoutés</item>
@@ -292,6 +292,14 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Compris (%ds)</item>
         <item quantity="one">Compris (%ds)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Remarque :
+·Les visuels améliorés ne seront pas disponibles lorsque l'économiseur de batterie est activé ou que votre appareil est en surchauffe.
+·La fréquence d'images intelligente donne de meilleurs résultats lorsque votre jeu est configuré pour afficher au moins %d images par seconde."</item>
+        <item quantity="one">"Remarque :
+·Les visuels améliorés ne seront pas disponibles lorsque l'économiseur de batterie est activé ou que votre appareil est en surchauffe.
+·La fréquence d'images intelligente donne de meilleurs résultats lorsque votre jeu est configuré pour afficher au moins %d images par seconde."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Essayez le changeur de voix maintenant
@@ -570,6 +578,10 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">%d applis</item>
         <item quantity="one">%d appli</item>
     </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantit="other">%2$d applications, dont %1$s, pourraient être malveillantes</item>
+        <item quantit="one">%2$d application, dont %1$s, pourrait être malveillante</item>
+    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d apps déchargent la batterie</item>
         <item quantity="one">%d app déchargent la batterie</item>
@@ -685,6 +697,10 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d minutes "</item>
         <item quantity="one">"%d minute "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantit="other">Optimiser l’utilisation de la batterie dans %d scénarios</item>
+        <item quantit="one">Optimiser l’utilisation de la batterie dans %d scénario</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">"Corriger %d problèmes d'utilisation de la batterie"</item>

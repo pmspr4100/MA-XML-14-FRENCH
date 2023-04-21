@@ -438,6 +438,7 @@
     <string name="app_manager_app_version_name">"Version : "</string>
     <string name="app_manager_appupdate_remind">Notifier à propos des mises à jour</string>
     <string name="app_manager_as_dlg_msg">Autoriser des applications à démarrer automatiquement peut nécessiter de la mémoire vive et des ressources de batterie supplémentaires. Autoriser quand même ?</string>
+    <string name="app_manager_as_dlg_msg_new">"Autoriser une application à démarrer automatiquement peut augmenter la quantité de mémoire et la durée de vie de la batterie qu'elle utilise. MIUI optimisera les autorisations de démarrage automatique des applications que vous n'utilisez pas fréquemment pour améliorer les performances de votre appareil."</string>
     <string name="app_manager_as_dlg_title">Attention</string>
     <string name="app_manager_back">Retour</string>
     <string name="app_manager_bipartition">Applications clônées</string>
@@ -729,6 +730,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="auto_import_games">Placer tous les jeux dans le même dossier</string>
     <string name="auto_send_correcting_msg">Laisser vide pour vérifier automatiquement avec un SMS gratuit</string>
     <string name="auto_set_by_brand">Synchroniser les détails de votre forfait avec votre opérateur</string>
+    <string name="auto_start_tips">"MIUI optimisera les autorisations de démarrage automatique des applications que vous n'utilisez pas fréquemment pour améliorer les performances de l'appareil."</string>
     <string name="auto_task_allow_suggestion">Suggestions de tâches intelligentes</string>
     <string name="auto_task_available_device">Appareils disponibles</string>
     <string name="auto_task_condition_choose_battery_level_down">Lorsque la batterie atteint un certain niveau</string>
@@ -1372,6 +1374,7 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
     <string name="dialog_btn_delete_icon">Supprimer</string>
     <string name="dialog_btn_no_create_icon">Annuler</string>
     <string name="dialog_btn_yes_create_icon">Ajouter</string>
+    <string name="dialog_btn_yes_install_icon">Installer</string>
     <string name="dialog_change_package_type_summary">"La modification du type de forfait de données réinitialisera tous les paramètres d'utilisation des données (ex.: les limites de données) à leurs valeurs par défaut. Changer le type de forfait de données maintenant ?"</string>
     <string name="dialog_change_package_type_title">Changement du type de forfait de données</string>
     <string name="dialog_msg_auto_start_declare">Certaines applications peuvent indiquer que MIUI les empêche de démarrer. Vérifiez les permissions pour les applications dans Paramètres &gt; Applications.</string>
@@ -1381,6 +1384,8 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
     <string name="dialog_msg_delete_icon_content_phone">"La sécurité vous permet de vider la corbeille de votre appareil, de rechercher et de neutraliser les virus, d'économiser la batterie, de gérer les autorisations, etc."</string>
     <string name="dialog_msg_delete_icon_title_pad">"Supprimer le raccourci \"Sécurité\" de l'écran d'accueil ?"</string>
     <string name="dialog_msg_delete_icon_title_phone">"Supprimer le raccourci \"Sécurité\" de l'écran d'accueil ?"</string>
+    <string name="dialog_msg_install_manager_content">Réinstaller la sécurité ?</string>
+    <string name="dialog_msg_install_manager_content_pad">Réinstaller la sécurité ?</string>
     <string name="dialog_msg_stop_virus_scan">"Arrêter l'analyse de sécurité avant qu'elle ne se termine ?"</string>
     <string name="dialog_no_longer_alert">Ne plus afficher</string>
     <string name="dialog_restrict_all_mobile_summary">La connexion aux données mobiles de %s sera restreinte pour toutes les applications une fois cela activé.</string>
@@ -1513,7 +1518,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="eletric_group_title_two_identification_risk_mms">Recevoir des avertissements lorsque les codes de vérification sont transmis</string>
     <string name="eletric_group_title_two_identification_risk_mms_summary">Vous recevrez un avertissement lorsque les codes de vérification de vos messages seront transmis aux réseaux sociaux</string>
     <string name="eletric_group_title_two_identification_risk_screen">Masquer les applications privées</string>
-    <string name="eletric_group_title_two_identification_risk_screen_summary">La diffusion sera interrompue si vous passez à Alipay, WeChat, Galerie ou Messagerie</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">"Si vous ouvrez des applications contenant des informations personnelles sensibles (WeChat, Alipay, Galerie, etc.) tout en partageant l'écran de votre appareil, ces informations ne seront pas affichées. Vous pouvez recommencer le partage manuellement."</string>
     <string name="eletric_group_two_identification_risk_app">Avertir des transactions financières à risque</string>
     <string name="eletric_group_two_identification_risk_mms">Protection du code de vérification</string>
     <string name="eletric_identification_unfamiliar_numbers">Identifier les numéros inconnus</string>
@@ -1560,8 +1565,6 @@ carte médicale"</string>
     <string name="ew_alert_emergency_text_single">Afficher la carte médicale</string>
     <string name="ew_alert_help_earthquake_title">Arrivée de la vague sismique</string>
     <string name="ew_alert_help_place_navigation">Naviguer</string>
-    <string name="ew_alert_help_place_text">"Si nécessaire, rendez-vous au refuge le plus proche pour assurer votre sécurité et obtenir l'aide nécessaire."</string>
-    <string name="ew_alert_help_place_title">Abri à proximité</string>
     <string name="ew_alert_help_safe_title">Évitez le danger</string>
     <string name="ew_alert_help_tips">"Restez calme et restez vigilant. Éloignez-vous des objets suspendus, ne prenez pas l'ascenseur. Trouvez un espace sûr, laissez tomber, couvrez et tenez bon."</string>
     <string name="ew_alert_no_contact">"Définir un contact d'urgence dans la Sécurité &gt; Avertissement de tremblement de terre en premier"</string>
@@ -2309,6 +2312,12 @@ mais augmente également la consommation d'énergie et permet à votre appareil 
     <string name="gb_turbo_time_subtitle">Chronométrez vos sessions</string>
     <string name="gb_turbo_voice_subtitle">Pimentez vos conversations</string>
     <string name="gb_turbo_wonder_subtitle">Enregistrez les moments clés</string>
+    <string name="gb_vision_enhance">Visuels améliorés</string>
+    <string name="gb_vision_enhance_desc">Améliorer la qualité et les performances de l’image</string>
+    <string name="gb_vision_enhance_smart_frame_insertion">Fréquence d’images intelligente</string>
+    <string name="gb_vision_enhance_smart_frame_insertion_desc">Ajustez automatiquement la fréquence d’images pour rendre le mouvement plus fluide</string>
+    <string name="gb_vision_enhance_super_resolution">Super résolution</string>
+    <string name="gb_vision_enhance_super_resolution_desc">Augmenter la résolution pour afficher des détails plus fins</string>
     <string name="gb_voice_change_audition_tip">Démo</string>
     <string name="gb_voice_change_settinged">Le changeur de voix est activé</string>
     <string name="gb_voice_changer_cartoon">Cartoon</string>
@@ -2889,15 +2898,16 @@ Votre appareil est %s plus rapide maintenant."</string>
     <string name="miui_optimization_close_title">"Cette fonctionnalité est destinée aux développeurs et peut ne pas convenir aux utilisateurs généraux. La désactivation de l'optimisation MIUI peut entraîner les modifications suivantes :"</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
     <string name="miuix_appcompat_cancel_description">Annuler</string>
     <string name="miuix_appcompat_confirm_description">Confirmer</string>
     <string name="miuix_appcompat_delete_description">Supprimer</string>
-    <string name="miuix_appcompat_deselect_all">Désélectionner</string>
+    <string name="miuix_appcompat_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -3273,6 +3283,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="operator_name_telcom">China Telecom</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_virtual_operator">Opérateur virtuel</string>
+    <string name="opt_antivirus_scan_antivirus_notification_summary">L’utilisation d’applications malveillantes présente des risques de sécurité</string>
+    <string name="opt_antivirus_scan_single_antivirus_notification_title">%s pourrait être une application malveillante</string>
     <string name="optimize_manage_title">Augmenter la vitesse</string>
     <string name="optimize_result_available_memory_info">Mémoire disponible</string>
     <string name="optimize_result_button_cloudspace">"Obtenez plus d'espace de stockage dans le cloud"</string>
@@ -3409,11 +3421,14 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pc_main_power_manager_hour_minute">"%1$s h %2$s m jusqu'à la charge complète"</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s j %2$s h restant</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s h %2$s m restante</string>
+    <string name="pc_no_more_remind">Ne pas me le rappeler</string>
     <string name="pc_performance_mode_dialog_summary">"Votre appareil pourra fonctionner pendant %s en mode Performance. Notez que le mode Performance augmente la consommation d'énergie et peut entraîner une surchauffe."</string>
     <string name="pc_performance_mode_dialog_summary2">"Les performances de l'appareil s'amélioreront. Cela peut augmenter la consommation d'énergie et entraîner des problèmes de surchauffe. Activer quand même ?"</string>
     <string name="pc_performance_mode_dialog_title">Mode Performance</string>
     <string name="pc_performance_mode_noti_summary">"Le mode Performance peut augmenter la consommation d'énergie et entraîner des problèmes de surchauffe"</string>
     <string name="pc_performance_mode_noti_title">"Amélioration des performances de l'appareil"</string>
+    <string name="pc_remind_close_cover_to_charge_summary">Pliez l’appareil avant de charger pour une expérience de charge plus rapide et plus stable.</string>
+    <string name="pc_remind_close_cover_to_charge_title">Plier pour charger</string>
     <string name="pc_search_keywords_battery">Batterie</string>
     <string name="pc_search_keywords_battery_save">Économiseur de batterie</string>
     <string name="pc_search_keywords_battery_use">Utilisation</string>
@@ -3427,6 +3442,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pc_temperature_too_high">Appareil en surchauffe</string>
     <string name="pc_to_phone_install">"L'installation de %s via USB est bloquée"</string>
     <string name="pc_wait_device_cools_down">Attendez que votre appareil refroidisse pour pouvoir utiliser cette fonctionnalité.</string>
+    <string name="pc_wireless_charge_adjust_position_summary">Mettez-le sur le chargeur sans fil</string>
+    <string name="pc_wireless_charge_adjust_position_title">Chargez votre appareil plus rapidement</string>
     <string name="pc_xiaoai_create_auto_task">Nouvelle tâche de Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Définir la limite des données</string>
     <string name="perfermance_optimization_summary">Évitez la surchauffe et les problèmes liés au matériel</string>
@@ -5176,6 +5193,7 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="superpower_settins_autoleave_title">Désactiver automatiquement</string>
     <string name="superpower_settins_other">Paramètres additionnels</string>
     <string name="superpower_settins_switch_summary">Limite la plupart des fonctionnalités énergivores afin de laisser les fonctionnalités de base (appels, SMS et applications sélectionnées, par exemple) disponibles le plus longtemps possible</string>
+    <string name="support_app_name_securitycenter">Outils de sécurité</string>
     <string name="support_game_booster_tips">"Augmenter la vitesse et améliorer l'expérience de jeu"</string>
     <string name="sys_app_prot_cracked_confirm">Compris</string>
     <string name="sys_cpu_title">Utilisation du CPU</string>
@@ -5702,6 +5720,16 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="vb_ve_settings_ai_stronger">IA</string>
     <string name="vb_ve_settings_display_style_tips">"*Ces effets sont appliqués à l'ensemble de l'écran"</string>
     <string name="vb_ve_settings_display_style_tips_new">*Les effets seront appliqués à la zone de lecture vidéo uniquement</string>
+    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Cet effet ne sera appliqué qu'à la zone de lecture vidéo.
+
+Cette fonctionnalité ne fonctionne pas avec les vidéos améliorées.
+
+Activer l'un éteindra l'autre."</string>
+    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Cet effet sera appliqué à tout l'écran.
+
+Cette fonctionnalité ne fonctionne pas avec les vidéos améliorées.
+
+Activer l'un éteindra l'autre."</string>
     <string name="vb_ve_settings_pic_border_stronger">Contours améliorés</string>
     <string name="vb_ve_settings_picture_stronger">Animations améliorées</string>
     <string name="vb_video_effects_3d">Son Surround</string>
@@ -5717,6 +5745,7 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="vb_video_effects_dolby_tips">"Les dialogues améliorés et la stéréo étendue ne fonctionnent pas lorsque le son immersif est activé"</string>
     <string name="vb_video_effects_immersion_sound">Son immersif</string>
     <string name="vb_video_effects_immersion_sound_summary">"Découvrez l'immersion et la sensation d'espace lorsque l'audio pris en charge est lu via des écouteurs"</string>
+    <string name="vb_video_effects_immersion_sound_summary_new">Découvrez l’immersion et la sensation d’espace lorsque l’audio pris en charge est lu</string>
     <string name="vb_video_effects_liquid_summary">Améliore la clarté des dialogues dans les vidéos</string>
     <string name="vb_video_effects_only_headphone">Fonctionne uniquement avec des écouteurs</string>
     <string name="vb_video_effects_setting_black_white">Noir et blanc</string>

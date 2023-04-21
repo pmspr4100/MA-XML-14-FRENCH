@@ -248,14 +248,13 @@ Connectez le chargeur et éteignez l'écran pour faire apparaître les souvenirs
     <string name="app_summary_2">Stocker, gérer et éditer des photos et des vidéos sur cet appareil</string>
     <string name="apply">Appliquer</string>
     <string name="art_still_download_failed_for_notwork">Impossible de télécharger. Vérifiez vos paramètres réseau et réessayez.</string>
-    <string name="art_still_download_sdk_without_wifi_msg">"Il semble que votre appareil n'est pas connecté au Wi-Fi. Télécharger le plug-in en utilisant les données mobiles ?"</string>
-    <string name="art_still_download_sdk_without_wifi_msg_china">"Il semble que votre appareil n'est pas connecté au WLAN. Télécharger le plug-in en utilisant les données mobiles ?"</string>
     <string name="art_still_download_sdk_without_wifi_title">Télécharger le plug-in \"Art\"</string>
     <string name="art_still_load_data_fail">Impossible de charger les données</string>
     <string name="art_still_module_finish">Plug-in \"Art\" téléchargé avec succès</string>
     <string name="art_still_module_loading">Téléchargement du plug-in \"Art\"…</string>
     <string name="assistant_page_community">Communauté</string>
     <string name="assistant_page_discovery">Découvrir</string>
+    <string name="assistant_page_image_printing">Imprimer</string>
     <string name="assistant_page_label">Souvenirs</string>
     <string name="assistant_page_server_error">Vérifiez vos paramètres réseau</string>
     <string name="assistant_today_of_year_function_closed_tip">Activer</string>
@@ -466,7 +465,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="cleaner_empty">Tout effacer</string>
     <string name="cleaner_empty_value_description">Tout semble bon !</string>
     <string name="cleaner_photo_pick_delete_selected">Supprimer les photos sélectionnées</string>
-    <string name="cleaner_raw_action">Afficher les détails</string>
+    <string name="cleaner_raw_action">Afficher</string>
     <string name="cleaner_raw_description">"Libérez de l'espace de stockage en supprimant les grandes images RAW"</string>
     <string name="cleaner_raw_title">Effacer les fichiers RAW</string>
     <string name="cleaner_scan_description">"L'optimisation des éléments libère de l'espace de stockage sur votre appareil"</string>
@@ -480,7 +479,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="cleaner_screen_shot_action">Voir</string>
     <string name="cleaner_screen_shot_description">"Supprimer les captures d'écran dont vous n'avez plus besoin."</string>
     <string name="cleaner_screen_shot_title">"Suppression des captures d'écran"</string>
-    <string name="cleaner_similar_action">Afficher les détails</string>
+    <string name="cleaner_similar_action">Afficher</string>
     <string name="cleaner_similar_description">Supprimer les photos en doubles</string>
     <string name="cleaner_similar_title">Photos en double</string>
     <string name="cleaner_size">Effacer les éléments récemment supprimés (%s)</string>
@@ -492,7 +491,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="cleaner_space_detail_description">"Nettoyez les photos dans votre galerie pour libérer de l'espace de stockage"</string>
     <string name="cleaner_stop_scan">"Arrêter l'analyse"</string>
     <string name="cleaner_title">clean space</string>
-    <string name="cleaner_video_action">Afficher les détails</string>
+    <string name="cleaner_video_action">Afficher</string>
     <string name="cleaner_video_description">"Supprimer des vidéos qui occupent de l'espace de stockage"</string>
     <string name="cleaner_video_pick_delete_selected">Supprimer les vidéos sélectionnées</string>
     <string name="cleaner_video_title">Supprimer les vidéos</string>
@@ -1306,7 +1305,7 @@ sont disponibles"</string>
     <string name="loading_video_fail_sync_without_network">Connectez-vous à internet pour télécharger les métadonnées</string>
     <string name="loading_video_fail_syncing">Attendez que les métadonnées soient complètement téléchargées puis réessayez</string>
     <string name="loading_video_thumbnail">Téléchargement de la couverture de la vidéo…</string>
-    <string name="local_secret_tip">Tous les éléments privés sont synchronisés avec le cloud lorsque cette fonctionnalité est activée. Vous pouvez modifier vos préférences dans Paramètres > Synchroniser avec le cloud > Gérer les albums synchronisés > Album privé.</string>
+    <string name="local_secret_tip">Tous les éléments privés sont synchronisés avec le cloud. Vous pouvez modifier vos préférences dans Paramètres > Synchroniser avec le cloud > Gérer les albums synchronisés.</string>
     <string name="login_and_enable_service">Se connecter avec un Compte Xiaomi</string>
     <string name="login_by_local_phone_long_text">Connectez-vous maintenant</string>
     <string name="login_by_local_phone_short_text">Se connecter</string>
@@ -1503,15 +1502,16 @@ pour personnaliser Galerie"</string>
     <string name="mishop_login_other">Autre compte</string>
     <string name="miuix_access_state_desc">Sélectionné</string>
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Désélectionner</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
     <string name="miuix_appcompat_cancel_description">Annuler</string>
     <string name="miuix_appcompat_confirm_description">Confirmer</string>
     <string name="miuix_appcompat_delete_description">Supprimer</string>
-    <string name="miuix_appcompat_deselect_all">Désélectionner</string>
+    <string name="miuix_appcompat_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -1659,6 +1659,7 @@ pour personnaliser Galerie"</string>
     <string name="multi_view_tip_sub_title">"Écartez deux doigts ou rapprochez-les l'un de l'autre pour ajuster la taille des éléments affichés."</string>
     <string name="multi_view_tip_title">Zoom avant et arrière</string>
     <string name="must_pick_file">Sélectionnez une photo</string>
+    <string name="my_family">Mon domicile</string>
     <string name="national_day">Fête nationale</string>
     <string name="nearby_share">Partage à proximité</string>
     <string name="need_to_turn_on_network">"L'appareil n'est pas connecté à internet"</string>
@@ -3125,9 +3126,10 @@ Jusqu'au %1$s, vous pouvez déplacer vos éléments vers Google Photos ou visite
     <string name="user_agreement_hint_with_telecom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
     <string name="user_agreement_hint_with_unicom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
     <string name="user_alias_self">Auto</string>
-    <string name="user_avatar_update_title">Change profile photo</string>
-    <string name="user_avatar_uploading">Just a sec…</string>
-    <string name="user_name_phone_number">Phone number</string>
+    <string name="user_avatar_update_title">Changer la photo de profil</string>
+    <string name="user_avatar_uploading">Un instant…</string>
+    <string name="user_family">Domicile de %1$s</string>
+    <string name="user_name_phone_number">Numéro de téléphone</string>
     <string name="user_notice_identify_summary_format"><Data>"En utilisant ce service, vous acceptez les Conditions de Xiaomi &lt;a href=\"%1$s\">\"Conditions d'utilisation\"&lt;/a> et &lt;a href=\"%2$s\">\"Politique de confidentialité\"&lt;/a>."</Data></string>
     <string name="user_notice_title">"Conditions générales d'utilisation"</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>

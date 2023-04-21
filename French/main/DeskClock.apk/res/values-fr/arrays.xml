@@ -10,6 +10,16 @@
         <item>Alarme dans %2$s %3$s</item>
         <item>Alarme dans %1$s %2$s %3$s</item>
     </string-array>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Alarme dans moins de %d minute</item>
+        <item>Alarme dans %1$s</item>
+        <item>Alarme dans %2$s</item>
+        <item>Alarme dans %1$s %2$s</item>
+        <item>Alarme dans %3$s</item>
+        <item>Alarme dans %1$s %3$s</item>
+        <item>Alarme dans %2$s %3$s</item>
+        <item>Alarme dans %1$s %2$s %3$s</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Une fois</item>
         <item>Quotidiennement</item>
@@ -33,6 +43,16 @@
         <item>"L'alarme sonnera dans %1$s et %3$s."</item>
         <item>"L'alarme sonnera dans %2$s et %3$s."</item>
         <item>"L'alarme sonnera dans %1$s, %2$s et %3$s."</item>
+    </string-array>
+    <string-array name="alarm_set_new_array">
+        <item>L’alarme se déclenchera dans moins de %d minute.</item>
+        <item>L’alarme se déclenchera dans %1$s.</item>
+        <item>L’alarme se déclenchera dans %2$s.</item>
+        <item>L’alarme se déclenchera dans %1$s et %2$s.</item>
+        <item>L’alarme se déclenchera dans %3$s.</item>
+        <item>L’alarme se déclenchera dans %1$s et %3$s.</item>
+        <item>L’alarme se déclenchera dans %2$s et %3$s.</item>
+        <item>L’alarme se déclenchera dans %1$s %2$s et %3$s.</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Bon</item>
