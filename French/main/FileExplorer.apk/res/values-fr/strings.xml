@@ -8,16 +8,6 @@
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">supprimer</string>
-    <string name="abc_menu_enter_shortcut_label">entrée</string>
-    <string name="abc_menu_function_shortcut_label">Fonction+</string>
-    <string name="abc_menu_meta_shortcut_label">Méta+</string>
-    <string name="abc_menu_shift_shortcut_label">Maj+</string>
-    <string name="abc_menu_space_shortcut_label">espace</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -133,6 +123,8 @@
     <string name="cloud_drive_settings">Paramètres Mi Drive</string>
     <string name="cloud_empty_hint_text">"Rien ici pour le moment.
 Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
+    <string name="cloud_empty_hint_text_pad">"Rien ici pour le moment.
+        Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="cloud_guide_summary_text">Synchronisez automatiquement vos éléments sur tous vos appareils</string>
     <string name="cloud_guide_title_text">Synchroniser avec Mi Drive</string>
     <string name="cloud_permission_storage_desc">Pour enregistrer des photos et des documents sur votre appareil</string>
@@ -255,7 +247,10 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="exit">Quitter</string>
     <string name="expand_button_title">Avancé</string>
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
-    <string name="extended_storage_file_can_not_open">"Impossible d'ouvrir le fichier. Veuillez d'abord le copier sur la mémoire interne."</string>
+    <string name="extend_service_setting">Services supplémentaires</string>
+    <string name="extend_service_summary">Si vous désactivez ce service, vous ne pourrez pas utiliser les fonctionnalités liées à Mi Drive</string>
+    <string name="extend_service_title">Gérer les fichiers Mi Drive</string>
+    <string name="extended_storage_file_can_not_open">Impossible d’ouvrir le fichier. Veuillez d’abord le copier sur la mémoire interne.</string>
     <string name="extract">Décompresser</string>
     <string name="fab_menu_ball">Actions rapides</string>
     <string name="fab_menu_sort">Trier</string>
@@ -332,6 +327,9 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="image_loading_error">Impossible de charger cette image</string>
     <string name="imm_str_storage">Stockage</string>
     <string name="import_files_from_old_phones">Importer depuis un ancien appareil</string>
+    <string name="install_media_editor_button_text">Télécharger</string>
+    <string name="install_media_editor_message">Pour pouvoir modifier des éléments, téléchargez d’abord le plug-in. Télécharger maintenant ?</string>
+    <string name="install_media_editor_title">Plug-in requis</string>
     <string name="instruction">"Entrez l'adresse suivante dans le client FTP : "</string>
     <string name="instruction_pre_pad">"Gérer les fichiers sur cet appareil à l'aide d'un ordinateur"</string>
     <string name="instruction_pre_phone">"Gérer les fichiers sur cet appareil à l'aide d'un ordinateur"</string>
@@ -508,6 +506,8 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+    <string name="mtrl_picker_text_input_day_abbr">j</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer en mode de saisie du calendrier</string>
     <string name="mtrl_picker_toggle_to_day_selection">Appuyez pour passer à la sélection du jour</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
@@ -672,14 +672,14 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="privacy_policy_renew">Politique de confidentialité mise à jour</string>
     <string name="privacy_policy_renew_content"><Data>"La &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> de l'Explorateur de fichiers a été mise à jour. Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez la nouvelle version de la Politique de confidentialité avant de continuer."</Data></string>
-    <string name="privacy_recall_alert_description" formatted="false">Clear all items from Mi Drive to be able to withdraw consent. Follow these steps to clear items:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. On the Mi Drive start page, press and hold an item to make the \"Select all\" button appear. Use this button to select up to 200 files at a time and delete them.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. After this, clear your recently deleted items.</string>
-    <string name="privacy_recall_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. We recommend backing up your items before deleting them. To do so, visit i.mi.com, click Mi Drive, and download your items to a computer.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Please note that recently deleted items can't be recovered after you delete them."</string>
-    <string name="privacy_recall_confirm_button">Withdraw</string>
-    <string name="privacy_recall_confirm_description">"If you continue, you'll withdraw your consent to the File Manager Privacy Policy. We will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise."</string>
-    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>The following items will be deleted permanently after withdrawal of consent:&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. All items on Mi Drive, including but not limited to documents, private files, and deleted items.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Device permissions, settings, and other cached content.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Mi Drive upload and download history.</string>
-    <string name="privacy_recall_success">Consent withdrawn successfully</string>
-    <string name="privacy_recall_title">Withdrawal of consent</string>
-    <string name="privacy_recalling">Withdrawing consent…</string>
+    <string name="privacy_recall_alert_description" formatted="false">Effacez tous les éléments de Mi Drive pour pouvoir retirer votre consentement. Suivez ces étapes pour effacer les éléments :&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 referto=1>%1d&lt;/xliff:g>. Sur la page de démarrage de Mi Drive, maintenez un élément enfoncé pour faire apparaître le bouton \"Sélectionner tout\". Utilisez ce bouton pour sélectionner jusqu’à 200 fichiers à la fois et les supprimer.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 referto=2>%2d&lt;/xliff:g>. Après cela, effacez vos éléments récemment supprimés.</string>
+    <string name="privacy_recall_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 referto=1>%1d&lt;/xliff:g>. Nous vous recommandons de sauvegarder vos éléments avant de les supprimer. Pour ce faire, consultez i.mi.com, cliquez sur Mi Drive et téléchargez vos éléments sur un ordinateur.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 referto=2>%2d&lt;/xliff:g>. Veuillez noter que les éléments récemment supprimés ne peuvent pas être récupérés après les avoir supprimés."</string>
+    <string name="privacy_recall_confirm_button">Retirer</string>
+    <string name="privacy_recall_confirm_description">"Si vous continuez, vous retirerez votre consentement à la politique de confidentialité du gestionnaire de fichiers. Nous cesserons de collecter vos informations personnelles. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti dans conformément aux lois et réglementations applicables, sauf indication contraire."</string>
+    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>Les éléments suivants seront définitivement supprimés après le retrait du consentement :&lt;/font>&lt;br />&lt;xliff:g id= privacy_recall_confirm_reminder_card_summary_list_1 fait référence à=1>%1d&lt;/xliff:g>. Tous les éléments sur Mi Drive, y compris, mais sans s’y limiter, les documents, les fichiers privés et les éléments supprimés.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 referto=2>%2d&lt;/xliff:g>. Autorisations de l’appareil, paramètres et autre contenu mis en cache.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 referto=3>%3d&lt;/xliff:g>. Historique de chargement et de téléchargement de Mi Drive.</string>
+    <string name="privacy_recall_success">Consentement retiré avec succès</string>
+    <string name="privacy_recall_title">Retrait du consentement</string>
+    <string name="privacy_recalling">Retrait du consentement…</string>
     <string name="private_files">Privés</string>
     <string name="private_folder">Fichiers privés</string>
     <string name="private_folder_no_file_hints">Appuyez longuement sur un fichier ou un dossier pour le rendre privé</string>
@@ -687,15 +687,14 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="private_folder_update_msg">"L'Explorateur de fichiers introduit une mesure de sécurité supplémentaire : Vous pouvez désormais chiffrer les fichiers privés !"</string>
     <string name="private_folder_update_msg_summary">Le chiffrement ralentira la suppression des fichiers présents dans le dossier privé. Vous pouvez activer/désactiver le chiffrement dans les paramètres.</string>
     <string name="private_folder_update_tips">Nouvelle fonctionnalité</string>
-    <string name="private_toast_hint2">Pour cacher un fichier, appuyez et maintenez-le, puis ajoutez-le à un dossier privé.</string>
     <string name="promot_enctypt_password">Entrez le mot de passe utilisé pour déverrouiller votre appareil</string>
     <string name="pull_to_enter_private">Tirez vers le bas pour ouvrir le dossier privé</string>
     <string name="qq_msg">"En raison des restrictions d'Android 11, l'Explorateur de fichiers ne peut pas accéder aux documents QQ et les afficher."</string>
     <string name="qq_title">"Impossible d'accéder aux documents WeChat"</string>
-    <string name="query_quota_exception">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="query_quota_searching">Just a sec…</string>
+    <string name="query_quota_exception">Une erreur de serveur s’est produite. Attendez une minute ou deux et réessayez.</string>
+    <string name="query_quota_searching">Un instant…</string>
     <string name="recent_hide_camera_and_screenshots">"Ne pas afficher, parmi les fichiers récents, les éléments de la Galerie et les captures d'écran"</string>
-    <string name="recent_hide_cloud_drive_files">"Don't show Mi Drive files in Recents"</string>
+    <string name="recent_hide_cloud_drive_files">Ne pas afficher les fichiers Mi Drive dans Récents</string>
     <string name="refresh_success">Actualisation terminé</string>
     <string name="reinstall_midriver_message">Installer à nouveau maintenant ?</string>
     <string name="release_enter_private">Relâchez pour ouvrir le dossier privé</string>
@@ -801,6 +800,9 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="start_server">Démarrer</string>
     <string name="stay_awake_summary">"Ne laissez pas l'affichage en veille lorsque vous utilisez FTP"</string>
     <string name="stay_awake_title">"Garder l'affichage éveillé"</string>
+    <string name="stop_extend_service_dialog_confirm">Désactiver</string>
+    <string name="stop_extend_service_dialog_summary">Si vous désactivez cette fonctionnalité, vous ne pourrez pas gérer vos fichiers stockés dans Mi Drive. Désactiver quand même ?</string>
+    <string name="stop_extend_service_dialog_tilte">Services supplémentaires</string>
     <string name="stop_server">Arrêter</string>
     <string name="storage_cloned_app">Stockage pour les applications clonées</string>
     <string name="storage_info_detail">Disponible : %1$s Total : %2$s</string>
@@ -895,12 +897,12 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="unknown_error">Une erreur inconnue est survenue. Attendez une minute ou deux et réessayez.</string>
     <string name="unlock_pattern_msg">Le mot de passe de protection de confidentialité fonctionne également pour les photos, les messages et les notes.</string>
     <string name="unlock_pattern_title">Nouveau mot de passe</string>
-    <string name="update_no_network">"Couldn't connect to the network. Check your network settings and try again."</string>
+    <string name="update_no_network">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="upload_user_photo">Ajouter</string>
     <string name="usb_label">USB</string>
     <string name="use">Utiliser</string>
-    <string name="use_mobile_data_update_summary">Use mobile data to automatically sync changes to files downloaded from Mi Drive</string>
-    <string name="use_mobile_data_update_title">Use mobile data to sync</string>
+    <string name="use_mobile_data_update_summary">Utiliser les données mobiles pour synchroniser automatiquement les modifications apportées aux fichiers téléchargés depuis Mi Drive</string>
+    <string name="use_mobile_data_update_title">Utiliser les données mobiles pour synchroniser</string>
     <string name="use_to_all">"S'applique à tous"</string>
     <string name="used">Utilisé</string>
     <string name="user_guide_continue_use">OK</string>
@@ -908,28 +910,28 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="utf8_summary">Système FTP par défaut</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
-    <string name="video_data_consume_dialog_confirm">Continue</string>
-    <string name="video_data_consume_dialog_title">Use mobile data?</string>
+    <string name="video_data_consume_dialog_confirm">Continuer</string>
+    <string name="video_data_consume_dialog_title">Utiliser les données mobiles ?</string>
     <string name="view_type">Vue</string>
-    <string name="web_sso_login_fail">You need to sign in again</string>
-    <string name="web_sso_login_message">Signing in…</string>
-    <string name="webview_reload">Try again</string>
+    <string name="web_sso_login_fail">Vous devez vous reconnecter</string>
+    <string name="web_sso_login_message">Connexion…</string>
+    <string name="webview_reload">Réessayer</string>
     <string name="wechat_msg">"En raison des restrictions d'Android 11, l'Explorateur de fichiers ne peut pas accéder et afficher les documents prévisualisés dans WeChat. Ouvrez et enregistrez des documents dans WeChat pour les faire apparaître ici."</string>
     <string name="wechat_title">"Impossible d'accéder aux documents WeChat"</string>
     <string name="wechat_video">Vidéo sur %s</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
-    <string name="widget_add_files">Add file</string>
-    <string name="widget_added_fail_content">%1$s is already on the Home screen</string>
-    <string name="widget_added_fail_tips">"Couldn't add"</string>
-    <string name="widget_added_success_content">Added %1$s to the Home screen</string>
-    <string name="widget_added_success_tips">Added successfully</string>
-    <string name="widget_choose_document_please">Select document</string>
-    <string name="widget_choose_file">Tap to add files</string>
-    <string name="widget_choose_fragment_title">Select file type</string>
-    <string name="widget_finish">Done</string>
-    <string name="widget_name">Recently viewed files</string>
+    <string name="widget_add_files">Ajouter un fichier</string>
+    <string name="widget_added_fail_content">%1$s est déjà sur l’écran d’accueil</string>
+    <string name="widget_added_fail_tips">Impossible d’ajouter</string>
+    <string name="widget_added_success_content">Ajout de %1$s à l’écran d’accueil</string>
+    <string name="widget_added_success_tips">Ajouté avec succès</string>
+    <string name="widget_choose_document_Please">Sélectionner le document</string>
+    <string name="widget_choose_file">Appuyer pour ajouter des fichiers</string>
+    <string name="widget_choose_fragment_title">Sélectionner le type de fichier</string>
+    <string name="widget_finish">Terminé</string>
+    <string name="widget_name">Fichiers récemment consultés</string>
     <string name="wifi_state">Statut Wi-Fi</string>
     <string name="withdraw">Retrait</string>
     <string name="withdraw_consent">Retrait du consentement</string>
