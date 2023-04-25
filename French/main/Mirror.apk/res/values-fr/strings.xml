@@ -78,8 +78,8 @@
     <string name="enable_power_save_mode_notification_success_content">"Activation de l'économiseur de batterie sur votre téléphone réussie"</string>
     <string name="enable_power_save_mode_notification_success_title">"L'économiseur de batterie est activé"</string>
     <string name="enable_wifi_alert_cancel">Annuler</string>
-    <string name="enable_wifi_alert_message">Activez le Wi-Fi pour pouvoir vous connecter à d'autres appareils. Activer maintenant ?</string>
-    <string name="enable_wifi_alert_message_china">Activez le Wi-Fi pour pouvoir vous connecter à d'autres appareils. Activer maintenant ?</string>
+    <string name="enable_wifi_alert_message">Activez le Wi-Fi pour pouvoir vous connecter à d’autres appareils. Activer maintenant ?</string>
+    <string name="enable_wifi_alert_message_china">Activez le Wi-Fi pour pouvoir vous connecter à d’autres appareils. Activer maintenant ?</string>
     <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ vous permet de basculer de manière transparente entre les appareils lorsque vous devez modifier les photos prises avec votre téléphone sur votre tablette. Activer le Wi-Fi pour utiliser le transfert ?</string>
     <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ vous permet de basculer de manière transparente entre les appareils lorsque vous devez modifier les photos prises avec votre téléphone sur votre tablette. Activer le Wi-Fi pour utiliser le transfert ?</string>
     <string name="enable_wifi_alert_ok">Activer</string>
