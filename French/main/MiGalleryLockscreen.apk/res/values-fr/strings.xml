@@ -24,36 +24,7 @@
     <string name="about_newest">"Fond d'écran est à jour."</string>
     <string name="about_permission">Autorisations</string>
     <string name="about_update">Mise à jour</string>
-    <string name="access_denied_info">"Trop d'essais. Attendez une minute ou deux et réessayez."</string>
-    <string name="account_crop_user_avatar">Recadrer la photo</string>
-    <string name="account_empty_user_name">Entrez votre identifiant de Compte Xiaomi</string>
-    <string name="account_error_all_space_user_name">"L'identifiant ne doit pas contenir que des espaces"</string>
-    <string name="account_error_invalid_user_name">"L'identifiant ne doit pas contenir de &lt;, &gt;, ou /"</string>
-    <string name="account_error_longer_user_name">Le nom ne peut pas faire plus de 20 caractères</string>
-    <string name="account_error_shorter_user_name">Le nom doit faire plus de 2 caractères</string>
-    <string name="account_error_user_birthday">La date de naissance entrée est invalide</string>
-    <string name="account_error_user_name">Ce surnom est invalide. Essayez-en un autre.</string>
-    <string name="account_invalid_user_avatar">Cette photo est invalide. Essayez-en une autre.</string>
-    <string name="account_limit_update_birthday">Impossible de mettre à jour votre date de naissance pour le moment</string>
-    <string name="account_no_set">Aucun</string>
-    <string name="account_none_bind_info">Aucune</string>
-    <string name="account_none_user_name">Aucun</string>
-    <string name="account_secure_info_pref_title">Informations du compte</string>
-    <string name="account_security_info_pref_title">Informations de sécurité</string>
-    <string name="account_user_avatar">Photo du profil</string>
-    <string name="account_user_avatar_from_album">Galerie</string>
-    <string name="account_user_avatar_from_camera">Prendre une photo</string>
-    <string name="account_user_base_info">Informations de base</string>
-    <string name="account_user_details">Informations personnelles</string>
-    <string name="account_user_email">E-mail de secours</string>
-    <string name="account_user_gender">Sexe</string>
-    <string name="account_user_id">ID du Compte Xiaomi</string>
-    <string name="account_user_name">Surnom</string>
-    <string name="account_user_name_dialog_title">"Saisir le nom d'utilisateur"</string>
-    <string name="account_user_phone">Téléphone de récupération</string>
     <string name="actionbar_button_up_description">Retour</string>
-    <string name="activate_email_notice">Veillez à activer votre compte dans les 24 heures</string>
-    <string name="activity_not_found_notice">Application introuvable</string>
     <string name="ad_btn_connecting">Connexion en cours</string>
     <string name="ad_btn_download_continue">Reprendre</string>
     <string name="ad_btn_download_start">Télécharger</string>
@@ -75,7 +46,6 @@
     <string name="add_local_picture">Galerie</string>
     <string name="add_online_picture">Images en ligne</string>
     <string name="add_to_cw">Ajouter au diaporama</string>
-    <string name="add_to_trust_device">Ceci est un appareil de confiance</string>
     <string name="add_wallpaper">"Ajouter des fonds d'écran"</string>
     <string name="addcw_apply_btn_txt">"Ajouter un fond d'écran"</string>
     <string name="afternoon">Après-midi</string>
@@ -98,9 +68,7 @@
     <string name="apply_warning_title">Appliquer le papier peint</string>
     <string name="article_item_hot">Découvrez %s+ articles populaires</string>
     <string name="at_least_one">Sélectionnez au moins 1 catégorie</string>
-    <string name="auth_fail_warning">Session expirée. Reconnectez-vous.</string>
     <string name="auto_interval">"Chaque fois que l'appareil se déverrouille"</string>
-    <string name="back">Retour</string>
     <string name="back_icon_content_description">Retour</string>
     <string name="cancel">Annuler</string>
     <string name="cancel_button">Oui</string>
@@ -123,8 +91,6 @@
     <string name="carousel_suggest1">"Obtenez gratuitement de nouveaux fonds d'écran directement sur votre écran de verrouillage tous les jours."</string>
     <string name="carousel_suggest2">"Diaporama de fonds d'écran est-il activé ?"</string>
     <string name="category_subscribe_failed">"Impossible de s'abonner"</string>
-    <string name="change_activate_email">"Modifier l'adresse e-mail"</string>
-    <string name="change_password">Changer le mot de passe</string>
     <string name="change_time">"Changer de fonds d'écran"</string>
     <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
@@ -135,13 +101,11 @@
     <string name="clearable_edittext_clear_description">Effacer</string>
     <string name="close">Fermer</string>
     <string name="close_gallery">Désactiver</string>
-    <string name="collect_diagnosis_log">Collecter les journaux</string>
     <string name="comment_pop_cancel">Pas maintenant</string>
     <string name="comment_pop_content">"Donnez-nous un avis si vous aimez fond d'écran !"</string>
     <string name="comment_pop_ok">Evaluer</string>
     <string name="comment_pop_title">"Evaluer fond d'écran"</string>
     <string name="confirm">Activé</string>
-    <string name="confirm_activate_email">Vérifié</string>
     <string name="copy">Copier</string>
     <string name="create_shortcut">"Créer un raccourci vers l'écran d'accueil"</string>
     <string name="create_shortcut_btn">Créer</string>
@@ -226,10 +190,6 @@
     <string name="detail_toast_deny_favor">"Impossible d'ajouter aux favoris."</string>
     <string name="detail_toast_dislike_fail">"Impossible de supprimer"</string>
     <string name="detail_toast_favor_permission">"Autoriser le fond d'écran à accéder au stockage dans Sécurité."</string>
-    <string name="diagnosis_log_send_failed">"Impossible d'envoyer les journaux. Réessayer."</string>
-    <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
-ID : %s
-Envoyez ce code au superviseur."</string>
     <string name="disable_dlg_cancel">Annuler</string>
     <string name="disable_dlg_content">"Vous ne pourrez pas obtenir de nouvelles images sur votre écran d'accueil et votre écran de verrouillage si vous désactivez le diaporama. Désactiver quand même ?"</string>
     <string name="disable_dlg_ok">Désactiver</string>
@@ -237,7 +197,6 @@ Envoyez ce code au superviseur."</string>
     <string name="dislike">Supprimer</string>
     <string name="dlg_cancel">Annuler</string>
     <string name="doing_login">Connexion…</string>
-    <string name="doing_query_account">Vérification des informations de compte…</string>
     <string name="doing_register">Création du compte…</string>
     <string name="double_click_to_exit_activity">Appuyez à nouveau pour quitter</string>
     <string name="early_morning">Matin</string>
@@ -248,18 +207,14 @@ Envoyez ce code au superviseur."</string>
     <string name="enable_toast_subscribe">"Activer Diaporama de fonds d'écran et les abonnements activés."</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
-    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée à un autre Compte Xiaomi.</string>
     <string name="error_icon_content_description">Erreur</string>
-    <string name="error_invalid_bind_address">"L'adresse e-mail que vous avez entrée est invalide."</string>
     <string name="evening">Après-midi</string>
-    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi.</string>
     <string name="expand_button_title">Avancé</string>
     <string name="explorer_activity_title">"Diaporama de fonds d'écran"</string>
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="external_storage_permission">Accéder au stockage</string>
     <string name="external_storage_permission_summary">"Pour sélectionner des fonds d'écran personnalisés et enregistrer les éléments téléchargés"</string>
     <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi</string>
-    <string name="facebook_login_btn_content_description">Se connecter avec Facebook</string>
     <string name="favor_list_no_data">Aucun article ici.</string>
     <string name="favor_list_title">Favoris</string>
     <string name="favor_success">Ajouté aux favoris avec succès</string>
@@ -271,7 +226,6 @@ Envoyez ce code au superviseur."</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="for_diagnosis_usage_only">Les journaux sont utilisés uniquement pour les diagnostics.</string>
     <string name="friday">Vendredi</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -280,14 +234,11 @@ Envoyez ce code au superviseur."</string>
     <string name="get_back_pwd">Réinitialisation du mot de passe</string>
     <string name="get_ph_ticket">Obtenir un code</string>
     <string name="get_phone_bind_exceed_limit">"Vous pouvez associer jusqu'à 3 Comptes Mi à un numéro de téléphone. Impossible d'ajouter de nouveaux comptes."</string>
-    <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
-    <string name="google_login_btn_content_description">Se connecter avec Google</string>
     <string name="goto_confirm">Paramètres</string>
     <string name="goto_sign_up">Créer un compte</string>
     <string name="history_list_no_data">Aucun article ici</string>
     <string name="hour_1">Toutes les heures</string>
     <string name="hour_3">Toutes les 3 heures</string>
-    <string name="i_know">Compris</string>
     <string name="icon_content_description">Icône de dialogue</string>
     <string name="idbct_desc">"Personnalisez le fond d'écran en fonction des types de réseau"</string>
     <string name="idbct_opt_auto_select_desc_text">"Téléchargez des images standard à l'aide de données mobiles et d'images HD via Wi-Fi"</string>
@@ -297,11 +248,8 @@ Envoyez ce code au superviseur."</string>
     <string name="idbct_opt_low_dev_desc_text">Toujours télécharger des images en qualité standard</string>
     <string name="idbct_opt_low_dev_main_text">Standard</string>
     <string name="idbct_title">Types de réseau</string>
-    <string name="input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
     <string name="later">Ne pas désactiver</string>
     <string name="launch_bg_permission_exception">"Autoriser le diaporama de fonds d'écran à afficher des fenêtres contextuelles lors de l'exécution en arrière-plan dans Sécurité"</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">API Android SQLite basée sur SQLCipher</string>
-    <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
     <string name="like">Ajouter aux favoris</string>
     <string name="liked">Ajouté aux favoris</string>
     <string name="lks_cta_dont_mention">Ne plus afficher</string>
@@ -383,14 +331,8 @@ Cela peut générer des frais supplémentaires."</string>
     <string name="login_app">"S'identifier"</string>
     <string name="login_app_cancel">Annuler</string>
     <string name="login_app_confirm">"S'identifier"</string>
-    <string name="login_by_local_phone_long_text">Connectez vous maintenant</string>
-    <string name="login_by_local_phone_short_text">Se connecter</string>
-    <string name="login_other">Autre Compte Mi</string>
-    <string name="login_register_by_local_phone_long_text">Créer un compte</string>
-    <string name="login_with_sns">Autres façons de se connecter</string>
     <string name="login_xiaomi_account_summary">"J'ai lu et accepté le &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Contrat d'utilisation&lt;/font>&lt;/a> du Compte Xiaomi et la &lt;font color ='# 0D84FF'>&lt;a href='%2$s'>Politique de confidentialité&lt;/font>&lt;/a>."</string>
     <string name="logout">Se déconnecter</string>
-    <string name="logout_account">Se déconnecter</string>
     <string name="logout_cancel">Annuler</string>
     <string name="logout_confirm">OK</string>
     <string name="logout_summary">"Vous ne pourrez pas synchroniser vos abonnements et vos paramètres personnalisés sur tous les appareils après vous être déconnecté. Se déconnecter quand même ?"</string>
@@ -405,7 +347,6 @@ Cela peut générer des frais supplémentaires."</string>
     <string name="midnight">Nuit</string>
     <string name="minutes_15">Toutes les 15 minutes</string>
     <string name="minutes_5">Toutes les 5 minutes</string>
-    <string name="mishop_login_other">Autre compte</string>
     <string name="miui_clock_city_name_local">Locale</string>
     <string name="miui_clock_city_name_second">Deuxième horloge</string>
     <string name="miui_lock_screen_date">EEEE d MMMM</string>
@@ -530,11 +471,8 @@ dd/MM"</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
     <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
     <string name="need_open_gallery">"Activer Fond d'écran"</string>
-    <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
-    <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
     <string name="new_feature_title">Quoi de neuf</string>
     <string name="night">Soirée</string>
-    <string name="no_account">Non connecté</string>
     <string name="no_long_show">"Ne plus Afficher"</string>
     <string name="no_networdk">"Impossible de se connecter au réseau"</string>
     <string name="no_pic_data">"Impossible de trouver des images"</string>
@@ -557,17 +495,48 @@ dd/MM"</string>
     <string name="open_gallery">"Diaporama de fonds d'écran"</string>
     <string name="open_gallery_tips">"Appuyez ici pour activer le Diaporama de fonds d'écran"</string>
     <string name="open_guid_des">"Allez dans Paramètres &gt; Autorisations &gt; Autres autorisations &gt; Diaporama de fonds d'écran et donnez à l'application toutes les autorisations requises."</string>
-    <string name="open_settings">Réglages</string>
     <string name="open_sub_title">Sélectionnez les catégories</string>
     <string name="open_title">"Carrousel de fonds d'écran"</string>
     <string name="open_unable">"Le Carrousel de fonds d'écran ne fonctionne qu'avec l'écran de verrouillage par défaut de MIUI."</string>
     <string name="opened">Activer</string>
     <string name="pager_load_hd">"Afficher l'image originale"</string>
     <string name="passport_access_denied">Accès refusé</string>
+    <string name="passport_account_crop_user_avatar">Recadrer la photo</string>
+    <string name="passport_account_empty_user_name">Entrez votre nom</string>
+    <string name="passport_account_error_all_space_user_name">Le nom ne peut pas contenir que des espaces</string>
+    <string name="passport_account_error_invalid_user_name">Le nom ne peut pas contenir &lt;, > ou /</string>
+    <string name="passport_account_error_longer_user_name">Le nom ne peut pas comporter plus de %d caractères</string>
+    <string name="passport_account_error_shorter_user_name">Le nom doit comporter plus de %d caractères</string>
+    <string name="passport_account_error_user_name">Ce surnom n’est pas valide. Essayez-en un autre.</string>
+    <string name="passport_account_invalid_user_avatar">Cette photo n’est pas valide. Essayez-en un autre.</string>
     <string name="passport_account_name">"Compte : %1$s "</string>
+    <string name="passport_account_no_set">Aucun</string>
+    <string name="passport_account_none_bind_info">Aucun</string>
+    <string name="passport_account_none_user_name">Aucun</string>
+    <string name="passport_account_secure_info_pref_title">Informations sur le compte</string>
+    <string name="passport_account_security_info_pref_title">Informations de sécurité</string>
+    <string name="passport_account_user_avatar">Photo de profil</string>
+    <string name="passport_account_user_avatar_from_album">Galerie</string>
+    <string name="passport_account_user_avatar_from_camera">Appareil photo</string>
+    <string name="passport_account_user_base_info">Informations de base</string>
+    <string name="passport_account_user_details">Informations personnelles</string>
+    <string name="passport_account_user_email">E-mail de récupération</string>
+    <string name="passport_account_user_gender">Sexe</string>
+    <string name="passport_account_user_id">ID de compte Xiaomi</string>
+    <string name="passport_account_user_name">Pseudonyme</string>
+    <string name="passport_account_user_name_dialog_title">Entrez le nom</string>
+    <string name="passport_account_user_phone">Téléphone de récupération</string>
+    <string name="passport_activity_not_found_notice">Impossible de trouver l’application</string>
+    <string name="passport_agree">Accepter</string>
     <string name="passport_area_code_title">Indicatif régional</string>
+    <string name="passport_attention">Attention</string>
+    <string name="passport_auth_fail_warning">Session expirée. Connectez-vous à nouveau.</string>
+    <string name="passport_back">Retour</string>
     <string name="passport_bad_authentication">Identifiant ou mot de passe incorrect</string>
-    <string name="passport_can_not_recevie_verify_code">"Vous n'avez pas reçu de code ?"</string>
+    <string name="passport_can_not_recevie_verify_code">Vous n’avez pas reçu de code ?</string>
+    <string name="passport_can_not_receive_verify_code">Vous n’avez pas reçu de code ?</string>
+    <string name="passport_change_password">Modifier le mot de passe</string>
+    <string name="passport_check_security">Vérification des problèmes de sécurité…</string>
     <string name="passport_checking_account">Vérification du mot de passe…</string>
     <string name="passport_clear_input">Effacer le contenu saisi</string>
     <string name="passport_copy_link">"Copier l'URL"</string>
@@ -583,8 +552,7 @@ dd/MM"</string>
     <string name="passport_dialog_nick_name_prefix">Surnom : %s</string>
     <string name="passport_dialog_phone_number_prefix">Numéro de téléphone : %s</string>
     <string name="passport_dialog_register_other">"Non, je vais en créer un"</string>
-    <string name="passport_email">Adresse e-mail</string>
-    <string name="passport_empty_password">Le mot de passe ne doit pas être vide</string>
+    <string name="passport_doing_query_account">Vérification des informations de compte…</string>
     <string name="passport_error_auth_fail">La session a expiré. Reconnectez-vous.</string>
     <string name="passport_error_device_id">"Impossible d'obtenir l'identifiant de l'appareil"</string>
     <string name="passport_error_dynamic_token_error">Le code de vérification est incorrect</string>
@@ -593,6 +561,7 @@ dd/MM"</string>
     <string name="passport_error_empty_password">Entrez votre mot de passe</string>
     <string name="passport_error_empty_pwd">Le mot de passe ne doit pas être vide</string>
     <string name="passport_error_empty_user_id">"Entrez votre nom d'utilisateur"</string>
+    <string name="passport_error_invalid_bind_address">L’adresse e-mail que vous avez saisie n’est pas valide.</string>
     <string name="passport_error_length_limit">Le texte que vous avez saisi est trop long</string>
     <string name="passport_error_network">Connexion au réseau impossible</string>
     <string name="passport_error_no_password_user">"Vous n'avez pas encore défini le mot de passe. Connectez-vous par SMS."</string>
@@ -606,42 +575,76 @@ dd/MM"</string>
     <string name="passport_error_unknow_host_network_error">Impossible de se connecter au réseau</string>
     <string name="passport_error_unknow_network_error">"Une erreur réseau s'est produite"</string>
     <string name="passport_error_unknown">Erreur inconnue</string>
-    <string name="passport_error_user_agreement">"Acceptez d'abord les conditions générales"</string>
     <string name="passport_error_user_name">"L'identifiant saisi n'est pas valide"</string>
     <string name="passport_error_user_password">"Les mots de passe ne correspondent pas"</string>
+    <string name="passport_exceed_binder_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre compte Xiaomi.</string>
+    <string name="passport_facebook_login_btn_content_description">Se connecter avec Facebook</string>
+    <string name="passport_frequency_try_later">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
     <string name="passport_get_login_type_next">Suivant</string>
-    <string name="passport_header_back">Retour</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
+    <string name="passport_google_login_btn_content_description">Se connecter avec Google</string>
+    <string name="passport_help">Aide</string>
+    <string name="passport_i_know">Compris</string>
     <string name="passport_identification_expired">Le code de vérification a expiré. Recommencer.</string>
     <string name="passport_input_captcha_hint">Entrez le code</string>
+    <string name="passport_input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
     <string name="passport_input_password_hint">Entrez le mot de passe</string>
     <string name="passport_input_phone_number_hint">Entrez le numéro de téléphone</string>
     <string name="passport_input_verify_code">Entrez le code de vérification</string>
     <string name="passport_input_voice_captcha_hint">Entrez le code de vérification vocale</string>
     <string name="passport_input_voice_hint">Entrez le code vocal</string>
+    <string name="passport_login_by_local_phone_long_text">Connectez-vous maintenant</string>
+    <string name="passport_login_by_local_phone_short_text">Se connecter</string>
+    <string name="passport_login_other">Un autre compte Xiaomi</string>
+    <string name="passport_login_register_by_local_phone_long_text">Créer un compte</string>
+    <string name="passport_login_with_sns">Autres façons de se connecter</string>
+    <string name="passport_logout_account">Déconnexion</string>
     <string name="passport_mi_account_first_title">Nous créerons un compte automatiquement si vous utilisez votre numéro de téléphone pour la première fois.</string>
     <string name="passport_mi_account_title">Se connecter avec un Compte Xiaomi</string>
-    <string name="passport_network_error">"Une erreur réseau s'est produite."</string>
+    <string name="passport_network_error">Une erreur réseau s’est produite. Vérifiez vos paramètres réseau et réessayez.</string>
     <string name="passport_network_error_hint">"Vérifiez l'URL et réessayez, ou copiez l'URL et ouvrez-la dans votre navigateur."</string>
+    <string name="passport_network_timeout">Impossible de se connecter au réseau. Réessayez.</string>
     <string name="passport_next">Suivant</string>
+    <string name="passport_no_account">Non connecté</string>
     <string name="passport_oauth_actionbar_title">Compte Mi</string>
     <string name="passport_oauth_sucess_tip">Succès autorisé</string>
+    <string name="passport_oauth_success_tip">Succès autorisé</string>
+    <string name="passport_open_settings">Paramètres</string>
     <string name="passport_page_load_failed">"Impossible d'ouvrir la page"</string>
     <string name="passport_password_login_btn">Se connecter</string>
     <string name="passport_password_not_show">Ne pas afficher le mot de passe</string>
-    <string name="passport_password_req_notice">Le mot de passe doit comporter de 8 à 16 caractères et combiner au moins deux des éléments suivants : chiffres, lettres et symboles spéciaux (par exemple, 123abc@#, ou 123abc ou abc@#).</string >
     <string name="passport_password_show">Afficher le mot de passe</string>
+    <string name="passport_phone_auto_login_register_with_local_number">Créer un compte</string>
+    <string name="passport_photo_picker_not_found">Aucune photo disponible.</string>
+    <string name="passport_qq_login_btn_content_description">Se connecter avec QQ</string>
     <string name="passport_querying_phone_info">"Demande d'informations sur le compte…"</string>
     <string name="passport_quick_login_title">Entrez votre mot de passe</string>
     <string name="passport_reging">Création du compte…</string>
+    <string name="passport_register_by_local_phone_long_text">Créer un compte</string>
+    <string name="passport_register_by_local_phone_short_text">Créer un compte</string>
     <string name="passport_register_restricted">Trop de comptes ont été associés à ce numéro. Essayez-en un autre.</string>
     <string name="passport_relogin_notice">Vous devez vous reconnecter</string>
+    <string name="passport_request_agree">Autoriser</string>
+    <string name="passport_request_camera_permission_message">Nous protégerons vos informations personnelles conformément aux lois et réglementations en vigueur. Cette application a besoin des autorisations suivantes pour fonctionner normalement :&lt;br>&lt;br>&lt;b>Utilisation de l’appareil photo (pour définir votre photo de profil)&lt;/b>&lt;br>&lt;br>Si vous n’acceptez pas d’accorder de telles autorisations, vous ne pourrez pas utiliser certaines fonctionnalités de cette application ; cependant, ses fonctionnalités de base seront toujours être à votre disposition. Vous pouvez toujours restreindre les autorisations ou révoquer votre autorisation dans les paramètres.</string>
+    <string name="passport_request_cancel">Annuler</string>
+    <string name="passport_request_error_invalid_token">"Impossible de vérifier"</string>
+    <string name="passport_request_error_network">Une erreur réseau s’est produite. Vérifiez vos paramètres réseau et réessayez.</string>
+    <string name="passport_request_error_unknown">Une erreur système s’est produite. Revenez en arrière et réessayez.</string>
+    <string name="passport_request_gallery_permission_message">Autoriser l’accès à la Galerie :&lt;br />Pour définir les photos de profil</string>
+    <string name="passport_resend_email_reach_limit_message">Vous avez demandé trop d’e-mails de vérification. Assurez-vous que l’e-mail de vérification ne se trouve pas dans le dossier Spam de votre boîte de réception.</string>
+    <string name="passport_resend_email_reach_limit_title">Trop de tentatives</string>
     <string name="passport_resend_ticket">Renvoyer le code</string>
     <string name="passport_retry">Réessayer</string>
+    <string name="passport_same_new_and_old_pwd">Ne peut pas être le même que le mot de passe actuel</string>
     <string name="passport_send_sms_to">Code envoyé à %1$s</string>
     <string name="passport_send_too_many_code">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
     <string name="passport_sending_vcode">Envoi du code…</string>
-    <string name="passport_set_password">Définir un mot de passe</string>
+    <string name="passport_service_error">Erreur serveur</string>
     <string name="passport_set_password_no_phone_msg">Ajoutez votre numéro de téléphone pour protéger votre compte.</string>
+    <string name="passport_skip_query_account">Ignorer</string>
+    <string name="passport_sns_access_token_expired_warning">Session expirée. Connectez-vous à nouveau pour reconnecter ce compte.</string>
+    <string name="passport_sns_bind_limit">Trop de tentatives. Essayez d’autres façons de vous connecter.</string>
+    <string name="passport_system_error">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
     <string name="passport_talkback_image_captcha">"Code de vérification d'image"</string>
     <string name="passport_talkback_switch_image_captcha">"Passer au code de vérification d'image"</string>
     <string name="passport_talkback_switch_voice_captcha">Passer au code de vérification vocale</string>
@@ -650,11 +653,26 @@ dd/MM"</string>
     <string name="passport_to_forget_password">Mot de passe oublié ?</string>
     <string name="passport_to_password_login">Se connecter avec un mot de passe</string>
     <string name="passport_to_verify_code_login">Se connecter par SMS</string>
-    <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
+    <string name="passport_unknown_error">Erreur inconnue</string>
+    <string name="passport_unknown_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>"J’ai lu et j’accepte les &lt;a href=%1$s>Contrats d’utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/ a> et l’&lt;a href=%3$s>Contrat d’utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du compte Xiaomi."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"J’ai lu et j’accepte les &lt;a href=%1$s>Contrats d’utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/ a>, l’&lt;a href=%3$s>Contrat d’utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du compte Xiaomi, ainsi que &lt;a href=%5$s>Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"J’ai lu et j’accepte les &lt;a href=%1$s>Contrats d’utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/ a>, l’&lt;a href=%3$s>Contrat d’utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du compte Xiaomi, ainsi que &lt;a href=%5$s>Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"J’ai lu et j’accepte les &lt;a href=%1$s>Contrats d’utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/ a>, l’&lt;a href=%3$s>Contrat d’utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du compte Xiaomi, ainsi que &lt;a href=%5$s>Conditions générales des services de vérification de China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"J’ai lu et j’accepte l’&lt;a href=%1$s>Contrat d’utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_first_login">"Nous créerons automatiquement un compte si vous utilisez votre numéro de téléphone pour la première fois."</string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>"J’ai lu et j’accepte l’&lt;a href=%1$s>Contrat d’utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>"J’ai lu et j’accepte les &lt;a href=%1$s>Contrats d’utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>"J’ai lu et j’accepte l’&lt;a href=%1$s>Contrat d’utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_avatar_update_title">Changer la photo de profil</string>
+    <string name="passport_user_avatar_uploading">Juste une seconde…</string>
     <string name="passport_user_id_hint">E-mail/numéro de téléphone/identifiant de Compte Xiaomi</string>
-    <string name="passport_user_id_intro">Entrez le mot de passe pour %1$s</string>
+    <string name="passport_user_name_phone_number">Numéro de téléphone</string>
     <string name="passport_user_password_hint">Mot de passe</string>
+    <string name="passport_vcode_what_app_send_prompt">Votre code de vérification WhatsApp sera envoyé à votre téléphone de récupération (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">"Installez d'abord WeChat"</string>
+    <string name="passport_weibo_login_btn_content_description">Se connecter avec Weibo</string>
+    <string name="passport_weixin_login_btn_content_description">Se connecter avec WeChat</string>
     <string name="passport_wrong_captcha">Le code que vous avez entré est incorrect</string>
     <string name="passport_wrong_phone_number_format">"Le format du numéro de téléphone que vous avez entré n'est pas valide"</string>
     <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
@@ -665,14 +683,11 @@ dd/MM"</string>
     <string name="permission_storage_read_tip">Accéder aux photos stockées sur votre appareil</string>
     <string name="permission_storage_tip">"Accéder aux images sur votre appareil afin de les utiliser en tant que fonds d'écran"</string>
     <string name="personalized">Personalisation</string>
-    <string name="phone_auto_login_register_with_local_number">Créer un compte</string>
-    <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="platform_unavailable_qq">Installer QQ</string>
     <string name="platform_unavailable_qzone">Installer Qzone</string>
     <string name="platform_unavailable_wechat">Installer WeChat</string>
     <string name="platform_unavailable_wechatmoment">Installer WeChat</string>
     <string name="platform_unavailable_weibo">Installer Weibo</string>
-    <string name="please_agree_protocal">Veuillez accepter le protocole</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
     <string name="privacy_policy">Politique de confidentialité</string>
@@ -685,9 +700,6 @@ dd/MM"</string>
     <string name="privacy_update_summary3">"Vous ne pourrez pas continuer à utiliser le Diaporama de fonds d'écran à moins que vous n'acceptiez la nouvelle version de sa &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Politique de confidentialité&lt;/font>&lt;/a>. Accepter la politique de confidentialité mise à jour maintenant ?"</string>
     <string name="privacy_update_title1">Politique de confidentialité mise à jour</string>
     <string name="privacy_update_title2">Attention</string>
-    <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
-    <string name="protocal_dialog_confirm">Accepter</string>
-    <string name="protocal_dialog_title">Attention</string>
     <string name="prv_end">"&lt;CDATA&gt;C'est tout pour le moment.&lt;/CDATA&gt;"</string>
     <string name="prv_loading">&lt;CDATA&gt;Chargement…&lt;/CDATA&gt;</string>
     <string name="prv_nodata">&lt;CDATA&gt;Aucune donnée&lt;/CDATA&gt;</string>
@@ -696,7 +708,6 @@ dd/MM"</string>
     <string name="pull_to_refresh_pull_up_label">Tirez vers le haut pour actualiser</string>
     <string name="pull_to_refresh_refreshing_label">Actualisation…</string>
     <string name="pull_to_refresh_release_label">Relâchez pour actualiser</string>
-    <string name="qq_login_btn_content_description">Se connecter avec QQ</string>
     <string name="recommend_switch_desc">Recevez des recommandations de contenu en fonction de vos préférences</string>
     <string name="recommend_switch_dlg_close">Désactiver</string>
     <string name="recommend_switch_dlg_desc">Vous ne pourrez pas recevoir de recommandations basées sur vos préférences si vous désactivez cette fonctionnalité.</string>
@@ -704,23 +715,10 @@ dd/MM"</string>
     <string name="recommend_switch_dlg_title">Désactiver les recommandations ?</string>
     <string name="recommend_switch_title">Recommandations personnalisées</string>
     <string name="refresh_network">Actualiser</string>
-    <string name="register_by_local_phone_long_text">Créer un compte</string>
-    <string name="register_by_local_phone_short_text">Créer un compte</string>
     <string name="remove">Supprimer</string>
     <string name="req_permission_dis_tip">Autorisations requises</string>
-    <string name="request_agree">Autoriser</string>
-    <string name="request_camera_permission_message">"Nous protégerons vos informations personnelles conformément aux lois et réglementations en vigueur. Cette application a besoin des autorisations suivantes pour fonctionner normalement :&lt;br>&lt;br>&lt;b>Utilisation de l'appareil photo (pour définir votre photo de profil)&lt;/b>&lt;br>&lt;br>Si vous n'êtes pas d'accord pour accorder de telles autorisations, vous ne pourrez pas utiliser certaines fonctionnalités de cette application ; cependant, ses fonctionnalités de base seront toujours disponibles. Vous pouvez toujours restreindre les autorisations ou révoquer votre autorisation dans les paramètres."</string>
-    <string name="request_cancel">Annuler</string>
-    <string name="request_error_invalid_token">Impossible de vérifier</string>
-    <string name="request_error_network">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
-    <string name="request_error_unknown">"Une erreur système s'est produite. Revenez en arrière et réessayez."</string>
-    <string name="request_gallery_permission_message">"Autoriser l'accès à la Galerie :&lt;br />Pour définir les photos de profil"</string>
     <string name="require_permission">Autorisations requises</string>
     <string name="require_permission_text">"Pour pouvoir enregistrer et afficher des éléments, autorisez Diaporama de fonds d'écran à accéder au stockage."</string>
-    <string name="resend_active_email">Renvoyer</string>
-    <string name="resend_email_reach_limit_message">"Vous avez demandé trop d'e-mails de vérification. Assurez-vous que l'e-mail de vérification ne se trouve pas dans le dossier Spam de votre boîte de réception."</string>
-    <string name="resend_email_reach_limit_title">"Trop d'essais"</string>
-    <string name="resend_email_success">Envoyé avec succès</string>
     <string name="resource_apply">Appliquer</string>
     <string name="resource_no_network_text">Vérifiez votre connexion réseau et réessayez</string>
     <string name="revoke_button">Retirer</string>
@@ -736,7 +734,6 @@ dd/MM"</string>
     <string name="rv_with_footer_empty">Rien ici encore.</string>
     <string name="rv_with_footer_loading">&lt;CDATA&gt;Chargement…&lt;/CDATA&gt;</string>
     <string name="rv_with_footer_pull_load_more">Tirez vers le bas pour en voir plus</string>
-    <string name="same_new_and_old_pwd">Ne peut pas être identique au mot de passe actuel</string>
     <string name="saturday">Samedi</string>
     <string name="saturday_short">Sam</string>
     <string name="saturday_shortest">Sam</string>
@@ -758,9 +755,6 @@ dd/MM"</string>
     <string name="select_picture">Sélectionnez des images</string>
     <string name="select_picture_des">Ajoutez vos photos et images en ligne au mélange pour les faire apparaître automatiquement dans le diaporama.</string>
     <string name="send">Envoyer</string>
-    <string name="send_diagnosis_log">Envoyer les journaux</string>
-    <string name="send_email_activate_message">E-mail de vérification envoyé avec succès</string>
-    <string name="service_error">Erreur serveur</string>
     <string name="setting_about_item_des">Version</string>
     <string name="setting_about_item_title">À propos</string>
     <string name="setting_des">"Les services de diaporama sont fournis par Diaporama de fonds d'écran. Recherchez \"Diaporama de fonds d'écran\" dans l'application Paramètres pour afficher toutes les options disponibles."</string>
@@ -786,11 +780,7 @@ dd/MM"</string>
     <string name="shortcut_exist">Le raccourci existe déjà</string>
     <string name="shortcut_failed">"Impossible de créer un raccourci"</string>
     <string name="show_wallpaper_loop_entry_title">Paramètres du diaporama</string>
-    <string name="skip_query_account">Ignorer</string>
     <string name="sliding_on_unlock">Balayez vers le haut pour déverrouiller</string>
-    <string name="sns_access_token_expired_warning">La session a expiré. Connectez-vous à nouveau pour reconnecter ce compte.</string>
-    <string name="sns_bind_limit">"Trop d'essais. Essayez d'autres moyens de vous connecter."</string>
-    <string name="sns_sign_in">Autres moyens de se connecter</string>
     <string name="solar_term_autumn_begins">"Début de l'automne"</string>
     <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
     <string name="solar_term_clear_and_bright">Pure lumière</string>
@@ -909,10 +899,8 @@ dd/MM"</string>
     <string name="sure_close_gallery">"Désactiver Diaporama de fonds d'écran ?"</string>
     <string name="sure_close_gallery_des">"Vous ne pourrez pas recevoir de nouvelles fraîches sur votre écran d'accueil et votre écran de verrouillage si vous désactivez Diaporama de fonds d'écran. Désactiver quand même ?"</string>
     <string name="system_default">Par défaut</string>
-    <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
     <string name="tab_user_title_bar_text">Paramètres</string>
     <string name="tb_collapse_desc">Masquer le menu \"Partager\"</string>
-    <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -995,27 +983,10 @@ dd/MM"</string>
     <string name="uninstall_introduction_text_title">À propos</string>
     <string name="uninstall_warning_text_desc">"Sans Diaporama de fonds d'écran, vous ne pourrez pas recevoir régulièrement de nouveaux fonds d'écran de verrouillage. Cependant, vous pourrez télécharger et installer à nouveau l'application. Supprimer Diaporama de fonds d'écran ?"</string>
     <string name="uninstall_warning_text_title">"Suppression fond d'écran"</string>
-    <string name="unknown_error_info">Erreur inconnue</string>
-    <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>
-    <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de récupération"</string>
     <string name="update_phone_notice">Modifier les paramètres de sécurité</string>
     <string name="upload_error_log">Envoyer le journal</string>
     <string name="user_ac_click_to_login">Cliquez pour vous connecter</string>
     <string name="user_ac_not_login">Pas connecté</string>
-    <string name="user_agreement_hint_3rd_app"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default_1"><Data>Read and agreed to the &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy.&lt;/a></Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>"I've read and agreed to the &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy.&lt;/a> The first login will automatically create a Xiaomi account"</Data></string>
-    <string name="user_agreement_hint_first_login">"We'll create an account automatically if you're using your phone number for the first time."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
-    <string name="user_avatar_update_title">Modifier la photo de profil</string>
-    <string name="user_avatar_uploading">Un instant…</string>
-    <string name="user_name_phone_number">Numéro de téléphone</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
     <string name="view_privacy_policy">Politique de confidentialité</string>
@@ -1025,8 +996,6 @@ dd/MM"</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
-    <string name="weibo_login_btn_content_description">"S'identifier avec Weibo"</string>
-    <string name="weixin_login_btn_content_description">"S'identifier avec WeChat"</string>
     <string name="wlan_download">Mise à jour via Wi-Fi uniquement</string>
     <string name="wlan_download_cn">Mise à jour via Wi-Fi uniquement</string>
     <string name="wm_storage_left">"Restant: "</string>
