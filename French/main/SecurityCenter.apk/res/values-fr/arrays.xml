@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="auto_task_text_layout_size_level">
-        <item>Extra small</item>
-        <item>Small</item>
-        <item>Medium</item>
-        <item>Large</item>
-        <item>Extra large</item>
+        <item>Très petit</item>
+        <item>Petit</item>
+        <item>Moyen</item>
+        <item>Grand</item>
+        <item>Très grand</item>
         <item>XXL</item>
      </string-array>
     <string-array name="cache_sort_type">

@@ -285,7 +285,7 @@ Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière don
     <string name="change_sync_settings">Modifier les paramètres de synchronisation</string>
     <string name="changepw_dialog_auth_tips">Entrez à nouveau le code pour %s</string>
     <string name="changepw_dialog_tips">Ressaisissez le mot de passe pour %s</string>
-    <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chat_item_msg_people_unit">personnes</string>

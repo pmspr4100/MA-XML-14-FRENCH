@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string-array name="account_user_gender_name">
-      <item>Homme</item>
-      <item>Femme</item>
-    </string-array>
     <string-array name="month12">
       <item>janvier</item>
       <item>février</item>
@@ -20,5 +16,9 @@
     </string-array>
     <string-array name="feature_desc">
       <item>Correction de quelques problèmes connus.</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Homme</item>
+        <item>Femme</item>
     </string-array>
 </resources>

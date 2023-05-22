@@ -92,7 +92,7 @@ dd/MM"</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hello_world">Hello Square World!</string>
     <string name="icon_content_description">Icône de dialogue</string>
-    <string name="item_view_role_description">Tab</string>
+    <string name="item_view_role_description">Onglet</string>
     <string name="letter_space">Character spacing</string>
     <string name="line_space">Line spacing</string>
     <string name="material_clock_toggle_content_description">Sélectionner AM ou PM</string>
@@ -223,7 +223,7 @@ dd/MM"</string>
     <string name="page_detail_publish_time_label">"Published: "</string>
     <string name="page_detail_version_label">"Version: "</string>
     <string name="page_time_format_string">dd/MM/yyyy</string>
-    <string name="password_toggle_content_description">Show password</string>
+    <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="please_input_signature">Enter signature</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
     <string name="rapid_charge_mode_tip">Quick charge</string>

@@ -54,7 +54,7 @@
     <string name="auto_disable_screenbuttons_enable_toast_text">Boutons de navigation activés</string>
     <string name="bootloader">Fastboot</string>
     <string name="bt_is_off">Bluetooth désactivé</string>
-    <string name="character_counter_content_description">%1$d caractères sur %2$d entrés</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="chip_text">Chip text</string>
     <string name="clear_text_end_icon_content_description">Effacer le texte</string>
@@ -355,15 +355,6 @@
     <string name="quick_settings_mute_label">Muet</string>
     <string name="quick_settings_nightmode_label">Mode sombre</string>
     <string name="quick_settings_papermode_label">Mode lecture</string>
-    <string name="quick_settings_pcmode_cancel_button">Annuler</string>
-    <string name="quick_settings_pcmode_dialog_message_turnoff">Désactiver le mode PC</string>
-    <string name="quick_settings_pcmode_dialog_message_turnon">Activer le mode PC</string>
-    <string name="quick_settings_pcmode_dialog_remember_text">Ne plus afficher</string>
-    <string name="quick_settings_pcmode_error">"Application introuvable. Installez-la d'abord."</string>
-    <string name="quick_settings_pcmode_label">Mode PC</string>
-    <string name="quick_settings_pcmode_ok_button">OK</string>
-    <string name="quick_settings_pcmode_turn_off_description">"L'écran de votre téléphone s'affichera sur le moniteur externe. Désactiver le mode PC ?"</string>
-    <string name="quick_settings_pcmode_turn_on_description">"L'écran de votre ordinateur s'affichera sur le moniteur externe. Désactiver le mode PC ?"</string>
     <string name="quick_settings_powermode_label">Mode performance</string>
     <string name="quick_settings_quietmode_label">NPD</string>
     <string name="quick_settings_rotationlock_label">Rotation désactivée</string>
@@ -373,9 +364,9 @@
     <string name="quick_settings_screenshot_label">"Capture d'écran"</string>
     <string name="quick_settings_sim_disabled">" (Désactivé)"</string>
     <string name="quick_settings_sync_label">Synchronisation</string>
-    <string name="quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,custom(com.miui.screenrecorder/.service.QuickService),scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),pcmode,custom(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,dolbyatomssound,circulateworld,custom(com.miui.securitycenter/com.miui.permcenter.settings.InvisibleModeTileService),edit</string>
+    <string name="quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,custom(com.miui.screenrecorder/.service.QuickService),scanner,papermode,night,quietmode,batterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,aitranslate,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),wirelesspower,nfc,dolbyatomssound,custom(com.miui.securitycenter/com.miui.permcenter.settings.InvisibleModeTileService),edit</string>
     <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
-    <string name="quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,pcmode,uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,dolbyatomssound,circulateworld,edit,gps,drivemode,hearingassisttile</string>
+    <string name="quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,scanner,papermode,night,quietmode,batterysaver,uwb_shp,aitranslate,freeformhang,vibrate,hotspot,sync,wirelesspower,nfc,dolbyatomssound,edit,gps,hearingassisttile</string>
     <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Pour ajouter un élément, appuyez dessus et maintenez-le enfoncé, puis faites-le glisser vers la partie supérieure du panneau.</string>
     <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>

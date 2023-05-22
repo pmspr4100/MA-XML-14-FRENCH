@@ -74,7 +74,7 @@
     <string name="cancel_install">Annuler</string>
     <string name="cancel_update">Ne pas mettre à jour</string>
     <string name="cb_back">back button</string>
-    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="check_violation_app">Violations détectées</string>
     <string name="check_virus_app">Virus détectés</string>
@@ -575,7 +575,7 @@
     <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
     <string name="passport_wrong_vcode">The code you entered is incorrect</string>
     <string name="passport_wrong_voice">The code you entered is incorrect</string>
-    <string name="password_toggle_content_description">Show password</string>
+    <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="password_wrong_msg">"Impossible de vérifier. Réessayez."</string>
     <string name="perm_privacy_app_finish">OK</string>
     <string name="perm_privacy_app_launch">Lancer</string>

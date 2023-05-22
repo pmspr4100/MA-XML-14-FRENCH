@@ -203,7 +203,7 @@
   <string name="pa_express_detail_list_empty_text">"Les éléments peuvent apparaître ici avec un délai.
 Vous pouvez également suivre la livraison express sur les sites web officiels des services de messagerie."</string>
   <string name="pa_express_detail_more">Plus</string>
-  <string name="pa_express_detail_order_number_prefix">Numéros de suivi : %s</string>
+  <string name="pa_express_detail_order_number_prefix">Numéro de commande : %s</string>
   <string name="pa_express_dialog_sign_message">Marquer ce colis comme livré ? Son statut ne sera plus mis à jour après cela.</string>
   <string name="pa_express_empty_extra">Suivre</string>
   <string name="pa_express_empty_title">"Pas d'informations sur la livraison ici"</string>
@@ -221,7 +221,6 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="pa_express_manual_query_hint">Entrez le numéro de commande à rechercher</string>
   <string name="pa_express_manual_select_company">Sélectionner</string>
   <string name="pa_express_manual_select_company_toast">Sélectionnez le service de messagerie</string>
-  <string name="pa_express_order_number">Numéro de commande : %s</string>
   <string name="pa_express_phone_binding_input_verifacation_code">Entrez le code</string>
   <string name="pa_express_phone_binding_next_step">Suivant</string>
   <string name="pa_express_phone_binding_number">Numéro de téléphone</string>
@@ -401,6 +400,13 @@ Restez à l'écoute !"</string>
   <string name="pa_picker_home_request_failed">Erreur réseau</string>
   <string name="pa_picker_home_search_hint">Rechercher des widgets</string>
   <string name="pa_picker_home_title">Ajouter des widgets</string>
+  <string name="pa_picker_image_text_share">Partager</string>
+  <string name="pa_picker_image_text_share_copy_url">Copier l’URL</string>
+  <string name="pa_picker_image_text_share_more">Plus</string>
+  <string name="pa_picker_image_text_share_wechat_favourite">Favoris WeChat</string>
+  <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
+  <string name="pa_picker_image_text_share_wechat_timeline">Moments WeChat</string>
+  <string name="pa_picker_image_text_share_weibo">Weibo</string>
   <string name="pa_picker_item_retry">Impossible de charger les éléments. Réessayez.</string>
   <string name="pa_picker_list_app_footer_classic_widget">Widgets Android</string>
   <string name="pa_picker_list_app_title">Applications avec widgets</string>
@@ -412,8 +418,18 @@ Restez à l'écoute !"</string>
   <string name="pa_picker_loading">Un instant…</string>
   <string name="pa_picker_maml_list_activity_title">Ajouter des widgets</string>
   <string name="pa_picker_no_relevant_content">Impossible de trouver des résultats</string>
+  <string name="pa_picker_order_go_to_allow_cta">Autoriser</string>
+  <string name="pa_picker_order_go_to_login">Se connecter</string>
+  <string name="pa_picker_order_login_xiaomi_account">Connectez-vous à votre compte Xiaomi pour pouvoir utiliser cette fonctionnalité.</string>
+  <string name="pa_picker_order_theme_app_cta_pre">Autoriser cette application à se connecter à Internet pour pouvoir utiliser cette fonctionnalité.</string>
   <string name="pa_picker_permission_denied">"Le coffre-fort d'applications doit accéder à l'état de l'installation
 pour afficher les widgets."</string>
+  <string name="pa_picker_purchase_order">Acheté</string>
+  <string name="pa_picker_recommend_add_limit_toast">Impossible d’ajouter plus de widgets</string>
+  <string name="pa_picker_recommend_bottom_button_add">Ajouter un widget</string>
+  <string name="pa_picker_recommend_bottom_button_download_and_add">Ajouter un widget</string>
+  <string name="pa_picker_recommend_download_tip">Lorsque vous ajoutez un widget, l’application associée sera téléchargée automatiquement</string>
+  <string name="pa_picker_recommend_title">Recommandé pour vous</string>
   <string name="pa_picker_request">Paramètres</string>
   <string name="pa_picker_retry">Réessayer</string>
   <string name="pa_picker_search">Rechercher</string>
@@ -432,12 +448,15 @@ pour afficher les widgets."</string>
   <string name="pa_picker_suit_list_activity_title">Packages de personnalisation</string>
   <string name="pa_picker_tab_title_category">Catégories</string>
   <string name="pa_picker_tab_title_recommend">Recommandé</string>
+  <string name="pa_picker_theme_app_version_error">Une erreur est survenue</string>
   <string name="pa_picker_tips_count_limit_forbidden">"Impossible d'ajouter d'autres widgets. Supprimez les anciens widgets pour en ajouter de nouveaux."</string>
   <string name="pa_picker_toast_add_successfully">Ajouté avec succès</string>
   <string name="pa_picker_toast_count_limit_forbidden">"Impossible d'ajouter plus de widgets"</string>
   <string name="pa_picker_toast_count_limit_forbidden_for_type">"Impossible d'ajouter plus de widgets de ce type"</string>
   <string name="pa_picker_toast_count_limit_warning">"Ajouté avec succès. N'oubliez pas que placer trop de widgets sur votre écran d'accueil peut ralentir votre appareil."</string>
   <string name="pa_picker_toast_screen_cell_locked">"La disposition de votre écran d'accueil est verrouillée. Impossible d'ajouter des widgets."</string>
+  <string name="pa_picker_widget_select_uninstall_description">%1$s, non installé</string>
+  <string name="pa_picker_widget_select_upgrade_description">%1$s, mise à jour disponible</string>
   <string name="pa_privacy_text">Confidentialité</string>
   <string name="pa_read_storage_permission_description">"Pour afficher le fond d'écran de votre écran d'accueil comme arrière-plan de l'application"</string>
   <string name="pa_recommend_add_btn">Démarrer</string>

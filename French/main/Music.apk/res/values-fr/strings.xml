@@ -75,6 +75,8 @@
     <string name="action_item_play_all">Lecture aléatoire</string>
     <string name="action_item_play_next">Lire plus tard</string>
     <string name="action_item_play_video">Lire la vidéo musicale</string>
+    <string name="action_item_podcast">Détails du podcast</string>
+    <string name="action_item_podcast_speed">Vitesse de lecture</string>
     <string name="action_item_remove">Retirer</string>
     <string name="action_item_remove_from_favorite">Enlever des favoris</string>
     <string name="action_item_share">Partager</string>
@@ -188,6 +190,7 @@
     <string name="autoplay_is_off">La lecture automatique est désactivée</string>
     <string name="autoplay_is_on">La lecture automatique est activée</string>
     <string name="available_playlist_name_format">Nouvelle liste de lecture %d</string>
+    <string name="avatar">Photo du profil</string>
     <string name="avoid_to_use_traffic_summary">"N'utilisez pas le réseau mobile pour diffuser de la musique"</string>
     <string name="avoid_to_use_traffic_title">"Invite lors de l'utilisation des données mobiles pour lire des chansons"</string>
     <string name="back">Retour</string>
@@ -254,7 +257,7 @@
     <string name="change_password">Modifier le mot de passe</string>
     <string name="changepassword_hint_input1">Mot de passe actuel</string>
     <string name="changepassword_toast_passworderror">Le mot de passe est incorrect</string>
-    <string name="character_counter_content_description">Caractères saisis %1$d sur %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="character_type">Sélectionner la catégorie de chambre</string>
     <string name="charm_advantage">"Avantages d'une grande popularité"</string>
@@ -760,17 +763,16 @@ Envoyez ce code au superviseur."</string>
     <string name="exo_controls_pause_description">Pause</string>
     <string name="exo_controls_play_description">Lecture</string>
     <string name="exo_controls_playback_speed">Vitesse</string>
-    <string name="exo_controls_playback_speed_normal">Normale</string>
     <string name="exo_controls_previous_description">Titre précédent</string>
-    <string name="exo_controls_repeat_all_description">Tout lire en boucle</string>
-    <string name="exo_controls_repeat_off_description">Ne rien lire en boucle</string>
-    <string name="exo_controls_repeat_one_description">Lire un titre en boucle</string>
+    <string name="exo_controls_repeat_all_description">Mode actuel : Tout répéter. Changer le mode de répétition.</string>
+    <string name="exo_controls_repeat_off_description">Mode actuel : Ne rien répéter. Changer le mode de répétition.</string>
+    <string name="exo_controls_repeat_one_description">Mode actuel : Répétez une fois. Changer le mode de répétition.</string>
     <string name="exo_controls_rewind_description">Retour arrière</string>
     <string name="exo_controls_seek_bar_description">Progression de la lecture</string>
     <string name="exo_controls_settings_description">Paramètres</string>
     <string name="exo_controls_show">Afficher les commandes du lecteur</string>
-    <string name="exo_controls_shuffle_off_description">Aléatoire désactivé</string>
-    <string name="exo_controls_shuffle_on_description">Aléatoire activé</string>
+    <string name="exo_controls_shuffle_off_description">Activer le mode aléatoire</string>
+    <string name="exo_controls_shuffle_on_description">Désactiver le mode aléatoire</string>
     <string name="exo_controls_stop_description">Arrêter</string>
     <string name="exo_controls_vr_description">Mode VR</string>
     <string name="exo_download_completed">Téléchargement terminé</string>
@@ -778,6 +780,9 @@ Envoyez ce code au superviseur."</string>
     <string name="exo_download_downloading">Téléchargement…</string>
     <string name="exo_download_failed">Échec du téléchargement</string>
     <string name="exo_download_notification_channel_name">Téléchargements</string>
+    <string name="exo_download_paused">Téléchargements suspendus</string>
+    <string name="exo_download_paused_for_network">Téléchargements en attente de réseau</string>
+    <string name="exo_download_paused_for_wifi">Téléchargements en attente de Wi-Fi</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
     <string name="exo_media_action_repeat_all_description">Tout répéter</string>
     <string name="exo_media_action_repeat_off_description">Ne rien répéter</string>
@@ -1043,8 +1048,9 @@ Numéro WhatsApp : +905331901598"</string>
     <string name="home_tab_home">Accueil</string>
     <string name="home_tab_joox">JOOX Musique</string>
     <string name="home_tab_local">Ma musique</string>
-    <string name="home_tab_more_music">"D'avantage de musique"</string>
+    <string name="home_tab_more_music">"Davantage de musique"</string>
     <string name="home_tab_online">Musique en ligne</string>
+    <string name="home_tab_podcast">Podcasts</string>
     <string name="home_tab_recommend">En ligne</string>
     <string name="home_tab_search">Recherche</string>
     <string name="home_toast_error">"Une erreur s'est produite, réessayez plus tard."</string>
@@ -1547,6 +1553,8 @@ Allez discuter avec elles !</string>
     <string name="my_playlist_set_to_public">Rendre public</string>
     <string name="nav_app_bar_navigate_up_description">Naviguer vers le haut</string>
     <string name="nav_app_bar_open_drawer_description">Ouvrir le tiroir de navigation</string>
+    <string name="need_to_close">Afficher moins</string>
+    <string name="need_to_show">Afficher plus</string>
     <string name="net_work_error_leave_room">En raison du réseau, vous avez été déconnecté, veuillez réintégrer la salle~</string>
     <string name="netdefault_noseat">Les positions du micro sont verrouillées, veuillez attendre le micro</string>
     <string name="netdefault_quick">Soumettre trop souvent, veuillez réessayer plus tard</string>
@@ -2141,6 +2149,8 @@ Soyez heureux"</string>
     <string name="share_text">Nous jouons à GoGo ! Rejoignez-nous maintenant !</string>
     <string name="share_text_list">"Playlist de Mi Musique : "</string>
     <string name="share_text_song">"Chanson dans Mi Musique : "</string>
+    <string name="shortcut_get">Afficher</string>
+    <string name="shortcut_success">Créé avec succès. Afficher sur votre écran d’accueil.</string>
     <string name="show_float_first_hint">Minimiser le lecteur</string>
     <string name="show_more">Afficher %s de plus</string>
     <string name="shuffle_music">Lecture aléatoire</string>
@@ -2156,6 +2166,7 @@ Soyez heureux"</string>
     <string name="signout_popup_title_nopassword">Attention</string>
     <string name="similar_albums">Albums similaires</string>
     <string name="similar_playlists">Listes de lecture similaires</string>
+    <string name="similar_podcasts">Podcasts similaires</string>
     <string name="similar_songs">Chansons similaires</string>
     <string name="similar_videos">Vidéos similaires</string>
     <string name="skip">Passer</string>

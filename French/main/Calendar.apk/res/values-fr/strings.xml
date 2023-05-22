@@ -100,7 +100,7 @@
     <string name="change">Modifier</string>
     <string name="change_response_title">Modifier la réponse</string>
     <string name="change_zodiac">Changer de signe zodiacal</string>
-    <string name="character_counter_content_description">%1$d caractères entrés sur %2$d</string>
+    <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="check_new_version">Vérifier les mises à jour</string>
     <string name="chips_action_cancel">Annuler</string>
     <string name="chips_action_copy">Copie</string>
