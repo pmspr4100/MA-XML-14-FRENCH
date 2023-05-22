@@ -1970,8 +1970,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="remote_online_waiting">"En attente de la connexion de l'autre appareil…"</string>
     <string name="remote_online_whats">"Comment fonctionne l'Enregistrement double téléphone ?"</string>
     <string name="reset_manual_picture_style_toast">Paramètres réinitialisés avec succès</string>
-    <string name="reset_manual_picture_style_new_toast">Réinitialiser les paramètres avec succès</string>
-    <string name="reset_manual_picture_style_toast">Réinitialiser les paramètres avec succès</string>
+    <string name="reset_manual_picture_style_new_toast">Paramètres réinitialisés avec succès</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Réinitialiser</string>
     <string name="saturday">Samedi</string>
