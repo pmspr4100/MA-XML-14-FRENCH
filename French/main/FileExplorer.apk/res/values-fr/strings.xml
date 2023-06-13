@@ -49,7 +49,6 @@
     <string name="app_name_recorder">Magnéto</string>
     <string name="app_name_screenshot">"Captures d'écran"</string>
     <string name="available_size">Disponible : %s</string>
-    <string name="backup_cancel">Annuler</string>
     <string name="big5_summary">Encodage par défaut Windows en chinois traditionnel</string>
     <string name="by_date">Date de modification</string>
     <string name="by_name">Nom</string>
@@ -483,6 +482,7 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="move_to">Déplacement…</string>
     <string name="msg_set_password">"Définir d'abord un mot de passe"</string>
     <string name="mtp_device">Périphérique multimédia (MTP)</string>
+    <string name="mtp_label">MTP</string>
     <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
     <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
@@ -555,6 +555,8 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="operation_compress">Compresser</string>
     <string name="operation_compressing">Compression…</string>
     <string name="operation_copy">Copier</string>
+    <string name="operation_copy_clipboard">Copier dans le presse-papiers</string>
+    <string name="operation_copy_local">Copier dans le dossier</string>z
     <string name="operation_create_folder">Créer un dossier</string>
     <string name="operation_create_folder_message">Entrez le nom du dossier</string>
     <string name="operation_create_folder_name_conflict">Impossible de créer le dossier. Un dossier portant ce nom existe déjà.</string>
@@ -878,6 +880,7 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="title_select_volume">Sélectionner un dossier</string>
     <string name="to_open">Paramètres</string>
     <string name="to_setting">Paramètres</string>
+    <string name="toast_copy_clipboard">Ajouté au presse-papiers</string>
     <string name="toast_file_not_can_read">Aucune application trouvée pour effectuer cette action.</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
@@ -927,7 +930,7 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="widget_added_fail_tips">Impossible d’ajouter</string>
     <string name="widget_added_success_content">Ajout de %1$s à l’écran d’accueil</string>
     <string name="widget_added_success_tips">Ajouté avec succès</string>
-    <string name="widget_choose_document_Please">Sélectionner le document</string>
+    <string name="widget_choose_document_please">Sélectionner le document</string>
     <string name="widget_choose_file">Appuyer pour ajouter des fichiers</string>
     <string name="widget_choose_fragment_title">Sélectionner le type de fichier</string>
     <string name="widget_finish">Terminé</string>
