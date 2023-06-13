@@ -19,15 +19,15 @@
         <item quantity="other">Immédiatement</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">dans %d min</item>
-        <item quantity="one">dans 1 min</item>
+        <item quantity="other">Dans %d min</item>
+        <item quantity="one">Dans %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">"À l'instant"</item>
+        <item quantity="other">À l’instant</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Il y a %d min</item>
-        <item quantity="one">Il y a 1 min</item>
+        <item quantity="one">Il y a %d min</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">"Non utilisé depuis %d jours"</item>
@@ -51,17 +51,9 @@
         <item quantity="other">%1$d éléments par secondes | Temps restant: %2$s</item>
         <item quantity="one">%1$d élément par seconde | Temps restant: %2$s</item>
     </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">il y a %1$d jours</item>
-        <item quantity="zero">il y a %1$d jours</item>
-        <item quantity="one">il y a %1$d jour</item>
-        <item quantity="two">il y a %1$d jours</item>
-        <item quantity="few">il y a %1$d jours</item>
-        <item quantity="many">il y a %1$d jours</item>
-    </plurals>
     <plurals name="dc_group_title_normal">
-        <item quantity="other">Libérez %2$s en prenant ces %1$d mesures</item>
-        <item quantity="one">Libérez %2$s en prenant cette mesure</item>
+        <item quantity="other">Libérez %2$s en %1$d étapes</item>
+        <item quantity="one">Libérez %2$s en %1$d étape</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
         <item quantity="other"><Data>"Vous pouvez supprimer &lt;font color=#0097FF>%d&lt;/font> paquets d'installation"</Data></item>
@@ -123,6 +115,10 @@
         <item quantity="other">Supprimer %1$s photos de tous les appareils ?</item>
         <item quantity="one">Supprimer %1$s photo de tous les appareils ?</item>
     </plurals>
+    <plurals name="every_x_day">
+        <item quantity="other">Tous les %d jours</item>
+        <item quantity="one">Chaque jour</item>
+    </plurals>
     <plurals name="global_wa_clean_finish_audio">
         <item quantity="other"><Data>Libéré &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (assez pour &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> chansons)</Data></item>
         <item quantity="one"><Data>Libéré &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (assez pour &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> chanson)</Data></item>
@@ -132,12 +128,12 @@
         <item quantity="one"><Data>Libéré &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (assez pour &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> photo)</Data></item>
     </plurals>
     <plurals name="global_wa_image">
-        <item quantity="other">%1$d fichiers</item>
-        <item quantity="one">%1$d fichier</item>
+        <item quantity="other">%1$d éléments</item>
+        <item quantity="one">%1$d élément</item>
     </plurals>
     <plurals name="global_wa_video">
-        <item quantity="other">%1$d fichiers</item>
-        <item quantity="one">%1$d fichier</item>
+        <item quantity="other">%1$d éléments</item>
+        <item quantity="one">%1$d élément</item>
     </plurals>
     <plurals name="global_wa_voice">
         <item quantity="other"><Data>Trouvées &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> messages vocaux</Data></item>
@@ -175,8 +171,9 @@
         <item quantity="other">%d applications trouvées</item>
         <item quantity="one">%d application trouvée</item>
     </plurals>
-    <plurals name="million">
-        <item quantity="other">Téléchargé par %1$d personnes</item>
+    <plurals name="last_x_day">
+        <item quantity="other">Les %d derniers jours</item>
+        <item quantity="one">Le dernier jour</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
@@ -194,8 +191,8 @@
         <item quantity="one">"Supprimer %d paquet d'installation"</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">Il y a %d minutes</item>
+        <item quantity="one">Il y a 1 minute</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Téléchargé par %1$d personnes</item>
@@ -228,6 +225,10 @@
     <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d fichiers vide)</item>
         <item quantity="one">(%1$d fichier vide)</item>
+    </plurals>
+    <plurals name="wechat_video_time_p1">
+        <item quantity="other">%1$s ?:</item>
+        <item quantity="one">%1$s ?:</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
         <item quantity="other">Supprimer %1$d fichiers ?</item>

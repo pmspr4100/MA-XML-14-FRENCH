@@ -281,6 +281,10 @@
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nouvelles notifications</item>
+        <item quantity="one">%d nouvelle notification</item>
+    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Les %d derniers jours</item>
         <item quantity="one">Il y a %d jour</item>
@@ -304,6 +308,14 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Il y a %d minutes</item>
         <item quantity="one">Il y a 1 minute</item>
+    </plurals>
+    <plurals name="opr_activity_news_task">
+        <item quantity="other">Parcourir %d reportages</item>
+        <item quantity="one">Parcourir %d reportage</item>
+    </plurals>
+    <plurals name="opr_activity_svideo_task">
+        <item quantity="other">Regarder %d vidéos courtes</item>
+        <item quantity="one">Regarder %d vidéo courte</item>
     </plurals>
     <plurals name="person_menu_protect_count">
         <item quantity="other">Protégé %s fois</item>
@@ -398,7 +410,7 @@
         <item quantity="one">Vous pouvez déverrouiller ce chapitre pour %d pièce.</item>
     </plurals>
     <plurals name="reading__chapter_wait_unlock_tips_chances_left_today">
-        <item Quantity="other">Vous pouvez attendre %s fois de plus aujourd'hui</item>
+        <item quantity="other">Vous pouvez attendre %s fois de plus aujourd'hui</item>
         <item quantity="one">Vous pouvez attendre %s fois de plus aujourd'hui</item>
     </plurals>
     <plurals name="reading__reading_retain_10_reward">
@@ -422,12 +434,12 @@
         <item quantity="one">"Vous obtiendrez %d bonus si vous continuez à lire. Continuer ?"</item>
     </plurals>
     <plurals name="reading__search_resultful">
-        <item quantity="other">Found %1$d results</item>
-        <item quantity="one">Found %1$d result</item>
+        <item quantity="other">%1$d résultats trouvés</item>
+        <item quantity="one">%1$d résultat trouvé</item>
     </plurals>
     <plurals name="reading__shared__toc_new_chapter">
         <item quantity="other">%d chapitres disponibles à ce jour</item>
-        <item quantity="one">%d  chapitre disponible à ce jour</item>
+        <item quantity="one">%d chapitre disponible à ce jour</item>
     </plurals>
     <plurals name="reading__shared__toc_total_chapter">
         <item quantity="other">%d chapitres</item>
@@ -451,6 +463,10 @@
         <item quantity="other">%s requêtes de recherche</item>
         <item quantity="one">%s requête de recherche</item>
     </plurals>
+    <plurals name="second">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+    </plurals>
     <plurals name="sku_price">
         <item quantity="other">%2$s chaque %1$s mois</item>
         <item quantity="one">%2$s chaque %1$s mois</item>
@@ -472,8 +488,8 @@
         <item quantity="one">%d chanson populaire</item>
     </plurals>
     <plurals name="tag_count">
-        <item quantity="other">%d tabs</item>
-        <item quantity="one">%d tab</item>
+        <item quantity="other">%d onglets</item>
+        <item quantity="one">%d onglet</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d éléments sélectionnés</item>

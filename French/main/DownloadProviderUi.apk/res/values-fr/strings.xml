@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="DOWNLOAD_UNIT_BIT">" o"</string>
+    <string name="DOWNLOAD_UNIT_GB">" Gio"</string>
+    <string name="DOWNLOAD_UNIT_KB">" Kio"</string>
+    <string name="DOWNLOAD_UNIT_MB">" Mio"</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -8,16 +12,6 @@
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">supprimer</string>
-    <string name="abc_menu_enter_shortcut_label">entrée</string>
-    <string name="abc_menu_function_shortcut_label">Fonction+</string>
-    <string name="abc_menu_meta_shortcut_label">Méta+</string>
-    <string name="abc_menu_shift_shortcut_label">Maj+</string>
-    <string name="abc_menu_space_shortcut_label">espace</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -64,8 +58,8 @@
     <string name="dialog_btn_ok_disabled_net">Paramètres réseau</string>
     <string name="dialog_confirm_delete_checkbox_message">Supprimer aussi les fichiers locaux</string>
     <string name="dialog_confirm_delete_the_download_item_message">Supprimer ces tâches</string>
-    <string name="dialog_content_limit_max">Illimité</string>
     <string name="dialog_content_limit0">Restreindre les téléchargements</string>
+    <string name="dialog_content_limit_max">Illimité</string>
     <string name="dialog_delete_positive">Supprimer</string>
     <string name="dialog_download_dir_content" formatted="false">Le dossier de destination par défaut pour vos téléchargements est passé de \"%s\" à \"%s/DLManager\".</string>
     <string name="dialog_download_dir_title">Nouveau dossier de destination</string>
@@ -76,13 +70,7 @@
     <string name="dialog_privacy_update_button1">Annuler</string>
     <string name="dialog_privacy_update_button2">Accepter</string>
     <string name="dialog_privacy_update_title">Politique de confidentialité mise à jour</string>
-    <string name="dialog_speed_cancel">Annuler</string>
-    <string name="dialog_speed_msg">"L'utilisation de données mobiles pour tester le réseau peut consommer de grandes quantités de données mobiles. Continuer quand même ?"</string>
-    <string name="dialog_speed_ok">Continuer</string>
-    <string name="dialog_speed_title">"Avertissement d'utilisation des données"</string>
     <string name="dialog_title_disabled_net">Accès internet</string>
-    <string name="dialog_title_not_available">"Impossible de télécharger"</string>
-    <string name="dialog_title_queued_body">Fichier pas encore prêt</string>
     <string name="dialog_title_recommend">Désactiver les sources recommandées</string>
     <string name="dialog_user_know_button1">Quitter</string>
     <string name="dialog_user_know_button2">Accepter</string>
@@ -117,14 +105,10 @@
     <string name="download_status_continue">Reprendre</string>
     <string name="download_status_fail">Réessayer</string>
     <string name="download_status_paused">En pause</string>
-    <string name="download_success">Téléchargement complet</string>
-    <string name="DOWNLOAD_UNIT_BIT">" o"</string>
-    <string name="DOWNLOAD_UNIT_GB">" Gio"</string>
-    <string name="DOWNLOAD_UNIT_KB">" Kio"</string>
-    <string name="DOWNLOAD_UNIT_MB">" Mio"</string>
+    <string name="download_success">Téléchargement terminé</string>
     <string name="download_wait_connect">En attente de connexion</string>
     <string name="downloaded_empty">Vide</string>
-    <string name="downloading">Téléchargement en cours…</string>
+    <string name="downloading">Téléchargement…</string>
     <string name="downloading_empty">Vide</string>
     <string name="early_morning">Matin</string>
     <string name="edit_hint2">Entrez un lien HTTP, FTP, magnet, ou ed2k</string>
@@ -162,19 +146,12 @@
     <string name="insufficient_space">Stockage insuffisant</string>
     <string name="invalid_address">Le chemin de fichier entré est invalide</string>
     <string name="jump_rank_hint">"Jetez un œil aux classements des téléchargements d'aujourd'hui >"</string>
+    <string name="jump_rank_hint2">Afficher les meilleurs téléchargements</string>
     <string name="kilobyteShort">" Kio"</string>
     <string name="load_finish_hint">"C'est tout pour l'instant."</string>
     <string name="loading">Chargement…</string>
-    <string name="media_filter">Média</string>
     <string name="megabyteShort">" Mio"</string>
-    <string name="member_cost">Annuel</string>
-    <string name="menu_all_task_pause">Tout mettre en pause</string>
-    <string name="menu_all_task_start">Tout démarrer</string>
-    <string name="menu_back">"Retour à l'abonnement Xunlei"</string>
-    <string name="menu_des_more">Plus</string>
     <string name="menu_des_vip">Abonnement Xunlei</string>
-    <string name="menu_enter_edit_mode">Éditeur</string>
-    <string name="menu_preferences">Paramètres de téléchargement</string>
     <string name="menu_title_fileexplore">Gestionnaire de fichiers</string>
     <string name="menu_title_pause_all">Tout mettre en pause</string>
     <string name="menu_title_resume_all">Tout démarrer</string>
@@ -192,6 +169,7 @@
     <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Chercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -272,7 +250,6 @@
     <string name="open_vip_speedup">Devenir membre pour augmenter la vitesse ></string>
     <string name="other">Autre</string>
     <string name="path_no_available">"Ce chemin n'est pas disponible"</string>
-    <string name="path_not_available">"Ce chemin n'est pas disponible"</string>
     <string name="pause_download">En pause</string>
     <string name="paused">En pause</string>
     <string name="paused_by_app">En pause</string>
@@ -287,7 +264,7 @@
     <string name="pref_download_revert_default">"Enregistrer dans l'emplacement par défaut"</string>
     <string name="pref_download_settings_title">Taille limite de téléchargement</string>
     <string name="pref_download_storage_path">Enregistrer dans un emplacement personnalisé</string>
-    <string name="pref_download_storage_path_2">Location for downloaded items</string>
+    <string name="pref_download_storage_path_2">Emplacement des éléments téléchargés</string>
     <string name="pref_permission_description">Détails des autorisations</string>
     <string name="pref_sniff_shortcut">"Créer un raccourci d'écran d'accueil pour la recherche sur le Web"</string>
     <string name="preference_copied">\"%1$s\" copié dans le presse-papiers.</string>
@@ -358,7 +335,11 @@
     <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
     <string name="start_download">Télécharger</string>
     <string name="starting_analysis">Obtention des informations…</string>
+    <string name="storage_dialog_content">Autoriser les téléchargements à accéder au stockage de l’appareil pour pouvoir utiliser ses fonctionnalités.</string>
+    <string name="storage_dialog_go">Paramètres</string>
+    <string name="storage_dialog_title">Accéder au stockage de l’appareil</string>
     <string name="storage_internal">Stockage interne</string>
+    <string name="storage_permission_deny">Autorisations de stockage requises</string>
     <string name="storage_sd_card">Stockage externe</string>
     <string name="storage_usb">Stockage USB</string>
     <string name="subfile_list">Fichiers</string>

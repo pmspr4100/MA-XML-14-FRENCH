@@ -367,6 +367,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Balayez vers le bas pour fermer</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">"C'est le dernier onglet"</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Glissez vers le haut pour fermer</string>
+    <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="branch_app_suggestion">Recommandé</string>
     <string name="branch_apps">Applications</string>
     <string name="branch_contacts">Contacts</string>
@@ -454,6 +455,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="channels_edit">Modifier</string>
     <string name="channels_finish">Terminer</string>
     <string name="character_counter_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="check_nf_info">"Consulter les informations sur l'actualité"</string>
     <string name="check_nf_info_desc">"Appuyez longuement sur l'élément pour afficher les informations"</string>
     <string name="choose_to_signin">Oui</string>
@@ -466,6 +468,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="clear_result_page_more_content">En découvrir plus</string>
     <string name="clear_result_page_show_more">Afficher plus</string>
     <string name="clear_search_history">"Effacer l'historique"</string>
+    <string name="clear_text_end_icon_content_description">Effacer le texte</string>
     <string name="clear_transfer_summary">Effacer les indicateurs de paramètres système afin que vous puissiez re-transférer</string>
     <string name="clear_transfer_title">Effacer les marqueurs de transfert</string>
     <string name="clearable_edittext_clear_description">Effacer</string>
@@ -571,6 +574,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="connection_lost">Déconnecté</string>
     <string name="consume">Sortant</string>
     <string name="content_collection_done">Ajouté aux favoris avec succès</string>
+    <string name="content_recommend">Recommandé</string>
     <string name="content_recommend_trending_title">Google</string>
     <string name="contextmenu_add_contact">Ajouter un contact</string>
     <string name="contextmenu_copy">Copier</string>
@@ -622,6 +626,12 @@ Les pages que vous consultez n'apparaîtront pas dans l'historique."</string>
     <string name="debug_crash">"Activer le débogage en cas d'incident"</string>
     <string name="debug_youtube_file">Déboguer le fichier YouTube</string>
     <string name="debug_youtube_in_release">Déboguer YouTube dans la version</string>
+    <string name="decompress">Extraire</string>
+    <string name="decompress_fail">Impossible d’extraire</string>
+    <string name="decompress_success">Extrait réussi</string>
+    <string name="decompress_view">Afficher</string>
+    <string name="decompress_viewer_label">Gestionnaire d’archives (Mi Browser)</string>
+    <string name="decompressed_files">Fichiers extraits</string>
     <string name="deeplink_intrercept_hint">"Cette fenêtre contextuelle vous proposera d'ouvrir une application."</string>
     <string name="deeplink_intrercept_second_hint">"Le site web est sur le point d'ouvrir une application. Cette action est arrêtée pour le moment."</string>
     <string name="deeplink_permission_name">Ouvrir</string>
@@ -783,6 +793,7 @@ Envoyez ce code au superviseur."</string>
     <string name="download_sdcard_busy_dlg_title">Carte SD indisponible</string>
     <string name="download_sdcard_no_space">"Téléchargement impossible. Pas assez d'espace de stockage."</string>
     <string name="download_secure_download_in_xiaomi_market">Télécharger dans GetApps</string>
+    <string name="download_select_dir">Sélectionnez un autre dossier</string>
     <string name="download_status_failed">Téléchargement impossible</string>
     <string name="download_status_pending">En attente</string>
     <string name="download_title">Téléchargements</string>
@@ -819,6 +830,7 @@ Envoyez ce code au superviseur."</string>
     <string name="error_filename_too_long">Le nom de fichier que vous avez entré est trop long.</string>
     <string name="error_folder_already_exists">Ce fichier existe déjà</string>
     <string name="error_forbidden">La synchronisation a été désactivée en raison de problèmes avec votre Compte Xiaomi.</string>
+    <string name="error_icon_content_description">Erreur</string>
     <string name="error_info_cant_send_folder">"Impossible d'envoyer des dossiers."</string>
     <string name="error_invalid_bind_address">"L'adresse e-mail que vous avez entrée est invalide."</string>
     <string name="error_not_acceptable">La synchronisation est désactivée.</string>
@@ -887,8 +899,10 @@ Envoyez ce code au superviseur."</string>
     <string name="exo_track_surround_7_point_1">Son surround 7.1</string>
     <string name="exo_track_unknown">Inconnu</string>
     <string name="expand_button_title">Avancé</string>
+    <string name="expand_more">Afficher plus</string>
     <string name="experience_improve">"Programme d'expérience utilisateur"</string>
     <string name="exported">Exporté</string>
+    <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="external_app_restricted_access_error">Mi Browser ne peut pas accéder à cet élément.</string>
     <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi</string>
     <string name="fallback_menu_item_copy_link">Copier le lien</string>
@@ -1033,6 +1047,8 @@ Envoyez ce code au superviseur."</string>
     <string name="general__fiction_horz_slide_to_see_title_page">Balayer pour commencer à lire</string>
     <string name="general__fiction_slide_menu">Chapitres</string>
     <string name="general__fiction_slide_up_to_see_title_page">Balayer vers le haut pour commencer à lire</string>
+    <string name="generate_gpt">"Résumez le synopsis de 500 mots avec la même langue que l'article ci-dessous :
+%s"</string>
     <string name="general__make_purchase_hint">Un bonus est égal à une pièce. Les bonus sont valables 15 jours et seront utilisés avant les pièces pour débloquer des chapitres.</string>
     <string name="general__make_purchase_rule_reminder">Avertissement</string>
     <string name="general__make_purchase_total">Montant total : %1$d = %2$s + %3$s</string>
@@ -1214,12 +1230,14 @@ pour ajouter des livres sur le bureau"</string>
     <string name="homepage_more_sites">Plus de sites web</string>
     <string name="homepage_search_hint">Rechercher</string>
     <string name="homepage_setting">Paramètres de la page de démarrage</string>
+    <string name="homepage_tab_tips_chatgpt">Découvrez notre nouvelle recherche d’IA</string>
     <string name="homepage_top_card_menu">Top</string>
     <string name="hot_games">Populaire</string>
     <string name="hot_news_notify_summary">Notifications push pour les principales actualités</string>
     <string name="hot_news_notify_tips_light">"Vous pouvez désactiver les notifications d'actualités dans les &lt;font color=#0D84FF>Paramètres&lt;/font>"</string>
     <string name="hot_news_notify_title">"Notifications d'actualités"</string>
     <string name="i_know">Arrêter</string>
+    <string name="icon_content_description">Icône de dialogue</string>
     <string name="identity">Identification</string>
     <string name="if_cancel">Annuler cette opération ?</string>
     <string name="ignore_add_game_center_dialog_this_week">Ne pas afficher cette semaine</string>
@@ -1282,9 +1300,11 @@ pour ajouter des livres sur le bureau"</string>
     <string name="is_page_bottom">Vous avez atteint le bas de la page</string>
     <string name="is_page_top">Vous êtes en haut de la page</string>
     <string name="isornot_your_mi_account">Est-ce votre Compte Xiaomi ?</string>
+    <string name="item_view_role_description">Onglet</string>
     <string name="js_dialog_permission_name">Afficher les boîtes de dialogue contextuelles</string>
     <string name="js_disable_confirm_message">La désactivation de JavaScript peut entraîner un affichage incorrect de certains sites web.</string>
     <string name="js_disable_confirm_title">Désactiver JavaScript ?</string>
+    <string name="jump_web_learn_more">Ouvrir la page web d’origine</string>
     <string name="junk_files_found">Corbeille découverte</string>
     <string name="just_a_second">Un instant…</string>
     <string name="just_now">"À l'instant"</string>
@@ -1331,6 +1351,19 @@ pour ajouter des livres sur le bureau"</string>
     <string name="make_private">Masquer</string>
     <string name="make_private_msg_1">Masquer ce fichier ?</string>
     <string name="make_private_msg_2">Masquer ces fichiers ?</string>
+    <string name="material_clock_toggle_content_description">Sélectionner AM ou PM</string>
+    <string name="material_hour_selection">"Sélectionner l'heure"</string>
+    <string name="material_minute_selection">Sélectionner les minutes</string>
+    <string name="material_minute_suffix">%1$s minutes</string>
+    <string name="material_slider_range_end">"Fin d'intervalle,"</string>
+    <string name="material_slider_range_start">"Début d'intervalle,"</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">"Passer en mode horloge pour la saisie de l'heure."</string>
+    <string name="material_timepicker_hour">Heure</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">"Sélectionnez l'heure"</string>
+    <string name="material_timepicker_text_input_mode_description">"Passez en mode de saisie de texte pour la saisie de l'heure."</string>
     <string name="max_tabs_warning">"Impossible d'ouvrir plus d'onglets"</string>
     <string name="maximum_input_alert">"Impossible d'entrer plus de %1$d caractères"</string>
     <string name="media_error_action_refresh">Actualiser</string>
@@ -1461,6 +1494,37 @@ pour ajouter des livres sur le bureau"</string>
     <string name="msn_privacy">Déclaration de confidentialité de Microsoft</string>
     <string name="msn_privacy_content">Pour le flux de contenu alimenté par Microsoft News</string>
     <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Plus de %1$d nouvelles notifications</string>
+    <string name="mtrl_picker_a11y_next_month">Passer au mois suivant</string>
+    <string name="mtrl_picker_a11y_prev_month">Passer au mois précédent</string>
+    <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_title">Sélectionner la date</string>
+    <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
+    <string name="mtrl_picker_day_of_week_column_header">Colonne de jours : %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format invalide.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple : %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utiliser : %1$s</string>
+    <string name="mtrl_picker_invalid_range">Plage invalide.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Naviguer vers l’année %1$s</string>
+    <string name="mtrl_picker_out_of_range">Hors plage : %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Sélectionner la plage</string>
+    <string name="mtrl_picker_range_header_unselected">Date de début – Date de fin</string>
+    <string name="mtrl_picker_save">Enregistrer</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer en mode de saisie du calendrier</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Appuyez pour passer à la sélection d'un jour</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Appuyez pour passer à la sélection d'une année</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="must_play">Les indispensables</string>
     <string name="mw_abc_action_bar_home_description">Naviguer vers la maison</string>
     <string name="mw_abc_action_bar_up_description">Naviguer vers le haut</string>
@@ -1675,6 +1739,9 @@ Quitter cette page maintenant ?"</string>
     <string name="nav_bottom_bar_back">Retour</string>
     <string name="nav_bottom_bar_close_all">Tout fermer</string>
     <string name="nav_bottom_bar_new_tab">Nouvel onglet</string>
+    <string name="nav_hint_sub_title">Ouvrir une nouvelle fenêtre pour commencer à naviguer.</string>
+    <string name="nav_hint_title">Rien ici pour le moment</string>
+    <string name="nav_incognito_sub_title">"En mode navigation privée, Mi Browser n'enregistrera pas votre historique de navigation, les données du site Web, les cookies ou les informations que vous saisissez dans les formulaires."</string>
     <string name="nav_screen_container_tab_incognito">Onglet Navigation privée</string>
     <string name="nav_screen_container_tab_normal">Onglet classique</string>
     <string name="nav_screen_incognito_message">"Votre historique de navigation et de recherche ne sera pas enregistré en mode Navigation privée. N'oubliez pas que les fichiers que vous téléchargez et les signets que vous ajoutez seront toujours enregistrés."</string>
@@ -1685,7 +1752,6 @@ Quitter cette page maintenant ?"</string>
     <string name="navigationbar_rightbutton_actiontext_go">Commencer</string>
     <string name="navigationbar_rightbutton_actiontext_search">Recherche</string>
     <string name="net_error">Erreur réseau</string>
-    <string name="net_error__button_text">Réessayer</string>
     <string name="network_show_wifi_setting_tip_dialog_description">"J'ai trouvé un point d'accès Wi-Fi à proximité. Essayez de vous connecter ?"</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Réseau Wi-Fi disponible</string>
     <string name="new_update_available">Une mise à jour est disponible</string>
@@ -1778,6 +1844,7 @@ Quitter cette page maintenant ?"</string>
     <string name="ok">OK</string>
     <string name="one_prefect_author">Créateur</string>
     <string name="open_app_confirm_message">"Autoriser cette page à ouvrir %s ?"</string>
+    <string name="open_by_other_app">Ouvrir avec une autre application</string>
     <string name="open_desktop">Passé à la version de bureau avec succès</string>
     <string name="open_google_gaid">Pour pouvoir utiliser cette fonctionnalité, assurez-vous de ne pas avoir désactivé la personnalisation des annonces dans Paramètres > Google > Annonces.</string>
     <string name="open_personalized_services">Activez les services personnalisés pour pouvoir utiliser cette fonctionnalité.</string>
@@ -1894,6 +1961,10 @@ Quitter cette page maintenant ?"</string>
     <string name="pay_now">Payer</string>
     <string name="pay_success_toast">Payé avec succès</string>
     <string name="payment_method">Modes de paiement</string>
+    <string name="pdf_confirm">OK</string>
+    <string name="pdf_failed_message">"Impossible de générer le résumé de l'IA"</string>
+    <string name="pdf_retry">Réessayer</string>
+    <string name="pdf_summary">Résumé</string>
     <string name="per_month">Par mois</string>
     <string name="permission_agree_service">"J'ai lu et j'accepte toutes les conditions générales suivantes."</string>
     <string name="permission_alert_window">Autoriser le navigateur à afficher des fenêtres flottantes pour pouvoir utiliser cette fonctionnalité.</string>
@@ -2712,6 +2783,7 @@ Essayez de modifier votre mot-clé ?"</string>
     <string name="reject_all_label">Rejeter tout</string>
     <string name="release_to_refresh">Libérer pour actualiser</string>
     <string name="relevant_recommendations">Recommandé</string>
+    <string name="remember_my_choice">Se souvenir de mon choix</string>
     <string name="remember_passwords_confirm_message">"La désactivation de cette fonction peut affecter l'utilisation."</string>
     <string name="remove_bookmark">Supprimer le favori</string>
     <string name="remove_bookmark_group">Supprimer le groupe</string>
@@ -3311,6 +3383,7 @@ Vous pouvez toujours vous désinscrire dans Paramètres > Vie privée et sécuri
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">Impossible de télécharger cet élément</string>
     <string name="video_downloader_retry">Réessayez</string>
+    <string name="video_guess_you_like">Vous aimerez peut-être</string>
     <string name="video_play_next">Suivant</string>
     <string name="video_replay_btn">Rejouer</string>
     <string name="video_retry_btn">Réessayer</string>
@@ -3357,6 +3430,22 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_subscribe_tips_3">Profitez de la haute vitesse</string>
     <string name="vpn_used_all_free_data_toast">Vous êtes à cours de données. Abonnez-vous pour continuer.</string>
     <string name="vpn_used_all_toast">Vous êtes à cours de données</string>
+    <string name="weather_card_aqi">IQA</string>
+    <string name="weather_card_baro">Pression</string>
+    <string name="weather_card_dew_pt">Point de rosée</string>
+    <string name="weather_card_feel">Sent comme %s</string>
+    <string name="weather_card_rh">Humidité</string>
+    <string name="weather_card_vis">Visibilité</string>
+    <string name="weather_card_wind_direction_east">Vent d'Est</string>
+    <string name="weather_card_wind_direction_north">Vent du Nord</string>
+    <string name="weather_card_wind_direction_northeast">Vent de NE</string>
+    <string name="weather_card_wind_direction_northwest">Vent de NO</string>
+    <string name="weather_card_wind_direction_south">Vent du Sud</string>
+    <string name="weather_card_wind_direction_southeast">Vent du SE</string>
+    <string name="weather_card_wind_direction_southwest">Ventdu  SO</string>
+    <string name="weather_card_wind_direction_west">Vent d'Ouest</string>
+    <string name="weather_card_wind_spd">Vitesse du vent</string>
+    <string name="weather_cp_des">Météo de Microsoft Start</string>
     <string name="weather_location_confirm_message">"La désactivation de cette fonction peut affecter l'utilisation."</string>
     <string name="web_ad_clear_dialog_cancel">Annuler</string>
     <string name="web_ad_clear_dialog_confirm">Supprimer</string>
@@ -3395,6 +3484,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_intercept_manage_page_title">Protection</string>
     <string name="web_permission_item_permission_title">Autorisations par défaut</string>
     <string name="web_permission_item_web_title">Définir les autorisations</string>
+    <string name="web_permission_protect_acceptable_ad">Annonces acceptables</string>
+    <string name="web_permission_protect_acceptable_ad_summary">Les publicités acceptables doivent se conformer à des directives strictes pour les publicités simples et non intrusives. Désactivez cette fonctionnalité pour bloquer toutes les publicités.</string>
     <string name="web_permission_protect_ad">Bloquer les publicités</string>
     <string name="web_permission_protect_ad_mark_manager">Gérer les balises publicitaires</string>
     <string name="web_permission_protect_behavior_title">Autorisations</string>

@@ -170,11 +170,6 @@
     <string name="cd_scanning">analyse</string>
     <string name="cd_settings">régalages</string>
     <string name="cd_sort_type">type de tri</string>
-    <string name="clean_content_all">Tous</string>
-    <string name="clean_content_one">1 élément</string>
-    <string name="clean_content_three">3 éléments</string>
-    <string name="clean_content_two">2 éléments</string>
-    <string name="clean_content_zero">Vide</string>
     <string name="clean_master_icon_recall_button_text">Ajouter</string>
     <string name="clean_master_icon_recall_dialog_button_negative">Non merci</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Ajouter</string>
@@ -542,6 +537,7 @@
     <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Chercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -804,11 +800,12 @@
     <string name="similar_image_scaning">Vérification…</string>
     <string name="similar_image_title">Photos</string>
     <string name="size_byte">" o"</string>
-    <string name="size_giga_byte">" Go"</string>
-    <string name="size_kilo_byte">" Ko"</string>
-    <string name="size_mega_byte">" Mo"</string>
-    <string name="size_peta_byte">" Po"</string>
-    <string name="size_tera_byte">" To"</string>
+    <string name="size_giga_byte">" Gio"</string>
+    <string name="size_kilo_byte">" Kio"</string>
+    <string name="size_mega_byte">" Mio"</string>
+    <string name="size_peta_byte">" Pio"</string>
+    <string name="size_tera_byte">" Tio"</string>
+    <string name="sms">SMS/MMS</string>
     <string name="solar_term_autumn_begins">"Début de l'automne"</string>
     <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
     <string name="solar_term_clear_and_bright">Claire et lumineuse</string>
@@ -891,9 +888,7 @@
     <string name="thursday_shortest">Jeu</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="tips_low_storage_dialog_cancel">Annuler</string>
-    <string name="tips_low_storage_dialog_msg_qq">La taille du cache de QQ a atteint 3 Gio. Cela pourrait ralentir votre appareil. Nettoyez le cache de QQ maintenant ?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">La taille du cache de QQ a atteint %d Gio. Cela pourrait ralentir votre appareil. Nettoyez le cache de QQ maintenant ?</string>
-    <string name="tips_low_storage_dialog_msg_storage">Vous utilisez 90% de votre espace de stockage. Désinstallez les applications que vous n’utilisez plus.</string>
     <string name="tips_low_storage_dialog_msg_storage_new">Vous utilisez %s de votre espace de stockage. Désinstallez les applications que vous n’utilisez pas.</string>
     <string name="tips_low_storage_dialog_msg_wechat_new">La taille du cache de WeChat a atteint %d Gio. Cela pourrait ralentir votre appareil. Nettoyez le cache de WeChat maintenant ?</string>
     <string name="tips_low_storage_dialog_ok">Nettoyer</string>
