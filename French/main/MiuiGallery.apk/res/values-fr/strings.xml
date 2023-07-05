@@ -94,6 +94,7 @@
     <string name="add_to_secret_successful">"Ajouté à l'album privé"</string>
     <string name="add_to_share_album_not_delete">"Vous ne pouvez pas supprimer la photo d'un album partagé"</string>
     <string name="add_to_trust_device">Ceci est un appareil de confiance</string>
+    <string name="added_to_clipboard_toast">Copié avec succès</string>
     <string name="added_to_favorites">Ajouté aux favoris</string>
     <string name="added_to_favorites_desc">Ajouté aux favoris</string>
     <string name="added_to_favorites_tip">"Ajoutés à l'album \"Favoris\""</string>
@@ -1226,6 +1227,9 @@ sont disponibles"</string>
     <string name="image_selection_title">Sélectionnez les meilleures photos</string>
     <string name="image_with_time">Photo prise le %s</string>
     <string name="image_with_time_and_location">Photo prise le %1$s. Emplacement : %2$s.</string>
+    <string name="immersion_menu_all_photos">Tous les éléments</string>
+    <string name="immersion_menu_camera_photos">Album appareil photo</string>
+    <string name="immersion_menu_photo_switch_notice">Appuyez pour choisir d’afficher tous les éléments ou uniquement l’album Appareil photo ici</string>
     <string name="impunity_declaration_settings">Notification de connexion internet</string>
     <string name="impunity_declaration_summary">Afficher la notification de connexion internet chaque fois que vous ouvrez la Galerie</string>
     <string name="initializing_cloud">Initialisation…</string>
@@ -1758,6 +1762,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
     <string name="operation_back">Retour</string>
     <string name="operation_cast_connected_format">Diffusion - %s</string>
     <string name="operation_cast_connecting_format">Connexion à %s</string>
+    <string name="operation_copy_to_clipboard">Copier</string>
     <string name="operation_delete">Supprimer</string>
     <string name="operation_delete_all_albums_from_rubbish_page_tip">Vous ne pourrez pas récupérer les albums une fois supprimés. Confirmer la suppression ?</string>
     <string name="operation_detail">Détails</string>
@@ -2411,6 +2416,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
     <string name="search_syncing">Synchronisation des données en cours, revenez plus tard</string>
     <string name="search_title_album">Album</string>
     <string name="search_title_app_screenshot">"Captures d'écran de l'appli"</string>
+    <string name="search_title_daily">Heure</string>
     <string name="search_title_history">Historique de recherche</string>
     <string name="search_title_location">Localisations</string>
     <string name="search_title_more">Plus</string>
@@ -3053,6 +3059,33 @@ Jusqu'au %1$s, vous pouvez déplacer vos éléments vers Google Photos ou visite
     <string name="tran_notification_succeeded_title">Photos et vidéos transférées avec succès</string>
     <string name="tran_notification_update_msg">%1$d/%2$d | %3$d%%</string>
     <string name="tran_notification_update_title">Transfert de vos photos et vidéos…</string>
+    <string name="transfer_banner_btn_check_and_migrate">Transférer des éléments</string>
+    <string name="transfer_banner_btn_check_and_migrate_1">Transférer des éléments</string>
+    <string name="transfer_banner_btn_check_download_status">Afficher la progression</string>
+    <string name="transfer_banner_btn_download_complete">Ignorer</string>
+    <string name="transfer_banner_btn_go_to_download">Télécharger</string>
+    <string name="transfer_banner_btn_title_cancel_reminder">"Ne plus afficher"</string>
+    <string name="transfer_banner_btn_view_detail">En savoir plus</string>
+    <string name="transfer_banner_btn_view_migrate_data">Afficher les sauvegardes</string>
+    <string name="transfer_banner_msg_download_complete">Vous avez demandé le téléchargement de vos données cloud. Vous pourrez afficher et gérer les éléments téléchargés une fois le téléchargement terminé.</string>
+    <string name="transfer_banner_msg_migrate_complete">Les éléments ont été transférés vers Google Photos. Affichez et téléchargez les sauvegardes non synchronisées avant qu’elles ne disparaissent.</string>
+    <string name="transfer_banner_msg_migrate_download_progress">Préparation du téléchargement demandé…</string>
+    <string name="transfer_banner_msg_migrate_download_success">Vous pouvez télécharger les éléments demandés. Le lien de téléchargement n’est valable que %d jours.</string>
+    <string name="transfer_banner_msg_migrate_tips">Transférez les éléments non synchronisés avant %1$s pour éviter de les perdre</string>
+    <string name="transfer_dialog_btn_cancel">Annuler</string>
+    <string name="transfer_dialog_btn_cancle_deal">Pas maintenant</string>
+    <string name="transfer_dialog_btn_check_download_status">Afficher la progression</string>
+    <string name="transfer_dialog_btn_migrate">Afficher les éléments non synchronisés</string>
+    <string name="transfer_dialog_btn_open_google_View_backup">Afficher les sauvegardes</string>
+    <string name="transfer_dialog_btn_open_google_backup">Activer</string>
+    <string name="transfer_dialog_btn_view_cloud">Afficher les éléments cloud</string>
+    <string name="transfer_dialog_consistent_msg">Les services de synchronisation Xiaomi Cloud ont été remplacés par la sauvegarde Google Photos. Toutes les photos et vidéos précédemment stockées dans Xiaomi Cloud ont été synchronisées avec cet appareil. Vous pouvez désormais activer la sauvegarde Google Photos pour continuer à stocker des éléments dans le cloud.</string>
+    <string name="transfer_dialog_download_complete_msg">Les services de synchronisation Xiaomi Cloud ont été remplacés par la sauvegarde de Google Photos. Certaines de vos photos et vidéos n’ont pas été synchronisées avec cet appareil et ne seront plus affichées. Cependant, vous avez déjà demandé un téléchargement de vos données cloud qui incluent ces éléments. Vous pourrez afficher et gérer ces photos et vidéos sur l’appareil sur lequel vous les avez téléchargées.</string>
+    <string name="transfer_dialog_migrate_complete_msg">Vos photos et vidéos ont été transférées vers Google Photos. Après cela, les éléments qui n’ont pas été synchronisés avec cet appareil ne seront plus affichés. Vous pouvez désormais afficher ces éléments parmi vos sauvegardes.</string>
+    <string name="transfer_dialog_migrate_msg">Les services de synchronisation Xiaomi Cloud ont été remplacés par la sauvegarde de Google Photos. Après cela, les éléments qui n’ont pas été synchronisés avec cet appareil ne seront pas affichés. Jusqu’au %1$s, vous pouvez déplacer vos éléments sur Google Photos ou visitez i.mi.com pour les télécharger. Après cela, les éléments encore stockés dans Xiaomi Cloud seront définitivement supprimés.</string>
+    <string name="transfer_dialog_msg_link">Résiliation des services de synchronisation pour les éléments de la Galerie et Transférer des éléments vers Google Photos</string>
+    <string name="transfer_dialog_title">Xiaomi Cloud remplacé par la sauvegarde Google Photos</string>
+    <string name="transfer_service_msg">Les services de synchronisation Xiaomi Cloud ont été remplacés par la sauvegarde Google Photos. Les téléchargements d’éléments non synchronisés ne sont plus disponibles.</string>
     <string name="transfer_status_banner_msg_complete">Éléments transférés avec succès</string>
     <string name="transfer_status_banner_msg_need_retry">Transfert interrompu. Réessayez ou visitez i.mi.com pour télécharger des éléments.</string>
     <string name="transfer_status_banner_msg_no_space">Transfert en pause. Espace de stockage du compte Google insuffisant. Mettez à niveau le stockage pour continuer.</string>
@@ -3068,13 +3101,12 @@ Jusqu'au %1$s, vous pouvez déplacer vos éléments vers Google Photos ou visite
     <string name="trash_bin_summary">Parcourir les photos sauvegardées qui ont été supprimées récemment</string>
     <string name="trash_bin_summary_local">Afficher les photos et vidéos récemment supprimées</string>
     <string name="trash_empty">Aucun élément ici.</string>
-    <string name="trash_high_occupied_tip_banner">"La taille de la corbeille a atteint %1$s. Videz la corbeille pour libérer de l'espace."</string>
-    <string name="trash_high_occupied_tip_toast">"La taille de la corbeille a atteint %1$s. Videz la corbeille pour libérer de l'espace."</string>
+    <string name="trash_high_occupied_tip_banner">"La taille de la corbeille a atteint %1$s. Videz la corbeille pour libérer de l’espace."</string>
+    <string name="trash_high_occupied_tip_toast">"La taille de la corbeille a atteint %1$s. Videz la corbeille pour libérer de l’espace."</string>
     <string name="trash_menu_delete">Supprimer</string>
     <string name="trash_menu_recovery">Restaurer</string>
     <string name="trash_purge_all">"Toutes les photos et vidéos seront supprimées du cloud. Vous ne pourrez pas les restaurer. Supprimer quand même ?"</string>
-    <string name="trash_purge_all_cloud">Tous les éléments de la corbeille seront définitivement supprimés du cloud et de tous les appareils synchronisés. Supprimer quand même ?</string>
-    <string name="trash_purge_all_local">Tous les éléments de la corbeille seront définitivement supprimés. Supprimer quand même ?</string>
+    <string name="trash_purge_all_media">"Supprimer définitivement tous les éléments du cloud et tous les appareils synchronisés ? Vous ne pouvez pas annuler cette action."</string>
     <string name="trash_purge_dialog_title">Vider la corbeille</string>
     <string name="trash_purge_positive_button">Supprimer</string>
     <string name="trash_size">Éléments supprimés (%s)</string>
@@ -3131,20 +3163,21 @@ Jusqu'au %1$s, vous pouvez déplacer vos éléments vers Google Photos ou visite
     <string name="update_network_error">Vérifiez vos paramètres réseau et réessayez</string>
     <string name="update_new_version">Une mise à jour est disponible</string>
     <string name="update_title">La version %s est disponible maintenant</string>
+    <string name="upload_progress_message">Les services de synchronisation Xiaomi Cloud ont été remplacés par la sauvegarde de Google Photos. Nous devons vérifier les éléments stockés sur cet appareil et dans le cloud pour nous assurer que vous ne perdez rien d’important. Ce processus peut prendre plusieurs minutes. Ne quittez pas la Galerie tant qu’elle n’est pas terminée.</string>
     <string name="user_agree">Accepter</string>
     <string name="user_agreement2">"Conditions d'utilisation"</string>
     <string name="user_agreement4">Politique de confidentialité</string>
-    <string name="user_agreement_hint_3rd_app"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default_1"><Data>Read and agreed to the &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy.&lt;/a></Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>"I've read and agreed to the &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy.&lt;/a> The first login will automatically create a Xiaomi account"</Data></string>
-    <string name="user_agreement_hint_first_login">"We'll create an account automatically if you're using your phone number for the first time."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app"><Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord de l'utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que l'&lt;a href=%3$s>Accord de l'utilisateur&lt;/a> et &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Xiaomi."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord de l'utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, l'&lt;a href=%3$s>Accord de l'utilisateur&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que &lt;a href=%5$s>Termes et conditions des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord de l'utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, Mi Account's &lt;a href=%3$s>Accord de l'utilisateur&lt;/a> et &lt;a href=%4$s>Politique de confidentialité&lt;/a>, as well as &lt;a href=%5$s>Termes et conditions des services de vérification de compte de eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord de l'utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, Mi Account's &lt;a href=%3$s>Accord de l'utilisateur&lt;/a> et &lt;a href=%4$s>Politique de confidentialité&lt;/a>, as well as &lt;a href=%5$s>Termes et conditions des services de vérification China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord de l'utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> du Compte Xiaomi."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>J’ai lu et accepté l’&lt;a href=%1$s>Accord de l’utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord de l'utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité.&lt;/a>. La première connexion créera automatiquement un compte Xiaomi"</Data></string>
+    <string name="user_agreement_hint_first_login">"Nous créerons un compte automatiquement si vous utilisez votre numéro de téléphone pour la première fois."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord de l'utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%3$s>Termes et conditions des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord de l'utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%3$s>Termes et conditions des services de vérification de compte de eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"J'ai lu et accepté l'&lt;a href=%1$s>Accord de l'utilisateur&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%3$s>Termes et conditions des services de vérification de China Unicom&lt;/a>."</Data></string>
     <string name="user_alias_self">Auto</string>
     <string name="user_avatar_update_title">Changer la photo de profil</string>
     <string name="user_avatar_uploading">Un instant…</string>

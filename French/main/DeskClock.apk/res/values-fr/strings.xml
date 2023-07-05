@@ -32,6 +32,7 @@
     <string name="add_timezone_title">Ajouter un fuseau horaire</string>
     <string name="afternoon">Après-midi</string>
     <string name="agree">Accepter</string>
+    <string name="alarm_alert">L’alarme sonne</string>
     <string name="alarm_alert_alert_silenced">Alarmes silencieuses après %1$s.</string>
     <string name="alarm_alert_close_entrance">Désactiver</string>
     <string name="alarm_alert_disabled">Désactiver</string>
@@ -252,7 +253,6 @@
     <string name="miuix_alphabet_indexer_name">"Barre d'index"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Tout désélectionner</string>
     <string name="miuix_appcompat_action_mode_select_all">Tout sélectionner</string>
-    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_action_mode_title_empty">Sélectionner des éléments</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Plus</string>
     <string name="miuix_appcompat_cancel_description">Annuler</string>
@@ -260,6 +260,7 @@
     <string name="miuix_appcompat_delete_description">Supprimer</string>
     <string name="miuix_appcompat_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+    <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
     <string name="miuix_appcompat_search_input_description">Chercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -391,6 +392,7 @@
     <string name="notification_permission_desc">"Si vous n'accordez pas d'autorisations de notification, vous ne pourrez pas désactiver les alarmes lorsqu'elles sonnent. Accorder l'autorisation maintenant ?"</string>
     <string name="oneshot_alarm">"Supprimer quand l'alarme s'arrête"</string>
     <string name="open_keep_screen">"L'écran pourra rester allumé"</string>
+    <string name="open_notification_permission_remind">Autoriser les notifications pour pouvoir désactiver les alarmes</string>
     <string name="open_sleep_record">Activer</string>
     <string name="other_category_title">Autre</string>
     <string name="other_settings">Paramètres additionnels</string>
@@ -487,6 +489,7 @@
     <string name="sleep_time">"S'endormir"</string>
     <string name="slider_text">Balayez vers le haut pour désactiver</string>
     <string name="slider_text_new">Balayez vers le haut pour arrêter</string>
+    <string name="snooze_alarm_alert">En attente jusqu’à %s</string>
     <string name="snooze_confirm_cancel">"Ignorer l'alarme"</string>
     <string name="snooze_duration">Répéter</string>
     <string name="snooze_duration_title">Répéter</string>
@@ -584,6 +587,8 @@
     <string name="timer_alert_mute_on">"L'alarme ne sonnera pas lorsque la minuterie s'arrêtera"</string>
     <string name="timer_alert_mute_remind">"Appuyez pour désactiver l'alarme"</string>
     <string name="timer_alert_mute_switch">Interrupteur pour désactiver les alarmes de minuterie</string>
+    <string name="timer_alert_pause">Le minuteur est en pause</string>
+    <string name="timer_alert_running">Le minuteur est en cours d’exécution</string>
     <string name="timer_alert_type_beach">Plage</string>
     <string name="timer_alert_type_forest">Forêt</string>
     <string name="timer_alert_type_mute">Défaut</string>

@@ -427,7 +427,6 @@ Voulez-vous quitter maintenant ?} }"</string>
     <string name="card_title_redialing">Nouvelle composition</string>
     <string name="carrier_info">"Infos de l'opérateur"</string>
     <string name="carrier_mmi_msg_title">Message %s</string>
-    <string name="carrier_provisioning"></string>
     <string name="carrier_settings_euicc">Opérateur</string>
     <string name="carrier_settings_title">Paramètres opérateur</string>
     <string name="cb_sms_settings">Paramètres de la diffusion mobile par SMS</string>
@@ -661,6 +660,8 @@ Désactiver la eSIM quand même ?"</string>
     <string name="doneButton">OK</string>
     <string name="dsda_summary">La veille double SIM 5G + 4G est prise en charge par les réseaux sélectionnés</string>
     <string name="dsda_title">Activer 5G+4G DSDA</string>
+    <string name="dsda_turn_off">Dual active mode is off. Reboot device to apply changes.</string>
+    <string name="dsda_turn_on">Dual active mode is on. Reboot device to apply changes.</string>
     <string name="dsds_dialog_cancel">Annuler</string>
     <string name="dsds_dialog_confirm">Redémarrer</string>
     <string name="dsds_dialog_message">Vous devez redémarrer votre appareil pour modifier ce paramètre.</string>
@@ -767,6 +768,7 @@ Activer la eSIM quand même ?"</string>
     <string name="esim_inactive_notification_message_global">Aucune carte SIM détectée. Appuyez pour activer la eSIM.</string>
     <string name="esim_inactive_notification_title_global">Double carte SIM et réseaux mobiles</string>
     <string name="esim_inactive_settings_title">Double carte SIM et réseaux mobiles</string>
+    <string name="esim_is_activating_notification_message_for_o2">Activating mobile plan…</string>
     <string name="esim_setting_title">Paramètres eSIM</string>
     <string name="evening">Après-midi</string>
     <string name="exception_error">Erreur de réseau ou de carte SIM.</string>
@@ -1554,14 +1556,16 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">LTE préféré</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G (CDMA) préféré</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G préféré</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_dtag">2G/3G/4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_jp_sb">4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM auto</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G préféré)</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">4G/3G/2G auto</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (Auto)</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">4G/3G/2G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_vd">4G/3G/2G auto</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G auto</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mtn">2G/3G/4G auto</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">Prefer 5G</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_dtag">2G/3G/4G/5G</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_jp_sb">5G/4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (Auto)</string>

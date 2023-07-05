@@ -63,7 +63,8 @@
     <string name="abnormal_consume_set_hidemode">"Utiliser l'économiseur de batterie avec cette application"</string>
     <string name="abnormal_consume_type_cpu">Utilisation élevée du processeur</string>
     <string name="abnormal_consume_type_wakelock">Le système ne peut pas se mettre en veille</string>
-    <string name="about_autostart">À propos du démarrage auto</string>
+    <string name="about_autostart">À propos du démarrage automatique</string>
+    <string name="about_autostart_gloabl">À propos du démarrage automatique en arrière-plan</string>
     <string name="ac_enter_applock">Ouvrir Verr. App</string>
     <string name="ac_firstUseApplock_subTitle">Utilisez de meilleurs outils de sécurité au niveau du système</string>
     <string name="ac_firstUseApplock_title">Définir un mot de passe pour protéger votre application</string>
@@ -108,6 +109,7 @@
     <string name="activity_title_antivirus_kddi">Analyse de sécurité</string>
     <string name="activity_title_apps_manager">Applications</string>
     <string name="activity_title_auto_start_manager">Démarrage automatique</string>
+    <string name="activity_title_auto_start_manager_global">Démarrage automatique en arrière-plan</string>
     <string name="activity_title_garbage_cleanup">Nettoyeur</string>
     <string name="activity_title_license_manager">Autorisations</string>
     <string name="activity_title_networkassistants">Utilisation des données</string>
@@ -127,6 +129,12 @@
     <string name="ad_btn_default_text">En savoir plus</string>
     <string name="ad_floating_window_title">Fermez la fenêtre flottante pour déverrouiller</string>
     <string name="ad_split_screen_title">"Quitter l'écran partagé pour déverrouiller"</string>
+    <string name="ad_text_adx">Annonce</string>
+    <string name="ad_text_btn_download">Installer</string>
+    <string name="ad_text_develop">Développeur : %1$s</string>
+    <string name="ad_text_permission">Autorisations</string>
+    <string name="ad_text_privacy">Confidentialité</string>
+    <string name="ad_text_version">Version : %1$s</string>
     <string name="ad_update_time">Dernière mise à jour : %s</string>
     <string name="ad_update_time_unKnown">Dernière mise à jour inconnue</string>
     <string name="adb_install_no_network">Connectez-vous à internet et réessayez</string>
@@ -169,6 +177,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">"La diffusion ne sera pas interrompue lorsque l'écran est éteint et que l'application fonctionne en arrière-plan. Vous pouvez appuyer sur le bouton d'alimentation pour rallumer l'écran."</string>
     <string name="all_address_choose_hint">Tous les numéros de cette région</string>
     <string name="allow_all">Tout autoriser</string>
+    <string name="allow_onetime">Autoriser une fois</string>
     <string name="already_close_gamebooster">Game Turbo désactivé</string>
     <string name="am">AM</string>
     <string name="anti_disturb_msg_detail">"Désactiver toutes les notifications à l'exception des appels entrants"</string>
@@ -424,6 +433,15 @@
     <string name="app_install_intercept">"Bloquer l'installation"</string>
     <string name="app_install_tips_go_to">Ouvrir</string>
     <string name="app_install_tips_install_success">%1$s installé avec succès</string>
+    <string name="app_management_for_chain_start">Bloquer l’ouverture d’autres applications</string>
+    <string name="app_management_for_chain_start_desc">Empêcher cette application de se connecter ou d’ouvrir d’autres applications</string>
+    <string name="app_management_for_device_id">Masquer les identifiants et empêcher le suivi</string>
+    <string name="app_management_for_device_id_desc">Empêcher cette application d’accéder à votre numéro de téléphone et à vos informations d’identification personnelle</string>
+    <string name="app_management_for_independent_storage">Isoler les données mises en cache</string>
+    <string name="app_management_for_independent_storage_desc">Autoriser uniquement l’application à accéder à ses propres fichiers et données</string>
+    <string name="app_management_for_install">Bloquer les téléchargements d’applications</string>
+    <string name="app_management_for_install_desc">Empêcher cette application de télécharger ou d’installer d’autres applications</string>
+    <string name="app_management_measures">Gestion des applications</string>
     <string name="app_manager_advanced_setting">Paramètres avancés</string>
     <string name="app_manager_allow">Oui</string>
     <string name="app_manager_anomaly_analysis">Analyser les problèmes des applications tierces</string>
@@ -534,6 +552,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_manager_tab_manager">Gérer</string>
     <string name="app_manager_thumbnail_blur_summary">"Flouter les aperçus d'applications dans récents"</string>
     <string name="app_manager_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
+    <string name="app_manager_thumbnail_shield_summary">Masquer les aperçus d’applications dans Récents</string>
     <string name="app_manager_title">Gérer les applications</string>
     <string name="app_manager_to_appstore">"Découvrez plus d'applications"</string>
     <string name="app_manager_total_size">Total</string>
@@ -553,6 +572,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="app_name_pad">Securité</string>
     <string name="app_name_phone">Securité</string>
     <string name="app_name_securitycenter">Sécurité</string>
+    <string name="app_name_securitycenter_new">Sécurité</string>
     <string name="app_not_installed_toast">"L'application n'est pas installée sur votre appareil."</string>
     <string name="app_perm_manager_service">Autorisations</string>
     <string name="app_permission_use_group_calendar">Calendrier</string>
@@ -868,6 +888,7 @@ Vous ne perdrez aucune donnée d'application."</string>
     <string name="auto_task_voice_dialog_alarm_title">Alarmes</string>
     <string name="auto_task_voice_dialog_call_title">Appels, notifications, rappels</string>
     <string name="auto_task_voice_dialog_media_title">Musique, jeux, médias</string>
+    <string name="autostart_now_tip">"\"%1$s\" empêché d’ouvrir \"%2$s\" "</string>
     <string name="back_app_name">Retourner à Verr. App</string>
     <string name="back_description_securitycenter">Retour</string>
     <string name="back_modifypassword">Retourner au changement du type de mot de passe</string>
@@ -1043,6 +1064,7 @@ Cependant, certaines de vos transactions ne sont pas encore terminées. Pour pou
     <string name="blacklist_prefix_add_hint">Bloquer tous les numéros qui commencent avec ce préfixe</string>
     <string name="block_message_number">Messages : &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="block_phone_number">Appels : &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+    <string name="blur_location_title">Emplacement approximatif</string>
     <string name="boost_done">Augmenté avec succès</string>
     <string name="boost_stop">"Désactiver l'augmentation de la vitesse"</string>
     <string name="booster_immediately">Accélérer</string>
@@ -1174,6 +1196,7 @@ Cependant, certaines de vos transactions ne sont pas encore terminées. Pour pou
     <string name="cetus_invisible_mode_warn_location">"Vous êtes en navigation privée. Les permissions de la localisation photo sont suspendues."</string>
     <string name="cetus_invisible_mode_warn_open">Le mode Navigation privée suspend les autorisations relatives au microphone, aux capteurs photo et à la localisation pour toutes les applications. Activer maintenant ?</string>
     <string name="cetus_invisible_mode_warn_record_audio">"Vous êtes en navigation privée. Les permissions du microphone sont suspendues"</string>
+    <string name="chainstart_desc_for_exemption">L’application non examinée \"%1$s\" démarre \"%2$s\". Faites attention lorsque vous effectuez des paiements.</string>
     <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="charge_high_temp_warning_dialog_ok">Compris</string>
@@ -1261,6 +1284,8 @@ Cependant, certaines de vos transactions ne sont pas encore terminées. Pour pou
     <string name="cs_func_toast_headset">Déconnectez votre casque pour pouvoir utiliser cette fonctionnalité</string>
     <string name="cs_func_toast_light">Passez à la caméra frontale pour pouvoir utiliser cette fonctionnalité</string>
     <string name="cs_func_toast_pickup">Passez à un appel vidéo pour pouvoir utiliser cette fonctionnalité</string>
+    <string name="cs_pickup_denoise_desc">Réduire le bruit de l’audio entrant lors de l’utilisation de haut-parleurs ou d’écouteurs</string>
+    <string name="cs_pickup_denoise_title">Réduction du bruit</string>
     <string name="cs_pickup_multi_desc">capture audio à %d degrés</string>
     <string name="cs_pickup_multi_title">Plusieurs participants</string>
     <string name="cs_pickup_single_desc">Captez uniquement le son devant l’écran</string>
@@ -1280,6 +1305,7 @@ Cependant, certaines de vos transactions ne sont pas encore terminées. Pour pou
     <string name="cta_dialog_positive">Accepter</string>
     <string name="cta_dialog_title">Connexion internet</string>
     <string name="cta_main_purpose">"Bienvenue dans Sécurité ! Vous pouvez utiliser Sécurité et ses modules (y compris les composants de sécurité MIUI et les services système) pour libérer de l'espace de stockage, analyser votre appareil contre les virus, contrôler l'utilisation de la batterie, optimiser votre appareil pour les jeux, gérer les applications, recevoir des alertes précoces en cas de tremblement de terre, etc. Les composants de sécurité MIUI se connecteront à Internet et effectueront des analyses de sécurité pendant que vous installez des applications et effectuez des paiements."</string>
+    <string name="cta_main_purpose_new">"Bienvenue dans Sécurité ! Vous pouvez utiliser Sécurité et ses modules (y compris les composants de sécurité MIUI, les services de sécurité et système et Joyose) pour libérer de l'espace de stockage, analyser votre appareil contre les virus, contrôler l'utilisation de la batterie, optimisez votre appareil pour les jeux, gérez les applications, recevez des alertes précoces en cas de tremblement de terre, etc. Les composants de sécurité MIUI se connecteront à Internet et effectueront des analyses de sécurité pendant que vous installez des applications et effectuez des paiements."</string>
     <string name="cta_settings">Autoriser la connexion à internet</string>
     <string name="current_network_state_not_need_diagnose">La connexion internet est normale.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">"Pour utiliser la liste de blocage et passer des appels aux contacts d'urgence lorsque des avertissements de tremblement de terre sont émis"</string>
@@ -1336,8 +1362,8 @@ Votre opérateur peut vous facturer des frais supplémentaires si vous activer l
     <string name="date_picker_lunar">Calendrier chinois traditionnel</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
     <string name="day_overflow_tips">Avertissement dépassement des données journalières</string>
-    <string name="debug_open_final_tip">Turn on USB debugging?</string>
-    <string name="debug_open_title">This feature is intended for developers and might not be convenient for general users. Turning on USB debugging might bring about the following changes:</string>
+    <string name="debug_open_final_tip">Activer le débogage USB ?</string>
+    <string name="debug_open_title">Cette fonctionnalité est destinée aux développeurs et peut ne pas convenir aux utilisateurs généraux. L’activation du débogage USB peut entraîner les modifications suivantes :</string>
     <string name="declaration_dialog_msg">"Cette option vous permet de gérer au mieux l'utilisation de vos données, mais ne constitue pas une garantie fiable afin d'éviter d'éventuels surcoûts. Par conséquent, il est conseillé de garder une marge."</string>
     <string name="deep_clean_disconnect_data_title">Désactiver les données mobiles</string>
     <string name="deep_clean_memory_clean_title">Nettoyer automatiquement le cache</string>
@@ -1378,6 +1404,7 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
     <string name="dialog_change_package_type_summary">"La modification du type de forfait de données réinitialisera tous les paramètres d'utilisation des données (ex.: les limites de données) à leurs valeurs par défaut. Changer le type de forfait de données maintenant ?"</string>
     <string name="dialog_change_package_type_title">Changement du type de forfait de données</string>
     <string name="dialog_msg_auto_start_declare">Certaines applications peuvent indiquer que MIUI les empêche de démarrer. Vérifiez les permissions pour les applications dans Paramètres &gt; Applications.</string>
+    <string name="dialog_msg_auto_start_declare_global">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings.</string>
     <string name="dialog_msg_create_icon_content">"Ajouter un raccourci sur l'écran d'accueil maintenant ?"</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Ne plus afficher</string>
     <string name="dialog_msg_delete_icon_content_pad">"La sécurité vous permet de vider la corbeille de votre appareil, de rechercher et de neutraliser les virus, d'économiser la batterie, de gérer les autorisations, etc."</string>
@@ -1409,6 +1436,7 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
     <string name="dialog_skt_roaming_warning_title">"Accord d'itinérance des données"</string>
     <string name="dialog_title_attention">Attention</string>
     <string name="dialog_title_auto_start_declare">À propos du démarrage auto</string>
+    <string name="dialog_title_auto_start_declare_global">About background autostart</string>
     <string name="dialog_title_stop_virus_scan">"Arrêter l'analyse de sécurité"</string>
     <string name="disable_air_mode">"Désactivez le mode Avion d'abord"</string>
     <string name="disable_sensitive_permissions">Autorisations sensibles restreintes</string>
@@ -1481,6 +1509,8 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="downloading">Téléchargement</string>
     <string name="doze_optimization_summary">Augmente la réponse au toucher et la sensibilité</string>
     <string name="doze_optimization_title">Commandes tactiles optimisées</string>
+    <string name="dynamic_performance_optimization_summary">Adjust resolution dynamically during gaming sessions</string>
+    <string name="dynamic_performance_optimization_title">Dynamic performance</string>
     <string name="early_morning">Matin</string>
     <string name="edit_new_task_name">Entrez le nom de la tâche</string>
     <string name="edit_phone_num">Modifier le numéro de téléphone SIM</string>
@@ -2238,6 +2268,7 @@ le taux de rafraîchissement et les limites de température"</string>
     <string name="gb_performance_mode">Mode jeu</string>
     <string name="gb_performance_tips">"Le mode Performance améliore les performances graphiques,
 mais augmente également la consommation d'énergie et permet à votre appareil de surchauffer"</string>
+    <string name="gb_predownload_check">View rewards</string>
     <string name="gb_predownload_dialog_cancel">Non merci</string>
     <string name="gb_predownload_dialog_checked">Ne plus afficher</string>
     <string name="gb_predownload_dialog_confirm">Activer</string>
@@ -2314,6 +2345,8 @@ mais augmente également la consommation d'énergie et permet à votre appareil 
     <string name="gb_turbo_wonder_subtitle">Enregistrez les moments clés</string>
     <string name="gb_vision_enhance">Visuels améliorés</string>
     <string name="gb_vision_enhance_desc">Améliorer la qualité et les performances de l’image</string>
+    <string name="gb_vision_enhance_frme_insertion_tips">"Smart frame rate
+%dFPS"</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Fréquence d’images intelligente</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Ajustez automatiquement la fréquence d’images pour rendre le mouvement plus fluide</string>
     <string name="gb_vision_enhance_super_resolution">Super résolution</string>
@@ -2484,6 +2517,8 @@ de vos sessions de jeu"</string>
     <string name="gtb_dnd">NPD</string>
     <string name="gtb_exit_game_to_gtb">Ouvrir gamebox</string>
     <string name="gtb_exit_game_to_home">"Retour à l'écran d'accueil"</string>
+    <string name="gtb_garbage_clean">Free up storage</string>
+    <string name="gtb_garbage_cleaned_tip">Free up %1$s to boost performance</string>
     <string name="gtb_guide_finish">Ignorer</string>
     <string name="gtb_guide_game_mode_tips">Sélectionnez le mode de jeu préféré</string>
     <string name="gtb_guide_gtb_button_done">Effectué</string>
@@ -2609,6 +2644,7 @@ pour rejoindre notre chasse aux œufs !"</string>
     <string name="input_aviable_traffic">"Définir la limite d'utilisation des données"</string>
     <string name="input_celluar_data_quota_hint">Entrez la limite de données</string>
     <string name="input_cellular_data_warn_hint">"Entrez la limite d'avertissement d'utilisation des données"</string>
+    <string name="input_hint_search_app">Search apps</string>
     <string name="input_password_hint_text">Saisir le mot de passe</string>
     <string name="input_phone_num_hint">Modifier le numéro de téléphone SIM</string>
     <string name="input_title">Appuyez pour entrer</string>
@@ -3011,6 +3047,9 @@ Votre appareil est %s plus rapide maintenant."</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer en mode de saisie du calendrier</string>
     <string name="mtrl_picker_toggle_to_day_selection">"Appuyez pour passer à la sélection d'un jour"</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer en mode de saisie de texte</string>
@@ -3327,6 +3366,14 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="other_milink_connect">Impossible de lancer. Une autre fonctionnalité est en cours de conversion.</string>
     <string name="other_operator_name_virtual_operator">Autres opérateurs virtuels</string>
     <string name="over_package_reminder_type">Lorsque le forfait de données est épuisé</string>
+    <string name="overlay_permission_dialog_comment">Allow Security to show items over other apps.</string>
+    <string name="overlay_permission_dialog_comment_pad">Allow Security to show items over other apps.</string>
+    <string name="overlay_permission_dialog_comment_security_service">Allow \"Security tools\" to show items over other apps. You can grant this permission in Settings.</string>
+    <string name="overlay_permission_dialog_message">Security needs permissions to be able to work normally.</string>
+    <string name="overlay_permission_dialog_message_pad">Security needs permissions to be able to work normally.</string>
+    <string name="overlay_permission_dialog_message_security_service">Security needs certain permissions to work normally.</string>
+    <string name="overlay_permission_dialog_open">Settings</string>
+    <string name="overlay_permission_dialog_title">Permissions required</string>
     <string name="package_change_notification_summary">Appuyez pour en savoir plus.</string>
     <string name="package_change_notification_title">Ajuster automatiquement la limite de données</string>
     <string name="package_setted_error_notification_summary">"Appuyez pour voir les détails d'utilisation des données."</string>
@@ -3371,6 +3418,10 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pc_battery_history_total_consumption_title">"Consommation d'énergie totale"</string>
     <string name="pc_battery_history_usetime_title">Actif</string>
     <string name="pc_close_notifi_action">Activer</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_sumary">Battery saver will be turned off when %1$s is %2$s or fully charged</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_title">Turned on Battery saver on %s</string>
+    <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s battery is lower than %2$s. Turn on Battery saver to add %3$s %4$s.</string>
+    <string name="pc_continuity_open_save_mode_notifi_title">%s battery is low</string>
     <string name="pc_emergency_call">Urgence</string>
     <string name="pc_endurance_calculation">Calcul…</string>
     <string name="pc_entered_extreme_mode">Le mode veille prolongée est activé</string>
@@ -3580,6 +3631,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pm_newfeature_sub_text">NOUVEAU</string>
     <string name="pm_remember_choice">Se souvenir de mon choix</string>
     <string name="pm_root_success_notification_infomation">"Assurez-vous de comprendre les risques liés à l'accès root"</string>
+    <string name="pm_root_success_notification_title">Allowed root access</string>
     <string name="power_5g_popups_content">Les réseaux 5G offrent une vitesse de connexion élevée et une latence plus faible.</string>
     <string name="power_5g_popups_title">Utiliser les réseaux 5G</string>
     <string name="power_ambient_display">Affichage Always-on</string>
@@ -3637,7 +3689,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_center_list_item_set_lockscreen_time_summary">Verrouiller votre appareil plus rapidement économise la batterie</string>
     <string name="power_center_list_item_wake_notification">"Ne pas réveiller l'écran pour les notifications"</string>
     <string name="power_center_list_item_wake_notification_summary">"Les notifications entrantes ne s'afficheront que lorsque vous allumerez l'écran"</string>
-    <string name="power_center_low_battery_summary_dynamic">À %1$d%%, activer le profil %2$s</string>
     <string name="power_center_night_charge_noti_subtitle">La batterie sera complètement chargée par %s</string>
     <string name="power_center_night_charge_noti_title">La charge optimisée est activée</string>
     <string name="power_center_night_charge_protection">Charge optimisée</string>
@@ -3955,6 +4006,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pp_understanding_privacy">Conscience</string>
     <string name="pp_virtual_identity_manager">ID virtuel</string>
     <string name="pp_virtual_identity_summary">Un identifiant virtuel (OAID) peut être fourni aux applications au lieu de votre véritable identifiant. Il protège votre vie privée et vous permet de contrôler la façon dont les applications suivent votre comportement.</string>
+    <string name="precise_location_title">Precise location</string>
     <string name="pref_about_traffic_title">"Paramètres d'utilisation des données"</string>
     <string name="pref_adjust_data_usage">Modèle de message opérateur</string>
     <string name="pref_adjust_data_usage_summary">"Après avoir changé le modèle d'étalonnage, MIUI l'utilisera afin d'obtenir les statistiques d'utilisation des données de votre opérateur"</string>
@@ -4288,6 +4340,8 @@ Retirer le consentement maintenant ?"</string>
     <string name="privacy_thumbnail_blur_search_empty">Aucun résultat trouvé</string>
     <string name="privacy_thumbnail_blur_title">Flouter les aperçus</string>
     <string name="privacy_thumbnail_blur_top_tip">Sélectionnez les applications pour lesquelles les aperçus seront flous dans Récents</string>
+    <string name="privacy_thumbnail_shield_title">Preview masking</string>
+    <string name="privacy_thumbnail_shield_top_tip">Mask previews for apps displayed in Recents</string>
     <string name="privacy_type_open">Activé</string>
     <string name="privacy_update_dialog_content_1">La politique de confidentialité de %s a été mise à jour :</string>
     <string name="privacy_update_dialog_content_2"><Data>Lisez et acceptez la nouvelle version de la &lt;a href=\"%1$s\"&gt;Politique de confidentialité&lt;/a&gt; avant de continuer.</Data></string>
@@ -4304,8 +4358,6 @@ Retirer le consentement maintenant ?"</string>
     <string name="prompt_input_time_illegal">Impossible de définir cette heure, changez et réessayez</string>
     <string name="protect_data_security">Données isolées</string>
     <string name="protect_data_security_detail">"Les données générées par le clavier seront isolées et inaccessibles par d'autres applications."</string>
-    <string name="protect_screen_information">Votre écran est protégé</string>
-    <string name="protect_screen_information_detail">"Vous ne pourrez pas prendre de capture d'écran ou enregistrer votre écran pendant que vous tapez."</string>
     <string name="protocol_exception_title">Diagnostics de protocole réseau</string>
     <string name="protocol_loop_back_exception_summary">"Le test de retour en boucle a échoué. Pour signaler ce problème à MIUI, allez dans l'application Commentaires et envoyez un rapport à partir de votre appareil."</string>
     <string name="provision_back">Retour</string>
@@ -4646,6 +4698,7 @@ Retirer le consentement maintenant ?"</string>
     <string name="sim_lock_start_summary">Cette fonctionnalité vous protège des risques éventuels en cas de perte de votre carte SIM.</string>
     <string name="sim_lock_start_title">Sécurité SIM</string>
     <string name="sim_lock_toast_no_sim">"Installez d'abord la carte SIM"</string>
+    <string name="sim_lock_verify_time_out">Verification timed out. Try again.</string>
     <string name="sim_not_ready_toast">"La carte SIM n'est pas prête"</string>
     <string name="sim_state_exception_summary">Le statut SIM indique une erreur avec votre carte SIM.</string>
     <string name="sip_phone">Téléphone SIP</string>
@@ -4923,6 +4976,7 @@ Retirer le consentement maintenant ?"</string>
     <string name="st_msg_stranger_group">"Bloquer les messages d'étrangers"</string>
     <string name="st_settings_name">Paramètres de la Liste noire</string>
     <string name="st_share_settings">Utiliser les paramètres de la SIM 1</string>
+    <string name="st_sms_intercept_oversea">SMS international</string>
     <string name="st_sub_title_customize_mode_name">Nom</string>
     <string name="st_sub_title_whiteblack_list_group">Liste noire</string>
     <string name="st_sum_call_wait">"Votre message d'attente sera également joué comme signal d'occupation pour les appels entrants."</string>
@@ -5168,7 +5222,6 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_dialog_massage">"L'ultra économiseur de batterie restreint la plupart des fonctionnalités énergivores et diminue les performances de votre appareil afin de laisser les fonctionnalités de base (appels, SMS et connexion au réseau, par exemple) disponibles le plus longtemps possible. Activer l'ultra économiseur de batterie ?"</string>
     <string name="superpower_dialog_title">Ultra économiseur de batterie</string>
-    <string name="superpower_notification_new_title">Moins de %d%% de la batterie restante</string>
     <string name="superpower_notification_new_title_new">Moins de %s de la batterie restante</string>
     <string name="superpower_notification_summary">"Activer l'ultra économiseur de batterie"</string>
     <string name="superpower_notification_time_12">EEEE d MMMM</string>
@@ -5360,46 +5413,6 @@ Le formatage effacera le contenu existant sur le ^2. Pour éviter de perdre du c
     <string name="text_button">Compris</string>
     <string name="text_done">OK</string>
     <string name="text_security">Confidentialité</string>
-    <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
-    <string name="the_anti_aggression_day">Anti-Aggression Day</string>
-    <string name="the_arbor_day">Arbor Day</string>
-    <string name="the_armed_forces_day">Armed Forces Day</string>
-    <string name="the_armys_day">PLA Day</string>
-    <string name="the_childrens_day">"Children's Day"</string>
-    <string name="the_chinese_youth_day">Youth Day</string>
-    <string name="the_christmas_day">Christmas</string>
-    <string name="the_double_ninth_festival">Double Ninth Festival</string>
-    <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
-    <string name="the_easter_day">Easter</string>
-    <string name="the_eve_of_the_spring_festival">Eve of Chinese New Year</string>
-    <string name="the_fifth_day">Fifth day of Chinese New Year</string>
-    <string name="the_fools_day">"April Fool's Day"</string>
-    <string name="the_forth_day">Fourth day of Chinese New Year</string>
-    <string name="the_hksar_establishment_day">Hong Kong SAR Establishment Day</string>
-    <string name="the_international_womens_day">"Women's Day"</string>
-    <string name="the_laba_festival">Laba Festival</string>
-    <string name="the_labour_day">Labor Day</string>
-    <string name="the_lantern_festival">Lantern Festival</string>
-    <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
-    <string name="the_national_day">National Day</string>
-    <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
-    <string name="the_new_years_day">New Year</string>
-    <string name="the_night_of_sevens">Qixi Festival</string>
-    <string name="the_partys_day">CPC Day</string>
-    <string name="the_peace_day">Remembrance Day</string>
-    <string name="the_retrocession_day">Retrocession Day</string>
-    <string name="the_second_day">Second day of Chinese New Year</string>
-    <string name="the_seventh_day">Seventh day of Chinese New Year</string>
-    <string name="the_sixth_day">Sixth day of Chinese New Year</string>
-    <string name="the_spirit_festival">Ghost Festival</string>
-    <string name="the_spring_festival">Chinese New Year</string>
-    <string name="the_teachers_day">"Teachers' Day"</string>
-    <string name="the_third_day">Third day of Chinese New Year</string>
-    <string name="the_tw_childrens_day">"Children's Day"</string>
-    <string name="the_tw_youth_day">Youth Day</string>
-    <string name="the_united_nations_day">United Nations Day</string>
-    <string name="the_valentines_day">"Valentine's Day"</string>
-    <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="thermal_tips_message">Jouer à des jeux en mode Performance peut entraîner des problèmes de surchauffe.</string>
     <string name="thermal_tips_title">Attention</string>
     <string name="third_application">Applications installées</string>

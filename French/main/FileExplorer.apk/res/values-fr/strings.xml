@@ -13,7 +13,7 @@
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
     <string name="abc_searchview_description_submit">Envoyer la requête</string>
-    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
@@ -153,6 +153,7 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="create_folder">Créer</string>
     <string name="create_shortcut_success">Raccourci ajouté avec succès</string>
     <string name="cta_function_account_operation">Pour une connexion rapide à votre compte Xiaomi</string>
+    <string name="cta_use_sync_midrive_file">Pour synchroniser des fichiers avec Mi Drive</string>
     <string name="data_consume_dialog_message">Vous utilisez actuellement des données mobiles. Si vous continuez, cela utilisera %s de données.</string>
     <string name="data_consume_dialog_title">Utiliser les données mobiles ?</string>
     <string name="data_consume_dialog_upload_title">"Télécharger à l'aide de données mobiles"</string>
@@ -749,6 +750,7 @@ Essayez de déplacer des fichiers de votre appareil vers Mi Drive."</string>
     <string name="select_dest_folder">Sélectionner un dossier</string>
     <string name="select_image">Images</string>
     <string name="select_music">Fichiers audios</string>
+    <string name="select_pdf">Sélectionner PDF</string>
     <string name="select_video">Fichiers vidéos</string>
     <string name="select_volume">"Sélectionnez l'emplacement de stockage"</string>
     <string name="send">Envoyer</string>
