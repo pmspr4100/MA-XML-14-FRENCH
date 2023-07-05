@@ -32,36 +32,9 @@
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="accept_failure">"Échec de l'acceptation de l'invitation~"</string>
-    <string name="access_denied_info">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
     <string name="account_and_cloud">Compte</string>
     <string name="account_blocked_by_user_tips">"Vous avez été bloqué par l'autre partie et ne pouvez pas effectuer l'action suivante"</string>
-    <string name="account_crop_user_avatar">Recadrer la photo</string>
-    <string name="account_empty_user_name">"Entrez le nom d'utilisateur de votre Compte Xiaomi"</string>
-    <string name="account_error_all_space_user_name">"Le nom d'utilisateur ne peut pas contenir uniquement des espaces"</string>
-    <string name="account_error_invalid_user_name">Le nom ne peut pas contenir &lt;, > ou /</string>
-    <string name="account_error_longer_user_name">Le nom ne peut pas dépasser 20 caractères</string>
-    <string name="account_error_shorter_user_name">Le nom doit comporter plus de 2 caractères</string>
-    <string name="account_error_user_birthday">"La date de naissance que vous avez saisie n'est pas valide"</string>
-    <string name="account_error_user_name">"Ce surnom n'est pas valide. Essayez-en un autre."</string>
-    <string name="account_invalid_user_avatar">"Cette photo n'est pas valide. Essayez-en une autre."</string>
-    <string name="account_limit_update_birthday">Impossible de mettre à jour la date de naissance pour le moment</string>
     <string name="account_logout">Déconnexion</string>
-    <string name="account_no_set">Aucun</string>
-    <string name="account_none_bind_info">Aucune</string>
-    <string name="account_none_user_name">Aucun</string>
-    <string name="account_secure_info_pref_title">Informations sur le compte</string>
-    <string name="account_security_info_pref_title">Informations de sécurité</string>
-    <string name="account_user_avatar">Photo de profil</string>
-    <string name="account_user_avatar_from_album">Galerie</string>
-    <string name="account_user_avatar_from_camera">Capteur photo</string>
-    <string name="account_user_base_info">Informations de base</string>
-    <string name="account_user_details">Informations personnelles</string>
-    <string name="account_user_email">E-mail de récupération</string>
-    <string name="account_user_gender">Sexe</string>
-    <string name="account_user_id">ID de Compte Xiaomi</string>
-    <string name="account_user_name">Pseudo</string>
-    <string name="account_user_name_dialog_title">"Entrez le nom d'utilisateur"</string>
-    <string name="account_user_phone">Téléphone de récupération</string>
     <string name="action_item_add">Ajouter à</string>
     <string name="action_item_add_song">Ajouter à une playlist</string>
     <string name="action_item_add_to_current_playlist">"Mettre en file d'attente"</string>
@@ -82,7 +55,6 @@
     <string name="action_item_share">Partager</string>
     <string name="action_settings">Paramètres</string>
     <string name="actionbar_button_up_description">Retour</string>
-    <string name="activate_email_notice">"Assurez-vous d'activer votre compte dans les  heures"</string>
     <string name="activity_Premium_family">Famille Premium</string>
     <string name="activity_Premium_family_Description">"1. La famille premium est sélectionnée par un officiel et apparaîtra sur la bannière.
 
@@ -98,6 +70,9 @@
     <string name="ad_setting">Paramètres supplémentaires</string>
     <string name="add">Ajouter</string>
     <string name="add_music">Ajouter des chansons</string>
+    <string name="add_songs_manually_bottom">Ajouter</string>
+    <string name="add_songs_manually_home">Ajouter des chansons manuellement</string>
+    <string name="add_songs_manually_setting">Ajouter des chansons manuellement</string>
     <string name="add_to_group_notify">%1$s a rejoint la famille</string>
     <string name="add_to_last_of_playlist">Ajouter à la fin de la playlist</string>
     <string name="add_to_playlist">"Ajouter à la file d'attente"</string>
@@ -152,6 +127,7 @@
     <string name="apply_failure_net_error">Le réseau est anormal, la demande de téléchargement du microphone a échoué, veuillez réessayer plus tard~</string>
     <string name="apply_for_the_following_permissions">Cette application demande les autorisations suivantes :</string>
     <string name="apply_permissions_greater_than_pie">Vous pouvez accorder cette autorisation dans Paramètres > Applications > Autorisations > Autorisations > Fichiers et médias > Musique.</string>
+    <string name="apply_permissions_greater_than_tiramisu">Vous pouvez accorder cette autorisation dans Paramètres > Applications > Autorisations > Musique et audio (ou Photos et vidéos) > Musique.</string>
     <string name="apply_permissions_less_than_pie">Vous pouvez accorder cette autorisation dans Paramètres > Applications > Autorisations > Autorisations > Accéder et modifier les fichiers sur le stockage interne > Musique.</string>
     <string name="apply_permissions_tips_content">Autoriser cette application à accéder aux fichiers pour découvrir de la musique sur votre appareil.</string>
     <string name="apply_queue">"File d'attente"</string>
@@ -181,8 +157,9 @@
     <string name="audio_ad_countdown">"Ignorer l'annonce dans %s s"</string>
     <string name="audio_ad_pass">"Ignorer l'annonce"</string>
     <string name="audio_picker_title">Choisir une chanson</string>
-    <string name="auth_fail_warning">Session expirée. Connectez-vous à nouveau.</string>
     <string name="auth_pay_fail">Échec de la recharge, veuillez ressaisir la page plus tard pour vérifier le solde des pièces ou contactez le service client</string>
+    <string name="auto_play_switch">Lecture automatique des vidéos</string>
+    <string name="auto_play_toast">La lecture automatique est activée. Vous pouvez le désactiver dans les paramètres.</string>
     <string name="auto_recommend">Auto (recommandé)</string>
     <string name="auto_sound_quality">Auto</string>
     <string name="auto_update">Mettre à jour automatiquement</string>
@@ -252,9 +229,7 @@
     <string name="cancel_apply_queue">Annuler la ligne du micro</string>
     <string name="cancel_running_download">Annuler</string>
     <string name="cannot_download_to_sdcard_hint">"Impossible de télécharger des éléments sur la carte SD en raison de restrictions de droits d'auteur. Les éléments seront téléchargés sur le stockage interne à la place."</string>
-    <string name="change_activate_email">"Modifier l'adresse e-mail"</string>
     <string name="change_download_quality">Changer la qualité de téléchargement</string>
-    <string name="change_password">Modifier le mot de passe</string>
     <string name="changepassword_hint_input1">Mot de passe actuel</string>
     <string name="changepassword_toast_passworderror">Le mot de passe est incorrect</string>
     <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
@@ -349,7 +324,6 @@
     <string name="common_signin_button_text">Se connecter</string>
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
     <string name="confirm">OK</string>
-    <string name="confirm_activate_email">Vérifié</string>
     <string name="confirm_exit">Enregistrer les modifications ?</string>
     <string name="confirm_hide_income_content">Confirmez pour désactiver la valeur de pulsation, après la fermeture, la valeur de pulsation sur le microphone actuel sera effacée</string>
     <string name="connect_now">Se connecter</string>
@@ -454,6 +428,7 @@ Veuillez vérifier votre réseau"</string>
     <string name="create_playlist">Créer une playlist</string>
     <string name="create_playlist_failure">Impossible de créer la playlist</string>
     <string name="create_playlist_input_hint">Entrez le nom de la playlist</string>
+    <string name="create_shortcut_for_playlist">Créer un raccourci vers l’écran d’accueil ?</string>
     <string name="crg_none_address">Aucune adresse</string>
     <string name="crg_none_gift">Aucun cadeau</string>
     <string name="crs_appeal">Appel</string>
@@ -538,10 +513,6 @@ Veuillez vérifier votre réseau"</string>
     <string name="develop_mode">Mode développeur</string>
     <string name="device_connected">Connecté</string>
     <string name="device_not_connected">Déconnecté</string>
-    <string name="diagnosis_log_send_failed">"Impossible d'envoyer les journaux. Réessayez."</string>
-    <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
-ID :%s
-Envoyez ce code au superviseur."</string>
     <string name="dialog_cannot_resume">Téléchargement interrompu. Impossible de le reprendre.</string>
     <string name="dialog_clear_history">Effacer la liste des chansons récemment lues ?</string>
     <string name="dialog_confirm_delete_checkbox_message">Supprimer aussi les fichiers locaux</string>
@@ -603,7 +574,6 @@ Envoyez ce code au superviseur."</string>
     <string name="do_not_disturb">Désactiver la notification</string>
     <string name="do_not_remind_this_version">Ne pas me rappeler cette version</string>
     <string name="do_not_support_google_voice_search">"Google Voice Search n'est pas pris en charge sur votre appareil."</string>
-    <string name="doing_query_account">Vérification des informations de compte…</string>
     <string name="download">Télécharger</string>
     <string name="download_added_to_list">"Ajouté à la file d'attente des téléchargements"</string>
     <string name="download_apk_desktop_installing">Installation</string>
@@ -746,7 +716,6 @@ Envoyez ce code au superviseur."</string>
     <string name="error_toast_serverdes_459">"L'utilisateur n'a pas créé de mot de passe"</string>
     <string name="error_toast_serverdes_500">Erreur de serveur</string>
     <string name="evening">Après-midi</string>
-    <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre Compte Xiaomi.</string>
     <string name="exit_game_confirm">Confirmer pour fermer ?</string>
     <string name="exit_group_chat">Quitter</string>
     <string name="exit_group_chat_desc">"Êtes-vous sûr de vouloir quitter la famille ? Remarque : il faut 24 heures pour rejoindre à nouveau la famille après l'avoir quittée"</string>
@@ -805,7 +774,6 @@ Envoyez ce code au superviseur."</string>
     <string name="expand_button_title">Avancé</string>
     <string name="expired">Expiré</string>
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
-    <string name="facebook_login_btn_content_description">Se connecter avec Facebook</string>
     <string name="facebook_not_installed">"Installer d'abord Facebook."</string>
     <string name="fail_to_fetch_payment_page_url">"Impossible d'obtenir les informations de paiement"</string>
     <string name="fail_to_play">Impossible de jouer la chanson</string>
@@ -921,7 +889,6 @@ Créé avec %s pièces"</string>
     <string name="follow_list_empty">"Vous ne suivez encore personne"</string>
     <string name="follow_room_suc">Suivre la salle vocale avec succès</string>
     <string name="followed">Suivi</string>
-    <string name="for_diagnosis_usage_only">Les journaux sont utilisés uniquement pour les diagnostics.</string>
     <string name="forbidden">Mise en sourdine~</string>
     <string name="format_not_support">"Ce format n'est pas pris en charge."</string>
     <string name="format_unsupported_or_corrupted">"Ce format n'est pas supporté ou le fichier est corrompu"</string>
@@ -972,13 +939,11 @@ Créé avec %s pièces"</string>
     <string name="gameroom_playerfull">Le joueur actuel est complet !</string>
     <string name="gcm_fallback_notification_channel_label">Divers</string>
     <string name="gender">Sexe :</string>
-    <string name="get_back_pwd">Réinitialiser le mot de passe</string>
     <string name="get_game_loading_error">"Erreur lors de l'extraction de l'étape du jeu, veuillez réessayer"</string>
     <string name="get_it">Aller</string>
     <string name="get_more_favorite_content_after_login">Connectez-vous pour découvrir plus de chansons et de vidéos.</string>
     <string name="get_one_day_vip">Vous obtenez %d jours en VIP !</string>
     <string name="get_one_hour_vip">Vous obtenez %d heures en VIP !</string>
-    <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
     <string name="get_vip">Devenez VIP</string>
     <string name="gift">Cadeaux</string>
     <string name="gift_bag_not_enough">Pas assez de cadeaux</string>
@@ -999,11 +964,10 @@ Créé avec %s pièces"</string>
     <string name="gift_to">Envoyer à :</string>
     <string name="giftwall_none_hint">"Vous n'avez reçu aucun cadeau"</string>
     <string name="giftwall_none_hint_other">"Je n'ai reçu aucun cadeau"</string>
-    <string name="aller">ALLER</string>
-    <string name="go_to_recharge">Pour recharger</string>
+    <string name="go">ALLER</string>
+    <string name="go_agree">OK</string>
     <string name="gold_center">Centre de pièces</string>
     <string name="google_account_login">Connectez-vous avec Google</string>
-    <string name="google_login_btn_content_description">Se connecter avec Google</string>
     <string name="google_pay_fail_dialog_btn">Copier WhatsApp</string>
     <string name="google_pay_fail_dialog_btn2">Copier et passer à WhatsApp</string>
     <string name="google_pay_fail_dialog_content">"Il semble qu'il y ait un problème avec votre facturation. Veuillez contacter le service client VIP pour vous aider à résoudre votre problème.
@@ -1022,7 +986,6 @@ Numéro WhatsApp : +905331901598"</string>
     <string name="handle_later">Pas maintenant</string>
     <string name="has_to_bottom">"C'est la fin"</string>
     <string name="hd_quality_audio">Audio de qualité HD</string>
-    <string name="header_help">Aide</string>
     <string name="headset_and_audio_effect_category">Écouteurs et ampli ; effets audio</string>
     <string name="headset_and_audio_effect_summary">Écouteurs et ampli ; égaliseur</string>
     <string name="headset_and_audio_effect_title">Écouteurs et ampli ; effets audio</string>
@@ -1120,7 +1083,6 @@ Numéro WhatsApp : +905331901598"</string>
     <string name="info_system_version">Version du système :</string>
     <string name="init_expel_failure">Échec du téléchargement du microphone, veuillez réessayer plus tard~</string>
     <string name="input_content_is_empty">"Le contenu d'entrée ne peut pas être vide"</string>
-    <string name="input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
     <string name="input_hint_prefix">Entrer %1$s</string>
     <string name="input_room_name">Veuillez saisir le nom de la salle</string>
     <string name="installing_apk">Installation…</string>
@@ -1192,7 +1154,7 @@ Après le téléchargement, veuillez le lier sur la page des paramètres avant 2
     <string name="joox_category_playlist">Playlists</string>
     <string name="joox_category_vip">Centre des fans</string>
     <string name="joox_download_title">Téléchargements JOOX</string>
-    <string name="joox_privacy_desc">Politique de confidentailité JOOX (optionnel)</string>
+    <string name="joox_privacy_desc">Politique de confidentialité JOOX (optionnelle)</string>
     <string name="joox_privacy_tips_content">"Lisez et acceptez la &lt;a href=\"/link/click\">Politique de confidentialité JOOX&lt;/a>, avant d'utiliser les services en ligne."</string>
     <string name="joox_privacy_tips_title">Politique de confidentialité JOOX</string>
     <string name="joox_recommend_artist_title">Artistes recommendés</string>
@@ -1268,8 +1230,6 @@ Après le téléchargement, veuillez le lier sur la page des paramètres avant 2
     <string name="level_liftmethod_method3_cal">1 minute = 1 point</string>
     <string name="level_liftmethod_method4">Chat privé</string>
     <string name="level_liftmethod_method4_cal">1 message = 2 points</string>
-    <string name="library_android_database_sqlcipher_libraryDescription">API Android SQLite basée sur SQLCipher</string>
-    <string name="library_android_database_sqlcipher_libraryName">SQLCipher pour Android</string>
     <string name="like">"J'aime"</string>
     <string name="list_item_play_all_tracks">Tout lire</string>
     <string name="listen_anywhere">"Écoutez n'importe où"</string>
@@ -1284,9 +1244,19 @@ Après le téléchargement, veuillez le lier sur la page des paramètres avant 2
     <string name="loading_hint">Chargement…</string>
     <string name="loading_reached_the_bottom">"C'est tout pour le moment."</string>
     <string name="loading_text">Chargement…</string>
+    <string name="local_download_download">Télécharger</string>
+    <string name="local_download_hint">Activez le Wi-Fi avant de télécharger</string>
+    <string name="local_download_item">Télécharger gratuitement</string>
+    <string name="local_download_title">Sélectionnez les chansons à télécharger</string>
+    <string name="local_download_toast">Téléchargement…</string>
+    <string name="local_download_toast_notify">Téléchargement. Vérifiez la progression dans le volet des notifications.</string>
     <string name="local_header_title">Musique locale</string>
     <string name="local_music">Chansons locales</string>
     <string name="local_music_is_not_available">"Vous n'avez pas chansons sur votre appareil."</string>
+    <string name="local_out_dialog_cancel">Annuler</string>
+    <string name="local_out_dialog_desc">Vous êtes sur le point d’ouvrir une autre application qui n’est pas associée à Mi Musique.</string>
+    <string name="local_out_dialog_ok">OK</string>
+    <string name="local_out_dialog_title">Quitter Mi Music</string>
     <string name="local_page_album_more">Tout voir</string>
     <string name="local_page_artist_more">Plus de chansons par %s</string>
     <string name="local_page_playlist">Playlistes</string>
@@ -1294,8 +1264,6 @@ Après le téléchargement, veuillez le lier sur la page des paramètres avant 2
     <string name="lock_failure">Échec du verrouillage, veuillez réessayer ultérieurement~</string>
     <string name="lock_seat">Verrouiller les sièges</string>
     <string name="login_button_login">Se connecter</string>
-    <string name="login_by_local_phone_long_text">Connectez-vous maintenant</string>
-    <string name="login_by_local_phone_short_text">Se connecter</string>
     <string name="login_dialog_agree_privacy">"Veuillez lire et vérifier le contrat d'utilisation et la politique de confidentialité de GoGo."</string>
     <string name="login_dialog_content">"Bonjour, bienvenue dans GoGo Voice Room, venez ici pour écouter de la musique avec des amis. Veuillez vous connecter avant d'utiliser"</string>
     <string name="login_dialog_privacy_desc"><Data>"J'ai lu et j'accepte les &lt;a href=\"%1$s\">Conditions d'utilisation de GoGo&lt;/a> et l'&lt;a href=\"%2$s\">Accord de confidentialité&lt;/a>"</Data></string>
@@ -1304,13 +1272,9 @@ Après le téléchargement, veuillez le lier sur la page des paramètres avant 2
     <string name="login_hint_userid">Identifiant du joueur</string>
     <string name="login_instantly">Se connecter</string>
     <string name="login_mi_account_and_gain_more_rights">Connectez-vous avec votre Compte Xiaomi pour accéder à plus de fonctionnalités.</string>
-    <string name="login_other">Un autre Compte Xiaomi</string>
     <string name="login_out_tip">"Impossible de se déconnecter pour le moment. Vous pouvez effacer toutes les données de l'application à la place."</string>
-    <string name="login_register_by_local_phone_long_text">Créer un compte</string>
     <string name="login_toast_noinput">Entrez votre identifiant et votre mot de passe</string>
-    <string name="login_with_sns">Autres façons de se connecter</string>
     <string name="logintitle_login">Se connecter</string>
-    <string name="logout_account">Se déconnecter</string>
     <string name="logout_confirm">Confirmer la déconnexion</string>
     <string name="long_press_to_select_lyric">Appuyer et maintenir pour sélectionner le fichier de paroles local</string>
     <string name="lots_of_songs_for_free">Écoutez des millions de chansons gratuitement</string>
@@ -1392,8 +1356,6 @@ Allez discuter avec elles !</string>
     <string name="midnight">Nuit</string>
     <string name="milink_unavaliable_please_update">"Le lien Mi n'est pas disponible. Mettre MIUI à jour."</string>
     <string name="millions_songs">Millions de chansons</string>
-    <string name="mishop_login_other">Autre compte</string>
-    <string name="mine_data">Données</string>
     <string name="missing_title">&lt;Inconnu></string>
     <string name="miuishare_account_login_ok">Se connecter</string>
     <string name="miuishare_no_network">Impossible de se connecter au réseau.</string>
@@ -1565,10 +1527,8 @@ Allez discuter avec elles !</string>
     <string name="network_disable">Connexion au réseau impossible</string>
     <string name="network_error">Échec du chargement, veuillez recharger</string>
     <string name="network_error_and_retry">Impossible de se connecter, appuyer pour réessayer</string>
-    <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="network_request_error">Impossible de se connecter au réseau</string>
     <string name="network_settings_error">Impossible de se connecter au réseau</string>
-    <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
     <string name="network_traffic">Utilisation des données</string>
     <string name="new_avatar_title_create">Sélectionner une photo</string>
     <string name="new_button_female">Femme</string>
@@ -1602,7 +1562,6 @@ Allez discuter avec elles !</string>
     <string name="nickname_too_long">"Entrez jusqu'à 30 caractères"</string>
     <string name="night">Soirée</string>
     <string name="no">non</string>
-    <string name="no_account">Non connecté</string>
     <string name="no_album_info">"Aucune info sur l'album"</string>
     <string name="no_apply">"Pas d'application"</string>
     <string name="no_artist_info">"Aucune info sur l'artiste"</string>
@@ -1710,7 +1669,6 @@ Ascension [nobility]"</string>
     <string name="open_mic">Ouvrir le micro</string>
     <string name="open_online_service">Vous devez activer les services en ligne pour utiliser cette fonctionnalité. Activer maintenant ?</string>
     <string name="open_service">Activer</string>
-    <string name="open_settings">Paramètres</string>
     <string name="operation_done_close">Fermer</string>
     <string name="other_login">Autres façons de se connecter</string>
     <string name="other_song_in_album">"D'autres chansons de cet album"</string>
@@ -1719,10 +1677,41 @@ Ascension [nobility]"</string>
     <string name="owner_set_host_for_you">Félicitations, vous avez été défini comme administrateur par le propriétaire</string>
     <string name="party">Partie</string>
     <string name="passport_access_denied">Accès refusé</string>
+    <string name="passport_account_crop_user_avatar">Recadrer la photo</string>
+    <string name="passport_account_empty_user_name">Entrez votre nom</string>
+    <string name="passport_account_error_all_space_user_name">Le nom ne peut pas contenir uniquement des espaces</string>
+    <string name="passport_account_error_invalid_user_name">Le nom ne peut pas contenir &lt;, > ou /</string>
+    <string name="passport_account_error_longer_user_name">Le nom ne peut pas comporter plus de %d caractères</string>
+    <string name="passport_account_error_shorter_user_name">Le nom doit comporter plus de %d caractères</string>
+    <string name="passport_account_error_user_name">Ce surnom n’est pas valide. Essayez-en un autre.</string>
+    <string name="passport_account_invalid_user_avatar">Cette photo n’est pas valide. Essayez-en un autre.</string>
     <string name="passport_account_name">Compte : %1$s</string>
+    <string name="passport_account_no_set">Aucun</string>
+    <string name="passport_account_none_bind_info">Aucun</string>
+    <string name="passport_account_none_user_name">Aucun</string>
+    <string name="passport_account_secure_info_pref_title">Informations sur le compte</string>
+    <string name="passport_account_security_info_pref_title">Informations de sécurité</string>
+    <string name="passport_account_user_avatar">Photo de profil</string>
+    <string name="passport_account_user_avatar_from_album">Galerie</string>
+    <string name="passport_account_user_avatar_from_camera">Appareil photo</string>
+    <string name="passport_account_user_base_info">Informations de base</string>
+    <string name="passport_account_user_details">Informations personnelles</string>
+    <string name="passport_account_user_email">E-mail de récupération</string>
+    <string name="passport_account_user_gender">Sexe</string>
+    <string name="passport_account_user_id">ID de compte Xiaomi</string>
+    <string name="passport_account_user_name">Pseudonyme</string>
+    <string name="passport_account_user_name_dialog_title">Entrez le nom</string>
+    <string name="passport_account_user_phone">Téléphone de récupération</string>
+    <string name="passport_activity_not_found_notice">"Impossible de trouver l'application"</string>
+    <string name="passport_agree">Accepter</string>
     <string name="passport_area_code_title">Indicatif régional</string>
+    <string name="passport_attention">Attention</string>
+    <string name="passport_auth_fail_warning">Session expirée. Connectez-vous à nouveau.</string>
+    <string name="passport_back">Retour</string>
     <string name="passport_bad_authentication">"Nom d'utilisateur ou mot de passe invalide"</string>
-    <string name="passport_can_not_receive_verification_code">"Impossible de recevoir le code de vérification ?"</string>
+    <string name="passport_can_not_recevie_verify_code">Code non reçu ?</string>
+    <string name="passport_change_password">Modifier le mot de passe</string>
+    <string name="passport_check_security">Vérification des problèmes de sécurité…</string>
     <string name="passport_checking_account">Vérification du mot de passe…</string>
     <string name="passport_clear_input">Effacer le contenu saisi</string>
     <string name="passport_copy_link">"Copier l'URL"</string>
@@ -1736,16 +1725,14 @@ Ascension [nobility]"</string>
     <string name="passport_dialog_nick_name_prefix">Surnom : %s</string>
     <string name="passport_dialog_phone_number_prefix">Numéro de téléphone : %s</string>
     <string name="passport_dialog_register_other">"Non, je vais en créer un"</string>
-    <string name="passport_email">Adresse e-mail</string>
-    <string name="passport_empty_password">Le mot de passe ne peut pas être vide</string>
+    <string name="passport_doing_query_account">Vérification des informations de compte…</string>
     <string name="passport_error_auth_fail">Session expirée. Connectez-vous à nouveau.</string>
     <string name="passport_error_device_id">"Impossible d'obtenir l'ID de l'appareil"</string>
-    <string name="passport_error_dynamic_token_error">Le code de vérification est incorrect</string>
-    <string name="passport_error_email">"L'adresse e-mail que vous avez saisie n'est pas valide"</string>
-    <string name="passport_error_empty_email">Entrez votre adresse e-mail</string>
+    <string name="passport_error_dup_binded_email">Cette adresse e-mail est déjà associée à un autre compte Xiaomi.</string>
     <string name="passport_error_empty_password">Tapez votre mot de passe</string>
     <string name="passport_error_empty_pwd">Le mot de passe ne peut pas être vide</string>
     <string name="passport_error_empty_user_id">"Entrez votre nom d'utilisateur"</string>
+    <string name="passport_error_invalid_bind_address">L’adresse e-mail que vous avez saisie n’est pas valide.</string>
     <string name="passport_error_length_limit">Le texte que vous avez saisi est trop long</string>
     <string name="passport_error_network">Impossible de se connecter au réseau</string>
     <string name="passport_error_no_password_user">"Vous n'avez pas encore défini de mot de passe. Connectez-vous par SMS."</string>
@@ -1759,40 +1746,73 @@ Ascension [nobility]"</string>
     <string name="passport_error_unknow_host_network_error">Impossible de se connecter au réseau</string>
     <string name="passport_error_unknow_network_error">"Une erreur réseau s'est produite"</string>
     <string name="passport_error_unknown">Erreur inconnue</string>
-    <string name="passport_error_user_agreement">"Acceptez d'abord les termes et conditions"</string>
     <string name="passport_error_user_name">"Le nom d'utilisateur que vous avez saisi n'est pas valide"</string>
     <string name="passport_error_user_password">Les mots de passe ne correspondent pas</string>
+    <string name="passport_exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre compte Xiaomi.</string>
+    <string name="passport_facebook_login_btn_content_description">Se connecter avec Facebook</string>
+    <string name="passport_frequency_try_later">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
     <string name="passport_get_login_type_next">Suivant</string>
-    <string name="passport_header_back">Retour</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
+    <string name="passport_google_login_btn_content_description">Se connecter avec Google</string>
+    <string name="passport_help">Aide</string>
+    <string name="passport_i_know">Compris</string>
     <string name="passport_identification_expired">Le code de vérification a expiré. Recommencer.</string>
     <string name="passport_input_captcha_hint">Entrez le code</string>
+    <string name="passport_input_email_address_notice">Nous utiliserons cet e-mail pour vérifier votre compte</string>
     <string name="passport_input_password_hint">Entrez le mot de passe</string>
     <string name="passport_input_phone_number_hint">Entrez le numéro de téléphone</string>
     <string name="passport_input_verify_code">Entrez le code de vérification</string>
     <string name="passport_input_voice_captcha_hint">Entrez le code de vérification vocale</string>
     <string name="passport_input_voice_hint">Entrez le code vocal</string>
+    <string name="passport_login_by_local_phone_long_text">Connectez-vous maintenant</string>
+    <string name="passport_login_by_local_phone_short_text">Se connecter</string>
+    <string name="passport_login_other">Un autre compte Xiaomi</string>
+    <string name="passport_login_register_by_local_phone_long_text">Créer un compte</string>
+    <string name="passport_login_with_sns">Autres façons de se connecter</string>
+    <string name="passport_logout_account">Déconnexion</string>
     <string name="passport_mi_account_first_title">Nous créerons un compte automatiquement si vous utilisez votre numéro de téléphone pour la première fois.</string>
     <string name="passport_mi_account_title">Se connecter avec un compte Xiaomi</string>
     <string name="passport_network_error">"Une erreur réseau s'est produite."</string>
     <string name="passport_network_error_hint">"Vérifiez l'URL et réessayez, ou copiez l'URL et ouvrez-la dans votre navigateur."</string>
+    <string name="passport_network_timeout">Impossible de se connecter au réseau. Réessayez.</string>
     <string name="passport_next">Suivant</string>
+    <string name="passport_no_account">Non connecté</string>
+    <string name="passport_open_settings">Paramètres</string>
     <string name="passport_page_load_failed">"Impossible d'ouvrir la page"</string>
     <string name="passport_password_login_btn">Se connecter</string>
     <string name="passport_password_not_show">Ne pas afficher le mot de passe</string>
-    <string name="passport_password_req_notice">Le mot de passe doit comporter de 8 à 16 caractères et combiner au moins deux des éléments suivants : chiffres, lettres et symboles spéciaux (par exemple, 123abc@#, ou 123abc ou abc@#).</string >
     <string name="passport_password_show">Afficher le mot de passe</string>
+    <string name="passport_phone_auto_login_register_with_local_number">Créer un compte</string>
+    <string name="passport_photo_picker_not_found">Aucune photo disponible.</string>
+    <string name="passport_qq_login_btn_content_description">Se connecter avec QQ</string>
     <string name="passport_querying_phone_info">"Demande d'informations sur le compte…"</string>
     <string name="passport_quick_login_title">Entrez votre mot de passe</string>
     <string name="passport_reging">Création du compte…</string>
+    <string name="passport_register_by_local_phone_long_text">Créer un compte</string>
+    <string name="passport_register_by_local_phone_short_text">Créer un compte</string>
     <string name="passport_register_restricted">Trop de comptes ont été associés à ce numéro. Essayez-en un autre.</string>
     <string name="passport_relogin_notice">Vous devez vous reconnecter</string>
+    <string name="passport_request_agree">Autoriser</string>
+    <string name="passport_request_camera_permission_message">Nous protégerons vos informations personnelles conformément aux lois et réglementations en vigueur. Cette application a besoin des autorisations suivantes pour fonctionner normalement :&lt;br>&lt;br>&lt;b>Utilisation de l’appareil photo (pour définir votre photo de profil)&lt;/b>&lt;br>&lt;br>Si vous n’acceptez pas d’accorder de telles autorisations, vous ne pourrez pas utiliser certaines fonctionnalités de cette application ; cependant, ses fonctionnalités de base seront toujours être à votre disposition. Vous pouvez toujours restreindre les autorisations ou révoquer votre autorisation dans les paramètres.</string>
+    <string name="passport_request_cancel">Annuler</string>
+    <string name="passport_request_error_invalid_token">Impossible de vérifier</string>
+    <string name="passport_request_error_network">Une erreur réseau s’est produite. Vérifiez vos paramètres réseau et réessayez.</string>
+    <string name="passport_request_error_unknown">Une erreur système s’est produite. Revenez en arrière et réessayez.</string>
+    <string name="passport_request_gallery_permission_message">Autoriser l’accès à la Galerie :&lt;br />Pour définir les photos de profil</string>
+    <string name="passport_resend_email_reach_limit_message">Vous avez demandé trop d’e-mails de vérification. Assurez-vous que l’e-mail de vérification ne se trouve pas dans le dossier Spam de votre boîte de réception.</string>
+    <string name="passport_resend_email_reach_limit_title">Trop de tentatives</string>
     <string name="passport_resend_ticket">Renvoyer le code</string>
     <string name="passport_retry">Réessayer</string>
+    <string name="passport_same_new_and_old_pwd">Ne peut pas être le même que le mot de passe actuel</string>
     <string name="passport_send_sms_to">Code envoyé à %1$s</string>
     <string name="passport_send_too_many_code">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
     <string name="passport_sending_vcode">Envoi du code…</string>
-    <string name="passport_set_password">Définir le mot de passe</string>
+    <string name="passport_service_error">Erreur de serveur</string>
     <string name="passport_set_password_no_phone_msg">Ajoutez votre numéro de téléphone pour protéger votre compte.</string>
+    <string name="passport_skip_query_account">Ignorer</string>
+    <string name="passport_sns_access_token_expired_warning">Session expirée. Connectez-vous à nouveau pour reconnecter ce compte.</string>
+    <string name="passport_sns_bind_limit">Trop de tentatives. Essayez d’autres façons de vous connecter.</string>
+    <string name="passport_system_error">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
     <string name="passport_talkback_image_captcha">"Code de vérification de l'image"</string>
     <string name="passport_talkback_switch_image_captcha">"Passer au code de vérification d'image"</string>
     <string name="passport_talkback_switch_voice_captcha">Passer au code de vérification vocale</string>
@@ -1801,12 +1821,26 @@ Ascension [nobility]"</string>
     <string name="passport_to_forget_password">Mot de passe oublié ?</string>
     <string name="passport_to_password_login">Se connecter avec un mot de passe</string>
     <string name="passport_to_verify_code_login">Se connecter par SMS</string>
-    <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
+    <string name="passport_unknown_error">Erreur inconnue</string>
+    <string name="passport_unknown_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/ a> et l'&lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du compte Xiaomi."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/ a>, l'&lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du compte Xiaomi, ainsi que &lt;a href=%5$ s>Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/ a>, l'&lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du compte Xiaomi, ainsi que &lt;a href=%5$ s>Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/ a>, l'&lt;a href=%3$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du compte Xiaomi, ainsi que &lt;a href=%5$ s>Termes et conditions des services de vérification de China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"J'ai lu et j'accepte l'&lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_first_login">"Nous créerons automatiquement un compte si vous utilisez votre numéro de téléphone pour la première fois."</string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>"J'ai lu et j'accepte l'&lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Contrats d'utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>"J'ai lu et j'accepte l'&lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_avatar_update_title">Changer la photo de profil</string>
+    <string name="passport_user_avatar_uploading">Un instant…</string>
     <string name="passport_user_id_hint">E-mail/numéro de téléphone/identifiant de compte Xiaomi</string>
-    <string name="passport_user_id_intro">Entrez le mot de passe pour %1$s</string>
+    <string name="passport_user_name_phone_number">Numéro de téléphone</string>
     <string name="passport_user_password_hint">Mot de passe</string>
     <string name="passport_vcode_what_app_send_prompt">Votre code de vérification WhatsApp sera envoyé à votre téléphone de récupération (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">"Installez d'abord WeChat"</string>
+    <string name="passport_weibo_login_btn_content_description">Se connecter avec Weibo</string>
+    <string name="passport_weixin_login_btn_content_description">Se connecter avec WeChat</string>
     <string name="passport_wrong_captcha">Le code que vous avez entré est incorrect</string>
     <string name="passport_wrong_phone_number_format">"Le format du numéro de téléphone que vous avez saisi n'est pas valide"</string>
     <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
@@ -1842,8 +1876,6 @@ Ascension [nobility]"</string>
     <string name="permission_declaration_title">"Autoriser l'accès"</string>
     <string name="permission_open">Autoriser</string>
     <string name="permission_required">Autorisations requises</string>
-    <string name="phone_auto_login_register_with_local_number">Créer un compte</string>
-    <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="pick_favorite_song">Favoris</string>
     <string name="pick_local_song">Chansons locales</string>
     <string name="pick_recent_song">Récemment lu</string>
@@ -1869,7 +1901,6 @@ Ascension [nobility]"</string>
     <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">Mes playlistes</string>
     <string name="playlist_type_recommend">Playlists vedettes</string>
-    <string name="please_agree_protocal">Veuillez accepter le protocole</string>
     <string name="please_download_first">Vous devez télécharger cette chanson avant de pouvoir la définir comme sonnerie</string>
     <string name="please_select_report_reason">Veuillez choisir une raison</string>
     <string name="please_select_song">"Choisir une chanson d'abord"</string>
@@ -1890,6 +1921,7 @@ Ascension [nobility]"</string>
     <string name="privacy_dialog_desc"><Data>"Bonjour, bienvenue dans GoGo Voice Room. Lisez et acceptez l'&lt;a href=\"%1$s\">Accord utilisateur GoGo&lt;/a> avant utilisation ainsi que la &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>"</Data></string>
     <string name="privacy_dialog_disapproval">Refus</string>
     <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="privacy_policy_url">https://privacy.mi.com/all/fr_FR</string>
     <string name="privacy_request_desc"><Data>"Mi Musique doit collecter les données personnelles nécessaires pour vous fournir des services de diffusion en ligne. Vous pouvez découvrir comment nous traitons les informations que nous collectons dans notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a>. Vous pouvez retirer votre consentement à la Politique de confidentialité de Mi Musique dans les Paramètres à tout moment.
 Lisez et acceptez notre &lt;a href=\"%2$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%1$s\">Politique de confidentialité&lt;/a> avant d'utiliser Mi Musique.
 Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans l'incapacité d'utiliser certaines fonctionnalités de l'application; toutefois, les fonctionnalités basiques seront toujours accessibles."</Data></string>
@@ -1899,11 +1931,8 @@ Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans 
     <string name="privacy_request_subtitle_offline">Bienvenue sur Mi Musique ! Cette application fournit un lecteur local pour les fichiers audio.</string>
     <string name="privacy_request_title">Conditions générales</string>
     <string name="pro_member">Membre PRO</string>
-    <string name="progressbar_title">Vérification des problèmes de sécurité…</string>
     <string name="project_device">Téléphone Mi</string>
     <string name="prompt_grant_write_settings_permission">Autoriser la modification des paramètres systèmes</string>
-    <string name="protocal_dialog_confirm">Accepter</string>
-    <string name="protocal_dialog_title">Attention</string>
     <string name="publish">publier</string>
     <string name="pulluprefreshrecyclerview_loading_error">Impossible de charger</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Téléchargée avec succès</string>
@@ -1911,7 +1940,6 @@ Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans 
     <string name="purchase">Achat</string>
     <string name="push_family_link">Aller>></string>
     <string name="push_task_finish_title">Tâche terminée</string>
-    <string name="qq_login_btn_content_description">Se connecter avec QQ</string>
     <string name="queue_is_empty">La liste de lecture est vide.</string>
     <string name="raised_room">Expulser</string>
     <string name="rank_format">Niv%1$s</string>
@@ -1937,8 +1965,6 @@ Si vous n'acceptez pas d'utiliser les services sus-mentionnés, vous serez dans 
     <string name="refresh_error">"Échec de l'actualisation, veuillez réessayer plus tard"</string>
     <string name="refresh_success">Actualisation réussie</string>
     <string name="region">Région :</string>
-    <string name="register_by_local_phone_long_text">Créer un compte</string>
-    <string name="register_by_local_phone_short_text">Créer un compte</string>
     <string name="registered_mailhint2">Veuillez saisir votre adresse e-mail</string>
     <string name="registered_passwordhint1">Veuillez entrer le mot de passe.</string>
     <string name="registered_wrong_mailhint">"Le format de l'e-mail est incorrect. Veuillez saisir à nouveau."</string>
@@ -1964,27 +1990,16 @@ Soyez heureux"</string>
     <string name="report_successful">Le rapport a été soumis, nous le traiterons dès que possible</string>
     <string name="report_title">Description du rapport</string>
     <string name="report_title_desc">(Obligatoire)</string>
-    <string name="request_agree">Autoriser</string>
-    <string name="request_camera_permission_message">"Nous protégerons vos informations personnelles conformément aux lois et réglementations en vigueur. Cette application a besoin des autorisations suivantes pour fonctionner normalement :&lt;br>&lt;br>&lt;b>Utilisation de l'appareil photo (pour définir votre photo de profil)&lt;/b>&lt;br>&lt;br>Si vous n'acceptez pas d'accorder de telles autorisations, vous ne pourrez pas utiliser certaines fonctionnalités de cette application ; cependant, ses fonctionnalités de base seront toujours être à votre disposition. Vous pouvez toujours restreindre les autorisations ou révoquer votre autorisation dans les paramètres."</string>
-    <string name="request_cancel">Annuler</string>
-    <string name="request_error_invalid_token">Impossible de vérifier</string>
-    <string name="request_error_network">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
-    <string name="request_error_unknown">"Une erreur système s'est produite. Revenez en arrière et réessayez."</string>
     <string name="request_fail">Erreur de requête du serveur, réessayez</string>
     <string name="request_failure">La demande a échoué</string>
-    <string name="request_gallery_permission_message">"Autoriser l'accès à la galerie :&lt;br />Pour définir les photos de profil"</string>
     <string name="request_overlay_permission_desc">Autoriser Musique à afficher des fenêtres flottantes pour pouvoir utiliser cette fonctionnalité.</string>
     <string name="request_permission_record_audio">"Demander une autorisation d'enregistrement"</string>
     <string name="request_permission_write_storage">"Demander l'autorisation de stockage du téléphone"</string>
     <string name="request_privacy_permission_title">Lisez et acceptez nos conditions générales ci-dessous pour accéder à tous nos services.</string>
     <string name="request_roominfo_error">"La demande d'informations sur la chambre a échoué, veuillez réessayer plus tard~"</string>
-    <string name="request_share_info">Chargement…</string>
-    <string name="request_subscription_status">Chargement…</string>
+    <string name="request_share_info">Un instant…</string>
+    <string name="request_subscription_status">Un instant…</string>
     <string name="request_window_overlay_content">"Après avoir ouvert l'autorisation de la fenêtre flottante, la salle de discussion peut être réduite"</string>
-    <string name="resend_active_email">Renvoyer</string>
-    <string name="resend_email_reach_limit_message">"Vous avez demandé trop d'e-mails de vérification. Assurez-vous que l'e-mail de vérification ne se trouve pas dans le dossier Spam de votre boîte de réception."</string>
-    <string name="resend_email_reach_limit_title">Trop de tentatives</string>
-    <string name="resend_email_success">Envoyé avec succès</string>
     <string name="reset_locked">Déverrouiller</string>
     <string name="restart_immediate">Redémarrer</string>
     <string name="retry">Veuillez réessayer</string>
@@ -2063,7 +2078,6 @@ Soyez heureux"</string>
     <string name="s5">"Créer un événement d'agenda"</string>
     <string name="s6">"Autoriser l'annonce à créer un événement d'agenda ?"</string>
     <string name="s7">Annonce test</string>
-    <string name="same_new_and_old_pwd">Ne peut pas être le même que le mot de passe actuel</string>
     <string name="saturday">Samedi</string>
     <string name="saturday_short">Sam</string>
     <string name="saturday_shortest">Sam</string>
@@ -2111,12 +2125,9 @@ Soyez heureux"</string>
     <string name="select_three_languages">"Vous pouvez sélectionner jusqu'à %d langues"</string>
     <string name="selected_count">%1$d sur %2$d sélectionnés</string>
     <string name="send">Envoyer</string>
-    <string name="send_diagnosis_log">Envoyer les journaux</string>
-    <string name="send_email_activate_message">E-mail de vérification envoyé avec succès</string>
     <string name="send_to_title">Envoyer à (%1$s)</string>
     <string name="server_error">Le serveur a renvoyé une erreur~</string>
     <string name="service_and_settings">Service et paramètres</string>
-    <string name="service_error">Erreur serveur</string>
     <string name="set_as_alarm_clock_ringtone">Alarme</string>
     <string name="set_as_ring">Définir comme sonnerie</string>
     <string name="set_online_home_subtitle">"Ouvrir les recommandations en ligne au lancement de l'application"</string>
@@ -2170,15 +2181,11 @@ Soyez heureux"</string>
     <string name="similar_songs">Chansons similaires</string>
     <string name="similar_videos">Vidéos similaires</string>
     <string name="skip">Passer</string>
-    <string name="skip_query_account">Passer</string>
     <string name="sleep_mode">Mise en veille programmable</string>
     <string name="sleep_mode_canceled">Mode veille désactivée</string>
     <string name="sleep_mode_summary">Arrêter la lecture après une durée déterminée</string>
     <string name="sleep_mode_title">Minuterie de mise en veille</string>
     <string name="sliding_pro_center">Centre PRO</string>
-    <string name="sns_access_token_expired_warning">Session expirée. Connectez-vous à nouveau pour reconnecter ce compte.</string>
-    <string name="sns_bind_limit">"Trop de tentatives. Essayez d'autres façons de vous connecter."</string>
-    <string name="sns_sign_in">Autres façons de se connecter</string>
     <string name="solar_term_autumn_begins">"Début de l'automne"</string>
     <string name="solar_term_autumn_equinox">"Équinoxe d'automne"</string>
     <string name="solar_term_clear_and_bright">Pure lumière</string>
@@ -2239,7 +2246,6 @@ Soyez heureux"</string>
     <string name="sure">Comfirmer</string>
     <string name="swipe_for_more">Balayez vers le haut pour plus de vidéos musicales</string>
     <string name="switch_success">Permuté avec succès</string>
-    <string name="system_error_info">Le système est occupé. Attendez une minute ou deux et réessayez.</string>
     <string name="tab_album">Albums</string>
     <string name="tab_album_list">Albums</string>
     <string name="tab_artist">Artistes</string>
@@ -2292,50 +2298,9 @@ Soyez heureux"</string>
     <string name="task_title">Centre des tâches</string>
     <string name="taskcenter_signin">Se connecter</string>
     <string name="telephone_permissions_for_push">"Autorisations d'appel : pour fournir les services de notification push de Google"</string>
-    <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
     <string name="terms_of_service">"Conditions générales d'utilisation"</string>
     <string name="test_mode">Mode de test</string>
     <string name="test_voice_queue">"File d'attente d'audition"</string>
-    <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
-    <string name="the_anti_aggression_day">Anti-Aggression Day</string>
-    <string name="the_arbor_day">Arbor Day</string>
-    <string name="the_armed_forces_day">Armed Forces Day</string>
-    <string name="the_armys_day">PLA Day</string>
-    <string name="the_childrens_day">"Children's Day"</string>
-    <string name="the_chinese_youth_day">Youth Day</string>
-    <string name="the_christmas_day">Christmas</string>
-    <string name="the_double_ninth_festival">Double Ninth Festival</string>
-    <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
-    <string name="the_easter_day">Easter</string>
-    <string name="the_eve_of_the_spring_festival">Eve of Chinese New Year</string>
-    <string name="the_fifth_day">Fifth day of Chinese New Year</string>
-    <string name="the_fools_day">"April Fool's Day"</string>
-    <string name="the_forth_day">Fourth day of Chinese New Year</string>
-    <string name="the_hksar_establishment_day">Hong Kong SAR Establishment Day</string>
-    <string name="the_international_womens_day">"Women's Day"</string>
-    <string name="the_laba_festival">Laba Festival</string>
-    <string name="the_labour_day">Labor Day</string>
-    <string name="the_lantern_festival">Lantern Festival</string>
-    <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
-    <string name="the_national_day">National Day</string>
-    <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
-    <string name="the_new_years_day">New Year</string>
-    <string name="the_night_of_sevens">Qixi Festival</string>
-    <string name="the_partys_day">CPC Day</string>
-    <string name="the_peace_day">Remembrance Day</string>
-    <string name="the_retrocession_day">Retrocession Day</string>
-    <string name="the_second_day">Second day of Chinese New Year</string>
-    <string name="the_seventh_day">Seventh day of Chinese New Year</string>
-    <string name="the_sixth_day">Sixth day of Chinese New Year</string>
-    <string name="the_spirit_festival">Ghost Festival</string>
-    <string name="the_spring_festival">Chinese New Year</string>
-    <string name="the_teachers_day">"Teachers' Day"</string>
-    <string name="the_third_day">Third day of Chinese New Year</string>
-    <string name="the_tw_childrens_day">"Children's Day"</string>
-    <string name="the_tw_youth_day">Youth Day</string>
-    <string name="the_united_nations_day">United Nations Day</string>
-    <string name="the_valentines_day">"Valentine's Day"</string>
-    <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="this_version_is_old">"Ce type de chambre n'est pas pris en charge, veuillez mettre à jour vers la dernière version~"</string>
     <string name="thousand_char">%s K</string>
     <string name="thursday">Jeudi</string>
@@ -2423,7 +2388,6 @@ Soyez heureux"</string>
     <string name="unknown">inconnu</string>
     <string name="unknown_album_name">Album inconnu</string>
     <string name="unknown_artist_name">Artiste inconnu</string>
-    <string name="unknown_error_info">Erreur inconnue</string>
     <string name="unlimited_downloads">Téléchargements illimités</string>
     <string name="unlimited_offline_songs">Chansons hors connexion illimitées</string>
     <string name="unlimited_skips">Sauts illimités</string>
@@ -2435,8 +2399,6 @@ Soyez heureux"</string>
     <string name="unrecharge">"Vous n'avez pas encore rechargé"</string>
     <string name="unsupport_msg"><Data>&lt;font color=\"%1$s\">&lt;a href=\"\">Mettez à jour votre application pour lire ce type de message&lt;/a>.</Data></string>
     <string name="update_button">Mettre à jour maintenant</string>
-    <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>
-    <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de récupération"</string>
     <string name="update_no_gp">"Installez d'abord Play Store"</string>
     <string name="update_note">Veuillez mettre à jour votre version et réessayer</string>
     <string name="update_now">METTRE À JOUR MAINTENANT</string>
@@ -2453,25 +2415,11 @@ Soyez heureux"</string>
     <string name="upload_playlist_to_hungama_toast">Les chansons en ligne seront synchronisées sur Hungama</string>
     <string name="user_account_cancel_toast">Ce compte a été supprimé</string>
     <string name="user_agreement">"Contrat d'utilisation"</string>
-    <string name="user_agreement_hint_3rd_app"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Conditions d'utilisation&lt;/a>, la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Xiaomi."</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Conditions d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%5$s>Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Conditions d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, les &lt;a href=%3$s>Conditions d'utilisation&lt;/a> et la &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%5$s>Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Conditions d'utilisation&lt;/a> et &lt;a href=%2$s>Politique de confidentialité&lt;/a>, les &lt;a href=%3$s>Conditions d'utilisation&lt;/a> et &lt;a href=%4$s>Politique de confidentialité&lt;/a> du Compte Xiaomi, ainsi que les &lt;a href=%5$s>Termes et conditions des services de vérification de China Unicom&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Conditions d'utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default_1"><Data>"J'ai lu j'accepte les &lt;a href=%1$s>Conditions d'utilisation&lt;/a> et &lt;a href=%2$s>Politique de confidentialité.&lt;/a>"</Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Conditions d'utilisation&lt;/a> et &lt;a href=%2$s>Politique de confidentialité&lt;/a>. La première connexion créera automatiquement un compte Xiaomi"</Data></string>
-    <string name="user_agreement_hint_first_login">"Nous créerons un compte automatiquement si vous utilisez votre numéro de téléphone pour la première fois."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Conditions d'utilisation&lt;/a> et les &lt;a href=%2$s>Politiques de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Conditions d'utilisation&lt;/a> et &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de compte eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>"J'ai lu et j'accepte les &lt;a href=%1$s>Conditions d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/a>, ainsi que les &lt;a href=%3$s>Conditions générales des services de vérification de China Unicom&lt;/a>."</Data></string>
     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fr_FR</string>
     <string name="user_already_seated">"Vous êtes déjà sur le micro, cette opération n'est pas valide~"</string>
-    <string name="user_avatar_update_title">Changer la photo de profil</string>
-    <string name="user_avatar_uploading">Un instant…</string>
     <string name="user_experience_program_open">"En raison des restrictions de droits d'auteur, vous devez vous inscrire au programme d'expérience utilisateur pour pouvoir lire les chansons téléchargées. Vous pouvez le faire dans Paramètres > Mots de passe &amp; sécurité > Confidentialité > S'inscrire au programme d'expérience utilisateur."</string>
     <string name="user_followtoast">Suivi réussi</string>
     <string name="user_followtoast_fail">Impossible de suivre</string>
-    <string name="user_name_phone_number">Numéro de téléphone</string>
     <string name="user_playlist_plaza">Playlists</string>
     <string name="user_privacy_dialog_negative_text">Annuler</string>
     <string name="user_privacy_dialog_positive_count_down_text">Révoquer (%ss)</string>
@@ -2584,7 +2532,8 @@ heure"</string>
     <string name="voiceroom_tingfang_hint_amount">Revenu total :</string>
     <string name="voiceroom_tingfang_title_all_rank">Classement général</string>
     <string name="voiceroom_tingfang_title_daily_rank">Classement du jour</string>
-    <string name="voiceroom_tingfang_title_ income">Revenu</string>
+    <string name="voiceroom_tingfang_title_income">Revenu</string>
+    <string name="voiceroom_toast_quit_cant">Vous êtes en cours de partie, vous ne pouvez pas quitter la pièce.</string>
     <string name="wallet">Portefeuille</string>
     <string name="wallet_help_content">"Notre système de recharge réglera généralement toutes les commandes en attente dans les 24 heures. Donc, si vous ne recevez pas de pièces, veuillez suivre la procédure ci-dessous :
 (1) Veuillez d'abord vérifier si votre argent est déduit, parfois il est déduit mais vous pouvez obtenir un remboursement plus tard ;
@@ -2610,10 +2559,17 @@ heure"</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
-    <string name="weibo_login_btn_content_description">Se connecter avec Weibo</string>
-    <string name="weixin_login_btn_content_description">Se connecter avec WeChat</string>
     <string name="welcome_to_entertainment">Découvrez la nouvelle fonctionnalité de divertissement pour les jeux musicaux et plus encore</string>
     <string name="whats_app">WhatsApp</string>
+    <string name="whitelist_add_exist">Certaines chansons sont déjà répertoriées dans les chansons locales et ne sont pas affichées ici</string>
+    <string name="whitelist_add_failed">"Impossible d'ajouter des fichiers"</string>
+    <string name="whitelist_desc_1">Si Mi Musique ne trouve pas les chansons que vous recherchez sur votre appareil, vous pouvez les ajouter manuellement.</string>
+    <string name="whitelist_desc_2">"Ces fichiers seront affichés même si la taille du fichier et la longueur de la chanson ne correspondent pas ou s'ils se trouvent dans des dossiers cachés."</string>
+    <string name="whitelist_dialog_content">"Les fichiers supprimés n'apparaîtront plus parmi les exceptions de Mi Music, mais ne seront pas supprimés de votre appareil. Supprimer maintenant ?"</string>
+    <string name="whitelist_dialog_title">Supprimer les fichiers ?</string>
+    <string name="whitelist_entrance_desc">Ajouter manuellement des fichiers que Mi Musique ne localise pas automatiquement</string>
+    <string name="whitelist_entrance_text_1">"Vous ne trouvez pas une chanson ? "</string>
+    <string name="whitelist_title">Exceptions de fichiers</string>
     <string name="wifi_required_body" formatted="false">"Connectez-vous au Wi-Fi pour terminer ce téléchargement %s.
 
 Appuyez sur %s pour démarrer ce téléchargement la prochaine fois que vous serez connecté à un réseau Wi-Fi."</string>
@@ -2631,6 +2587,7 @@ Appuyez sur %s pour démarrer ce téléchargement la prochaine fois que vous ser
     <string name="withdraw_toast3">Seules les pièces restantes sur le compte peuvent être retirées</string>
     <string name="withdraw_toast4">Le montant du retrait ne doit pas être inférieur à 1 000 pièces</string>
     <string name="withdraw_toast5">Les retraits doivent être un multiple de 10</string>
+    <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/fr_FR</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$s o</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l'état du gestionnaire de téléchargement dans Gestion des applications."</string>
     <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
@@ -2659,4 +2616,5 @@ Taille de la mise à jour : %2$s"</string>
     <string name="youtube_play_history">Historique de lecture</string>
     <string name="youtube_share_guide_tip">Vous pouvez maintenant partager des vidéos avec des amis</string>
     <string name="youtube_tab_explore">Découvrir</string>
+    <string name="youtube_tab_playlist">Playlists</string>
 </resources>

@@ -253,6 +253,14 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">%1$s :</item>
         <item quantity="one">%1$s :</item>
     </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days. Renew now to enjoy seamless gaming.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day. Renew now to enjoy seamless gaming.</item>
+    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d personnes jouent</item>
         <item quantity="one">%1$d personne joue</item>
@@ -358,9 +366,17 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="other">%d applications ne sont pas autorisées à démarrer automatiquement</item>
         <item quantity="one">"%d application n'est pas autorisée à démarrer automatiquement"</item>
     </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">"%d apps aren't allowed to start in the background"</item>
+        <item quantity="one">"%d app isn't allowed to start in the background"</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d applications peuvent démarrer automatiquement</item>
         <item quantity="one">%d application peut démarrer automatiquement</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d apps can start in the background</item>
+        <item quantity="one">%d app can start in the background</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">"%d applications n'ont pas d'accès ROOT"</item>

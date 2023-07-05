@@ -193,10 +193,6 @@
         <item quantity="other">Supprimer %d prises de vue en rafale de votre appareil ?</item>
         <item quantity="one">Supprimer %d prise de vue en rafale de votre appareil ?</item>
     </plurals>
-    <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Supprimer ces %d vidéos de tous les appareils et de Xiaomi Cloud ?</item>
-        <item quantity="one">Supprimer %d vidéo de tous les appareils et de Xiaomi Cloud ?</item>
-    </plurals>
     <plurals name="download_error">
         <item quantity="other">Impossible de télécharger %1$d fichiers</item>
         <item quantity="one">Impossible de télécharger %1$d fichier</item>
@@ -468,6 +464,10 @@
         <item quantity="other">Impossible de partager. Traitement de %d photos encore en cours…</item>
         <item quantity="one">Impossible de partager. Traitement de %d photo encore en cours…</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Sélectionnez jusqu’à %d éléments à envoyer</item>
+        <item quantity="one">Sélectionnez jusqu’à %d élément à envoyer</item>
+    </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d vidéos depuis %1$s</item>
         <item quantity="one">%2$d vidéo depuis %1$s</item>
@@ -493,40 +493,44 @@
         <item quantity="one">Réception de %2$d archive (%3$s) depuis %1$s…</item>
     </plurals>
     <plurals name="share_album_detail_photo_count">
-        <item quantit="other">%d photos téléchargées</item>
-        <item quantit="one">%d photo téléchargée</item>
+        <item quantity="other">%d photos téléchargées</item>
+        <item quantity="one">%d photo téléchargée</item>
     </plurals>
     <plurals name="share_album_home_pref_rooms">
-        <item quantit="other">%1$d pièces</item>
-        <item quantit="one">%1$d pièce</item>
+        <item quantity="other">%1$d pièces</item>
+        <item quantity="one">%1$d pièce</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d écrans</item>
+        <item quantity="one">%1$d écran</item>
     </plurals>
     <plurals name="share_album_home_pref_screens">
-        <item quantit="other">%1$d écrans</item>
-        <item quantit="one">%1$d écran</item>
+        <item quantity="other">%1$d écrans</item>
+        <item quantity="one">%1$d écran</item>
     </plurals>
     <plurals name="share_album_home_pref_share_home_summary">
-        <item quantit="other">%1$d écrans partagés</item>
-        <item quantit="one">%1$d écran partagé</item>
+        <item quantity="other">%1$d écrans partagés</item>
+        <item quantity="one">%1$d écran partagé</item>
     </plurals>
     <plurals name="share_album_home_pref_unshare_home_summary">
-        <item quantit="other">%1$d environnements de maison intelligente disponibles</item>
-        <item quantit="one">%1$d environnement de maison intelligente disponible</item>
+        <item quantity="other">%1$d environnements de maison intelligente disponibles</item>
+        <item quantity="one">%1$d environnement de maison intelligente disponible</item>
     </plurals>
     <plurals name="share_album_sync_textline_oversize">
         <item Quantity="other">%d éléments sont trop volumineux pour être synchronisés</item>
-        <item quantit="one">%d élément est trop volumineux pour être synchronisé</item>
+        <item quantity="one">%d élément est trop volumineux pour être synchronisé</item>
     </plurals>
     <plurals name="share_album_sync_textline_owner_upload_error">
-        <item quantit="other">Impossible de synchroniser %d éléments. Mettez à niveau votre forfait de stockage.</item>
-        <item quantit="one">Impossible de synchroniser %d élément. Mettez à niveau votre forfait de stockage.</item>
+        <item quantity="other">Impossible de synchroniser %d éléments. Mettez à niveau votre forfait de stockage.</item>
+        <item quantity="one">Impossible de synchroniser %d élément. Mettez à niveau votre forfait de stockage.</item>
     </plurals>
     <plurals name="share_album_sync_textline_retry">
-        <item quantit="other">Impossible de synchroniser %d éléments. Réessayez.</item>
-        <item quantit="one">Impossible de synchroniser %d élément. Réessayez.</item>
+        <item quantity="other">Impossible de synchroniser %d éléments. Réessayez.</item>
+        <item quantity="one">Impossible de synchroniser %d élément. Réessayez.</item>
     </plurals>
     <plurals name="share_album_sync_textline_sharer_upload_error">
-        <item quantit="other">"Impossible de synchroniser %d éléments. Le propriétaire de cet album n'a plus d'espace de stockage dans le cloud."</item>
-        <item quantit="one">"Impossible de synchroniser %d élément. Le propriétaire de cet album n'a plus d'espace de stockage dans le cloud."</item>
+        <item quantity="other">"Impossible de synchroniser %d éléments. Le propriétaire de cet album n'a plus d'espace de stockage dans le cloud."</item>
+        <item quantity="one">"Impossible de synchroniser %d élément. Le propriétaire de cet album n'a plus d'espace de stockage dans le cloud."</item>
     </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d secondes</item>
@@ -608,6 +612,14 @@
         <item quantity="other">%d années</item>
         <item quantity="one">%d année</item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">Impossible de transférer %1$d éléments</item>
+        <item quantity="one">Impossible de transférer %1$d élément</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">Impossible de transférer %1$d éléments. Rendez-vous sur i.mi.com pour les télécharger.</item>
+        <item quantity="one">Impossible de transférer %1$d élément. Rendez-vous sur i.mi.com pour le télécharger.</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d éléments sélectionnés seront définitivement supprimés du cloud et de tous les appareils synchronisés. Supprimer quand même ?</item>
         <item quantity="one">%d élément sélectionné sera définitivement supprimé du cloud et de tous les appareils synchronisés. Supprimer quand même ?</item>
@@ -631,6 +643,14 @@
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">"Les éléments peuvent être stockés ici jusqu'à %1$d jours (%2$s)"</item>
         <item quantity="one">"Les éléments peuvent être stockés ici jusqu'à %1$d jour (%2$s)"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Les articles peuvent être stockés ici pendant %1$s jours. Appuyez sur pour prolonger cette période.</item>
+        <item quantity="one">Les articles peuvent être stockés ici pendant %1$s jour. Appuyez sur pour prolonger cette période.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Les éléments supprimés sont stockés dans le cloud pendant %1$d jours</item>
+        <item quantity="one">Les éléments supprimés sont stockés dans le cloud pendant %1$d jour</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">"Les éléments peuvent être stockés ici pendant jusqu'à %1$d jours. Mettez à niveau votre forfait pour prolonger cette période."</item>

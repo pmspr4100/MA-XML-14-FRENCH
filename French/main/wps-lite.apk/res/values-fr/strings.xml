@@ -223,6 +223,7 @@
   <string name="public_lite_update_cloud_dialog_message">Update WPS Office,enjoy %s service</string>
   <string name="public_lite_update_right_now">Update now</string>
   <string name="public_lite_use_right_now">Use now</string>
+  <string name="public_loadDocumentError">"File doesn't exist or can't be opened"</string>
   <string name="public_loadDocumentFormatError">"File format error, can't open the file."</string>
   <string name="public_loadDocumentLackOfStorageError">"Not enough storage, can't open the file."</string>
   <string name="public_loadDocumentOutOfMemoryError">"Not enough storage, can't open the file."</string>

@@ -220,6 +220,7 @@
     <string name="load_metered_network_dialog_ok">Charger</string>
     <string name="load_metered_network_dialog_title">Utilisation de données mobiles</string>
     <string name="loading">Un instant…</string>
+    <string name="member_menu_vipname_extend_package">Ajouter un stockage cloud</string>
     <string name="member_menu_vipname_free">Gratuit</string>
     <string name="member_menu_vipname_mega">Méga</string>
     <string name="member_menu_vipname_premium">Premium</string>
@@ -357,7 +358,7 @@ Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIU
     <string name="permission_account_desc_pad">"Accéder à tous les comptes stockés sur l'appareil"</string>
     <string name="permission_account_title">Comptes</string>
     <string name="permission_account_title_pad">Accéder aux comptes</string>
-    <string name="permission_acccpeted">Accordé</string>
+    <string name="permission_accpeted">Accordé</string>
     <string name="permission_camera_desc">Prendre des photos et faire des vidéos</string>
     <string name="permission_camera_title">Caméra</string>
     <string name="permission_denied">Non accordé</string>
@@ -388,8 +389,8 @@ Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIU
     <string name="privacy_recall_confirm_button">Retirer le consentement</string>
     <string name="privacy_recall_confirm_description">"Si vous continuez, vous retirerez votre consentement à la politique de confidentialité de Mi Drive. Nous cesserons de collecter vos informations personnelles, et les informations personnelles déjà collectées et conservées seront supprimées dans le délai spécifié. période conformément aux lois et réglementations applicables, sauf indication contraire."</string>
     <string name="privacy_recall_confirm_reminder_card_summary">"&lt;font color=#F22424>Les éléments suivants seront définitivement supprimés après le retrait du consentement :&lt;/font>&lt;br />1. Tous les éléments sur Mi Drive, y compris, mais sans s'y limiter, les documents, les fichiers privés et les éléments supprimés.&lt;br />2. Autorisations de l'appareil, paramètres et autres contenus mis en cache.&lt;br />3. Historique de chargement et de téléchargement de Mi Drive."</string>
-    <string name="privacy_recall_dialog_msg">"If you continue, you'll withdraw your consent to the Privacy Policy of Mi Drive. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Mi Drive provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Mi Drive services. Withdraw consent now?"</string>
-    <string name="privacy_recall_dialog_title">Withdrawal of consent</string>
+    <string name="privacy_recall_dialog_msg">"Si vous continuez, vous retirerez votre consentement à la politique de confidentialité de Mi Drive. Les informations personnelles déjà collectées et conservées seront supprimées dans le délai imparti conformément aux lois et réglementations applicables, sauf si requis Dans le cas contraire. Étant donné que Mi Drive fournit ses services sur la base de la collecte des informations personnelles nécessaires, votre retrait de consentement sera considéré comme un refus d'accepter les services Mi Drive. Retirer votre consentement maintenant ?"</string>
+    <string name="privacy_recall_dialog_title">Retrait du consentement</string>
     <string name="privacy_recall_success">Consentement retiré avec succès</string>
     <string name="privacy_recall_title">Retrait du consentement</string>
     <string name="privacy_recalling">Retrait du consentement…</string>
@@ -420,6 +421,22 @@ Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIU
     <string name="request_permission_confirm">Compris</string>
     <string name="request_permission_content">"Mi Drive doit accéder aux comptes sur cet appareil pour pouvoir utiliser votre Compte Xiaomi pour se connecter. L'autorisation d'accéder et d'enregistrer des fichiers sur votre appareil permettra à Mi Drive de prévisualiser, envoyer, télécharger et synchroniser des éléments."</string>
     <string name="request_permission_content_with_phone_state">"Mi Cloud Disk vous oblige à accorder des autorisations pour obtenir des comptes de téléphone mobile, lire et écrire des photos et des fichiers sur l'appareil, et obtenir des autorisations IMEI mobiles, qui sont utilisées pour réaliser la connexion rapide du compte Xiaomi, l'aperçu des fichiers, l'envoi et le téléchargement, la synchronisation automatique et la vérification des fonctions de mise à jour."</string>
+    <string name="request_permission_external_storage">Accéder au stockage de l’appareil</string>
+    <string name="request_permission_external_storage_desc">Pour prévisualiser, charger, télécharger et synchroniser des éléments</string>
+    <string name="request_permission_manual_authorized">Paramètres</string>
+    <string name="request_permission_manual_desc">La permission suivante est requise pour pouvoir utiliser certaines fonctionnalités : %s. Vous pouvez accorder cette autorisation dans les paramètres.</string>
+    <string name="request_permission_manual_title">Autorisations requises</string>
+    <string name="request_permission_manual_unauthorized">Annuler</string>
+    <string name="request_permission_post_notification">Notifications</string>
+    <string name="request_permission_post_notification_desc">Pour envoyer des notifications concernant les téléchargements et téléchargements Mi Drive</string>
+    <string name="request_permission_read_media_audio">Accéder aux fichiers audio</string>
+    <string name="request_permission_read_media_audio_desc">Pour prévisualiser, mettre en ligne, télécharger et synchroniser des fichiers audio</string>
+    <string name="request_permission_read_media_aural">Pour prévisualiser, mettre en ligne, télécharger et synchroniser des fichiers audio</string>
+    <string name="request_permission_read_media_image">Accéder aux photos</string>
+    <string name="request_permission_read_media_image_desc">Pour prévisualiser, charger, télécharger et synchroniser des photos</string>
+    <string name="request_permission_read_media_video">Accéder aux vidéos</string>
+    <string name="request_permission_read_media_video_desc">Pour prévisualiser, mettre en ligne, télécharger et synchroniser des vidéos</string>
+    <string name="request_permission_read_media_visual">Pour prévisualiser, mettre en ligne, télécharger et synchroniser des photos et des vidéos</string>
     <string name="request_permission_title">Autorisations requises</string>
     <string name="root_page_name">Mon lecteur</string>
     <string name="saturday">Samedi</string>
@@ -492,6 +509,8 @@ Assurez-vous que vous utilisez le Compte Xiaomi actuel comme compte système MIU
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
+    <string name="talkback_close">Fermer</string>
+    <string name="talkback_close_open_picture">Annuler</string>
     <string name="talkback_continue">Reprendre</string>
     <string name="talkback_doc_filter">Bouton Filtrer</string>
     <string name="talkback_list_play">Tout lire</string>

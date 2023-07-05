@@ -456,7 +456,6 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="new_wait_link_first">"1. Ouvrez Mi Mover sur votre ancien appareil.
 2. Appuyez sur \"Je suis l'expéditeur\" et attendez un moment.
 3. Sélectionnez le hotspot suivant sur l'ancien appareil."</string>
-    <string name="new_wait_link_message_1">Go to Settings, enter \"Mi Mover\" in the search bar, and tap \"Mi Mover\" in the search results.</string>
     <string name="new_wait_link_message_2">Le bouton \"Je suis un expéditeur\" se trouve directement sur la page de démarrage de Mi Mover.</string>
     <string name="new_wait_link_title_2">1. Appuyez sur \"Je suis un expéditeur\" et attendez un instant.</string>
     <string name="new_wait_link_title_3">"2. Sélectionnez le point d'accès Wi-Fi suivant sur l'ancien appareil."</string>
@@ -465,6 +464,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="no_more_memory_title">"Mi Mover doit créer une sauvegarde locale sur cet appareil. Il n'y a actuellement pas assez d'espace de stockage pour créer une sauvegarde. Libérez d'abord de l'espace de stockage."</string>
     <string name="noon">Midi</string>
     <string name="not_set">Non défini</string>
+    <string name="not_support">Non pris en charge</string>
     <string name="not_support_data_content1">"1. Éléments spécifiques au modèle d'appareil"</string>
     <string name="not_support_data_content2">2. Données des applications sélectionnées</string>
     <string name="not_support_data_content3">3. Données du Deuxième espace</string>
@@ -600,6 +600,7 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
 - Messages texte
 - Stockage"</string>
     <string name="request_all_permission_title">Autorisations requises</string>
+    <string name="request_permission">Autoriser</string>
     <string name="restore_data_to_device_content">"Vos articles ont été synchronisés avec Xiaomi Cloud.
 Connectez-vous à votre Compte Xiaomi pour les restaurer."</string>
     <string name="restore_data_to_device_title">Restaurer des éléments sur cet appareil</string>
@@ -658,6 +659,7 @@ Libérez au moins %s."</string>
     <string name="sender_finish_title">Transféré avec succès</string>
     <string name="sender_scanning_code">"Placez l'image dans le cadre"</string>
     <string name="sender_scanning_connecting">Connexion avec un nouvel appareil…</string>
+    <string name="set_app_suspend">Cette application est en cours de sauvegarde. Attendez que la sauvegarde soit terminée et réessayez.</string>
     <string name="set_new_device_account">Synchroniser avec le Compte Xiaomi</string>
     <string name="set_new_device_lock">"Définir le verrouillage d'écran"</string>
     <string name="set_new_device_more">Plus de paramètres système…</string>
