@@ -193,7 +193,10 @@
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="folder_exist">Un dossier avec le même nom existe déjà</string>
+  <string name="folder_note">Dossiers de notes</string>
   <string name="folder_operation_rename">Renommer</string>
+  <string name="folder_other">Autres dossiers</string>
+  <string name="foler_pinned">Dossiers épinglés</string>
   <string name="format_move_note_out_folder">Cette note a été déplacée</string>
   <string name="format_move_note_to_folder">Déplacé vers %1$s</string>
   <string name="friday">Vendredi</string>
@@ -438,11 +441,13 @@
   <string name="mtrl_picker_toggle_to_year_selection">"Appuyez pour passer à la sélection d'une année"</string>
   <string name="network_error_info">"Une erreur réseau s'est produite. Vérifiez vos paramètres réseau et réessayez."</string>
   <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
+  <string name="new_alert_title_delete">Supprimer les notes</string>
   <string name="new_app_name">Mi Notes</string>
   <string name="new_audio_create_cancel_talkback_des">Annulé</string>
   <string name="new_audio_create_done_talkback_des">Créer</string>
   <string name="new_data_empty_note">"Pas d'éléments ici pour le moment"</string>
   <string name="new_lite_audio_create_talkback_des">Appuyez pour créer une note</string>
+  <string name="new_sync_desc_state_disable">Activez la synchronisation dans le cloud pour les notes, les tâches, etc.</string>
   <string name="night">Soirée</string>
   <string name="no_network">Connexion au réseau impossible</string>
   <string name="noon">Midi</string>

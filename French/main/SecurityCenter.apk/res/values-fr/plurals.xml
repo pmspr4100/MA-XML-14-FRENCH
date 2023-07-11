@@ -595,8 +595,8 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="one">%d appli</item>
     </plurals>
     <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
-        <item quantit="other">%2$d applications, dont %1$s, pourraient être malveillantes</item>
-        <item quantit="one">%2$d application, dont %1$s, pourrait être malveillante</item>
+        <item quantity="other">%2$d applications, dont %1$s, pourraient être malveillantes</item>
+        <item quantity="one">%2$d application, dont %1$s, pourrait être malveillante</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d apps déchargent la batterie</item>
@@ -715,8 +715,8 @@ Vous pouvez obtenir un essai gratuit de %d jours maintenant !"</item>
         <item quantity="one">"%d minute "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
-        <item quantit="other">Optimiser l’utilisation de la batterie dans %d scénarios</item>
-        <item quantit="one">Optimiser l’utilisation de la batterie dans %d scénario</item>
+        <item quantity="other">Optimiser l’utilisation de la batterie dans %d scénarios</item>
+        <item quantity="one">Optimiser l’utilisation de la batterie dans %d scénario</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">"Corriger %d problèmes d'utilisation de la batterie"</item>
