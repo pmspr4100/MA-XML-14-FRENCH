@@ -5,8 +5,7 @@
         <item quantity="one">Il y a 1 heure</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Il y a une heure</item>
-        <item quantity="one">Il y a une heure</item>
+        <item quantity="other">Il y a %d heure</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Il y a 1 demi-heure</item>

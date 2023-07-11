@@ -33,6 +33,10 @@
         <item quantity="other">%d résultats trouvés</item>
         <item quantity="one">%d résultat trouvé</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d personnes</item>
+        <item quantity="one">%d personne</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Il y a 1 demi-heure</item>
     </plurals>
@@ -67,21 +71,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Il y a %d minutes</item>
         <item quantity="one">Il y a 1 minute</item>
-    </plurals>
-    <plurals name="updated_contacts">
-        <item quantity="other">%s contacts mis à jour</item>
-        <item quantity="one">%s contact mis à jour</item>
-    </plurals>
-    <plurals name="view_all_devices">
-        <item quantity="other">Afficher les %d appareils</item>
-        <item quantity="one">Afficher %d appareil</item>
-    </plurals>
-    <plurals name="view_all_apps">
-        <item quantity="other">Afficher les %d applications</item>
-        <item quantity="one">Afficher %d applications</item>
-    </plurals>
-    <plurals name="view_all_browsers">
-        <item quantity="other">Afficher les %d navigateurs</item>
-        <item quantity="one">Afficher %d navigateur</item>
     </plurals>
 </resources>

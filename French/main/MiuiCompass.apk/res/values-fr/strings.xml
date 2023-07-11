@@ -99,6 +99,7 @@
   <string name="invisible_mode_dialog_positive">Paramètres</string>
   <string name="invisible_mode_dialog_title">Vous êtes en navigation privée</string>
   <string name="latitude">LAT</string>
+  <string name="live_action">Prévisualisation en direct</string>
   <string name="location_east">E</string>
   <string name="location_enable">Autoriser</string>
   <string name="location_enable_later">Plus tard</string>
@@ -106,6 +107,8 @@
   <string name="location_north">N</string>
   <string name="location_not_enabled_summary">"Boussole doit accéder à votre localisation afin d'afficher les coordonnées et l'altitude."</string>
   <string name="location_not_enabled_title">Services de localisation</string>
+  <string name="location_permission_tip_one">Appuyez pour accorder des autorisations de localisation, afin d’afficher la latitude, la longitude, la pression atmosphérique et l’altitude.</string>
+  <string name="location_permission_tip_two">Appuyez pour accorder des autorisations de localisation, afin d’afficher la latitude et la longitude.</string>
   <string name="location_south">S</string>
   <string name="location_west">O</string>
   <string name="longitude">LON</string>
@@ -179,6 +182,13 @@
   <string name="month_september_shortest">Sept</string>
   <string name="more">Plus</string>
   <string name="morning">Matin</string>
+  <string name="network_dialog_message">La boussole doit se connecter à Internet pour accéder à des données d’altitude plus précises. Autoriser maintenant ?</string>
+  <string name="network_dialog_negative">"Ne pas autoriser"</string>
+  <string name="network_dialog_positive">Autoriser</string>
+  <string name="network_dialog_title">Autorisations requises</string>
+  <string name="new_cta_app_purpose">afficher les directions et les coordonnées</string>
+  <string name="new_cta_app_purpose_one">Bienvenue sur Boussole ! Vous pouvez utiliser cette application pour localiser les directions cardinales, la latitude, la longitude, la pression atmosphérique et l’altitude. Cette application doit se connecter à Internet pour fournir ses services.</string>
+  <string name="new_cta_app_purpose_two">Bienvenue sur Boussole ! Vous pouvez utiliser cette application pour localiser les directions cardinales, la latitude et la longitude. Cette application doit se connecter à Internet pour fournir ses services.</string>
   <string name="new_cta_v2_app_purpose">"Affichage des directions, des coordonnées, de la pression atmosphérique et de l'altitude actuelle"</string>
   <string name="new_permission_camera_desc">Pour la calibration</string>
   <string name="new_permission_location_desc">Pour afficher les coordonnées</string>
@@ -288,6 +298,8 @@
   <string name="unit_degree">Degrés</string>
   <string name="using_camera_confirm_cancel">Quitter</string>
   <string name="using_camera_confirm_ok">Accepter</string>
+  <string name="v2_permission_location_desc_one">Pour afficher la latitude, la longitude, l’altitude et la pression atmosphérique</string>
+  <string name="v2_permission_location_desc_two">Pour afficher la latitude et la longitude</string>
   <string name="v7_preference_off">DÉSACTIVÉ</string>
   <string name="v7_preference_on">ACTIVÉ</string>
   <string name="wednesday">Mercredi</string>
