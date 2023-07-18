@@ -430,6 +430,8 @@ Une longue exposition à des sons forts peut entraîner des problèmes d'auditio
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
+    <string name="super_volume_text">200%</string>
+    <string name="super_volume_toast">Volume boost est activé</string>
     <string name="switch_bar_off">Désactivé</string>
     <string name="switch_bar_on">Activé</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
