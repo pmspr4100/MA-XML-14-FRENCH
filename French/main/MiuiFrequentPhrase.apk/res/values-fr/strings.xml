@@ -187,6 +187,10 @@
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
+    <string name="super_clipboard_alert_dialog_cancel_button">Annuler</string>
+    <string name="super_clipboard_alert_dialog_sure_button">OK</string>
+    <string name="super_clipboard_send_file">Coller le fichier depuis le presse-papier ?</string>
+    <string name="super_clipboard_send_image">Coller l’image depuis le presse-papier ?</string>
     <string name="sync_phrase_label">Phrases fréquentes</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>

@@ -333,7 +333,7 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="other_settings_pref_title">Paramètres additionnels</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="path_soundrecorder_setting">Applications système/Magnétophone</string>
-    <string name="pause">Pause</string>
+    <string name="pause_status_focus_notification">En pause</string>
     <string name="pay_error_cancel">Le paiement a été annulé</string>
     <string name="pay_error_null">Impossible de compléter le paiement. Vérifiez votre compte.</string>
     <string name="pay_error_unknown">Erreur inconnue</string>
@@ -454,6 +454,7 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="recording_quality_high">Haute qualité</string>
     <string name="recording_quality_low">Qualité faible</string>
     <string name="recording_quality_standard">Qualité moyenne</string>
+    <string name="recording_status_focus_notification">Enregistrement</string>
     <string name="recording_stopped">Arrêté</string>
     <string name="recovery">Restaurer</string>
     <string name="recovery_failed_dialog_button">Compris</string>
@@ -543,7 +544,8 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="start">Reprendre</string>
     <string name="status_bar_back">Appuyez pour revenir au Magnéto</string>
     <string name="status_bar_recording">Enregistrement…</string>
-    <string name="status_bar_recording_pause">"Enregistrement en pause. "</string>
+    <string name="status_bar_recording_pause">Enregistrement en pause</string>
+    <string name="stop_status_focus_notification">Terminé</string>
     <string name="storage_permission_dialog_title">Autorisations de stockage requises</string>
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
