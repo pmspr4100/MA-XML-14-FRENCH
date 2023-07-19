@@ -662,11 +662,6 @@ et ajustez les préférences automatiquement"</string>
     <string name="description_sorftlight_style_cold">Le flash est activé. Lumière froide sélectionnée.</string>
     <string name="description_sorftlight_style_nature">Le flash est activé. Lumière naturelle sélectionnée.</string>
     <string name="description_sorftlight_style_warm">Le flash est activé. Lumière chaude sélectionnée.</string>
-    <string name="description_softlight_style_cold">Le flash est activé. Lumière froide sélectionnée.</string>
-    <string name="description_softlight_style_nature">Le flash est activé. Lumière naturelle sélectionnée.</string>
-    <string name="description_softlight_style_warm">Le flash est activé. Lumière chaude sélectionnée.</string>
-    <string name="description_top_bar_end_recycleview">Fin du menu</string>
-    <string name="description_top_bar_start_recycleview">Début du menu</string>
     <string name="dialog_button_accept">Accepter</string>
     <string name="dialog_button_back">Retour</string>
     <string name="dialog_button_cancel">Annuler</string>
@@ -722,10 +717,6 @@ Scannez des documents en un clic"</string>
     <string name="download_cancel_hint">Annuler le téléchargement %1$s ?</string>
     <string name="download_confirm">Télécharger</string>
     <string name="download_hint">%1$s Mio des données mobiles seront utilisées pour télécharger des éléments. Télécharger quand même ?</string>
-    <string name="download_hint_check_on_wifi">Vous êtes connecté au Wi-Fi. Télécharger ce fichier de %1$s Mio maintenant ?</string>
-    <string name="download_hint_check_on_wifi_cn">Vous êtes connecté au Wi-Fi. Télécharger ce fichier de %1$s Mio maintenant ?</string>
-    <string name="download_hint_check_on_wifi_remind">Ne plus rappeler</string>
-    <string name="download_hint_check_on_wifi_remind_cn">Ne plus rappeler</string>
     <string name="download_hint_cn">"Il semble que votre appareil ne soit pas connecté au Wi-Fi. Utiliser %1$s Mo de données mobiles pour télécharger des éléments maintenant ?"</string>
     <string name="download_hint_wifi">"Il semble que votre appareil ne soit pas connecté au Wi-Fi. Utiliser %1$s Mo de données mobiles pour télécharger des éléments maintenant ?"</string>
     <string name="download_in_progress">Téléchargement…</string>
@@ -781,7 +772,6 @@ L’enregistrement sur deux téléphones vous permet également de vous connecte
     <string name="error_fail_to_start_audio_capture">"Impossible de démarrer la capture audio"</string>
     <string name="esp_tip">"Prévisualisation sur l'écran extérieur"</string>
     <string name="evening">Après-midi</string>
-    <string name="excalibur_module_name_pixel">64 MPX</string>
     <string name="expand_button_title">Avancé</string>
     <string name="extend_time_watermark_2_logo_text">SUPERMOON</string>
     <string name="eye_light">Éclat des yeux</string>
@@ -1744,6 +1734,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">TÉLÉ 5×</string>
     <string name="pref_camera_zoom_mode_entry_tele_abbr">TÉLÉ</string>
     <string name="pref_camera_zoom_mode_entry_tele_standalone">TÉLÉ 5×</string>
+    <string name="pref_camera_zoom_mode_entry_telex_abbr">Externe</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ULTRA GRAND</string>
     <string name="pref_camera_zoom_mode_entry_ultra_abbr">ULTRA GRAND</string>
     <string name="pref_camera_zoom_mode_entry_wide">LARGE</string>
@@ -1970,7 +1961,6 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="remote_online_waiting">"En attente de la connexion de l'autre appareil…"</string>
     <string name="remote_online_whats">"Comment fonctionne l'Enregistrement double téléphone ?"</string>
     <string name="reset_manual_picture_style_toast">Paramètres réinitialisés avec succès</string>
-    <string name="reset_manual_picture_style_new_toast">Paramètres réinitialisés avec succès</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Réinitialiser</string>
     <string name="saturday">Samedi</string>
@@ -2183,26 +2173,6 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="tip_flash_screen_light_auto">Flash doux : automatique</string>
     <string name="tip_flash_screen_light_on">Flash doux : activé</string>
     <string name="tip_flash_torch">Flash : toujours activé</string>
-    <string name="tip_gif_off">GIF : désactivé</string>
-    <string name="tip_gif_on">GIF : activé</string>
-    <string name="tip_hand_gesture_off">Obturateur de paume : désactivé</string>
-    <string name="tip_hdr_off">HDR : désactivé</string>
-    <string name="tip_live_photo_off">Prise de vue dynamique : désactivée</string>
-    <string name="tip_log_off">LOG : désactivé</string>
-    <string name="tip_macro_mode_off">Macro : désactivée</string>
-    <string name="tip_macro_mode_on">Macro : activée</string>
-    <string name="tip_non_auto_macro_off">Macro : désactivée</string>
-    <string name="tip_non_auto_macro_on">Macro : activée</string>
-    <string name="tip_portrait_repair_off">Portrait HD : désactivé</string>
-    <string name="tip_privacy_watermark_off">Filigrane de protection : désactivé</string>
-    <string name="tip_raw_off">RAW : désactivé</string>
-    <string name="tip_raw_off_mm">Format d’image : JPG</string>
-    <string name="tip_timer_burst_off">Rafale temporisée : désactivée</string>
-    <string name="tip_timer_off">Minuteur : Désactivé</string>
-    <string name="tip_ultra_pixel_50M_format">Définition de l’image : %s</string>
-    <string name="tip_ultra_pixel_50M_off">%s : désactivé</string>
-    <string name="tip_ultra_raw_off">Ultra RAW : désactivé</string>
-    <string name="tip_ultra_wide_boken_off">Mode corps entier : désactivé</string>
     <string name="title_doc4_recognize_page_hint">Faites glisser ou appuyez pour sélectionner la zone de texte</string>
     <string name="title_item_context_menu_doc4_copy_done">Copié avec succès</string>
     <string name="title_pref_camera_doc4">Reconnaître le texte</string>
@@ -2213,7 +2183,6 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
     <string name="too_low_battery">Batterie faible</string>
-    <string name="top_menu_hint_text">Balayer vers le bas pour ouvrir le menu</string>
     <string name="tuesday">Mardi</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
@@ -2226,6 +2195,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="ultra_pixel_photography_close_tip">%s ultra HD désactivé</string>
     <string name="ultra_pixel_photography_open_tip">%s ultra HD activé</string>
     <string name="ultra_pixel_portrait_hint">Portrait HD</string>
+    <string name="ultra_pixel_pro_xxxm_message">"Cette fonction vous permet d'améliorer la clarté de l'image. Lorsqu'il est activé, le temps de traitement des photos peut être plus long que d'habitude."</string>
     <string name="ultra_pixel_zoom_no_support_tip">"Le zoom ne fonctionne pas %s Ultra HD mode"</string>
     <string name="ultra_tele_use_hint_text_body">"Utilisez le zoom 50× pour capturer des objets distants
 plus en détail"</string>
@@ -2346,8 +2316,6 @@ Vous pouvez utiliser les boutons ci-dessous pour modifier le texte, prévisualis
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">IA 8K</string>
     <string name="view_privacy_policy">Afficher la Politique de confidentialité</string>
-    <string name="vlog_pro_accessible_play_template_sound">Les sons des modèles de Vlog sont activés</string>
-    <string name="vlog_pro_accessible_stop_template_sound">Les sons des modèles de Vlog sont désactivés</string>
     <string name="vlog_pro_cancel_reset_record_hint">Annuler</string>
     <string name="vlog_pro_first_into_vlog_dumy_hint">Sélectionnez un modèle et appuyez pour commencer</string>
     <string name="vlog_pro_first_record_hint">Appuyez pour combiner en une séquence</string>
