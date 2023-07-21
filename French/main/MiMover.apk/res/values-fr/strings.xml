@@ -88,7 +88,7 @@
     <string name="cancel_moving_dialog_message">"Arrêter d'importer maintenant ?"</string>
     <string name="cancel_moving_dialog_title">"Arrêt de l'import"</string>
     <string name="cancel_tranfer">Annuler</string>
-    <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">Il semble que QQ Downloader soit le service de sauvegarde de votre système. Désinstallez-le et redémarrez votre appareil pour pouvoir utiliser Mi Mover.</string>
+    <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" fournit déjà des services de sauvegarde du système. Désinstallez-le et redémarrez votre appareil pour pouvoir utiliser Mi Mover.</string>
     <string name="cannot_use_mi_huanji_button">Compris</string>
     <string name="cannot_use_mi_huanji_summary">Il semble que MIUI est en train de sauvegarder des données. Arrêtez les sauvegardes en attente ou redémarrez votre appareil pour autoriser Mi Mover à commencer le transfert.</string>
     <string name="cannot_use_mi_huanji_title">Impossible de transférer pour le moment</string>
@@ -583,7 +583,9 @@ Ouvrez WeChat et accédez à Moi > Paramètres > Général > Sauvegarder &amp; m
     <string name="receiver_finish_detail_button">Afficher le rapport</string>
     <string name="receiver_finish_detail_fail">Transfert impossible</string>
     <string name="receiver_finish_detail_success">Éléments transférés</string>
+    <string name="receiver_finish_not_transferred">Non transféré</string>
     <string name="receiver_finish_title">Vous êtes prêt !</string>
+    <string name="receiver_finish_transferred">Transféré</string>
     <string name="receiver_video_summary">Déverrouillez votre ancien appareil, appuyez sur \"Transférer\" et scannez cette image</string>
     <string name="receiver_video_title">"Transfert depuis l'ancien appareil"</string>
     <string name="recent_one_year">Année passée</string>
