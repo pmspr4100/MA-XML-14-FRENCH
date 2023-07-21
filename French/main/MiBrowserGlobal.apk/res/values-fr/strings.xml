@@ -459,6 +459,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="contextmenu_webpage_pdf">Enregistrer en PDF</string>
     <string name="contextmenu_webpage_snapshot">Enregistrer la page</string>
     <string name="continue_reading">Continuer la lecture</string>
+    <string name="continue_watch_video">Continuer le visionnage</string>
     <string name="copy">Copier</string>
     <string name="copy_toast_msg">Lien copié dans le presse-papiers</string>
     <string name="copy_url">"Copier l'URL"</string>
@@ -1512,6 +1513,7 @@ Quitter cette page maintenant ?"</string>
     <string name="notification_download_completed">Téléchargé avec succès</string>
     <string name="notification_download_failed">Impossible de télécharger.</string>
     <string name="notification_wechat_expired_empty">WeChat a déjà supprimé ces clips vidéos.</string>
+    <string name="notify_rencet_play">Lu récemment</string>
     <string name="novel_continue_read_popup">Lire</string>
     <string name="novel_tab_popup">Consultez vos derniers livres ici</string>
     <string name="novel_tab_popup_ok">OK</string>
@@ -2201,6 +2203,7 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="snapshot_failed">"Impossible d'enregistrer la page"</string>
     <string name="snapshot_successed">Ouvrez Favoris/Historique->LOCAL pour afficher la page</string>
     <string name="sniff_ask_every_times">Demander à chaque fois</string>
+    <string name="sniff_description">Recevoir des invites lorsqu’une page Web contient des éléments téléchargeables</string>
     <string name="sniff_detect_resource">Nous avons remarqué du contenu téléchargeable sur cette page. Afficher maintenant ?</string>
     <string name="sniff_dialog">Contenu téléchargeable</string>
     <string name="sniff_no_resource">Aucun contenu téléchargeable trouvé</string>

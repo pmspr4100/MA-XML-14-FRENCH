@@ -49,6 +49,8 @@
     <string name="ad_download_resume">Reprendre</string>
     <string name="ad_downloading_tip">Cet article est en cours de téléchargement. Vous pouvez voir la progression dans la barre des notifications.</string>
     <string name="ad_experience_now">Ouvrir</string>
+    <string name="ad_in_downloading">Téléchargement</string>
+    <string name="ad_in_installing">Installation</string>
     <string name="add">Ajouter</string>
     <string name="add_home_icon_success">Ajoutée avec succès</string>
     <string name="add_resource_detail_fail">"Impossible d'ajouter la ressource"</string>

@@ -185,7 +185,7 @@
     <string name="cate_order_reset">Réinitialiser</string>
     <string name="category_already_exists">Cette catégorie existe déjà</string>
     <string name="category_cannot_empty">Entrez la catégorie en premier</string>
-    <string name="category_choose_no_app_select_tip">Chaque catégorie doit contenir au moins 1 application.</string>
+    <string name="category_choose_no_app_select_tip">Chaque catégorie doit contenir au moins %d application.</string>
     <string name="category_drawer_name_hint">Entrez le nom de la catégorie</string>
     <string name="category_edit_back_confirm_dialog_content">Enregistrer les modifications maintenant ?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">Ne pas enregistrer</string>
@@ -637,7 +637,7 @@ Sécurité renforcée."</string>
     <string name="request_permission_title">Autorisations requises</string>
     <string name="reset_cate_tip_content">"Si vous continuez, les groupes d'applications par défaut seront restaurés. Continuer quand même ?"</string>
     <string name="reset_cate_tip_title">Restaurer les groupes par défaut</string>
-    <string name="reset_description_first_time">Vous pouvez restaurer la disposition de %1$s dans les 2 heures</string>
+    <string name="reset_description_first_time">Vous pouvez restaurer la disposition de %2$s dans les %1$d heures</string>
     <string name="reset_description_others">Vous pouvez restaurer la disposition de %1$s</string>
     <string name="reset_fail">Impossible de restaurer</string>
     <string name="reset_title">Restaurer</string>
