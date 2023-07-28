@@ -1085,19 +1085,9 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="badge_title">"Afficher les badges d'icône d'application"</string>
     <string name="band_24G">" (bande 2.4 GHz)"</string>
     <string name="band_5G">" (bande 5 GHz)"</string>
-    <string name="band_mode_failed">Échec</string>
-    <string name="band_mode_loading">Chargement de la liste de bandes…</string>
-    <string name="band_mode_set">Définir</string>
-    <string name="band_mode_succeeded">OK</string>
-    <string name="band_mode_title">Définir le mode de bande radio</string>
     <string name="baseband_version">Version du modem</string>
     <string name="batch_delete_saved_network">Supprimer les réseaux enregistrés : %s ?</string>
     <string name="batch_delete_saved_networks">Supprimer tous les réseaux sélectionnés</string>
-    <string name="battery_abnormal_apps_summary">%1$d applications ne fonctionnent pas correctement</string>
-    <string name="battery_abnormal_details_title">Applications qui déchargent la batterie</string>
-    <string name="battery_abnormal_location_summary">Position demandée fréquemment</string>
-    <string name="battery_abnormal_wakelock_summary">Appareil maintenu activé</string>
-    <string name="battery_abnormal_wakeup_alarm_summary">"Activation de l'appareil en arrière-plan"</string>
     <string name="battery_action_app_details">Infos appli</string>
     <string name="battery_action_app_settings">Paramètres des applications</string>
     <string name="battery_action_bluetooth">Paramètres Bluetooth</string>
@@ -1167,7 +1157,7 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="battery_info_status_charging_wireless">Chargement sans fil</string>
     <string name="battery_info_status_discharging">En décharge</string>
     <string name="battery_info_status_full">Pleine</string>
-    <string name="battery_info_status_full_charged">Fully charged</string>
+    <string name="battery_info_status_full_charged">Complètement chargé</string>
     <string name="battery_info_status_label">État de la batterie :</string>
     <string name="battery_info_status_not_charging">Pas en charge</string>
     <string name="battery_info_status_unknown">Inconnu</string>
@@ -1183,7 +1173,7 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="battery_light_title">Allumer lors de la charge</string>
     <string name="battery_manager_off">Désactivé</string>
     <string name="battery_manager_summary">Détecter quand les applications déchargent la batterie</string>
-    <string name="battery_manager_summary_unsupported">Detecting when apps drain battery</string>
+    <string name="battery_manager_summary_unsupported">Détecter lorsque les applications déchargent la batterie</string>
     <string name="battery_missing_link_a11y_message">Appuyez pour en savoir plus sur cette erreur</string>
     <string name="battery_missing_message">Problème de lecture de la jauge de batterie.</string>
     <string name="battery_msg_unaccounted">"L'utilisation de la batterie est une approximation de la consommation d'énergie et n'inclut pas toutes les sources de décharge de la batterie. La catégorie \"Autres utilisations\" représente la différence entre le calcul approximatif de la consommation d'énergie et le niveau de décharge réel de la batterie."</string>
@@ -1201,13 +1191,13 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="battery_saver_auto_title">Activer automatiquement</string>
     <string name="battery_saver_button_turn_off">Désactiver maintenant</string>
     <string name="battery_saver_button_turn_on">Activer maintenant</string>
-    <string name="battery_saver_link_a11y">Learn more about Battery saver</string>
-    <string name="battery_saver_main_switch_title">Use battery saver</string>
+    <string name="battery_saver_link_a11y">En savoir plus sur l’Économiseur de batterie</string>
+    <string name="battery_saver_main_switch_title">Utiliser l’Économiseur de batterie</string>
     <string name="battery_saver_master_switch_title">"Utiliser l'économiseur de batterie"</string>
     <string name="battery_saver_off_scheduled_summary">Activer à %1$s</string>
     <string name="battery_saver_off_summary">Désactivé</string>
     <string name="battery_saver_on_summary">Activé</string>
-    <string name="battery_saver_pref_auto_routine_summary">Will turn on based on your routine</string>
+    <string name="battery_saver_pref_auto_routine_summary">S’allumera en fonction de votre routine</string>
     <string name="battery_saver_schedule_settings_title">Programmer</string>
     <string name="battery_saver_seekbar_title">À %1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Activer</string>
@@ -1242,10 +1232,10 @@ Les sauvegardes sont stockées dans le Cloud Xiaomi et sont accessibles avec un 
     <string name="battery_sugg_radio">Passez en mode Avion pour économiser la batterie dans les zones sans couverture mobile.</string>
     <string name="battery_sugg_wifi">"Désactivez le Wi-Fi lorsque vous ne l'utilisez pas ou lorsqu'il n'est pas disponible"</string>
     <string name="battery_suggestion_title">"Améliorer l'autonomie de batterie du téléphone"</string>
-    <string name="battery_summary">Utilisation depuis la dernière charge complète : %1$s</string>
-    <string name="battery_summary_24hr">%1$s use for past 24 hours</string>
-    <string name="battery_system_usage_for">System usage for %s</string>
-    <string name="battery_system_usage_for_past_24">System usage for past 24 hr</string>
+    <string name="battery_summary">%1$s utilisé depuis la dernière charge complète</string>
+    <string name="battery_summary_24hr">%1$s utilisé durant les dernières 24 heures</string>
+    <string name="battery_system_usage_for">Utilisation système pour %s</string>
+    <string name="battery_system_usage_for_past_24">Utilisation système pour les dernières 24 heures</string>
     <string name="battery_tip_dialog_message">"Votre téléphone a été plus utilisé que d'habitude. Il est possible que vous soyez à court de batterie plus vite que prévu.
 
 Classement des applications par utilisation de la batterie :"</string>
@@ -1259,12 +1249,12 @@ Vous pouvez toujours activer l'économiseur de batterie si le niveau de votre ba
     <string name="battery_tip_early_heads_up_title">"Activer l'économiseur de batterie ?"</string>
     <string name="battery_tip_high_usage_summary">Il est possible que vous soyez bientôt à court de batterie</string>
     <string name="battery_tip_high_usage_title">"Téléphone plus utilisé que d'habitude"</string>
-    <string name="battery_tip_limited_temporarily_dialog_msg">"In certain conditions, like high temperatures and long charging periods, charging may be limited to %1$s to help preserve battery health.
+    <string name="battery_tip_limited_temporarily_dialog_msg">"Dans certaines conditions, comme des températures élevées et de longues périodes de charge, la charge peut être limitée à %1$s pour aider à préserver la santé de la batterie.
 
-When those conditions end, your phone will automatically charge normally."</string>
-    <string name="battery_tip_limited_temporarily_dialog_resume_charge">Resume charging</string>
-    <string name="battery_tip_limited_temporarily_summary">To preserve your battery. Learn more.</string>
-    <string name="battery_tip_limited_temporarily_title">Charging temporarily limited</string>
+Lorsque ces conditions prendront fin, votre téléphone se chargera automatiquement normalement."</string>
+    <string name="battery_tip_limited_temporarily_dialog_resume_charge">Reprendre la charge</string>
+    <string name="battery_tip_limited_temporarily_summary">Pour préserver votre batterie. En savoir plus.</string>
+    <string name="battery_tip_limited_temporarily_title">Charge temporairement limitée</string>
     <string name="battery_tip_low_battery_summary">"L'autonomie de la batterie est faible"</string>
     <string name="battery_tip_low_battery_title">Autonomie de la batterie faible</string>
     <string name="battery_tip_restrict_app_dialog_message">"Pour économiser la batterie, empêchez %1$s de l'utiliser en arrière-plan. Cette application peut ne pas fonctionner correctement et ses notifications risquent d'être retardées."</string>
@@ -1284,46 +1274,46 @@ Applications :
     <string name="battery_tip_unrestrict_app_dialog_message">Cette application pourra utiliser la batterie en arrière-plan. Il se peut que vous arriviez à court de batterie plus vite que prévu.</string>
     <string name="battery_tip_unrestrict_app_dialog_ok">Supprimer</string>
     <string name="battery_tip_unrestrict_app_dialog_title">Supprimer la restriction ?</string>
-    <string name="battery_total_and_bg_usage">"^1 total • ^2 background
-from last full charge"</string>
-    <string name="battery_total_and_bg_usage_24hr">"^1 total • ^2 background
-for past 24 hr"</string>
-    <string name="battery_total_and_bg_usage_with_period">"^1 total • ^2 background
-for ^3"</string>
-    <string name="battery_total_usage">^1 total from last full charge</string>
-    <string name="battery_total_usage_24hr">^1 total for past 24 hr</string>
+    <string name="battery_total_and_bg_usage">"^1 total • ^2 arrière-plan
+depuis la dernière charge complète"</string>
+    <string name="battery_total_and_bg_usage_24hr">"^1 total • ^2 arrière-plan
+depuis les dernières 24 heures"</string>
+    <string name="battery_total_and_bg_usage_with_period">"^1 total • ^2 arrière-plan
+pour ^3"</string>
+    <string name="battery_total_usage">^1 total depuis la dernière charge complète</string>
+    <string name="battery_total_usage_24hr">^1 total depuis les dernières 24 heures</string>
     <string name="battery_total_usage_and_bg_less_minute_usage">"^1 total • background less than a minute
 from last full charge"</string>
     <string name="battery_total_usage_and_bg_less_minute_usage_24hr">"^1 total • background less than a minute
 for past 24 hr"</string>
     <string name="battery_total_usage_and_bg_less_minute_usage_with_period">"^1 total • background less than a minute
 for ^2"</string>
-    <string name="battery_total_usage_less_minute">Total less than a minute from last full charge</string>
-    <string name="battery_total_usage_less_minute_24hr">Total less than a minute for past 24 hr</string>
-    <string name="battery_total_usage_less_minute_with_period">Total less than a minute for ^1</string>
-    <string name="battery_total_usage_with_period">^1 total for ^2</string>
-    <string name="battery_usage_background_less_than_one_minute">Background: less than a min</string>
-    <string name="battery_usage_chart">Battery usage chart</string>
-    <string name="battery_usage_chart_graph_hint">Battery level for past 24 hr</string>
-    <string name="battery_usage_for_background_time">Background: %s</string>
-    <string name="battery_usage_for_total_time">Total: %s</string>
-    <string name="battery_usage_screen_footer">"Battery usage data is approximate and doesn't measure usage when phone is charging"</string>
-    <string name="battery_usage_screen_footer_empty">Battery usage data will be available after you use your phone for a few hours</string>
-    <string name="battery_usage_total_less_than_one_minute">Total: less than a min</string>
+    <string name="battery_total_usage_less_minute">Total moins d’une minute depuis la dernière charge complète</string>
+    <string name="battery_total_usage_less_minute_24hr">Total moins d’une minute pour les dernières 24 heures</string>
+    <string name="battery_total_usage_less_minute_with_period">Total moins d’une minute pour ^1</string>
+    <string name="battery_total_usage_with_period">^1 total pour ^2</string>
+    <string name="battery_usage_background_less_than_one_minute">Contexte : moins d’une minute</string>
+    <string name="battery_usage_chart">Tableau d’utilisation de la batterie</string>
+    <string name="battery_usage_chart_graph_hint">Niveau de la batterie au cours des dernières 24 heures</string>
+    <string name="battery_usage_for_background_time">Arrière-plan : %s</string>
+    <string name="battery_usage_for_total_time">Total : %s</string>
+    <string name="battery_usage_screen_footer">"Les données d’utilisation de la batterie sont approximatives et ne mesurent pas l’utilisation lorsque le téléphone est en charge"</string>
+    <string name="battery_usage_screen_footer_empty">Les données d’utilisation de la batterie seront disponibles après quelques heures d’utilisation de votre téléphone</string>
+    <string name="battery_usage_total_less_than_one_minute">Total : moins d’une minute</string>
     <string name="battery_used_by">%1$s utilisé(s) par %2$s</string>
-    <string name="battery_used_for">"Temps d'utilisation : ^1"</string>
-    <string name="bcast_audio_sync_state">Audio Sync status</string>
-    <string name="bcast_enable_audio_sync">Audio sync</string>
-    <string name="bcast_enable_metadata_sync">Metadata sync</string>
-    <string name="bcast_info_update">Update Source Info</string>
-    <string name="bcast_metadata_sync_state">Metadata Sync status</string>
-    <string name="bcast_sink_volume_title">Broadcast sink volume</string>
-    <string name="bcast_source_address">Broadcast Source Device</string>
-    <string name="bcast_source_enc_status">Encryption Status</string>
-    <string name="bcast_source_info_sid">Broadcast Source Id</string>
-    <string name="bcast_source_metadata">Metadata</string>
-    <string name="bcast_update_code_summary">Add broadcast code here, and click Update Broadcast Source Info</string>
-    <string name="bcast_update_code_title">Update Broadcast code</string>
+    <string name="battery_used_for">"Temps d’utilisation : ^1"</string>
+    <string name="bcast_audio_sync_state">État de la synchronisation audio</string>
+    <string name="bcast_enable_audio_sync">Synchronisation audio</string>
+    <string name="bcast_enable_metadata_sync">Synchronisation des métadonnées</string>
+    <string name="bcast_info_update">Mettre à jour les informations sur la source</string>
+    <string name="bcast_metadata_sync_state">État de la synchronisation des métadonnées</string>
+    <string name="bcast_sink_volume_title">Volume du récepteur de diffusion</string>
+    <string name="bcast_source_address">Périphérique source de diffusion</string>
+    <string name="bcast_source_enc_status">Statut de chiffrement</string>
+    <string name="bcast_source_info_sid">Identifiant de la source de diffusion</string>
+    <string name="bcast_source_metadata">Métadonnées</string>
+    <string name="bcast_update_code_summary">Ajoutez le code de diffusion ici, puis cliquez sur Mettre à jour les informations sur la source de diffusion</string>
+    <string name="bcast_update_code_title">Mettre à jour le code de diffusion</string>
     <string name="bearer">Réseau</string>
     <string name="beauty_camera">Beautify pour les appels vidéo</string>
     <string name="beauty_camera_summary">Utiliser Beautify pour les appels vidéo WeChat</string>
@@ -1336,15 +1326,15 @@ for ^2"</string>
     <string name="bind_xiaomi_account_confirm">Ajouter</string>
     <string name="bind_xiaomi_account_dialog_summery">"Vous êtes sur le point d'ajouter le Compte Xiaomi %s. Si vous oubliez votre mot de passe, vous pouvez utiliser ce compte pour le réinitialiser."</string>
     <string name="bind_xiaomi_account_success">Compte Xiaomi ajouté avec succès</string>
-    <string name="biometric_settings_category_ways_to_unlock">Ways to unlock</string>
-    <string name="biometric_settings_hand_back_to_guardian">Hand the phone back to your parent</string>
+    <string name="biometric_settings_category_ways_to_unlock">Méthodes de déverrouillage</string>
+    <string name="biometric_settings_hand_back_to_guardian">Rends le téléphone à tes parents</string>
     <string name="biometric_settings_hand_back_to_guardian_ok">OK</string>
-    <string name="biometric_settings_intro">When you set up Face Unlock and Fingerprint Unlock, your phone will ask for your fingerprint when you wear a mask or are in a dark area</string>
-    <string name="biometric_settings_use_biometric_for_apps">Verify it’s you in apps</string>
-    <string name="biometric_settings_use_biometric_unlock_phone">Unlock your phone</string>
-    <string name="biometric_settings_use_face_or_fingerprint_preference_summary">Using face or fingerprint</string>
-    <string name="biometric_settings_use_face_preference_summary">Using face</string>
-    <string name="biometric_settings_use_fingerprint_preference_summary">Using fingerprint</string>
+    <string name="biometric_settings_intro">Lorsque vous configurez Face Unlock et Fingerprint Unlock, votre téléphone vous demandera votre empreinte digitale lorsque vous portez un masque ou que vous vous trouvez dans une zone sombre</string>
+    <string name="biometric_settings_use_biometric_for_apps">Vérifier qu’il s’agit bien de vous dans les applications</string>
+    <string name="biometric_settings_use_biometric_unlock_phone">Déverrouiller votre téléphone</string>
+    <string name="biometric_settings_use_face_or_fingerprint_preference_summary">Utiliser le visage ou l’empreinte digitale</string>
+    <string name="biometric_settings_use_face_preference_summary">Utiliser le visage</string>
+    <string name="biometric_settings_use_fingerprint_preference_summary">Utiliser l’empreinte digitale</string>
     <string name="biometric_weak_improve_matching_title">Améliorer la correspondance de visages</string>
     <string name="biometric_weak_liveliness_summary">Un clignement est exigé pour déverrouiller</string>
     <string name="biometric_weak_liveliness_title">Contrôle de personne réelle</string>

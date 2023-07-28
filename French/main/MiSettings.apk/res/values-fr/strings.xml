@@ -101,7 +101,6 @@
   <string name="branch_whipbird">Turdidés</string>
   <string name="brown_pelican">Pélican brun</string>
   <string name="calendar_sound">"Rappels d'événements"</string>
-  <string name="calendar_tip">"Le rappel d'événement semble fonctionner pour les rappels d'agenda, les notes et les tâches"</string>
   <string name="canada_goose">Bernache du Canada</string>
   <string name="capybara">Capybara</string>
   <string name="capybara_info">"Les capybaras sont des rongeurs herbivores semi-aquatiques qui peuvent retenir leur souffle sous l'eau jusqu'à cinq minutes."</string>
@@ -245,6 +244,8 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="focus_time_exception_tip">"On dirait que l'heure du système a changé. Mode de mise au point désactivé."</string>
   <string name="follow_apps_settings">"Basé sur les paramètres de l'application"</string>
   <string name="follow_sim1">Appliquer les paramètres de la carte SIM 1</string>
+  <string name="footer_max_fps" formatted="false">"
+%d. Le taux de rafraîchissement peut être ajusté jusqu'à %s Hz pour les applications et les jeux pris en charge."</string>
   <string name="force_rest">Utiliser des pauses de session</string>
   <string name="force_rest_summary">Prendre des pauses obligatoires lorsque les sessions atteignent la limite définie</string>
   <string name="force_rest_time">Durée de la pause</string>
@@ -356,6 +357,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="marabou_stork">"Marabout d'Afrique"</string>
   <string name="marabou_stork_info">"La marabout d'Afrique est un oiseau massif et un charognard."</string>
   <string name="masked_palm_civet">Civette palmiste à masque</string>
+  <string name="max_fps_string">Jusqu’à to %s Hz</string>
   <string name="medium_tree_finch">Géospize modeste</string>
   <string name="midnight">Nuit</string>
   <string name="miuix_access_state_desc">Sélectionné</string>
@@ -369,6 +371,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="miuix_appcompat_delete_description">Supprimer</string>
   <string name="miuix_appcompat_deselect_all">Désélectionner</string>
   <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
+  <string name="miuix_appcompat_edit">Modifier</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
   <string name="miuix_appcompat_search_input_description">Chercher</string>
   <string name="miuix_appcompat_select_all">Tout sélectionner</string>
@@ -514,6 +517,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="screen_fps_summary_power_save">Using fixed rate consumes less power</string>
   <string name="screen_fps_summary_smooth">Some apps will increase refresh rate automatically to improve picture quality</string>
   <string name="screen_fps_title">Vitesse de rafraîchissement</string>
+  <string name="screen_fps_unit">%d Hz</string>
   <string name="screen_fps_unit_power_save">%d Hz (Économise la batterie)</string>
   <string name="screen_fps_unit_smooth">%d Hz (Meilleure qualité)</string>
   <string name="screen_fps_unit_string">%s Hz</string>
@@ -595,6 +599,7 @@ ne sont pas générées dans le Deuxième espace"</string>
   <string name="stop_app_timer_tip">"Les données et les autorisations liées au temps d'utilisation seront effacées après la désactivation, y compris les paramètres, les données locales et dans le cloud, etc."</string>
   <string name="stop_summary">"Toutes les statistiques et données de temps d'utilisation seront supprimées lorsque vous désactivez cette fonction"</string>
   <string name="suggestion">"Retour d'information"</string>
+  <string name="summary_max_fps_for_intelligent">Ajustez le taux de rafraîchissement dynamiquement jusqu’à %s Hz en fonction de scénarios pour équilibrer les performances avec la consommation d’énergie</string>
   <string name="sunday">Dimanche</string>
   <string name="sunday_short">Dim</string>
   <string name="sunday_shortest">Dim</string>

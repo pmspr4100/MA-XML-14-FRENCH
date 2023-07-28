@@ -252,6 +252,8 @@ une capture d'écran défilante"</string>
     <string name="screen_talkback_shape">Forme</string>
     <string name="screen_talkback_small">Très petit</string>
     <string name="screen_talkback_text">Texte</string>
+    <string name="screenshot_detected_multiple_template">Plusieurs applications dont %1$s ont détecté cette capture d’écran</string>
+    <string name="screenshot_detected_template">%1$s a détecté cette capture d’écran</string>
     <string name="screenshot_edit">Modifier</string>
     <string name="screenshot_failed_in_landscape_mode">"Impossible de faire des captures d'écran défilantes en mode paysage"</string>
     <string name="screenshot_feedback_txt">Commentaires</string>

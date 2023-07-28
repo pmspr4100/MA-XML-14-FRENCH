@@ -441,10 +441,10 @@ Appuyez deux fois pour ouvrir Récents."</string>
     <string name="stylus_quick_note_summary">Lorsque l’écran est éteint, appuyez dessus avec votre stylet pour commencer à écrire. Cette fonctionnalité augmente la consommation d’énergie.</string>
     <string name="stylus_quick_note_title">Écrire avec l’écran éteint</string>
     <string name="stylus_quick_write">Écrire</string>
-    <string name="stylus_quick_write_summary">"Appuyez et maintenez le bouton d'écriture pour écrire ou dessiner."</string>
+    <string name="stylus_quick_write_summary">Appuyez et maintenez le bouton d’écriture pour écrire ou dessiner</string>
     <string name="stylus_schematic_diagram">Démo</string>
     <string name="stylus_screen_shot">"Faire une capture d'écran"</string>
-    <string name="stylus_screen_shot_summary">"Appuyez sur le bouton de capture d'écran et maintenez-le enfoncé pour prendre et modifier une capture d'écran."</string>
+    <string name="stylus_screen_shot_summary">Appuyez sur le bouton de capture d’écran et maintenez-le enfoncé pour prendre et modifier une capture d’écran</string>
     <string name="stylus_settings_title">Stylet</string>
     <string name="stylus_shortcut_actions_summary">"Appuyez et maintenez le premier bouton pour écrire. Appuyez longuement sur le deuxième bouton pour prendre une capture d'écran."</string>
     <string name="stylus_shortcut_actions_title">Actions rapides</string>
