@@ -210,6 +210,7 @@
     <string name="common_home_search_delete_confirm">Supprimer</string>
     <string name="common_home_search_delete_content">"Vous ne pourrez pas rechercher des données depuis la barre de recherche de l'écran d'accueil après l'avoir supprimée. Supprimer quand même ?"</string>
     <string name="confirm_btn_label">OK</string>
+    <string name="content_center">Centre des contenus</string>
     <string name="content_description_button_add">Appuyez pour ajouter aux applications actuelles</string>
     <string name="content_description_button_disable">"Impossible d'ajouter des applications plus récentes"</string>
     <string name="content_description_button_remove">Appuyez pour supprimer des applications actuelles</string>
@@ -328,6 +329,11 @@
     <string name="in_app_result_by">"Résultats intégrés à l'application par"</string>
     <string name="install">Installer</string>
     <string name="intelligent_exposed_button_summary_text">"Utilisez des suggestions intelligentes basées sur l'utilisation de votre application pour mettre en surbrillance les applications dans des dossiers agrandis"</string>
+    <string name="international_home_pull_down_content">Faites glisser votre doigt vers le bas sur l’écran d’accueil pour effectuer une recherche sur cet appareil et sur Internet.</string>
+    <string name="international_home_pull_down_sub_content">Vous pouvez activer ce geste pour ouvrir le Centre de contrôle dans Paramètres > Écran d’accueil > Faites glisser votre doigt vers le bas sur l’écran d’accueil.</string>
+    <string name="international_home_pull_down_up_btn_get">Compris</string>
+    <string name="international_home_pull_up_content">Faites glisser votre doigt vers le haut sur l’écran d’accueil pour ouvrir le Centre de contenu.</string>
+    <string name="international_home_pull_up_sub_content">Pour ouvrir la recherche, faites glisser votre doigt depuis le centre de votre écran d’accueil.</string>
     <string name="item_view_role_description">Onglet</string>
     <string name="jeejen_description">"Éléments d'interface utilisateur plus grands.
 Appel plus accessible.

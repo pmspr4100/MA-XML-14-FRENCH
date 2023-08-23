@@ -1377,8 +1377,9 @@ Soyez heureux"</string>
     <string name="song_offline">"Cette chanson n'est plus disponible."</string>
     <string name="song_picker_complete">Terminé</string>
     <string name="song_quality_category">Musique</string>
+    <string name="song_swipe_navigation">Faites glisser votre doigt vers la gauche ou la droite pour changer de chanson</string>
     <string name="songgroup_pick_album">Albums</string>
-    <string name="songgroup_pick_playlist">Playlistes</string>
+    <string name="songgroup_pick_playlist">Playlists</string>
     <string name="sort_by_name">Nom</string>
     <string name="sort_by_time">Date</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Tenter de faire une transition entre les chansons à la lecture</string>
