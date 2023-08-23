@@ -637,6 +637,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="creativity_title">Créativité</string>
     <string name="crop_label">Photos rognées</string>
     <string name="cta_agreement_declare"><Data>"Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière dont nous utilisons vos données, lisez et acceptez notre &lt;a href=\"%1$s\">Contrat d'utilisation&lt;/a> et notre &lt;a href =\"%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser cette application."</Data></string>
+    <string name="cta_hybrid_feedback_network_declare">Pour afficher les solutions aux problèmes les plus courants, autorisez d’abord cette application à se connecter au réseau.</string>
     <string name="cta_network_declare">Pour synchroniser des photos et des vidéos avec Xiaomi Cloud, cette application doit se connecter à Internet.</string>
     <string name="cta_screenthrow_declare">"Pour pouvoir diffuser l'écran de cet appareil sur des moniteurs externes, cette application doit se connecter à Internet."</string>
     <string name="custom_select_title_deselect_all">Désélectionner</string>
@@ -2142,6 +2143,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
     <string name="picker_title_specify_format">Sélectionner %d photos</string>
     <string name="picker_title_specify_format_one">Sélectionner %d photo</string>
     <string name="picker_title_unlimit">Sélectionner des photos</string>
+    <string name="picture_not_support_privacy_watermark">"Impossible d'ajouter des filigranes. Cette image est trop petite."</string>
     <string name="places_album_empty_title">Les photos peuvent être triées par localisation</string>
     <string name="play_gif_desc">Lire le GIF</string>
     <string name="play_video_desc">Lire la vidéo</string>
@@ -2374,6 +2376,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
     <string name="search_clear_histories">"Vider l'historique de recherche"</string>
     <string name="search_connection_error">Impossible de se connecter au réseau</string>
     <string name="search_connection_error_and_set">Appuyer pour vérifier les paramètres réseau</string>
+    <string name="search_domestic_edit_hint">Rechercher des photos et des vidéos</string>
     <string name="search_edit_hint">Rechercher des fichiers ou des albums</string>
     <string name="search_empty_title">Trouvez des photos avec des personnes, des lieux et des objets spécifiques dans votre galerie</string>
     <string name="search_error">Une erreur est survenue</string>

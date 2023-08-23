@@ -47,7 +47,7 @@
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="dialog_market_score_cancel">Annuler</string>
     <string name="dialog_market_score_dislike">Commentaire</string>
-    <string name="dialog_market_score_like">5 étoiles !</string>
+    <string name="dialog_market_score_like">Cinq étoiles !</string>
     <string name="dialog_market_score_positive_button">Commentaire</string>
     <string name="dialog_market_score_submit">Soumettre</string>
     <string name="dialog_market_score_subtitle_step1">Appuyez sur les étoiles pour noter cette application</string>
@@ -362,7 +362,7 @@
     <string name="superpower_settings_launcher">Ultra économiseur de batterie</string>
     <string name="superpower_system">Recommandé</string>
     <string name="superpower_third">Applications tierces</string>
-    <string name="superpower_toast_app_select_full">"Vous pouvez ajouter jusqu'à 6 éléments aux applications fréquemment utilisées"</string>
+    <string name="superpower_toast_app_select_full_new">Vous pouvez ajouter jusqu’à %d éléments aux applications fréquemment utilisées</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>

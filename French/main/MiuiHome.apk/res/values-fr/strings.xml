@@ -210,6 +210,7 @@
     <string name="common_home_search_delete_confirm">Supprimer</string>
     <string name="common_home_search_delete_content">"Vous ne pourrez pas rechercher des données depuis la barre de recherche de l'écran d'accueil après l'avoir supprimée. Supprimer quand même ?"</string>
     <string name="confirm_btn_label">OK</string>
+    <string name="content_center">Centre des contenus</string>
     <string name="content_description_button_add">Appuyez pour ajouter aux applications actuelles</string>
     <string name="content_description_button_disable">"Impossible d'ajouter des applications plus récentes"</string>
     <string name="content_description_button_remove">Appuyez pour supprimer des applications actuelles</string>
@@ -328,6 +329,11 @@
     <string name="in_app_result_by">"Résultats intégrés à l'application par"</string>
     <string name="install">Installer</string>
     <string name="intelligent_exposed_button_summary_text">"Utilisez des suggestions intelligentes basées sur l'utilisation de votre application pour mettre en surbrillance les applications dans des dossiers agrandis"</string>
+    <string name="international_home_pull_down_content">Faites glisser votre doigt vers le bas sur l’écran d’accueil pour effectuer une recherche sur cet appareil et sur Internet.</string>
+    <string name="international_home_pull_down_sub_content">Vous pouvez activer ce geste pour ouvrir le Centre de contrôle dans Paramètres > Écran d’accueil > Faites glisser votre doigt vers le bas sur l’écran d’accueil.</string>
+    <string name="international_home_pull_down_up_btn_get">Compris</string>
+    <string name="international_home_pull_up_content">Faites glisser votre doigt vers le haut sur l’écran d’accueil pour ouvrir le Centre de contenu.</string>
+    <string name="international_home_pull_up_sub_content">Pour ouvrir la recherche, faites glisser votre doigt depuis le centre de votre écran d’accueil.</string>
     <string name="item_view_role_description">Onglet</string>
     <string name="jeejen_description">"Éléments d'interface utilisateur plus grands.
 Appel plus accessible.
@@ -411,7 +417,7 @@ Sécurité renforcée."</string>
     <string name="miuix_appcompat_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
-    <string name="miuix_appcompat_search_input_description">Chercher</string>
+    <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
@@ -475,7 +481,7 @@ Sécurité renforcée."</string>
     <string name="mtrl_picker_a11y_prev_month">Aller au mois précédent</string>
     <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
     <string name="mtrl_picker_confirm">OK</string>
-    <string name="mtrl_picker_date_header_title">Sélectionner la date</string>
+    <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
     <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
     <string name="mtrl_picker_day_of_week_column_header">Colonne des jours : %1$s</string>
     <string name="mtrl_picker_invalid_format">Format invalide.</string>
@@ -486,7 +492,7 @@ Sécurité renforcée."</string>
     <string name="mtrl_picker_out_of_range">Hors plage : %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
-    <string name="mtrl_picker_range_header_title">Sélectionner la plage</string>
+    <string name="mtrl_picker_range_header_title">Sélectionner un intervalle de dates</string>
     <string name="mtrl_picker_range_header_unselected">Date de début – Date de fin</string>
     <string name="mtrl_picker_save">Enregistrer</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>

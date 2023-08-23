@@ -1516,6 +1516,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="domestic_roaming_setting">Itinérance nationale</string>
     <string name="dont_bore">Ne pas laisser les boutons et les notifications vous distraire</string>
     <string name="download">Télécharger</string>
+    <string name="download_tvm_title">Plugin Phone Key Component</string>
     <string name="downloading">Téléchargement</string>
     <string name="doze_optimization_summary">Augmente la réponse au toucher et la sensibilité</string>
     <string name="doze_optimization_title">Commandes tactiles optimisées</string>
@@ -2669,6 +2670,8 @@ pour rejoindre notre chasse aux œufs !"</string>
     <string name="install_sucess">%s installé avec succès</string>
     <string name="install_text">Installer</string>
     <string name="install_title">Installer via USB</string>
+    <string name="install_tvm_component_desc">Pour garantir la sécurité de vos transactions, installez le plug-in Phone Key Component.</string>
+    <string name="install_tvm_component_title">Installer le plug-in Phone Key Component</string>
     <string name="install_type_instant">Application instantanée</string>
     <string name="installing">Installation</string>
     <string name="international_Ad">Pub</string>
@@ -3048,7 +3051,7 @@ Votre appareil est %s plus rapide maintenant."</string>
     <string name="mtrl_picker_a11y_prev_month">Aller au mois précédent</string>
     <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
     <string name="mtrl_picker_confirm">OK</string>
-    <string name="mtrl_picker_date_header_title">Sélectionner la date</string>
+    <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
     <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
     <string name="mtrl_picker_day_of_week_column_header">Colonne de jours : %1$s</string>
     <string name="mtrl_picker_invalid_format">Format invalide.</string>
@@ -3060,7 +3063,7 @@ Votre appareil est %s plus rapide maintenant."</string>
     <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-    <string name="mtrl_picker_range_header_title">Sélectionner la plage</string>
+    <string name="mtrl_picker_range_header_title">Sélectionner un intervalle de dates</string>
     <string name="mtrl_picker_range_header_unselected">Date de début – Date de fin</string>
     <string name="mtrl_picker_save">Enregistrer</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
@@ -4260,9 +4263,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="privacy_pop_record">"Audio enregistré aujourd'hui"</string>
     <string name="privacy_pop_storage">"Accès au stockage aujourd'hui"</string>
     <string name="privacy_prompt_tc_sms_report_message">"Votre numéro de téléphone et les détails d'opérateur doivent être chiffrés et envoyés aux serveurs Mi pour obtenir la mise à jour de votre utilisation des données."</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Après que vous ayez lancé l'étalonnage, MIUI se connectera au réseau, cryptera les infos de votre opérateur, votre numéro de téléphone, votre IMEI et votre Compte Xiaomi, puis enverra ces éléments vers les serveurs Mi. Ceci se fera dans le but d'acquérir le modèle d'étalonnage et apprenez si possible à acheter des données dans votre localité.
-
-Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recevoir le modèle d'étalonnage."</string>
     <string name="privacy_prompt_upload">Envoyer</string>
     <string name="privacy_protect_summary">Protégez vos informations personnelles</string>
     <string name="privacy_protect_title">Protection de la vie privée</string>
@@ -5142,8 +5142,8 @@ Pour utiliser ce ^1, vous devez d'abord le monter."</string>
     <string name="storage_dialog_unsupported">"Cet appareil ne prend pas en charge ce ^1.
 
 Pour utiliser ce ^1 avec cet appareil, vous devez d'abord le configurer."</string>
-    <string name="storage_fbo_clear">Actualisation du stockage FBO</string>
-    <string name="storage_fbo_des">"Le stockage interne souffre d'une fragmentation, ce qui peut ralentir considérablement votre appareil. L'actualisation du stockage FBO fonctionne automatiquement lorsque vous n'utilisez pas l'appareil. Il organise physiquement vos fichiers dans le plus petit nombre de fragments, réduisant ainsi la décalage."</string>
+    <string name="storage_fbo_clear">Actualisation du stockage</string>
+    <string name="storage_fbo_des">"Le stockage interne souffre d'une fragmentation, ce qui peut ralentir considérablement votre appareil. L'actualisation du stockage fonctionne automatiquement lorsque vous n'utilisez pas l'appareil. Il organise physiquement vos fichiers dans le plus petit nombre de fragments, réduisant ainsi la décalage."</string>
     <string name="storage_fbo_number_tip">Traité le %1$s</string>
     <string name="storage_fbo_tools">Optimisation du stockage</string>
     <string name="storage_file_delete_tip">"Supprimer définitivement les éléments sélectionnés ? Certains d'entre eux peuvent être rechargés si nécessaire."</string>
@@ -5698,6 +5698,9 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="turn_off_auto_correction">Désactiver la synchronisation automatique</string>
+    <string name="tvm_install_failed">Impossible d’installer le plug-in</string>
+    <string name="tvm_install_successed">Plug-in installé avec succès</string>
+    <string name="tvm_version_too_low">Mettez d’abord à jour le plug-in Phone Key Component</string>
     <string name="two_address_choose_hint">%1$s et %2$s</string>
     <string name="type_face_condition_summary">Ajuster la taille du texte et la graisse de la police</string>
     <string name="unable_connect_internet">Pas de connexion internet</string>
@@ -5725,6 +5728,8 @@ Le volume de données restant inclut l'excédent du mois précédent."</string>
     <string name="untrust_app_perm_oaid">"Autoriser l'accès à votre identifiant virtuel"</string>
     <string name="untrust_app_perm_title">Application de source inconnue</string>
     <string name="untrust_app_perm_warn">"Cette application provient d'une source inconnue et peut présenter des risques de sécurité. Elle peut utiliser les autorisations répertoriées ci-dessous pour compromettre votre vie privée. Accordez ces autorisations après un examen attentif."</string>
+    <string name="upgrade_tvm_component_desc">Pour garantir la sécurité de vos transactions, mettez à jour le plug-in Phone Key Component.</string>
+    <string name="upgrade_tvm_component_title">Mise à jour du plug-in Phone Key Component</string>
     <string name="usage_sorted_activity_lable">Utilisation des données</string>
     <string name="usage_sorted_empty_text">Vide</string>
     <string name="usage_sorted_loading_text">Chargement…</string>
@@ -5862,6 +5867,7 @@ Essayez de mettre à l'échelle la définition !"</string>
     <string name="virus_app_type_uninstalled">APK</string>
     <string name="virus_app_verison_text">Version : %s</string>
     <string name="virus_auto_update_engine">Mises à jour auto : %s</string>
+    <string name="virus_auto_update_engine_1">Mettre à jour les définitions automatiquement</string>
     <string name="virus_clear_dialog_title">Effacer les applications malicieuses</string>
     <string name="virus_detail_app">Contient des virus</string>
     <string name="virus_detail_title">Virus</string>

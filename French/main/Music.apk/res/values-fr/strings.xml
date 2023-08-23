@@ -753,7 +753,7 @@
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
     <string name="miuix_appcompat_edit">Modifier</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
-    <string name="miuix_appcompat_search_input_description">Chercher</string>
+    <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
@@ -1377,8 +1377,9 @@ Soyez heureux"</string>
     <string name="song_offline">"Cette chanson n'est plus disponible."</string>
     <string name="song_picker_complete">Terminé</string>
     <string name="song_quality_category">Musique</string>
+    <string name="song_swipe_navigation">Faites glisser votre doigt vers la gauche ou la droite pour changer de chanson</string>
     <string name="songgroup_pick_album">Albums</string>
-    <string name="songgroup_pick_playlist">Playlistes</string>
+    <string name="songgroup_pick_playlist">Playlists</string>
     <string name="sort_by_name">Nom</string>
     <string name="sort_by_time">Date</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Tenter de faire une transition entre les chansons à la lecture</string>
@@ -1583,4 +1584,6 @@ Taille de la mise à jour : %2$s"</string>
     <string name="youtube_share_guide_tip">Vous pouvez maintenant partager des vidéos avec des amis</string>
     <string name="youtube_tab_explore">Découvrir</string>
     <string name="youtube_tab_playlist">Playlists</string>
+    <string name="youtube_tab_radar">Radar</string>
+    <string name="youtube_tab_trend">Tendances</string>
 </resources>

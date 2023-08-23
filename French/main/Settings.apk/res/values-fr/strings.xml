@@ -627,15 +627,15 @@ Widget : %2$s
     <string name="allow_manage_external_storage_description">"Autorisez cette application à lire, modifier et supprimer tous les fichiers de cet appareil ou de tout volume de stockage connecté. Si cela est accordé, l'application peut accéder aux fichiers à votre insu."</string>
     <string name="allow_mock_location">Autoriser les simulations de localisations</string>
     <string name="allow_mock_location_summary">Autoriser les simulations de localisations</string>
-    <string name="allow_mock_modem">Allow Mock Modem</string>
-    <string name="allow_mock_modem_summary">Allow this device to run Mock Modem service for instrumentation testing. Do not enable this during normal usage of the phone</string>
+    <string name="allow_mock_modem">Autoriser Mock Modem</string>
+    <string name="allow_mock_modem_summary">Autorisez cet appareil à exécuter le service de modem simulé pour les tests d’instrumentation. Ne l’activez pas pendant l’utilisation normale du téléphone</string>
     <string name="allow_oaid_used">"Utiliser l'ID virtuel"</string>
     <string name="allow_oaid_used_desc">"MIUI ne fournira pas d'ID virtuel (OAID) aux applications installées. Certaines fonctionnalités de recommandations personnelles peuvent ne pas fonctionner correctement à cause de cela."</string>
     <string name="allow_ongoing_title">Autoriser les notifications permanentes</string>
     <string name="allow_overlay_description">Autorisez cette application à se superposer aux autres applications que vous utilisez. Cette autorisation peut avoir un impact sur votre utilisation de ces dernières, ou modifier leur apparence ou leur comportement.</string>
     <string name="allow_sound_title">Autoriser le son</string>
-    <string name="allow_turn_screen_on">Allow turning the screen on</string>
-    <string name="allow_turn_screen_on_description">Allow an app to turn the screen on. If this permission is granted, the app may turn on the screen at any time without your explicit intent.</string>
+    <string name="allow_turn_screen_on">Autoriser l’allumage de l’écran</string>
+    <string name="allow_turn_screen_on_description">Autoriser une application à allumer l’écran. Si cette autorisation est accordée, l’application peut allumer l’écran à tout moment sans votre intention explicite.</string>
     <string name="allow_vibrate_title">Autoriser les vibrations</string>
     <string name="alpha_build">Alpha</string>
     <string name="already_delete_system_app">Applications système désinstallées</string>
@@ -742,7 +742,7 @@ Widget : %2$s
     <string name="app_floating_window_dlg_enable">"L'activation de la fenêtre flottante %1$s nécessite le redémarrage de l'application."</string>
     <string name="app_forward_locked">"L'application est protégée contre la copie."</string>
     <string name="app_function">"Fonctionnalité de l'application"</string>
-    <string name="app_info_all_services_label">All Services</string>
+    <string name="app_info_all_services_label">Tous les services</string>
     <string name="app_info_storage_title">Espace utilisé</string>
     <string name="app_install_details_group_title">Boutique</string>
     <string name="app_install_details_summary">Application installée depuis la boutique %1$s</string>
@@ -771,10 +771,10 @@ Widget : %2$s
     <string name="app_link_title">"Paramètres additionnels dans l'application"</string>
     <string name="app_list_memory_use">Utilisation par les applis</string>
     <string name="app_list_preference_none">Aucune</string>
-    <string name="app_locale_picker_summary">Set the language for each app</string>
-    <string name="app_locale_picker_title">App Language</string>
-    <string name="app_locale_preference_title">Language</string>
-    <string name="app_locales_picker_menu_title">App Languages</string>
+    <string name="app_locale_picker_summary">Régler la langue pour chaque application</string>
+    <string name="app_locale_picker_title">Langue de l’application</string>
+    <string name="app_locale_preference_title">Langue</string>
+    <string name="app_locales_picker_menu_title">Langues de l’application</string>
     <string name="app_memory_use">Utilisation de la mémoire</string>
     <string name="app_mobile">Données mobiles</string>
     <string name="app_name">Préférence</string>
@@ -808,7 +808,7 @@ Widget : %2$s
     <string name="app_pinning_intro">"L'épinglage d'application vous permet de garder l'application actuelle en vue jusqu'à ce que vous la détachiez. Cette fonctionnalité peut être utilisée, par exemple, pour permettre à un ami de confiance de jouer à un jeu spécifique."</string>
     <string name="app_pinning_main_switch_title">"Utiliser l'épinglage d'application"</string>
     <string name="app_process_limit_title">Limite du processus en arrière-plan</string>
-    <string name="app_restricted_settings_lockscreen_title">Allow restricted settings</string>
+    <string name="app_restricted_settings_lockscreen_title">Autoriser des réglages restreints</string>
     <string name="app_restrictions_custom_label">"Définir des restrictions d'applis"</string>
     <string name="app_sees_restricted_accounts">Cette application peut accéder à vos comptes.</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Cette application peut accéder à vos comptes. Contrôlée par %1$s.</string>
@@ -867,8 +867,8 @@ Widget : %2$s
     <string name="assistant_corner_gesture_summary">"Faites glisser vers le haut depuis un coin inférieur pour appeler l'application d'assistant numérique."</string>
     <string name="assistant_corner_gesture_title">"Balayez pour appeler l'assistant"</string>
     <string name="assistant_gesture_category_title">Assistant numérique</string>
-    <string name="assistant_long_press_home_gesture_summary">Press and hold the Home button to invoke digital assistant app.</string>
-    <string name="assistant_long_press_home_gesture_title">Hold Home for Assistant</string>
+    <string name="assistant_long_press_home_gesture_summary">Appuyez et maintenez le bouton Home pour lancer l’application d’assistance numérique.</string>
+    <string name="assistant_long_press_home_gesture_title">Appuyer sur Home pour l’assistant</string>
     <string name="assistant_security_warning">"L'assistant pourra accéder aux informations relatives aux applications en cours d'utilisation sur votre système, y compris aux informations visibles à l'écran ou accessibles au sein des applications."</string>
     <string name="assistant_security_warning_agree">Accepter</string>
     <string name="assistant_security_warning_disagree">Refuser</string>
@@ -889,12 +889,12 @@ Widget : %2$s
     <string name="attempt_other_network">Changer de réseaux</string>
     <string name="au_pay">au PAY</string>
     <string name="audio_category_title">Audio</string>
-    <string name="audio_not_synced">Audio not synced</string>
+    <string name="audio_not_synced">Audio non synchronisée</string>
     <string name="audio_profile_settings_title">Profil audio</string>
     <string name="audio_record_proc_title">Suppression du bruit</string>
     <string name="audio_share_cancel">Non merci</string>
     <string name="audio_share_confirm">Partager</string>
-    <string name="audio_synced">Audio Synced</string>
+    <string name="audio_synced">Audio synchronisée</string>
     <string name="auto_adjst_effect_summary">Ajustez automatiquement la température de couleur à la lumière ambiante afin de maintenir un niveau de confort optimal</string>
     <string name="auto_adjust_effect_title">Ajustement automatique de la température de couleur</string>
     <string name="auto_anc_closed">Désactivé</string>
@@ -956,14 +956,14 @@ Widget : %2$s
     <string name="auto_restore_title">Restaurer automatiquement</string>
     <string name="auto_rotate_camera_lock_summary">"L'appareil photo doit être déverrouillé pour la détection de visage"</string>
     <string name="auto_rotate_camera_lock_title">Appareil photo verrouillée</string>
-    <string name="auto_rotate_link_a11y">Learn more about auto-rotate</string>
+    <string name="auto_rotate_link_a11y">En savoir sur la rotation automatique</string>
     <string name="auto_rotate_manage_permission_button">Gérer les autorisations</string>
     <string name="auto_rotate_option_face_based">Activé - Basé sur le visage</string>
     <string name="auto_rotate_option_off">Désactivé</string>
     <string name="auto_rotate_option_on">Activé</string>
-    <string name="auto_rotate_screen_summary">Automatically adjust the screen orientation when you move your phone between portrait and landscape</string>
+    <string name="auto_rotate_screen_summary">Ajustez automatiquement l’orientation de l’écran lorsque vous basculez votre téléphone entre portrait et paysage</string>
     <string name="auto_rotate_settings_primary_switch_title">Utiliser la rotation automatique</string>
-    <string name="auto_rotate_summary_a11y">When you move your phone between portrait and landscape</string>
+    <string name="auto_rotate_summary_a11y">Lorsque vous basculez votre téléphone entre portrait et paysage</string>
     <string name="auto_rotate_summary_no_permission">"L'accès à l'appareil photo est requis pour la détection des visages. Appuyez pour gérer les autorisations pour les services de personnalisation des appareils"</string>
     <string name="auto_rotate_switch_face_based">Activer la détection de visage</string>
     <string name="auto_rule">Minuteur</string>
@@ -1000,7 +1000,7 @@ Dernière exécution le %2$s"</string>
     <string name="available_via_carrier">Disponible via %1$s</string>
     <string name="available_via_passpoint">Disponible via %1$s</string>
     <string name="available_virtual_keyboard_category">Clavier virtuel disponible</string>
-    <string name="avatar_picker_title">Select a profile picture</string>
+    <string name="avatar_picker_title">Sélectionnez une photo de profil</string>
     <string name="average_memory_use">Utilisation mémoire (moyenne)</string>
     <string name="average_used">Utilisation moyenne (%)</string>
     <string name="avoid_ui">"Désactiver l'écran tactile"</string>
@@ -1010,9 +1010,9 @@ Dernière exécution le %2$s"</string>
     <string name="back_button">Retour</string>
     <string name="back_double_tap">"Taper deux fois le dos de l'appareil"</string>
     <string name="back_key">Retour</string>
-    <string name="back_navigation_animation">Predictive back animations</string>
-    <string name="back_navigation_animation_dialog">This setting enables system animations for predictive gestures. It requires setting enableOnBackInvokedCallback to true in the manifest file of each app.</string>
-    <string name="back_navigation_animation_summary">Enable system animations for predictive back</string>
+    <string name="back_navigation_animation">Animations de retour prédictives</string>
+    <string name="back_navigation_animation_dialog">Ce paramètre active les animations système pour les gestes prédictifs. Cela nécessite de définir enableOnBackInvokedCallback sur true dans le fichier manifeste de chaque application.</string>
+    <string name="back_navigation_animation_summary">Activer les animations système pour le retour prédictif</string>
     <string name="back_sensitivity_dialog_message">"
 Une sensibilité plus élevée peut entrer en conflit avec tous les gestes de l'application le long des bords de l'écran."</string>
     <string name="back_sensitivity_dialog_title">Sensibilité de retour</string>
@@ -1476,7 +1476,7 @@ You haven’t connected to %2$s before."</string>
     <string name="bluetooth_disable_hw_offload_dialog_confirm">Redémarrer</string>
     <string name="bluetooth_disable_hw_offload_dialog_message">"Vous devez redémarrer l'appareil pour modifier ce paramètre."</string>
     <string name="bluetooth_disable_hw_offload_dialog_title">"Redémarrer l'appareil ?"</string>
-    <string name="bluetooth_disable_le_audio_hw_offload">Disable Bluetooth LE AUDIO hardware offload</string>
+    <string name="bluetooth_disable_le_audio_hw_offload">Désactiver décharg. matériel Bluetooth LE AUDIO</string>
     <string name="bluetooth_disable_profile_message">Le profil :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>va être désactivé sur :&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Désactiver le profil ?</string>
     <string name="bluetooth_disabled">Désactivé</string>
@@ -1857,14 +1857,13 @@ Si vous avez déjà effectué l'une des opérations ci-dessus, ajoutez à nouvea
     <string name="bootloader_tips_ok">Compris</string>
     <string name="bootloader_tips_warning">"Ne vous déconnectez pas du réseau, ne vous déconnectez pas de votre Compte Xiaomi, n'effectuez pas une réinitialisation d'usine ou n'effacez pas les données système."</string>
     <string name="bottom_function_settings">Fonctions des boutons supplémentaires</string>
+    <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="breathing_light_color_menu_title">Couleur du voyant</string>
     <string name="breathing_light_color_summary">"Couleur du voyant à la réception d'une notification"</string>
     <string name="breathing_light_freq_summary">Clignote lorsque vous recevez de nouvelles notifications</string>
     <string name="breathing_light_freq_title">Fréquence de clignotement du voyant de notifications</string>
     <string name="brightness">Niveau de luminosité</string>
     <string name="brightness_auto_summary">Ajustez la luminosité à la lumière ambiante pour économiser la batterie</string>
-    <string name="brightness_auto_adjust_off">"La luminosité de l'écran restera constante."</string>
-    <string name="brightness_auto_adjust_on">"La luminosité de l'écran sera optimisée en fonction de la lumière ambiante."</string>
     <string name="brightness_summary">"Régler la luminosité de l'écran"</string>
     <string name="brightness_title">Luminosité</string>
     <string name="bssid_label">BSSID :</string>
@@ -2335,6 +2334,11 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="condition_zen_title">Mode \"Ne pas déranger\" activé</string>
     <string name="config_charging_function_name">charging</string>
     <string name="config_list_label">Réseaux configurés</string>
+    <string name="config_mtp_function_name">mtp</string>
+    <string name="config_ptp_function_name">ptp</string>
+    <string name="config_rat_2g">2G</string>
+    <string name="config_rat_3g">3G</string>
+    <string name="config_rat_4g">4G</string>
     <string name="configure">Configurer</string>
     <string name="configure_apps">Configurer les applis</string>
     <string name="configure_input_method">Configurer les méthodes de saisie</string>
@@ -2368,10 +2372,9 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="connect_later">Impossible de se connecter à ce réseau. Réessayez plus tard.</string>
     <string name="connect_mode">Type de connexion</string>
     <string name="connect_to_internet">Connexion à internet</string>
-    <string name="connected">Connecté</string>
     <string name="connected_device_add_device_summary">"Le Bluetooth sera activé pour permettre l'association"</string>
     <string name="connected_device_bluetooth_turned_on_toast">Bluetooth turned on</string>
-    <string name="connected_device_add_device_title">Ajouter un appareil</string>
+    <string name="connected_device_call_device_title">Appeler les appareils</string>
     <string name="connected_device_connections_title">Connection preferences</string>
     <string name="connected_device_media_device_title">Media devices</string>
     <string name="connected_device_other_device_title">Other devices</string>
@@ -2403,10 +2406,10 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="contact_data">Contacts</string>
     <string name="contact_discovery_opt_in_dialog_message">"Your contacts’ phone numbers will be periodically sent to %1$s.
 
-        This info identifies whether your contacts can use certain features, like video calls or some messaging features."</string>
+This info identifies whether your contacts can use certain features, like video calls or some messaging features."</string>
     <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"Your contacts’ phone numbers will be periodically sent to your carrier.
 
-        This info identifies whether your contacts can use certain features, like video calls or some messaging features."</string>
+This info identifies whether your contacts can use certain features, like video calls or some messaging features."</string>
     <string name="contact_discovery_opt_in_dialog_title">Send contacts to %1$s?</string>
     <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">Send contacts to your carrier?</string>
     <string name="contact_discovery_opt_in_summary">Send your contacts’ phone numbers to provide enhanced features</string>
@@ -2432,13 +2435,19 @@ Si vous installez un certificat CA, le propriétaire du certificat peut accéder
     <string name="controls_label">Commandes</string>
     <string name="controls_subtitle">Ajuster la consommation</string>
     <string name="convenience_key_category_title">Contrôle du système</string>
-    <string name="convert_to_fbe_warning">"Convertir la partition des données en fichiers basés sur le chiffrement.
-Avertissement : cette action effacera toutes vos données.
-Cette fonctionnalité est en cours de développement et peut ne pas fonctionner correctement.
-Appuyer sur \"Nettoyer et convertir…\" pour continuer."</string>
-    <string name="convert_to_file_encryption">Convertir en chiffrement de fichier</string>
+    <string name="conversation_category_title">Conversation</string>
+    <string name="conversation_notifs_category">Conversation</string>
+    <string name="conversation_onboarding_summary">"Once you mark a conversation as priority, or make any other changes to conversations, they will appear here.
+
+To change conversation settings:
+Swipe down from the top of the screen to open the pull-down shade, then touch &amp; hold a conversation."</string>
+    <string name="conversation_onboarding_title">Priority and modified conversations will appear here</string>
+    <string name="conversation_section_switch_summary">Allow app to use conversation section</string>
+    <string name="conversation_section_switch_title">Conversation section</string>
+    <string name="conversation_settings_clear_recents">Clear recent conversations</string>
+    <string name="conversations_category_title">Conversations</string>
     <string name="convert_to_file_encryption_done">Les fichiers sont chiffrés</string>
-    <string name="convert_to_file_encryption_enabled">Conversion…</string>
+    <string name="convo_not_supported_summary">%1$s doesn’t support most conversation features. You can’t set a conversation as priority, and conversations won’t appear as floating bubbles.</string>
     <string name="cool_color">Froid</string>
     <string name="copy">Copier</string>
     <string name="copyable_slice_toast">%1$s copié dans le presse-papiers.</string>
@@ -2446,78 +2455,48 @@ Appuyer sur \"Nettoyer et convertir…\" pour continuer."</string>
     <string name="copyright_title">"Droits d'auteur"</string>
     <string name="country_name">%s (système)</string>
     <string name="create">Créer</string>
-    <string name="credential_contains">Cette entrée contient :</string>
-    <string name="credential_for_vpn_and_apps">Installé pour le VPN et les applications</string>
-    <string name="credential_for_wifi">Installé pour le Wi-Fi</string>
-    <string name="credential_storage_type">Type de stockage</string>
-    <string name="credential_storage_type_hardware">Intégré au matériel</string>
-    <string name="credential_storage_type_software">Uniquement logiciel</string>
-    <string name="credentials_configure_lock_screen_button">DÉFINIR VERROUILLAGE</string>
+    <string name="creating_new_guest_dialog_message">Creating a new guest…</string>
+    <string name="creating_new_user_dialog_message">Creating new user…</string>
+    <string name="credential_contains">This entry contains:</string>
+    <string name="credential_for_vpn_and_apps">Installed for VPN and apps</string>
+    <string name="credential_for_wifi">Installed for Wi-Fi</string>
     <string name="credentials_configure_lock_screen_hint">"Vous devez définir un PIN de verrouillage de l'écran pour utiliser le stockage d'informations d'identification."</string>
-    <string name="credentials_enabled">Stockage des identifiants activé</string>
     <string name="credentials_erased">Les identifiants sont effacés.</string>
     <string name="credentials_install">Installer depuis la carte SD</string>
     <string name="credentials_install_summary">Installer les certificats depuis la carte SD</string>
     <string name="credentials_not_erased">Impossible eff. stockage identifiants.</string>
-    <string name="credentials_old_password">Mot de passe actuel :</string>
     <string name="credentials_password_too_short">8 caractères min.</string>
     <string name="credentials_reset">Effacer les identifiants</string>
     <string name="credentials_reset_hint">"Supprimer l'intégralité du contenu ?"</string>
     <string name="credentials_reset_summary">Supprimer tous les certificats</string>
-    <string name="credentials_reset_warning">"Mot de passe incorrect. Vous disposez d'une tentative supplémentaire avant la suppression des identifiants."</string>
-    <string name="credentials_reset_warning_plural">Mot de passe incorrect. Vous disposez de %1$d tentatives supplémentaires avant la suppression des identifiants.</string>
     <string name="credentials_settings_not_available">Les identifiants ne sont pas disponibles pour cet utilisateur.</string>
     <string name="credentials_title">Stockage des identifiants</string>
     <string name="credentials_title_verification">Vérification</string>
     <string name="crisp_text">Les hautes fréquences ajoutent de la clarté aux détails de chaque action</string>
     <string name="critical_feedback">Commentaires critiques</string>
-    <string name="credentials_unlock_hint">Saisir le mot de passe de stockage des identifiants</string>
-    <string name="credentials_wrong_password">Mot de passe incorrect</string>
-    <string name="cross_profile_calendar_restricted_summary">"Votre organisation n'autorise pas les applications personnelles à accéder à votre calendrier de travail"</string>
     <string name="cross_profile_calendar_summary">Afficher les événements professionnels sur votre calendrier personnel</string>
     <string name="cross_profile_calendar_title">Calendrier multi-profils</string>
     <string name="crypt_keeper_button_text">Chiffrer le téléphone</string>
-    <string name="crypt_keeper_conditions">"Le chiffrement prend une heure ou plus. Vous devez commencer avec une batterie chargée et de garder votre appareil branché tout au long du processus. Si vous l'interrompez, vous perdrez une partie ou la totalité de vos données."</string>
+    <string name="crypt_keeper_conditions">"Le chiffrement prend une heure ou plus.
+Vous devez commencer avec une batterie chargée et de garder votre appareil branché tout au long du processus.
+Si vous l'interrompez, vous perdrez une partie ou la totalité de vos données."</string>
     <string name="crypt_keeper_conditions_title">À propos de chiffrer votre appareil</string>
-    <string name="crypt_keeper_confirm_title">Chiffrer ?</string>
     <string name="crypt_keeper_content">"Vous pouvez chiffrer vos comptes, les paramètres, les applications téléchargées et leurs données, les médias, et d'autres fichiers."</string>
     <string name="crypt_keeper_content_title">"Chiffrer l'appareil"</string>
-    <string name="crypt_keeper_data_corrupt_summary">"Le mot de passe saisi est correct. Malheureusement, vos données sont corrompues.
-
-Pour continuer d'utiliser votre téléphone, vous devez rétablir sa configuration d'usine. Une fois cette opération terminée, vous pourrez restaurer toutes les données que vous aviez sauvegardées dans votre compte Google lors de la nouvelle configuration de votre téléphone."</string>
-    <string name="crypt_keeper_data_corrupt_title">Échec du déchiffrement</string>
     <string name="crypt_keeper_decrypt_methods">"Après chiffrement de l'appareil, en supposant que vous-avez mis en place un verrouillage de l'écran (qui est, un motif ou un PIN numérique ou un mot de passe), vous-aurez besoin pour déverrouiller l'écran pour déchiffrer l'appareil chaque fois que vous l'allumez. La seule autre façon de déchiffrer consiste à effectuer une réinitialisation des données d'usine pour supprimer toutes vos données."</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Si vous avez chiffré votre téléphone, vous devez entrer votre mot de passe, PIN, ou schéma à chaque fois que vous redémarrez l'appareil afin de le déchiffrer."</string>
     <string name="crypt_keeper_decrypt_methods_title">Déchiffrer votre appareil</string>
-    <string name="crypt_keeper_desc">"Vous pouvez chiffrer l'ensemble de vos données : vos comptes, paramètres, applications et tout autre fichier. Si vous avez activé le verrouillage d'écran (avec un schéma, un code PIN ou un mot de passe), vous devez déverrouiller l'écran pour déchiffrer le téléphone chaque fois que vous l'allumez. La seule autre manière de déchiffrer ce dernier consiste à rétablir la configuration d'usine, ce qui entraîne la suppression de l'ensemble de vos données.
-
-La procédure de chiffrement dure au moins une heure. La batterie du téléphone doit être chargée au départ, et le téléphone doit rester branché pendant tout le processus. Toute interruption entraîne la perte d'une partie ou de la totalité des données."</string>
     <string name="crypt_keeper_dialog_need_password_message">"Vous devez définir un code PIN ou un mot de passe pour le verrouillage de l'écran avant de lancer le chiffrement."</string>
     <string name="crypt_keeper_dialog_need_password_title">"Aucun code PIN ni mot de passe saisi pour le verrouillage de l'écran"</string>
     <string name="crypt_keeper_encrypt_title">Chiffrer le téléphone</string>
     <string name="crypt_keeper_encrypted_summary">Chiffré</string>
-    <string name="crypt_keeper_enter_password">Saisissez votre mot de passe.</string>
-    <string name="crypt_keeper_failed_summary">"Impossible de terminer le chiffrement, car celui-ci a été interrompu. Par conséquent, les données de votre téléphone ne sont plus accessibles.
-
-Pour continuer d'utiliser votre téléphone, vous devez rétablir la configuration d'usine. Une fois cette opération terminée, vous pourrez restaurer toutes les données sauvegardées sur votre compte Google lors de la nouvelle configuration de votre téléphone."</string>
-    <string name="crypt_keeper_failed_title">Échec du chiffrement</string>
     <string name="crypt_keeper_final_desc">"Le chiffrement est irréversible, et toute interruption du processus peut entraîner la perte de données. L'opération peut prendre une heure, voire plus, au cours de laquelle le téléphone sera redémarré à plusieurs reprises."</string>
-    <string name="crypt_keeper_force_power_cycle">Pour déverrouiller votre téléphone, éteignez-le, puis rallumez-le.</string>
     <string name="crypt_keeper_low_charge_text">Veuillez charger votre batterie, puis réessayer.</string>
     <string name="crypt_keeper_settings_title">Chiffrement</string>
-    <string name="crypt_keeper_setup_description">Veuillez patienter pendant le chiffrement de votre téléphone. ^1 % effectué(s).</string>
-    <string name="crypt_keeper_setup_time_remaining">Veuillez patienter pendant le chiffrement de votre téléphone. Temps restant : ^1</string>
-    <string name="crypt_keeper_setup_title">Chiffrement en cours</string>
     <string name="crypt_keeper_switch_input_method">Changer le mode de saisie</string>
     <string name="crypt_keeper_switch_to_pattern">Utiliser le schéma</string>
     <string name="crypt_keeper_switch_to_pin">Utiliser le code PIN</string>
     <string name="crypt_keeper_unplugged_text">Veuillez brancher votre chargeur, puis réessayer.</string>
-    <string name="crypt_keeper_warn_wipe">Attention : Les données de votre appareil seront effacées si vous effectuez encore ^1 tentatives de déverrouillage infructueuses.</string>
-    <string name="cryptkeeper_emergency_call">"Appel d'urgence"</string>
-    <string name="cryptkeeper_return_to_call">"Retour à l'appel"</string>
-    <string name="cryptkeeper_wrong_password">Mot de passe erroné.</string>
-    <string name="cryptkeeper_wrong_pattern">Schéma erroné.</string>
-    <string name="cryptkeeper_wrong_pin">Code PIN erroné.</string>
     <string name="current_backup_pw_prompt">Saisissez le mot de passe de sauvegarde complète actuel.</string>
     <string name="current_input_method">Clavier actuel</string>
     <string name="current_password">"Verrouillage d'écran actuel"</string>
@@ -2533,7 +2512,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="custom_color">Personnaliser</string>
     <string name="custom_gesture_title">Custom gestures</string>
     <string name="custom_wifi_name_title">Modifier le nom du Wi-Fi</string>
-    <string name="customize_function">Modèles disponibles</string>
+    <string name="customize_button_title">Personnaliser</string>
     <string name="customize_knock_gesture">"Gestes avec l'articulation d'un doigt"</string>
     <string name="cutout_mode_always">"Toujours montrer l'encoche"</string>
     <string name="cutout_mode_default">Auto</string>
@@ -2545,6 +2524,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="daltonizer_mode_deuteranomaly_summary">Rouge-vert</string>
     <string name="daltonizer_mode_deuteranomaly_title">Deutéranomalie</string>
     <string name="daltonizer_mode_disabled">Désactivé</string>
+    <string name="daltonizer_mode_grayscale_title">Niveaux de gris</string>
     <string name="daltonizer_mode_monochromacy">Monochromaticité</string>
     <string name="daltonizer_mode_protanomaly">Protanomalie (rouge-vert)</string>
     <string name="daltonizer_mode_protanomaly_summary">Rouge-vert</string>
@@ -2552,7 +2532,6 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="daltonizer_mode_tritanomaly">Tritanomalie (bleu-jaune)</string>
     <string name="daltonizer_mode_tritanomaly_summary">Bleu-jaune</string>
     <string name="daltonizer_mode_tritanomaly_title">Tritanomalie</string>
-    <string name="daltonizer_type">Mode de correction</string>
     <string name="daltonizer_type_overridden">Remplacé par %1$s</string>
     <string name="dangerous_option">Options de développeur à haut risque</string>
     <string name="dangerous_option_hint">\"%1$s\" est activé. Appuyez pour modifier les paramètres.</string>
@@ -2575,6 +2554,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="dark_mode_day_night_mode_title">Du coucher au lever du soleil</string>
     <string name="dark_mode_font_background_title">Ajuster les couleurs et diminuer le contraste automatiquement</string>
     <string name="dark_mode_time_settings">Planifier le Mode sombre</string>
+    <string name="dark_theme_main_switch_title">Utiliser le thème sombre</string>
     <string name="dark_theme_slice_subtitle">Aide à prolonger la durée de vie de la batterie</string>
     <string name="dark_theme_slice_title">Essayer le Thème sombre</string>
     <string name="dark_ui_activation_off_auto">"Désactiver jusqu'au coucher du soleil"</string>
@@ -2585,29 +2565,31 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="dark_ui_activation_on_manual">Activer maintenant</string>
     <string name="dark_ui_auto_mode_auto">"S'active du coucher du soleil au lever du soleil"</string>
     <string name="dark_ui_auto_mode_custom">"S'active à l'heure choisie"</string>
+    <string name="dark_ui_auto_mode_custom_bedtime">S’active au coucher</string>
     <string name="dark_ui_auto_mode_never">Aucun</string>
     <string name="dark_ui_auto_mode_title">Planifier</string>
+    <string name="dark_ui_bedtime_footer_action">Bedtime mode settings</string>
+    <string name="dark_ui_bedtime_footer_summary">Dark theme is currently following your Bedtime mode schedule</string>
     <string name="dark_ui_mode">Mode sombre</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_off">"Temporairement activé en raison de l'économiseur de batterie"</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_on">"Activé / temporairement désactivé en raison de l'économiseur de batterie"</string>
     <string name="dark_ui_mode_title">Définir le thème</string>
-    <string name="dark_ui_settings_dark_summary">Les applications prises en charge basculeront également sur le thème sombre</string>
-    <string name="dark_ui_settings_dialog_acknowledge">Compris</string>
     <string name="dark_ui_settings_light_summary">"Ces paramètres s'appliquent également aux applications."</string>
     <string name="dark_ui_status_title">Statut</string>
-    <string name="dark_ui_summary_off">Désactivé / %1$s</string>
     <string name="dark_ui_summary_off_auto_mode_auto">"S'allumera automatiquement au coucher du soleil"</string>
     <string name="dark_ui_summary_off_auto_mode_custom">"S'activera automatiquement à %1$s"</string>
+    <string name="dark_ui_summary_off_auto_mode_custom_bedtime">Will turn on automatically at bedtime</string>
     <string name="dark_ui_summary_off_auto_mode_never">"Ne s'allumera jamais automatiquement"</string>
     <string name="dark_ui_summary_on">Activé / %1$s</string>
     <string name="dark_ui_summary_on_auto_mode_auto">"S'éteindra automatiquement au lever du soleil"</string>
     <string name="dark_ui_summary_on_auto_mode_custom">"S'éteindra automatiquement à %1$s"</string>
+    <string name="dark_ui_summary_on_auto_mode_custom_bedtime">Will turn off automatically after bedtime</string>
     <string name="dark_ui_summary_on_auto_mode_never">"Ne s'éteindra jamais automatiquement"</string>
     <string name="dark_ui_text">"Le Mode sombre utilise un arrière-plan noir pour aider à garder la batterie en vie plus longtemps sur certains écrans (OLED). Les programmes en Mode sombre attendent de s'allumer jusqu'à ce que votre écran s'éteigne."</string>
     <string name="dark_ui_title">Mode sombre</string>
     <string name="dark_wallpaper_mode">"Ajuster le fond d'écran en Mode sombre"</string>
-    <string name="dashboard_suggestion_condition_footer_content_description">Réduire</string>
     <string name="dashboard_title">Paramètres</string>
+    <string name="data_acceleration_summery">Use both Wi-Fi and mobile data to boost speed when Wi-Fi connection is poor</string>
     <string name="data_during_calls_summary">"Autoriser l'utilisation de cette carte SIM pour les données mobiles uniquement pendant les appels"</string>
     <string name="data_during_calls_title">Données pendant les appels</string>
     <string name="data_limit">Limite de données</string>
@@ -2739,22 +2721,15 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="date_picker_title">Date</string>
     <string name="date_time_24hour">Utiliser le format 24 h</string>
     <string name="date_time_24hour_auto">Format 24 heures automatique</string>
-    <string name="date_time_24hour_auto_summary">Utiliser les paramètres régionaux par défaut</string>
     <string name="date_time_24hour_title">Format 24 heures</string>
     <string name="date_time_auto">Date et Heure automatique</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l'heure"</string>
-    <string name="date_time_auto_summaryOff">"Utiliser la date et l'heure fournies par le réseau"</string>
-    <string name="date_time_auto_summaryOn">"Utiliser la date et l'heure fournies par le réseau"</string>
     <string name="date_time_search_region">Région de la recherche</string>
     <string name="date_time_select_fixed_offset_time_zones">Sélectionner un décalage UTC</string>
     <string name="date_time_select_region">Zone géographique</string>
-    <string name="date_time_select_zone">Fuseau horaire</string>
-    <string name="date_time_set_date">Définir la date</string>
     <string name="date_time_set_date_title">Date</string>
-    <string name="date_time_set_time">"Définir l'heure"</string>
     <string name="date_time_set_time_title">Heure</string>
     <string name="date_time_set_timezone">Définir le fuseau horaire</string>
-    <string name="date_time_set_timezone_in_region">Fuseaux horaires dans la région suivante : %1$s</string>
     <string name="date_time_set_timezone_title">Fuseau horaire</string>
     <string name="date_time_settings">Date et heure</string>
     <string name="day_of_week">Jour de la semaine</string>
@@ -2763,6 +2738,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="dc_light_summary_new">Empêche le scintillement important et réduit la fatigue oculaire dans des conditions de faible éclairage</string>
     <string name="dc_light_title">Mode anti-scintillement</string>
     <string name="dclight_unavailable_prompt">"Le Mode anti-scintillement n'est pris en charge que par l'écran extérieur"</string>
+    <string name="dds_preference_smart_dds_switch_is_on">Smart DDS switch is on</string>
     <string name="debug_app">Sélectionner une application de débogage</string>
     <string name="debug_app_not_set">Aucune application de débogage définie</string>
     <string name="debug_app_set">Application de débogage : %1$s</string>
@@ -2780,8 +2756,10 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="debug_networking_category">Réseaux</string>
     <string name="debug_view_attributes">"Activer l'affichage des attributs"</string>
     <string name="decline_remote_bugreport_action">Refuser</string>
-    <string name="decryption_settings_summary">Téléphone non chiffré</string>
     <string name="defalut_launcher_title">"Écran d'accueil par défaut"</string>
+    <string name="default_active_sim_calls">calls</string>
+    <string name="default_active_sim_mobile_data">mobile data</string>
+    <string name="default_active_sim_sms">SMS</string>
     <string name="default_admin_support_msg">Pour toute question, contactez votre administrateur informatique</string>
     <string name="default_app">(Par défaut)</string>
     <string name="default_apps_title">Par défaut</string>
@@ -2806,14 +2784,20 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="default_map_app_title">Cartes</string>
     <string name="default_notification_assistant">Assistant de notifications</string>
     <string name="default_phone_title">Téléphone</string>
+    <string name="default_print_service_main_switch_title">Use print service</string>
     <string name="default_rule_name">Minuteur 1</string>
+    <string name="default_see_all_apps_title">See all apps</string>
     <string name="default_sound">Son par défaut</string>
     <string name="default_spell_checker">Correcteur ortho par défaut</string>
     <string name="default_suppression_title">Par défaut (recommandé)</string>
     <string name="default_theme">Par défaut</string>
     <string name="default_usb_mode">Connexion USB</string>
+    <string name="default_user_icon_description">Default user icon</string>
     <string name="default_vol_stream_title">Contrôle du volume par défaut</string>
+    <string name="deferred_setup_hintViewTitle">Checking…</string>
     <string name="delete">Supprimer</string>
+    <string name="delete_blob_confirmation_text">Are you sure you want to delete this shared data?</string>
+    <string name="delete_blob_text">Delete shared data</string>
     <string name="delete_fingerprint_confirm_msg">Supprimer une empreinte digitale ?</string>
     <string name="delete_fingerprint_confirm_title">Attention</string>
     <string name="delete_fingerprint_text">Supprimer une empreinte digitale</string>
@@ -2828,7 +2812,13 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="deletion_helper_preference_title">"Libérer de l'espace maintenant"</string>
     <string name="demo_mode">Mode démo</string>
     <string name="demo_mode_summary">"Afficher l'icône de démo sur la barre d'état"</string>
+    <string name="demote_conversation_summary">Remove from the conversation section</string>
+    <string name="demote_conversation_title">Not a conversation</string>
+    <string name="density_pixel_summary">%1$s dp</string>
     <string name="deny">Refuser</string>
+    <string name="desc_app_locale_disclaimer">Language may differ from languages available in the app. Some apps may not support this setting.</string>
+    <string name="desc_app_locale_selection_supported">Only apps that support language selection are shown here.</string>
+    <string name="desc_no_available_supported_locale">Language selection for this app isn’t available from Settings.</string>
     <string name="detail_app_button">Informations</string>
     <string name="detail_question">Détails</string>
     <string name="detailed_wifi_logging_disabled">Detailed Wi-Fi logging is off</string>
@@ -2858,7 +2848,6 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="device_battery">Batterie</string>
     <string name="device_build_id">Numéro de version</string>
     <string name="device_camera">Appareil photo</string>
-    <string name="device_cellular_network">Recherche de réseaux mobiles</string>
     <string name="device_complete_parameters">Caractéristiques</string>
     <string name="device_cpu">Version du processeur</string>
     <string name="device_cpu10_info">"Deca-Core "</string>
@@ -2880,9 +2869,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="device_ime_keyboard_fold">Claviers pour les appareils pliables</string>
     <string name="device_ime_keyboard_pad">Claviers pour les tablettes</string>
     <string name="device_info_default">Inconnu</string>
-    <string name="device_info_label">"Informations sur l'appareil"</string>
     <string name="device_info_not_available">Non disponible</string>
-    <string name="device_info_settings">État du téléphone</string>
     <string name="device_internal_memory">Stockage interne</string>
     <string name="device_mall_card_title">Vérifiez les avantages disponibles</string>
     <string name="device_memory">Mémoire vive</string>
@@ -2899,10 +2886,10 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="device_oaid">ID de périphérique</string>
     <string name="device_oaid_desc">"Au lieu de votre identifiant unique, MIUI fournira un ID virtuel (OAID) aux applications installées. Il empêche les applications de suivre votre comportement et vos préférences et protège votre vie privée."</string>
     <string name="device_oaid_title">ID virtuel</string>
+    <string name="device_of_someone">%2$s de %1$s</string>
     <string name="device_opcust_version">Customized version</string>
     <string name="device_picker">Sélectionner un appareil</string>
     <string name="device_rear_camera">Appareil photo arrière</string>
-    <string name="device_screen_consumption">"Consommation d'énergie de l'écran"</string>
     <string name="device_screen_resolution">"Définition d'écran"</string>
     <string name="device_screen_size">"Taille de l'écran"</string>
     <string name="device_screen_usage">"Utilisation de l'écran depuis la dernière charge complète"</string>
@@ -2942,6 +2929,7 @@ Pour résoudre le problème, vous pouvez arrêter %1$s et l'empêcher de s'exéc
 Pour résoudre le problème, vous pouvez désactiver les services de localisation pour cette application."</string>
     <string name="dialog_location_ok">Désactiver</string>
     <string name="dialog_location_title">Désactiver les services de localisation ?</string>
+    <string name="dialog_network_priority_title">Priority</string>
     <string name="dialog_no">Non</string>
     <string name="dialog_restrict_all_mobile_summary">La connexion aux données mobiles de %s sera restreinte pour toutes les applications une fois cela activé.</string>
     <string name="dialog_restrict_all_mobile_title">Restreindre la connexion aux données mobiles de %s</string>
@@ -2957,7 +2945,9 @@ Pour résoudre le problème, vous pouvez désactiver les services de localisatio
     <string name="dialog_softbank_esime_title">"Ignorer l'activation eSIM"</string>
     <string name="dialog_speaker_auto_clean_button">Compris</string>
     <string name="dialog_speaker_auto_clean_content">"L'effacement prend 30 secondes. Ne quittez pas cette page. Maximisez le volume sonore pour un meilleur effet."</string>
+    <string name="dialog_speaker_auto_clean_content_new">"You're about to play the audio that will clear the speaker. Adjust the volume to maximum for best effect."</string>
     <string name="dialog_speaker_auto_clean_title">Attention</string>
+    <string name="dialog_speaker_auto_clean_title_new">Clear speaker</string>
     <string name="dialog_stop_message">"Votre téléphone ne peut pas gérer la batterie normalement, car l'application %1$s le maintient activé.
 
 Pour y remédier, vous pouvez arrêter l'application.
@@ -2979,28 +2969,37 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dialog_wifi_title">Utilisation des données mobiles</string>
     <string name="dialog_yes">Oui</string>
     <string name="direct_boot_unaware_dialog_message">"Remarque : après un redémarrage, cette application ne peut pas démarrer tant que vous n'avez pas déverrouillé votre téléphone."</string>
-    <string name="directory_access">"Accès à l'annuaire"</string>
     <string name="disable_overlays">Désactiver les superpositions matérielles</string>
     <string name="disable_overlays_summary">"Toujours utiliser le GPU pour la composition d'écran"</string>
     <string name="disable_power_key_long_press_under_keyguard">"Désactiver le menu du bouton d'alimentation"</string>
-    <string name="disable_quick_start">Désactiver le démarrage rapide</string>
     <string name="disable_service_message">Si vous appuyez sur \"OK\", %1$s sera interrompu.</string>
     <string name="disable_service_title">Arrêter %1$s ?</string>
     <string name="disable_text">Désactiver</string>
+    <string name="disable_wifi_hotspot_title">Don’t use Wi‑Fi hotspot</string>
+    <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Only share internet via Bluetooth and Ethernet</string>
+    <string name="disable_wifi_hotspot_when_bluetooth_on">Only share internet via Bluetooth</string>
+    <string name="disable_wifi_hotspot_when_ethernet_on">Only share internet via Ethernet</string>
+    <string name="disable_wifi_hotspot_when_usb_and_bluetooth_and_ethernet_on">Only share internet via USB, Bluetooth and Ethernet</string>
+    <string name="disable_wifi_hotspot_when_usb_and_bluetooth_on">Only share internet via USB and Bluetooth</string>
+    <string name="disable_wifi_hotspot_when_usb_and_ethernet_on">Only share internet via USB and Ethernet</string>
+    <string name="disable_wifi_hotspot_when_usb_on">Only share internet via USB</string>
     <string name="disabled">Désactivé</string>
     <string name="disabled_authorised_apps_title">Autorisations révoquée</string>
     <string name="disabled_because_no_backup_security">"Pour continuer, vous devez tout d'abord verrouiller l'écran."</string>
     <string name="disabled_by_admin">"Désactivé par l'administrateur"</string>
     <string name="disabled_by_admin_summary_text">"Contrôlé par l'administrateur"</string>
     <string name="disabled_by_administrator_summary">"Désactivé par l'administrateur"</string>
+    <string name="disabled_by_app_ops_text">Controlled by restricted setting</string>
+    <string name="disabled_by_policy_content_biometric_parental_consent">Hand the phone to your parent to start setting this up</string>
     <string name="disabled_by_policy_title">Action non autorisée</string>
     <string name="disabled_by_policy_title_adjust_volume">Impossible de modifier le volume</string>
+    <string name="disabled_by_policy_title_biometric_parental_consent">Parent needed</string>
     <string name="disabled_by_policy_title_camera">Appareil photo non autorisé</string>
+    <string name="disabled_by_policy_title_financed_device">Blocked by your credit provider</string>
     <string name="disabled_by_policy_title_outgoing_calls">Appel non autorisé</string>
     <string name="disabled_by_policy_title_screen_capture">"Capture d'écran non autorisée"</string>
     <string name="disabled_by_policy_title_sms">SMS non autorisés</string>
     <string name="disabled_by_policy_title_suspend_packages">"Impossible d'ouvrir cette application"</string>
-    <string name="disabled_by_policy_title_turn_off_backups">Impossible de désactiver les sauvegardes</string>
     <string name="disabled_dependent_setting_summary">"Dépend d'un autre paramètre"</string>
     <string name="disabled_feature">Fonction non disponible</string>
     <string name="disabled_feature_reason_slow_down_phone">Cette fonctionnalité a été désactivée car elle ralentit votre téléphone</string>
@@ -3008,6 +3007,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="disabled_low_ram_device">"Cette fonctionnalité n'est pas encore prise en charge sur cet appareil"</string>
     <string name="disallow_lock_screen_summary">"Autoriser les notifications dans \"Notifications\" en premier"</string>
     <string name="disconnect">déconnecter</string>
+    <string name="disconnect_group">Déconnecter le groupe</string>
     <string name="disconnected">Non connecté</string>
     <string name="display_advanced_mode_summary">Options de gamme de couleurs</string>
     <string name="display_advanced_mode_title">Paramètres additionnels</string>
@@ -3022,10 +3022,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="display_category_title">Écran</string>
     <string name="display_cutout_emulation">Simuler un écran avec une encoche</string>
     <string name="display_cutout_emulation_keywords">encoche pour écran, entaille</string>
-    <string name="display_cutout_emulation_none">Aucune</string>
-    <string name="display_dashboard_nowallpaper_summary">Veille, taille de police</string>
     <string name="display_dashboard_summary">"Fond d'écran, mise en veille, taille de police"</string>
-    <string name="display_dashboard_summary_with_style">"Styles, fonds d'écran, temporisation d'écran, taille de police"</string>
     <string name="display_label">Écran</string>
     <string name="display_order_text">Trier par :</string>
     <string name="display_prompt_confirm">Compris</string>
@@ -3040,15 +3037,14 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="diy_suppression_summary">Ajustez la taille de la zone près des bords où le toucher accidentel sera ignoré</string>
     <string name="diy_suppression_title">Personnalisé</string>
     <string name="dlg_cancel">Annuler</string>
-    <string name="dlg_close">Fermer</string>
     <string name="dlg_confirm_unmount_text">"Si vous désinstallez la carte SD, certaines applications en cours d'utilisation s'arrêteront et risquent de ne plus être disponibles tant que vous n'aurez pas réinstallé la carte SD."</string>
     <string name="dlg_confirm_unmount_title">Désinstaller la carte SD ?</string>
-    <string name="dlg_error_unmount_text">Impossible de désinstaller la carte SD. Réessayez ultérieurement.</string>
+    <string name="dlg_delete">Delete</string>
+    <string name="dlg_error_unmount_text">Couldn’t unmount USB storage. Try again later.</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_remove_locales_error_message">Conservez au moins une langue prioritaire.</string>
     <string name="dlg_remove_locales_error_title">Impossible de supprimer toutes les langues</string>
     <string name="dlg_remove_locales_message">"Le texte s'affichera dans une autre langue."</string>
-    <string name="dlg_switch">Changer</string>
     <string name="dndm_alarm_content">Sons</string>
     <string name="dndm_alarm_content_all">Tout autoriser</string>
     <string name="dndm_alarm_content_call">Appels</string>
@@ -3090,8 +3086,11 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dndm_vip_list_starred_contact">Favoris</string>
     <string name="dndm_wristband">Activer avec le Mi Fit</string>
     <string name="dndm_wristband_detailed">"Activer le mode Ne pas déranger si le Mi Fit détecte que vous dormez dans les une heure avant l'heure de début programmée"</string>
+    <string name="dns_select_dialog_title">Select private DNS mode</string>
     <string name="do_disclosure_generic">Cet appareil est géré par votre organisation.</string>
     <string name="do_disclosure_with_name">Cet appareil est géré par %s.</string>
+    <string name="do_not_disturb_main_switch_title_off">Turn on now</string>
+    <string name="do_not_disturb_main_switch_title_on">Turn off now</string>
     <string name="do_not_disturb_mode">Ne pas déranger</string>
     <string name="dock_audio_media_disabled">"Tout l'audio"</string>
     <string name="dock_audio_media_enabled">Audio des contenus multimédias seulement</string>
@@ -3132,6 +3131,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="double_twist_for_camera_mode_title">Activation mode selfie</string>
     <string name="double_twist_for_camera_suggestion_title">Prendre des selfies plus rapidement</string>
     <string name="download_current_rom">Obtenez la dernière version de MIUI</string>
+    <string name="downloaded_sim_category_title">DOWNLOADED SIM</string>
+    <string name="downloaded_sims_category_title">DOWNLOADED SIMS</string>
     <string name="downloading_description">Téléchargement…</string>
     <string name="doze_always_on_summary">"Afficher l'heure, les icônes de notification et d'autres informations. Batterie davantage sollicitée."</string>
     <string name="doze_always_on_title">Toujours activé</string>
@@ -3149,13 +3150,25 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dpp_sharing_wifi_summary">Partage du Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi partagé</string>
     <string name="draw_overlay">Superposer aux autres applis</string>
+    <string name="dream_complication_title_aqi">Air quality</string>
+    <string name="dream_complication_title_cast_info">Cast info</string>
+    <string name="dream_complication_title_date">Date</string>
+    <string name="dream_complication_title_time">Time</string>
+    <string name="dream_complication_title_weather">Weather</string>
+    <string name="dream_complications_toggle_summary">Display time, date, weather, air quality, and Cast details on the screen saver</string>
+    <string name="dream_complications_toggle_title">Show additional information</string>
+    <string name="dream_more_settings_category">More settings</string>
+    <string name="dream_picker_category">Choose a screen saver</string>
+    <string name="dream_preview_button_title">Preview</string>
+    <string name="dream_setup_description">Choose what you’ll see on your screen when your tablet is docked. Your device may use more energy when a screen saver is used.</string>
+    <string name="dream_setup_title">Choose your screen saver</string>
     <string name="dsda_switch_summary">Autoriser les deux cartes SIM à utiliser les données mobiles et à passer des appels simultanément</string>
     <string name="dsda_switch_title">Mode actif double</string>
-    <string name="dsds_dialog_cancel">Annuler</string>
-    <string name="dsds_dialog_confirm">Redémarrer</string>
-    <string name="dsds_dialog_message">Vous devez redémarrer votre appareil pour modifier ce paramètre.</string>
-    <string name="dsds_dialog_title">"Redémarrer l'appareil ?"</string>
-    <string name="dsds_switch_string">Activer DSDS</string>
+    <string name="dsds_activation_failure_body_msg1">Remove the SIM and insert it again. If the problem continues, restart your device.</string>
+    <string name="dsds_activation_failure_body_msg2">Try turning on the SIM again. If the problem continues, restart your device.</string>
+    <string name="dsds_activation_failure_title">Can’t activate SIM</string>
+    <string name="dsds_notification_after_suw_text">Choose your active SIM or use 2 SIMs at once</string>
+    <string name="dsds_notification_after_suw_title">Set up your other SIM</string>
     <string name="dsu_is_running">DSU est en marche</string>
     <string name="dsu_loader_description">Charge une image Dynamic System Update (DSU)</string>
     <string name="dsu_loader_loading">Chargement...</string>
@@ -3164,7 +3177,6 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dual_cdma_sim_warning_notification_channel_title">Combinaison SIM</string>
     <string name="dual_cdma_sim_warning_notification_summary">Utiliser %1$s peut limiter la fonctionnalité. Appuyez pour en savoir plus.</string>
     <string name="dual_clock">Double horloge</string>
-    <string name="dual_clock_aod_hint">"\"Double horloge\" repose sur les fonctionnalités suivantes : 1. Pour l'écran éteitn, autoriser d'afficher les éléments dans Paramètres > Afficher; 2. Dans l'écran de verrouillage, assurez-vous que vous utilisez le thème par défaut ou classique dans Paramètres > Thèmes; 3. Pour l'écran d'accueil, assurez-vous que vous utilisez le widget horloge système par défaut."</string>
     <string name="dual_clock_aod_open_message">"La double horloge s'affichera sur l'écran de verrouillage, l'écran d'accueil et l'écran éteint."</string>
     <string name="dual_clock_hint">"La double horloge nécessite l'utilisation d'un widget d'horloge système et d'un thème par défaut"</string>
     <string name="dual_clock_ok">Compris</string>
@@ -3239,16 +3251,16 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
     <string name="emergency_tone_summary">"Définir le comportement en cas d'appel d'urgence"</string>
     <string name="emergency_tone_title">"Signal de numérotation d'urgence"</string>
     <string name="emergency_tone_vibrate">Vibrations</string>
-    <string name="empty_list_msg">"Aucune application tierce n'est installée."</string>
-    <string name="empty_networks_list">Aucun réseau trouvé.</string>
+    <string name="empty_networks_list">No networks found.</string>
+    <string name="emulate_sd_data">Emulated SD card data</string>
+    <string name="enableNetwork">enableNetwork</string>
     <string name="enable_2g_summary">"Utilisez des connexions cellulaires 2G. Pour les appels d'urgence, la 2G est toujours activée."</string>
+    <string name="enable_2g_summary_disabled_carrier">%1$s requires 2G to be available</string>
     <string name="enable_2g_title">AUtoriser la 2G</string>
     <string name="enable_adb">Débogage USB</string>
     <string name="enable_adb_summary">Activer le Mode débogage lorsque le support USB est connecté</string>
     <string name="enable_adb_wireless">Débogage sans fil</string>
     <string name="enable_adb_wireless_summary">Mode débogage lorsque le Wi‑Fi est connecté</string>
-    <string name="enable_blurs_on_windows_summary">"Active les flous de fenêtre au niveau du compositeur. Nécessite le redémarrage de l'appareil."</string>
-    <string name="enable_blurs_on_windows_title">Activation des flous</string>
     <string name="enable_compatibility">"Mettre l'application à l'échelle"</string>
     <string name="enable_freeform_support">Activer les fenêtres en forme libre</string>
     <string name="enable_freeform_support_summary">Activer le support pour les fenêtres expérimentales en forme libre.</string>
@@ -3265,27 +3277,26 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
     <string name="enable_mms_notification_channel_title">Message MMS</string>
     <string name="enable_mms_notification_summary">Appuyez pour autoriser les messages MMS sur %1$s lorsque les données mobiles sont désactivées</string>
     <string name="enable_mobile_data_when_opening_hotspot">Activer aussi la connexion de données mobile ?</string>
+    <string name="enable_non_resizable_multi_window">Enable non-resizable in multi window</string>
+    <string name="enable_non_resizable_multi_window_summary">Allows non-resizable apps to be in multi window</string>
     <string name="enable_opengl_traces_title">Activer les traces OpenGL</string>
     <string name="enable_quick_setting">Afficher dans la fenêtre de configuration rapide</string>
-    <string name="enable_quick_start">Activer le démarrage rapide</string>
     <string name="enable_receiving_mms_notification_title">Message MMS entrant</string>
     <string name="enable_screen_projection_summary">"Transférer le contenu de l'écran sur un moniteur externe"</string>
     <string name="enable_sending_mms_notification_title">"Impossible d'envoyer le message MMS"</string>
-    <string name="enable_service_encryption_warning">"Si vous activez %1$s, votre appareil n'utilisera pas le verrouillage de l'écran pour améliorer le chiffrement des données."</string>
-    <string name="enable_service_password_reason">"Vous devez confirmer le mot de passe, car l'activation du service %1$s influe sur le chiffrement des données."</string>
-    <string name="enable_service_pattern_reason">"Vous devez confirmer le schéma, car l'activation du service %1$s influe sur le chiffrement des données."</string>
-    <string name="enable_service_pin_reason">"Vous devez confirmer le code PIN, car l'activation du service %1$s influe sur le chiffrement des données."</string>
     <string name="enable_service_title">Le service effectuera les actions suivantes :</string>
     <string name="enable_sizecompat_freeform">"Forcer l'autorisation de redimensionner les fenêtres"</string>
     <string name="enable_sizecompat_freeform_summary">"Autorise les applications avec des restrictions de compatibilité à s'exécuter dans des fenêtres redimensionnables"</string>
     <string name="enable_snapshot_screenlock">Appui prolongé sur retour prend une photo</string>
-    <string name="enable_tcp_rtt_support">Affichage TCP RTT</string>
-    <string name="enable_tcp_rtt_support_summary">Évaluer les performances de la qualité de la communication réseau</string>
+    <string name="enable_snpn">Enable SNPN</string>
     <string name="enable_terminal_summary">"Activer l'application de terminal qui offre un accès local au shell"</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enable_text">Activer</string>
+    <string name="enable_verbose_vendor_logging">Enable verbose vendor logging</string>
+    <string name="enable_verbose_vendor_logging_summary">Include additional device-specific vendor logs in bug reports, which may contain private information, use more battery, and/or use more storage.</string>
     <string name="enable_wifi_display">Affichage sans fil</string>
     <string name="enabled">Activé</string>
+    <string name="enabled_5g_mode_title">Activer la 5G</string>
     <string name="enabled_authorised_apps_summary">Votre autorisation sera révoquée après avoir basculé les boutons des applications individuelles.</string>
     <string name="enabled_authorised_apps_title">Autorisations accordées</string>
     <string name="enabled_by_admin">"Activé par l'administrateur"</string>
@@ -3296,6 +3307,8 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
     <string name="encrypt_talkback_dialog_require_password">Exiger le mot de passe ?</string>
     <string name="encrypt_talkback_dialog_require_pattern">Exiger le schéma ?</string>
     <string name="encrypt_talkback_dialog_require_pin">Exiger le code ?</string>
+    <string name="encrypt_title">Chiffrer le téléphone</string>
+    <string name="encrypted_summary">Chiffré</string>
     <string name="encryption_and_credential_settings_summary">Téléphone chiffré</string>
     <string name="encryption_and_credential_settings_title">Chiffrement et identifiants</string>
     <string name="encryption_continue_button">Continuer</string>
@@ -3303,6 +3316,9 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
     <string name="encryption_interstitial_message_password">"Pour renforcer la protection de cet appareil, vous pouvez exiger la saisie de votre mot de passe avant que l'appareil ne démarre. De cette façon, il ne pourra pas recevoir d'appels, de messages, de notifications ni d'alertes tant qu'il n'aura pas démarré.
 
 Cela permet de protéger les données en cas de perte ou de vol de l'appareil. Voulez-vous exiger la saisie de votre mot de passe avant le démarrage de votre appareil ?"</string>
+    <string name="encryption_interstitial_message_password_for_biometrics">"In addition to using your biometrics to unlock your device, you can further protect this device by requiring your password before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+
+This helps protect data on lost or stolen devices. Require password to start your device?"</string>
     <string name="encryption_interstitial_message_password_for_face">"En plus d'utiliser votre visage pour déverrouiller votre appareil, vous pouvez protéger davantage cet appareil en exigeant votre mot de passe avant qu'il ne démarre. Jusqu'à ce que l'appareil démarre, il ne peut pas recevoir d'appels, de messages ou de notifications, y compris des alarmes.
 
 Cela permet de protéger les données sur les appareils perdus ou volés. Vous avez besoin d'un mot de passe pour démarrer votre appareil ?"</string>
@@ -3312,6 +3328,9 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="encryption_interstitial_message_pattern">"Pour améliorer la protection de cet appareil, vous pouvez exiger la saisie de votre schéma avant que l'appareil ne démarre. De cette façon, il ne pourra pas recevoir d'appels, de message, de notifications ni d'alarmes tant qu'il n'aura pas démarré.
 
 Cela permet de protéger les données en cas de perte ou de vol de l'appareil. Voulez-vous exiger la saisie de votre schéma avant le démarrage de votre appareil ?"</string>
+    <string name="encryption_interstitial_message_pattern_for_biometrics">"In addition to using your biometrics to unlock your device, you can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+
+This helps protect data on lost or stolen devices. Require pattern to start your device?"</string>
     <string name="encryption_interstitial_message_pattern_for_face">"En plus d'utiliser votre visage pour déverrouiller votre appareil, vous pouvez protéger davantage cet appareil en exigeant votre modèle avant qu'il ne démarre. Jusqu'à ce que l'appareil démarre, il ne peut pas recevoir d'appels, de messages ou de notifications, y compris des alarmes.
 
 Cela permet de protéger les données sur les appareils perdus ou volés. Besoin d'un modèle pour démarrer votre appareil ?"</string>
@@ -3321,6 +3340,9 @@ Cela permet de protéger les données en cas de perte ou de vol de l'appareil. V
     <string name="encryption_interstitial_message_pin">"Pour renforcer la protection de cet appareil, vous pouvez exiger la saisie de votre code PIN avant que l'appareil ne démarre. De cette façon, il ne pourra pas recevoir d'appels, de messages, de notifications ni d'alarmes tant qu'il n'aura pas démarré.
 
 Cela permet de protéger les données en cas de perte ou de vol de l'appareil. Voulez-vous exiger la saisie de votre code PIN avant le démarrage de votre appareil ?"</string>
+    <string name="encryption_interstitial_message_pin_for_biometrics">"In addition to using your biometrics to unlock your device, you can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+
+This helps protect data on lost or stolen devices. Require PIN to start your device?"</string>
     <string name="encryption_interstitial_message_pin_for_face">"En plus d'utiliser votre visage pour déverrouiller votre appareil, vous pouvez protéger davantage cet appareil en exigeant votre code PIN avant qu'il ne démarre. Jusqu'à ce que l'appareil démarre, il ne peut pas recevoir d'appels, de messages ou de notifications, y compris des alarmes.
 
 Cela permet de protéger les données sur les appareils perdus ou volés. Vous avez besoin d'un code PIN pour démarrer votre appareil ?"</string>
@@ -3330,21 +3352,19 @@ Cela permet de protéger les données de votre appareil en cas de perte ou de vo
     <string name="encryption_interstitial_no">Non</string>
     <string name="encryption_interstitial_yes">Oui</string>
     <string name="encryption_progress_summary">Chiffrement en cours, ne redémarrez pas votre appareil.</string>
+    <string name="encryption_settings_title">Encryption</string>
     <string name="enhanced_4g_lte_mode_summary">Utiliser les données LTE pour améliorer les appels et les communications (recommandé)</string>
     <string name="enhanced_4g_lte_mode_summary_4g_calling">Utiliser les services 4G pour améliorer la voix et les autres communications (recommandé)</string>
     <string name="enhanced_4g_lte_mode_title">Mode LTE 4G avancé</string>
     <string name="enhanced_4g_lte_mode_title_4g_calling">Appels 4G</string>
     <string name="enhanced_4g_lte_mode_title_advanced_calling">Appels avancés</string>
-    <string name="enrol_fingerprint_data">Ajouter une empreinte digitale</string>
-    <string name="enter_password">Pour lancer Android, saisissez votre mot de passe.</string>
-    <string name="enter_pattern">Pour lancer Android, dessinez votre schéma.</string>
-    <string name="enter_pin">Pour lancer Android, saisissez votre code PIN.</string>
+    <string name="enhanced_connectivity_summary">Enables the Enhanced Connectivity feature.</string>
+    <string name="enrol_fingerprint_data">Add fingerprint</string>
     <string name="enterprise_mode">Mode Entreprise</string>
     <string name="enterprise_privacy_always_on_vpn_device">VPN permanent activé</string>
     <string name="enterprise_privacy_always_on_vpn_personal">VPN permanent activé dans votre profil personnel</string>
     <string name="enterprise_privacy_always_on_vpn_work">VPN permanent activé dans votre profil professionnel</string>
     <string name="enterprise_privacy_apps_count_estimation_info">"Le nombre d'applications est une estimation. Il est possible qu'il n'inclue pas les applications installées sans passer par le Play Store."</string>
-    <string name="enterprise_privacy_backups_enabled">Les données de cet appareil sont en cours de sauvegarde</string>
     <string name="enterprise_privacy_bug_reports">Dernier rapport de bug</string>
     <string name="enterprise_privacy_ca_certs_device">Certificats de confiance</string>
     <string name="enterprise_privacy_ca_certs_personal">Certificats de confiance dans votre profil personnel</string>
@@ -3484,7 +3504,7 @@ Ajoutez un verrouillage d'écran avant d'ajouter vos données de visage."</strin
     <string name="face_data_suggesstion_second">"Assurez-vous que toutes les parties de votre visage sont clairement visibles. Ne portez pas d'accessoires qui pourraient couvrir votre visage. Gardez votre visage uniformément éclairé et évitez la lumière directe."</string>
     <string name="face_intro_error_max">Vous avez ajouté le nombre maximum de visages</string>
     <string name="face_intro_error_unknown">"Impossible d'ajouter plus de visages"</string>
-    <string name="face_lock_screen_setup_skip_dialog_text">"Protégez votre téléphone avec une option de verrouillage d'écran afin que personne ne puisse l'utiliser s'il est perdu ou volé. Vous avez également besoin d'une option de verrouillage d'écran pour configurer l'authentification faciale. Appuyez sur Annuler, puis définissez un code PIN, un modèle ou un mot de passe."</string>
+    <string name="face_password_unlock">Face data &amp; screen lock</string>
     <string name="face_unlock">Déverrouillage par le visage</string>
     <string name="face_unlock_be_on_the_screen">Hold the device in front of your face</string>
     <string name="face_unlock_by_notification_screen_on_msg">"Vous pouvez déverrouiller l'appareil par reconnaissance faciale à n'importe quel moment lorsque l'écran s'allume pour afficher les nouvelles notifications. Cela peut décharger plus rapidement la batterie."</string>
@@ -3838,7 +3858,8 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="freeform_guide_notification_drop_down_summary">"Maintenez enfoncée, puis abaissez la barre d'action d'une notification"</string>
     <string name="freeform_guide_notification_drop_down_title">Ouverture de fenêtres flottantes</string>
     <string name="freeform_guide_settings">Fenêtre flottante</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">"Faites glisser du bas de l'écran vers le coin supérieur droit de l'écran"</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">"Faites glisser du bas de l'écran vers le coin supérieur droit de l'écran
+This feature works only when system navigation is set to gestures."</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Faites glisser le coin pour réduire une application</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Faites glisser le coin pour réduire une application</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Appuyez et maintenez le bas de la fenêtre, et faites-le glisser vers le bord supérieur de l'écran.
@@ -3892,9 +3913,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gentle_notifications_display_summary_shade_status_lock">"Afficher dans le panneau des notifications, la barre de notification et l'écran de verrouillage"</string>
     <string name="gentle_notifications_education">Les notifications douces sont silencieuses et apparaissent toujours dans le panneau des notifications</string>
     <string name="gentle_notifications_title">Notifications douces</string>
-    <string name="gesture_c">Modèle C</string>
     <string name="gesture_function_dialog_message">%1$s est utilisé pour \"%2$s\". Remplacer avec \"%3$s\" ?</string>
-    <string name="gesture_m">Modèle M</string>
     <string name="gesture_not_supported_dialog_message">Non pris en charge par votre application domestique par défaut, %s</string>
     <string name="gesture_not_supported_positive_button">"Changer d'application domestique par défaut"</string>
     <string name="gesture_open_alipay">Ouvrir Alipay</string>
@@ -3914,9 +3933,6 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller ou éteindre l'écran"</string>
     <string name="giga_hertz">" GHz"</string>
     <string name="gigabyteShort">" Gio"</string>
-    <string name="global_actions_panel_short_title">Actions globales</string>
-    <string name="global_actions_panel_summary">"Pour afficher le panneau des actions globales, maintenez enfoncé le bouton d'alimentation"</string>
-    <string name="global_actions_panel_title">Afficher les actions globales</string>
     <string name="global_change_warning">Ce paramètre affecte tous les utilisateurs sur ce téléphone.</string>
     <string name="global_locale_change_title">Changer de langue</string>
     <string name="global_stylus_summary">Write in any text field and convert your handwriting to text (only English and Chinese are supported)</string>
@@ -4020,23 +4036,28 @@ La zone où vous pouvez confirmer le verrouillage de votre écran se déplacera 
     <string name="gxzw_dialog_ok">Compris</string>
     <string name="gxzw_dialog_title">"À propos du capteur d'empreinte digitale intégré à l'écran"</string>
     <string name="gxzw_enroll_again">"Soulevez votre doigt et appuyez à nouveau sur le lecteur d'empreintes digitales"</string>
+    <string name="gxzw_lowlight_open_summary">Lower the brightness of the fingerprint icon in low light conditions. Your device might unlock slower when this feature is on.</string>
+    <string name="gxzw_lowlight_open_title">Low light fingerprint unlock</string>
     <string name="gxzw_quick_open_enable_summary">Utilisez des raccourcis gestuels pour ouvrir des applications ou utiliser les fonctionnalités des applications lorsque votre appareil est déverrouillé</string>
     <string name="gxzw_quick_open_enable_title">"Raccourcis d'empreintes digitales"</string>
     <string name="gxzw_quick_open_fast_summary">"Faites glisser pour utiliser un raccourci une fois que votre appareil est déverrouillé."</string>
     <string name="gxzw_quick_open_fast_title">Balayage rapide (avancé)</string>
     <string name="gxzw_quick_open_slow_summary">"Appuyez et maintenez l'icône d'empreinte digitale pour ouvrir le menu de raccourcis. Faites glisser pour utiliser un raccourci."</string>
+    <string name="gxzw_quick_open_slow_title">Press and hold</string>
     <string name="gxzw_quick_open_title">Raccourcis</string>
     <string name="gxzw_vibrate_summary">"La vibration ne se produira pas lorsqu'aucune animation d'empreinte digitale n'est sélectionnée"</string>
     <string name="gxzw_vibrate_title">Vibrer lors du déverrouillage</string>
     <string name="handy_mode">Mode une main</string>
     <string name="handy_mode_enable">Mode une main</string>
     <string name="handy_mode_hint">"Le mode une main n'est disponible que sur l'écran extérieur"</string>
-    <string name="handy_mode_no_touch_assistant">"Le mode à une main ne fonctionnera que si vous utilisez des boutons pour la navigation dans le système. Vous pouvez basculer entre les gestes et les boutons dans la section \"Navigation système\" des paramètres."</string>
     <string name="handy_mode_size">"Taille de l'écran"</string>
     <string name="handy_mode_tips">"Glissez vers la gauche ou la droite depuis le bouton Accueil pour réduire la taille de l'écran."</string>
     <string name="handy_mode_tips_full_screen">Lorsque vous utilisez des gestes en plein écran, vous pouvez activer le mode une main en utilisant la balle rapide. Vous pouvez également utiliser les boutons plutôt que les gestes en plein écran.</string>
     <string name="haptic_agent_completion_01_content_description">Tâche terminée</string>
     <string name="haptic_cursor_movement_07_content_description">Ajustement de la luminosité</string>
+    <string name="haptic_descripthion_for_max_level">Strong</string>
+    <string name="haptic_descripthion_for_middle_level">Default</string>
+    <string name="haptic_descripthion_for_min_level">Light</string>
     <string name="haptic_experience">Démo</string>
     <string name="haptic_experience_details">Retour haptique &amp; accessibilité</string>
     <string name="haptic_feedback_enable_title">Vibration au toucher</string>
@@ -4063,7 +4084,6 @@ La zone où vous pouvez confirmer le verrouillage de votre écran se déplacera 
     <string name="haptic_video_content_description">Vidéo de démo retour haptique</string>
     <string name="haptic_volume_adjustment_14_content_description">Ajustement du volume</string>
     <string name="hardkeyboard_category">Paramètres du clavier physique</string>
-    <string name="hardware_info">Modèle et matériel</string>
     <string name="hardware_revision">Version du matériel</string>
     <string name="hardware_version">Version du matériel</string>
     <string name="has_screenshot_sound">"Son de capture d'écran"</string>
@@ -4075,15 +4095,12 @@ La zone où vous pouvez confirmer le verrouillage de votre écran se déplacera 
     <string name="hdmi_3dplay_control_disable_subtext">"Sortie 3D stéréoscopique vers l'affichage 3D externe est désactivé"</string>
     <string name="hdmi_3dplay_control_enable_subtext">"Sortie 3D stéréoscopique vers l'affichage 3D externe est activé"</string>
     <string name="hdmi_3dplay_control_text">Sortie 3D</string>
+    <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_color_calibration_none">Native</string>
     <string name="header_account_settings">Paramètres du compte</string>
     <string name="header_add_an_account">Ajouter un compte</string>
     <string name="header_application_sync_settings">"Paramètres de synchronisation de l'application"</string>
-    <string name="header_category_access">Accès</string>
     <string name="header_category_accounts">Comptes</string>
-    <string name="header_category_connections">Connexions</string>
-    <string name="header_category_device">Appareil</string>
-    <string name="header_category_personal">Personnel</string>
     <string name="header_category_system">Système</string>
     <string name="header_category_wireless_networks">Paramètres réseaux</string>
     <string name="header_data_and_synchronization">Données et synchronisation</string>
@@ -4121,7 +4138,6 @@ La zone où vous pouvez confirmer le verrouillage de votre écran se déplacera 
     <string name="headset_silent_upgrade_switch_title">Mettre à jour automatiquement</string>
     <string name="headset_spatial_audio">Audio dimensionnelle</string>
     <string name="headset_toast_tip_disconnect_others">Le casque ne peut pas être configuré pour le moment. Votre casque est peut-être connecté à un autre téléphone</string>
-    <string name="headset_unsaved_device">"Supprimer l'appareil"</string>
     <string name="headset_unsaved_devices">"Utilisé sur d'autres appareils"</string>
     <string name="hearing_aids_category">"Outils d'aide à l'audition"</string>
     <string name="heavy_weight_stop_description">"Impossible d'arrêter cette application en toute sécurité. Si vous l'arrêtez, vous risquez de perdre une partie du travail en cours."</string>
@@ -4150,6 +4166,8 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="high_power_system">Optimisation de la batterie non disponible</string>
     <string name="hint_unadjustable_text">"Can't adjust manually. Color temperature is adjusted automatically now."</string>
     <string name="history_details_title">Historique</string>
+    <string name="history_toggled_on_summary">Your recent and snoozed notifications will appear here</string>
+    <string name="history_toggled_on_title">No recent notifications</string>
     <string name="home">"Paramètres de l'écran d'accueil"</string>
     <string name="home_app">Bureau</string>
     <string name="home_key">Accueil</string>
@@ -4159,40 +4177,39 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="homepage_condition_footer_content_description">Réduire</string>
     <string name="homepage_personal_settings">Suggestions</string>
     <string name="how_adjust_font_size">Comment ajuster la taille du texte ?</string>
-    <string name="how_backup_content">"Il existe 3 types de sauvegardes que vous pouvez créer : locales, cloud et USB.
-Sauvegardes locales :
-Les sauvegardes locales vous permettent d'enregistrer vos paramètres système, comptes, données d'application et autres éléments dans un fichier séparé stocké sur votre appareil (MIUI-backup-AllBackup). Une fois le fichier de sauvegarde créé, vous pouvez le transférer sur votre ordinateur via un câble USB.
-Remarque :
-Vous pouvez utiliser Mi PC Suite pour sauvegarder et restaurer des éléments.
+    <string name="how_backup_content">"Vous pouvez enregistrer des sauvegardes localement ou dans le cloud. Les sauvegardes locales peuvent être stockées sur votre appareil mobile, votre ordinateur ou votre clé USB.
 
-Sauvegardes cloud :
-Vous pouvez sauvegarder les paramètres système, la disposition de l'écran d'accueil, les applications et d'autres éléments sur Xiaomi Cloud sans fil.
+Appareil mobile
+Enregistrez vos paramètres système, comptes, données d'application et autres éléments dans un fichier séparé stocké sur votre appareil (MIUI-backup-AllBackup). Remarque : effectuer une réinitialisation d'usine supprimera définitivement ces sauvegardes. N'oubliez pas de copier les sauvegardes sur votre ordinateur.
 
-Sauvegardes USB :
-Cette méthode vous permet d'enregistrer les paramètres système, les comptes, les données d'applications et d'autres éléments sur un périphérique de stockage USB externe.
-"</string>
-    <string name="how_backup_title">1. Comment sauvegarder des éléments ?</string>
+Ordinateur
+Créez une sauvegarde sur cet appareil, puis accédez à MIUI-backup-AllBackup et copiez la sauvegarde sur votre ordinateur via un câble USB.
+
+Clé USB
+Enregistrez vos paramètres système, vos comptes, vos données d'application et d'autres éléments sur une clé USB.
+
+Xiaomi Cloud
+Synchronisez vos contacts, vos photos, vos vidéos, la liste de vos applications, les paramètres système et la disposition de l'écran d'accueil avec le cloud."</string>
+    <string name="how_backup_title">Comment puis-je sauvegarder des éléments ?</string>
     <string name="how_encrypt_content">"Vous ne pouvez chiffrer que les sauvegardes locales. Il y a 2 façons de procéder :
 a) Ouvrez la page avec vos sauvegardes locales, appuyez sur le bouton pour activer le chiffrement et connectez-vous à votre Compte Xiaomi. Les sauvegardes seront chiffrées automatiquement après cela. N'oubliez pas que vous devrez vous connecter à votre Compte Xiaomi pour restaurer des éléments à partir de sauvegardes chiffrées.
 b) Si vous utilisez Mi PC Suite pour sauvegarder des éléments, vous pouvez y utiliser des options de chiffrement.
 
-Remarque :
-N'oubliez pas le mot de passe que vous avez défini pour les sauvegardes chiffrées ! Vous ne pourrez pas déchiffrer vos sauvegardes si vous l'oubliez.
-"</string>
-    <string name="how_encrypt_title">3. Comment chiffrer mes sauvegardes ?</string>
-    <string name="how_restore_backup_content">"Voici comment restaurer des éléments sauvegardés à l'aide de différentes méthodes :
+Remarque : N'oubliez pas le mot de passe que vous avez défini pour les sauvegardes chiffrées ! Vous ne pourrez pas déchiffrer vos sauvegardes si vous l'oubliez."</string>
+    <string name="how_encrypt_title">Comment chiffrer mes sauvegardes ?</string>
+    <string name="how_restore_backup_content">"Voici comment vous pouvez restaurer des éléments qui ont été sauvegardés à l'aide de différentes méthodes :
 
-Sauvegardes locales :
-Copiez le fichier de sauvegarde de votre ordinateur vers votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
+Appareil mobile
+Appuyez sur \"Appareil mobile\" pour trouver l'option de restauration des éléments et sélectionnez la sauvegarde pour continuer.
 
-Sauvegardes cloud :
-Connectez-vous à votre Compte Xiaomi, accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Dans Xiaomi Cloud, et sélectionnez le fichier de sauvegarde.
+Ordinateur
+Copiez la sauvegarde de votre ordinateur vers MIUI-backup-AllBackup via un câble USB et restaurez les éléments depuis votre appareil mobile.
 
-Sauvegardes USB :
-Copiez le fichier de sauvegarde sur votre appareil (MIUI-backup-AllBackup). Accédez à Paramètres > Sauvegarder, restaurer ou réinitialiser > Sur cet appareil, puis sélectionnez le fichier de sauvegarde.
+clé USB
+Copiez la sauvegarde de votre clé USB sur MIUI-backup-AllBackup et sélectionnez l'option de restauration des éléments à partir d'une clé USB pour continuer.
 
 Xiaomi Cloud
-Ouvrez Xiaomi Cloud et destaurez des éléments depuis là."</string>
+Ouvrez Xiaomi Cloud et restaurez les éléments à partir de là."</string>
     <string name="how_restore_backup_title">2. Comment restaurer des éléments sauvegardés ?</string>
     <string name="http_invoke_app">Applications Web</string>
     <string name="http_invoke_app_summary">Ouvrez les applications plus rapidement sans les installer</string>
@@ -4215,17 +4232,17 @@ Ouvrez Xiaomi Cloud et destaurez des éléments depuis là."</string>
     <string name="imitate_real_keyboard_summary">Pratique lorsque votre appareil est posé sur une surface plane</string>
     <string name="immediately_destroy_activities">Ne pas conserver les activités</string>
     <string name="immediately_destroy_activities_summary">"Détruit chaque activité dès que l'utilisateur la quitte"</string>
-    <string name="immersive_audio_sources">Immersive sound</string>
+    <string name="immersive_audio_sources">Son immersif</string>
     <string name="importance_default">Par défaut</string>
     <string name="importance_high">Élevé</string>
     <string name="importance_low">Faible</string>
     <string name="importance_min">Min</string>
     <string name="importance_title">Importance</string>
-    <string name="important_bubble">Bubble priority conversations</string>
-    <string name="important_conversation_behavior_summary">Priority conversations show at the top of the pull-down shade. You can also set them to bubble and interrupt Do Not Disturb.</string>
-    <string name="important_conversations">Priority conversations</string>
-    <string name="important_conversations_summary">Show at top of conversation section</string>
-    <string name="important_conversations_summary_bubbles">Show at top of conversation section and appear as floating bubbles</string>
+    <string name="important_bubble">Conversations prioritaires dans les bulles</string>
+    <string name="important_conversation_behavior_summary">Les conversations prioritaires s’affichent en haut du volet déroulant. Vous pouvez également les configurer pour diffuser et interrompre Ne pas déranger.</string>
+    <string name="important_conversations">Conversations prioritaires</string>
+    <string name="important_conversations_summary">Afficher en haut de la section de conversation</string>
+    <string name="important_conversations_summary_bubbles">Afficher en haut de la section de conversation et apparaître sous forme de bulles flottantes</string>
     <string name="ims_reg_status_not_registered">Non enregisté</string>
     <string name="ims_reg_status_registered">Enregistré</string>
     <string name="ims_reg_title">"État d'enregistrement IMS"</string>
@@ -4242,12 +4259,12 @@ Ouvrez Xiaomi Cloud et destaurez des éléments depuis là."</string>
     <string name="infinity_display_title">Affichage plein écran</string>
     <string name="information_dialog_button_text">Compris</string>
     <string name="information_label">Information</string>
-    <string name="ingress_rate_limit_dialog_title">Configure network download rate limit</string>
-    <string name="ingress_rate_limit_no_limit_entry">No limit</string>
-    <string name="ingress_rate_limit_summary">Configure the network bandwidth ingress rate limit which is applied to all networks that provide internet connectivity.</string>
-    <string name="ingress_rate_limit_title">Network download rate limit</string>
+    <string name="ingress_rate_limit_dialog_title">Configurer la limite de vitesse de téléchargement du réseau</string>
+    <string name="ingress_rate_limit_no_limit_entry">Pas de limite</string>
+    <string name="ingress_rate_limit_summary">Configurez la limite de débit d’entrée de la bande passante du réseau qui est appliquée à tous les réseaux qui fournissent une connectivité Internet.</string>
+    <string name="ingress_rate_limit_title">Limite vitesse de téléchargement du réseau</string>
     <string name="input_assistance">Aide à la saisie</string>
-    <string name="input_device_category">"Dispositif d'entrée"</string>
+    <string name="input_device_category">Dispositif d’entrée</string>
     <string name="input_method">Clavier</string>
     <string name="input_method_bottom_close">Désactiver</string>
     <string name="input_method_bottom_open">Activer</string>
@@ -4399,7 +4416,6 @@ Ouvrez Xiaomi Cloud et destaurez des éléments depuis là."</string>
     <string name="key_system_control">Contrôle du système</string>
     <string name="keyboard_and_input_methods_category">Clavier</string>
     <string name="keyboard_assistance_category">Assistance relative au clavier</string>
-    <string name="keyboard_back_light">Rétroéclairage du clavier</string>
     <string name="keyboard_disconnected">Non connecté</string>
     <string name="keyboard_funtion_key">Touche Fonction</string>
     <string name="keyboard_layout_default_label">Par défaut</string>
@@ -4463,7 +4479,7 @@ Ouvrez Xiaomi Cloud et destaurez des éléments depuis là."</string>
     <string name="keywords_color_mode">couleurs éclatantes, RGB, sRGB, couleur, couleurs naturelles, couleurs normales</string>
     <string name="keywords_color_temperature">couleur, température, D65, D73, blanc, jaune, bleu, chaud, froid</string>
     <string name="keywords_content_capture">"capture de contenu, contenu d'application"</string>
-    <string name="keywords_dark_ui_mode">thème, clair, sombre, mode</string>
+    <string name="keywords_dark_ui_mode">theme, light, dark, mode, light sensitivity, photophobia, make darker, darken, dark mode, migraine</string>
     <string name="keywords_data">4G;3G;Donnée;Données mobiles;Données mobiles;internet mobile</string>
     <string name="keywords_date_and_time">horloge, militaire</string>
     <string name="keywords_default_apps">applications, par défaut</string>
@@ -4482,7 +4498,7 @@ Ouvrez Xiaomi Cloud et destaurez des éléments depuis là."</string>
     <string name="keywords_display_size">screen size, large screen</string>
     <string name="keywords_display_wallpaper">arrière-plan, personnalisé, personnaliser écran</string>
     <string name="keywords_do_not_disturb">NPD;Mode NPD;Ne pas déranger;Dormir;Nuit;Occupé</string>
-    <string name="keywords_draw_overlay">Chat head</string>
+    <string name="keywords_draw_overlay">Chat head, system, alert, window, dialog, display, on top other apps, draw</string>
     <string name="keywords_enhance_4g_lte">volte, advanced calling, 4g calling</string>
     <string name="keywords_face_settings">visage</string>
     <string name="keywords_face_unlock">visage, déverrouiller, authentification, connexion</string>
@@ -4646,7 +4662,7 @@ Ouvrez Xiaomi Cloud et destaurez des éléments depuis là."</string>
     <string name="legacy_control_center_title">Ancienne version</string>
     <string name="legacy_navigation_summary">"Revenez en arrière, Accueil et changez d'applications avec des boutons en bas de votre écran."</string>
     <string name="legacy_navigation_title">Navigation à 3 boutons</string>
-    <string name="legacy_power_menu">Legacy power menu</string>
+    <string name="legacy_power_menu">Ancien menu d’alimentation</string>
     <string name="legal_information">Informations légales</string>
     <string name="legal_workday">Jours ouvrés</string>
     <string name="legal_workday_invalidate">Lun-Ven (Infos de vacances expirées)</string>
@@ -5081,19 +5097,19 @@ You are currently signed into the following accounts:
     <string name="main_clear_confirm_title">Erase all data?</string>
     <string name="main_clear_desc">This will erase all data from your phone’s <b>internal storage</b>", including:
 
-        "<li>Your Google Account</li>"
-        "<li>System and app data and settings</li>"
-        "<li>Downloaded apps</li></string>
+"<li>Your Google Account</li>"
+"<li>System and app data and settings</li>"
+"<li>Downloaded apps</li></string>
     <string name="main_clear_desc_also_erases_esim"><li>eSIMs</li></string>
     <string name="main_clear_desc_also_erases_external"><li>Music</li>"
-        "<li>Photos</li>"
-        "<li>Other user data</li></string>
+"<li>Photos</li>"
+"<li>Other user data</li></string>
     <string name="main_clear_desc_erase_external_storage">"
 
-        To clear music, pictures, and other user data, the "<b>USB storage</b> needs to be erased.</string>
+To clear music, pictures, and other user data, the "<b>USB storage</b> needs to be erased.</string>
     <string name="main_clear_desc_no_cancel_mobile_plan">"
 
-        This will not cancel your mobile service plan."</string>
+This will not cancel your mobile service plan."</string>
     <string name="main_clear_final_desc">All of your personal information and downloaded apps will be deleted. You can’t undo this action.</string>
     <string name="main_clear_final_desc_esim">All of your personal information, including downloaded apps &amp; SIMs, will be deleted. You can’t undo this action.</string>
     <string name="main_clear_not_available">Factory reset is not available for this user</string>
@@ -5167,9 +5183,11 @@ There are other users present on this device.
     <string name="master_clear_button_text">Réinitialiser le téléphone</string>
     <string name="master_clear_erase_application_progress">Suppression en cours…</string>
     <string name="master_clear_personal_data">"Erase all your personal information?
-        You can't reverse this action."</string>
-    <string name="master_clear_personal_data_application">Supprimer vos données personnelles et les applications téléchargées ? Cette opération est irréversible !</string>
-    <string name="master_clear_personal_data_sdcard">Supprimer vos données personnelles et effacer la carte SD ? Cette opération est irréversible !</string>
+You can't reverse this action."</string>
+    <string name="master_clear_personal_data_application">"Supprimer vos données personnelles et les applications téléchargées ?
+Cette opération est irréversible !"</string>
+    <string name="master_clear_personal_data_sdcard">"Supprimer vos données personnelles et effacer la carte SD ?
+Cette opération est irréversible !"</string>
     <string name="master_clear_progress_text">Veuillez patienter...</string>
     <string name="master_clear_progress_title">Suppression en cours</string>
     <string name="master_clear_title">"Effacer toutes les données (rétablir la configuration d'usine)"</string>
@@ -5240,8 +5258,8 @@ There are other users present on this device.
     <string name="media_volume_option_title">Multimédia</string>
     <string name="media_volume_summary">Régler le volume pour la musique et les vidéos</string>
     <string name="media_volume_title">Multimédia</string>
-    <string name="megabyte_per_second">" Mo/s"</string>
-    <string name="megabyteShort">" Mo"</string>
+    <string name="megabyteShort">" Mio"</string>
+    <string name="megabyte_per_second">" Mio/s"</string>
     <string name="meid_multi_sim">MEID (SIM %1$d)</string>
     <string name="mem_details_title">Détails de la mémoire</string>
     <string name="memory">Mémoire vive</string>
@@ -5375,7 +5393,6 @@ There are other users present on this device.
     <string name="miheadset_double_connection_summary">"Lorsque vous activez cette fonction, vous pouvez répondre aux appels ou lire de l'audio ou de la vidéo sur les deux appareils connectés sans avoir à basculer manuellement"</string>
     <string name="miheadset_double_press_left">"Appuyez deux fois sur l'écouteur gauche"</string>
     <string name="miheadset_double_press_right">"Appuyez deux fois sur l'écouteur droit"</string>
-    <string name="miheadset_double_toast">Mettez les deux écouteurs pour pouvoir utiliser cette fonctionnalité</string>
     <string name="miheadset_dual_connect_mode">Se connecter à deux appareils</string>
     <string name="miheadset_dual_connect_mode_summary">Activez pour connecter vos écouteurs à deux appareils Bluetooth simultanément</string>
     <string name="miheadset_enhanceVoice">Améliorer la voix</string>
@@ -5609,7 +5626,7 @@ en utilisant vos données faciales. Continuez pour accéder
     <string name="miuix_appcompat_deselect_all">Désélectionner</string>
     <string name="miuix_appcompat_deselect_all_description">Tout désélectionner</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuler</string>
-    <string name="miuix_appcompat_search_input_description">Chercher</string>
+    <string name="miuix_appcompat_search_input_description">Rechercher</string>
     <string name="miuix_appcompat_select_all">Tout sélectionner</string>
     <string name="miuix_appcompat_select_all_description">Tout sélectionner</string>
     <string name="miuix_appcompat_select_item">Sélectionner des éléments</string>
@@ -5815,7 +5832,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="mtrl_picker_a11y_prev_month">Passer au mois précédent</string>
     <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
     <string name="mtrl_picker_confirm">OK</string>
-    <string name="mtrl_picker_date_header_title">Sélectionner la date</string>
+    <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
     <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
     <string name="mtrl_picker_day_of_week_column_header">Colonne de jours : %1$s</string>
     <string name="mtrl_picker_invalid_format">Format invalide.</string>
@@ -5826,7 +5843,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="mtrl_picker_out_of_range">Hors plage : %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
-    <string name="mtrl_picker_range_header_title">Sélectionner la plage</string>
+    <string name="mtrl_picker_range_header_title">Sélectionner un intervalle de dates</string>
     <string name="mtrl_picker_range_header_unselected">Date de début – Date de fin</string>
     <string name="mtrl_picker_save">Enregistrer</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
@@ -5948,9 +5965,8 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="network_connection_timeout_dialog_ok">Réessayez</string>
     <string name="network_control">"Afficher les paramètres de l'application"</string>
     <string name="network_could_not_connect">Connexion impossible</string>
-    <string name="network_dashboard_summary_data_usage">conso. des données</string>
-    <string name="network_dashboard_summary_hotspot">"point d'accès"</string>
-    <string name="network_dashboard_summary_mobile">mobile</string>
+    <string name="network_dashboard_summary_mobile">Mobile, Wi‑Fi, hotspot</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi, hotspot</string>
     <string name="network_dashboard_title">Réseau et internet</string>
     <string name="network_detail">Informations réseau %s</string>
     <string name="network_disconnected">Déconnecté</string>
@@ -5959,6 +5975,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="network_global">Général</string>
     <string name="network_id">ID du réseau</string>
     <string name="network_lte">LTE (recommandé)</string>
+    <string name="network_lte_pure">LTE</string>
     <string name="network_name_input_error">Impossible de sauvegarder le SSID. Réessayez.</string>
     <string name="network_operator_category">Réseau</string>
     <string name="network_operators_settings">Opérateurs de réseaux</string>
@@ -5980,6 +5997,8 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="network_speed_for_apps_total">Vitesse de connexion</string>
     <string name="network_state_label">État du réseau : </string>
     <string name="network_timeout_info">Impossible de se connecter au réseau. Réessayez.</string>
+    <string name="network_world_mode_cdma_lte">LTE / CDMA</string>
+    <string name="network_world_mode_gsm_lte">LTE / GSM / UMTS</string>
     <string name="networkid_label">ID réseau : </string>
     <string name="networks">"Sélection de l'opérateur"</string>
     <string name="networks_available">Réseaux disponibles</string>
@@ -6367,8 +6386,8 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="one_handed_action_show_notification_title">Afficher les notifications</string>
     <string name="one_handed_mode_enabled">Utiliser le mode à une main</string>
     <string name="one_handed_mode_footer_text">" "<b>Comment utiliser le mode à une main</b>"
-    • Assurez-vous que la navigation gestuelle est sélectionnée dans les paramètres de navigation du système
-    • Balayez vers le bas près du bord inférieur de l’écran "</string>
+• Assurez-vous que la navigation gestuelle est sélectionnée dans les paramètres de navigation du système
+• Balayez vers le bas près du bord inférieur de l’écran "</string>
     <string name="one_handed_mode_intro_text">Abaissez la moitié supérieure de votre écran pour qu’il soit plus facile à atteindre d’une seule main</string>
     <string name="one_handed_mode_shortcut_title">Raccourci du mode à une main</string>
     <string name="one_handed_mode_swipe_down_category">Balayer vers le bas pour</string>
@@ -6435,7 +6454,6 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="owner_info_settings_summary">Aucun</string>
     <string name="owner_info_settings_title">"Signature de l'écran de verrouillage"</string>
     <string name="owner_space">Premier espace</string>
-    <string name="p2p_summary_enable_GPS">Cette fonctionnalité fonctionne lorsque les services de localisation sont activés</string>
     <string name="packages_subtitle">Modules inclus</string>
     <string name="pad_add_fingerprint_finish_message">Continuer pour accéder aux paramètres supplémentaires.</string>
     <string name="pad_add_fingerprint_message">"Placez votre doigt sur le bouton d'alimentation"</string>
@@ -7870,6 +7888,7 @@ Après la suppression, vous aurez besoin de votre code PIN, schéma ou mot de pa
     <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Utilisez votre empreinte digitale pour déverrouiller votre téléphone ou approuver des achats.
 
 Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouiller cet appareil. Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_no_thanks">No thanks</string>
     <string name="security_settings_fingerprint_enroll_introduction_title">"Déverrouillage avec l'empreinte digitale"</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Utiliser votre empreinte digitale</string>
     <string name="security_settings_fingerprint_enroll_introduction_v2_message">Use your fingerprint to unlock your phone or verify it’s you, like when you sign in to apps or approve a purchase.</string>
@@ -7928,7 +7947,6 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="security_status">État de la sécurité</string>
     <string name="security_status_title">État de la sécurité</string>
     <string name="security_update">Niveau du correctif de sécurité</string>
-    <string name="see_all_apps_title">Afficher les %1$d applications</string>
     <string name="see_less">Afficher moins</string>
     <string name="see_more">Afficher plus</string>
     <string name="seek_bar_info">Ajuster la taille</string>
@@ -8039,7 +8057,6 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="setup_password_back">Retour</string>
     <string name="setup_password_confirm">OK</string>
     <string name="setup_password_skip">Ignorer</string>
-    <string name="setup_wifi_nfc_tag">Créer un tag NFC pour le Wi-Fi</string>
     <string name="severe_threats_summary">Recevoir alertes pour menaces graves biens et personnes</string>
     <string name="severe_threats_title">Menaces graves</string>
     <string name="share">Partager</string>
@@ -8183,6 +8200,7 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="sim_calls_ask_first_prefs_title">Toujours demander</string>
     <string name="sim_card_lock">État de la carte SIM</string>
     <string name="sim_card_label">SIM card</string>
+    <string name="sim_card_lock">SIM card status</string>
     <string name="sim_card_number_title">Carte SIM %1$d</string>
     <string name="sim_card_select_title">Sélectionner une carte SIM</string>
     <string name="sim_cards_changed_message">Les cartes SIM ont été changées.</string>
@@ -9002,54 +9020,54 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="tap_to_wake">Appuyer pour réactiver</string>
     <string name="tap_to_wake_summary">"Appuyez deux fois n'importe où sur l'écran pour réactiver l'appareil."</string>
     <string name="taplus_title">Taplus</string>
-    <string name="tare_actions_base_price">Actions (Base Price)</string>
-    <string name="tare_actions_ctp">Actions (Cost to Produce)</string>
+    <string name="tare_actions_base_price">Actions (Prix de base)</string>
+    <string name="tare_actions_ctp">Actions (Coût de production)</string>
     <string name="tare_alarm_clock">AlarmClock</string>
     <string name="tare_alarmmanager">AlarmManager</string>
-    <string name="tare_balances">Balances</string>
-    <string name="tare_consumption_limits">Consumption Limits</string>
-    <string name="tare_dialog_confirm_button_title">Confirm</string>
-    <string name="tare_hard_consumption_limit">Maximum Consumption Limit</string>
-    <string name="tare_initial_consumption_limit">Initial Consumption Limit</string>
-    <string name="tare_job_default_running">Job Default Running</string>
-    <string name="tare_job_default_start">Job Default Start</string>
-    <string name="tare_job_high_running">Job High Running</string>
-    <string name="tare_job_high_start">Job High Start</string>
-    <string name="tare_job_low_running">Job Low Running</string>
-    <string name="tare_job_low_start">Job Low Start</string>
-    <string name="tare_job_max_running">Job Max Running</string>
-    <string name="tare_job_max_start">Job Max Start</string>
+    <string name="tare_balances">Soldes</string>
+    <string name="tare_consumption_limits">Limites de consommation</string>
+    <string name="tare_dialog_confirm_button_title">Confirmer</string>
+    <string name="tare_hard_consumption_limit">Limite de consommation maximale</string>
+    <string name="tare_initial_consumption_limit">Limite de consommation initiale</string>
+    <string name="tare_job_default_running">Job par défaut en cours d’exécution</string>
+    <string name="tare_job_default_start">Démarrage par défaut du travail</string>
+    <string name="tare_job_high_running">Travail en cours d’exécution élevé</string>
+    <string name="tare_job_high_start">Démarrage élevé du travail</string>
+    <string name="tare_job_low_running">Travail faible en cours d’exécution</string>
+    <string name="tare_job_low_start">Démarrage bas du travail</string>
+    <string name="tare_job_max_running">Travail max en cours d’exécution</string>
+    <string name="tare_job_max_start">Démarrage maximum du travail</string>
     <string name="tare_job_min_running">Job Min Running</string>
-    <string name="tare_job_min_start">Job Min Start</string>
-    <string name="tare_job_timeout_penalty">Job Timeout Penalty</string>
+    <string name="tare_job_min_start">Démarrage minimum du travail</string>
+    <string name="tare_job_timeout_penalty">Pénalité d’expiration du travail</string>
     <string name="tare_jobscheduler">JobScheduler</string>
-    <string name="tare_max_satiated_balance">Maximum Satiated Balance</string>
-    <string name="tare_min_balance_exempted">Minimum Satiated Balance (Exempted)</string>
-    <string name="tare_min_balance_headless_app">Minimum Satiated Balance (Headless System App)</string>
-    <string name="tare_min_balance_other_app">Minimum Satiated Balance (Remaining Apps)</string>
-    <string name="tare_modifiers">Modifiers</string>
-    <string name="tare_nonwakeup_exact">Exact NonWakeup Alarm</string>
-    <string name="tare_nonwakeup_exact_idle">Allow While Idle Exact NonWakeup Alarm</string>
-    <string name="tare_nonwakeup_inexact">Inexact NonWakeup Alarm</string>
-    <string name="tare_nonwakeup_inexact_idle">Allow While Idle Inexact NonWakeup Alarm</string>
+    <string name="tare_max_satiated_balance">Solde rassasié maximum</string>
+    <string name="tare_min_balance_exempted">Solde satisfait minimum (exempté)</string>
+    <string name="tare_min_balance_headless_app">Solde satisfait minimum (application système headless)</string>
+    <string name="tare_min_balance_other_app">Solde satisfait minimum (applications restantes)</string>
+    <string name="tare_modifiers">Modificateurs</string>
+    <string name="tare_nonwakeup_exact">Alarme Exact NonWakeup</string>
+    <string name="tare_nonwakeup_exact_idle">Autoriser alarme While Idle Exact NonWakeup</string>
+    <string name="tare_nonwakeup_inexact">Alarme Inexact NonWakeup</string>
+    <string name="tare_nonwakeup_inexact_idle">Autoriser While Idle Inexact NonWakeup Alarm</string>
     <string name="tare_notification_interaction">Notification Interaction</string>
     <string name="tare_notification_seen">Notification Seen</string>
     <string name="tare_notification_seen_15_min">Notification Seen Within 15 Minutes</string>
-    <string name="tare_off">Off</string>
-    <string name="tare_on">On</string>
+    <string name="tare_off">Désactivé</string>
+    <string name="tare_on">Activé</string>
     <string name="tare_other_interaction">Other User Interaction</string>
-    <string name="tare_revert">Revert to Default Settings</string>
+    <string name="tare_revert">Rétablir les paramètres par défaut</string>
     <string name="tare_rewards_instantaneous">Rewards per single event</string>
     <string name="tare_rewards_max">Maximum Rewards Per Day</string>
     <string name="tare_rewards_ongoing">Rewards per second of event duration</string>
-    <string name="tare_settings">TARE Settings</string>
-    <string name="tare_settings_reverted_toast">Settings reverted to default.</string>
-    <string name="tare_title">TARE</string>
-    <string name="tare_top_activity">Top Activity</string>
-    <string name="tare_wakeup_exact">Exact Wakeup Alarm</string>
-    <string name="tare_wakeup_exact_idle">Allow While Idle Exact Wakeup Alarm</string>
-    <string name="tare_wakeup_inexact">Inexact Wakeup Alarm</string>
-    <string name="tare_wakeup_inexact_idle">Allow While Idle Inexact Wakeup Alarm</string>
+    <string name="tare_settings">Paramètres TARE</string>
+    <string name="tare_settings_reverted_toast">Les paramètres sont revenus par défaut.</string>
+    <string name="tare_title">TARE (The Android Resource Economy)</string>
+    <string name="tare_top_activity">Activité principale</string>
+    <string name="tare_wakeup_exact">Alarme Exact Wakeup</string>
+    <string name="tare_wakeup_exact_idle">Autoriser alarme While Idle Exact Wakeup</string>
+    <string name="tare_wakeup_inexact">Alarme Inexact Wakeup</string>
+    <string name="tare_wakeup_inexact_idle">Autoriser alarme While Idle Inexact Wakeup</string>
     <string name="tare_widget_interaction">Widget Interaction</string>
     <string name="temporary_not_available">temporairement non disponible</string>
     <string name="terms_title">"Conditions d'utilisation"</string>
@@ -9378,18 +9396,17 @@ Cela supprime le modèle d'empreintes digitales stocké sur votre appareil. Votr
     <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Les fonctionnalités de protection de l'appareil ne fonctionnent pas sans votre code.
 
 Vos empreintes digitales enregistrées seront également supprimées de cet appareil, et vous ne pourrez plus les utiliser pour déverrouiller votre téléphone, autoriser des achats ni vous connecter à des applications."</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Les fonctionnalités de protection du profil ne fonctionnent pas sans votre code.
-
-Vos empreintes digitales enregistrées seront également supprimées de ce profil, et vous ne pourrez plus les utiliser pour déverrouiller votre profil, autoriser des achats ni vous connecter à des applications."</string>
-    <string name="unlock_disable_frp_warning_content_pin_profile">La protection du profil ne fonctionne pas sans votre code.</string>
     <string name="unlock_disable_frp_warning_content_profile">Les fonctionnalités de protection du profil ne fonctionneront plus sans votre mot de passe.</string>
     <string name="unlock_disable_frp_warning_content_unknown">"Les fonctionnalités de protection de l'appareil ne fonctionnent pas sans le verrouillage de l'écran."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face">"Device protection features will not work without your screen lock.
+
+Your face model will also be permanently and securely deleted. You won’t be able to use your face for authentication in apps."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Device protection features will not work without your screen lock.
+
+This deletes the fingerprint model stored on your device. Your face model will also be permanently and securely deleted. You won’t be able to use your face or fingerprint for authentication in apps."</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Les fonctionnalités de protection de l'appareil ne fonctionnent pas sans le verrouillage de l'écran.
 
 Vos empreintes digitales enregistrées seront également supprimées de cet appareil, et vous ne pourrez plus les utiliser pour déverrouiller votre téléphone, autoriser des achats ni vous connecter à des applications."</string>
-    <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Les fonctionnalités de protection du profil ne fonctionnent pas sans le verrouillage de l'écran.
-
-Vos empreintes digitales enregistrées seront également supprimées de ce profil, et vous ne pourrez plus les utiliser pour déverrouiller votre profil, autoriser des achats ni vous connecter à des applications."</string>
     <string name="unlock_disable_frp_warning_ok">Oui, supprimer</string>
     <string name="unlock_disable_frp_warning_title">"Supprimer la protection de l'appareil ?"</string>
     <string name="unlock_disable_frp_warning_title_profile">Supprimer la protection du profil ?</string>
@@ -9720,14 +9737,11 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="user_enable_calling_confirm_title">Activer les appels téléphoniques ?</string>
     <string name="user_enable_calling_sms">Activer les appels téléphoniques et les SMS</string>
     <string name="user_exit_guest_confirm_message">Toutes les applications et les données de cette session seront supprimées.</string>
-    <string name="user_exit_guest_confirm_title">"Supprimer l'invité ?"</string>
     <string name="user_exit_guest_dialog_remove">Supprimer</string>
-    <string name="user_exit_guest_title">"Supprimer l'invité"</string>
     <string name="user_experience_open_url">"En savoir plus sur le programme d'expérience utilisateur"</string>
     <string name="user_experience_program">"Programme d'expérience utilisateur"</string>
     <string name="user_experience_program_summary">"Permettre à Xiaomi de collecter et d'analyser les données des utilisateurs afin d'améliorer nos produits et services. Lisez les Conditions générales de notre Programme d'expérience utilisateur pour en savoir plus."</string>
     <string name="user_experience_program_title">"Programme d'expérience utilisateur"</string>
-    <string name="user_guest">Invité</string>
     <string name="user_image_choose_photo">En sélectionner une dans la galerie</string>
     <string name="user_image_photo_selector">Sélectionner une photo</string>
     <string name="user_image_take_photo">Prendre une photo</string>
@@ -9799,7 +9813,6 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="virtual_sim_global_title">Service de données mobiles</string>
     <string name="virtual_sim_title">"Réseau d'itinérance de données"</string>
     <string name="virtual_surround_sound_switch_summary">Enrichir la profondeur du son pour la lecture audio et vidéo dans les écouteurs</string>
-    <string name="virtual_surround_sound_switch_summary_global">Enrichir la profondeur du son pour la lecture audio et vidéo dans les écouteurs. Cette fonctionnalité ne fonctionnera pas lorsque LDAC est activé.</string>
     <string name="virtual_surround_sound_switch_title">Effets sonores immersifs</string>
     <string name="virus_scan">Recherche de virus</string>
     <string name="virus_scan_app_continue">"Continuer l'analyse"</string>
@@ -10044,7 +10057,6 @@ Les appels d'urgence sont possibles uniquement dans les zones avec une couvertur
 Merci de prendre connaissance de la politique de données personnells de votre fournisseur de service."</string>
     <string name="wfc_disclaimer_location_title_text">Emplacement</string>
     <string name="wfc_disclaimer_title_text">Information importante</string>
-    <string name="wfc_provisioned_switch_string">Appel Wi-Fi géré</string>
     <string name="wfd_available_devices">Appareils disponibles</string>
     <string name="wfd_disconnect_diag_msg">Déconnecter de %1$s ?</string>
     <string name="wfd_disconnect_diag_title">"Déconnecter l'affichage ?"</string>
@@ -10610,7 +10622,6 @@ vous pouvez aussi utiliser les réseaux des autres"</string>
     <string name="wifi_suspend_optimizations">Optimisation du Wi-Fi</string>
     <string name="wifi_suspend_optimizations_summary">Minimisez la consommation de la batterie lorsque le Wi-Fi est activé</string>
     <string name="wifi_switch_away_when_unvalidated">"Utiliser les données mobiles si vous n'avez plus accès à internet via le réseau Wi-Fi"</string>
-    <string name="wifi_switch_summary">Rechercher et se connecter aux réseaux Wi‑Fi</string>
     <string name="wifi_switch_to_gsm_message">Connexion Wi-Fi perdue. Utiliser la connexion de données mobiles ?</string>
     <string name="wifi_switch_to_gsm_title">Utiliser le GSM ?</string>
     <string name="wifi_tap_to_sign_in">Appuyez ici pour vous connecter au réseau</string>
@@ -10625,6 +10636,7 @@ vous pouvez aussi utiliser les réseaux des autres"</string>
     <string name="wifi_tether_enabled_nosecurity_summary">"%1$s n'est pas chiffré"</string>
     <string name="wifi_tether_enabled_subtext">%1$s est actif</string>
     <string name="wifi_tether_failed_subtext">Erreur sur le partage de connexion</string>
+    <string name="wifi_tether_high_temperature_toast">In high temperature protection, the function is temporarily unavailable</string>
     <string name="wifi_tether_setting_title">Paramètres</string>
     <string name="wifi_tether_settings_title">Partage de connexion</string>
     <string name="wifi_tether_starting">"Activation du point d'accès Wi-Fi en cours…"</string>
