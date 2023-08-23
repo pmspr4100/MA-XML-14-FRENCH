@@ -390,6 +390,9 @@ Vous pouvez démarrer une autre session sur votre ordinateur."</string>
     <string name="settings_how_use">Utilisation du transfert</string>
     <string name="settings_log_options">Journaux</string>
     <string name="settings_more_help">Aide</string>
+    <string name="settings_nfc_transfer_desc1">"Apportez un téléphone connecté à votre compte Xiaomi à proximité du module NFC de cet appareil pour partager le contenu de l'écran ou transférer les éléments sélectionnés dans le gestionnaire de fichiers ou la galerie."</string>
+    <string name="settings_nfc_transfer_desc2">Vous pouvez consulter la liste des appareils compatibles ici : %s</string>
+    <string name="settings_nfc_transfer_title">Transférer des éléments via NFC</string>
     <string name="settings_pad">Tablette</string>
     <string name="settings_pad_handoff_title">Connecter automatiquement</string>
     <string name="settings_pc">Ordinateur</string>

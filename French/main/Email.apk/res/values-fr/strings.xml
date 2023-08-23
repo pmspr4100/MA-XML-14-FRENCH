@@ -232,6 +232,7 @@ Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière don
     <string name="auto_advance_summary">Choisir quel message afficher après la suppression</string>
     <string name="auto_login_fail">Impossible de se connecter automatiquement</string>
     <string name="auto_login_fail_to_retry">Impossible de se connecter automatiquement, essayez à nouveau.</string>
+    <string name="auto_start_open_prompt">Autorisez le démarrage automatique de l’application pour qu’elle puisse synchroniser vos e-mails. Vous pouvez accorder cette autorisation dans Paramètres.</string>
     <string name="auto_remind_bind">Ajouter</string>
     <string name="auto_remind_discribe_text">Activer pour recevoir les rappels automatiques</string>
     <string name="auto_remind_text">Rappels automatiques</string>
@@ -270,6 +271,7 @@ Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière don
     <string name="calendar_skip_no_account_alert">Compte introuvable</string>
     <string name="cancel">Annuler</string>
     <string name="cancel_action">Annuler</string>
+    <string name="cancel_edit">Arrêter la modification</string>
     <string name="cancel_pop3_attchemt_downloading">"Impossible d'annuler les téléchargements en cours pour les pièces jointes dans les comptes POP3"</string>
     <string name="cant_move_or_change_labels">Impossible de déplacer des messages depuis plusieurs comptes.</string>
     <string name="certificate_add_failed">"Impossible d'ajouter le certificat \"%s\""</string>
@@ -418,6 +420,7 @@ Pour bien comprendre vos droits en tant qu'utilisateur ainsi que la manière don
     <string name="drive_card_code">"Le code d'extraction est :"</string>
     <string name="drive_card_tips">Un lien de partage de disque réseau a été trouvé à partir de %s</string>
     <string name="drive_card_title">Lien de partage de disque réseau</string>
+    <string name="drop_sign_operation">Arrêter les modifications et annuler toutes les modifications maintenant ?</string>
     <string name="dtend">"S'arrête"</string>
     <string name="dtstart">Commence</string>
     <string name="early_morning">Matin</string>
@@ -1013,6 +1016,7 @@ Essayez un autre compte de messagerie."</string>
     <string name="open_pdf_error">"Impossible d'ouvrir le PDF. Installez un lecteur PDF et réessayez."</string>
     <string name="operation_settging">Actions</string>
     <string name="optimization_suggestion">"Suggestions d'optimisation"</string>
+    <string name="other_pdf_open">Ouvrir avec…</string>
     <string name="others_mail">Autre</string>
     <string name="others_mail_des">"Autres services de messagerie privés ou d'entreprise"</string>
     <string name="outbox_alert_button_no_resend">Ne pas renvoyer</string>
@@ -1061,6 +1065,7 @@ de l'écran de verrouillage soit modifié."</string>
     <string name="pdf_has_signature_prompt_confirm">Ouvrir une copie</string>
     <string name="pdf_has_signature_prompt_message">"Une copie signée de cette pièce jointe est détectée. L'ouvrir ?"</string>
     <string name="pdf_save_error">Le corps étant trop volumineux, il ne peut pas être exporté sous forme de fichier PDF</string>
+    <string name="pdf_save_local">"Enregistré avec succès sur l'appareil : "</string>
     <string name="pdf_save_no_body">Veuillez attendre que le texte se charge et réessayez</string>
     <string name="pdf_save_to">Enregistré sous</string>
     <string name="pdf_signature_add">Ajouter une nouvelle signature</string>
@@ -1103,6 +1108,7 @@ de l'écran de verrouillage soit modifié."</string>
     <string name="pl_select_age">"Sélectionnez l'âge"</string>
     <string name="pls_parse_bill_discribe">"Analyser les factures et les informations de voyage dans votre e-mail
 afin de recevoir des rappels concernant les paiements et les voyages"</string>
+    <string name="please_save_sign_first">Enregistrer d’abord la signature</string>
     <string name="pm">PM</string>
     <string name="policy_app_blacklist">Interdire les applications spécifiées</string>
     <string name="policy_app_whitelist">Autoriser seulement les applications spécifiées</string>
@@ -1224,6 +1230,7 @@ Attendez la synchronisation complète ou visualisez le message sur votre ordinat
     <string name="saturday_shortest">Sam</string>
     <string name="save_action">Enregistrer</string>
     <string name="save_draft_failed">Sauvegarde du brouillon échoué</string>
+    <string name="save_sign_pdf">Enregistrer sur l’appareil</string>
     <string name="save_power_summary">"Régler la planification de l'économiseur de batterie"</string>
     <string name="save_power_title">Économiseur de batterie</string>
     <string name="saved">Enregistré, %s</string>
@@ -1457,7 +1464,8 @@ respectées"</string>
     <string name="train_card_title_change">Le ticket modifié a réussi</string>
     <string name="train_card_title_change_arrival">Le ticket modifié a réussi</string>
     <string name="train_card_title_refund">Remboursement du ticket de réussite</string>
-    <string name="translation_loading">Chargement…</string>
+    <string name="translated_text_too_long">Sélectionnez moins de texte à copier et réessayez</string>
+    <string name="translation_loading">Un instant…</string>
     <string name="translation_no_result">Aucun résultat</string>
     <string name="translation_pronunciation_other">Machine</string>
     <string name="translation_query_failure">Aucun résultat</string>

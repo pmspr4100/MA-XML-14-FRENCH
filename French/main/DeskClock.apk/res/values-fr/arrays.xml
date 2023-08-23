@@ -676,11 +676,4 @@
         <item>Ven</item>
         <item>Sam</item>
     </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>"À l'heure fixée"</item>
-        <item>"15 minutes à l'avance"</item>
-        <item>"30 minutes à l'avance"</item>
-        <item>"1 heure à l'avance"</item>
-        <item>Aucun</item>
-    </string-array>
 </resources>

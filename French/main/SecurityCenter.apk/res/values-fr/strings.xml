@@ -4260,9 +4260,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="privacy_pop_record">"Audio enregistré aujourd'hui"</string>
     <string name="privacy_pop_storage">"Accès au stockage aujourd'hui"</string>
     <string name="privacy_prompt_tc_sms_report_message">"Votre numéro de téléphone et les détails d'opérateur doivent être chiffrés et envoyés aux serveurs Mi pour obtenir la mise à jour de votre utilisation des données."</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Après que vous ayez lancé l'étalonnage, MIUI se connectera au réseau, cryptera les infos de votre opérateur, votre numéro de téléphone, votre IMEI et votre Compte Xiaomi, puis enverra ces éléments vers les serveurs Mi. Ceci se fera dans le but d'acquérir le modèle d'étalonnage et apprenez si possible à acheter des données dans votre localité.
-
-Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recevoir le modèle d'étalonnage."</string>
     <string name="privacy_prompt_upload">Envoyer</string>
     <string name="privacy_protect_summary">Protégez vos informations personnelles</string>
     <string name="privacy_protect_title">Protection de la vie privée</string>
@@ -5862,6 +5859,7 @@ Essayez de mettre à l'échelle la définition !"</string>
     <string name="virus_app_type_uninstalled">APK</string>
     <string name="virus_app_verison_text">Version : %s</string>
     <string name="virus_auto_update_engine">Mises à jour auto : %s</string>
+    <string name="virus_auto_update_engine_1">Mettre à jour les définitions automatiquement</string>
     <string name="virus_clear_dialog_title">Effacer les applications malicieuses</string>
     <string name="virus_detail_app">Contient des virus</string>
     <string name="virus_detail_title">Virus</string>

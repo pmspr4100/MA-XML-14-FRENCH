@@ -55,8 +55,9 @@
     <string name="effect_3dsurround_summary_headphone">Améliorer la profondeur de la reproduction sonore des écouteurs</string>
     <string name="effect_dolby">Dolby</string>
     <string name="effect_misound">Mauvais son</string>
-    <string name="effect_none">Aucun</string>
+    <string name="effect_none">Original</string>
     <string name="effect_selection">Effets sonores</string>
+    <string name="effect_selection_headset">Effets d’écouteurs</string>
     <string name="effect_virtual_surround">Son immersif virtuel</string>
     <string name="effect_virtual_surround_summary">"Enrichir la profondeur du son pour la lecture audio et vidéo dans les écouteurs (cette fonctionnalité ne fonctionnera pas lorsque l'audio %.1f est lu)"</string>
     <string name="end_wireless_transmission">Arrêter</string>

@@ -169,7 +169,7 @@ Envoyez ce code au superviseur."</string>
     <string name="mibi_cta_agreement_tips">"Veuillez accepter les conditions d'utilisation."</string>
     <string name="mibi_cta_description">"Bienvenue dans Mi Coin, cette application fournit des fonctions telles que la recharge de Mi Coin et la visualisation de chèques-cadeaux. Nous traiterons vos informations pertinentes conformément aux lois et règlements. Ici, nous vous rappelons solennellement :
 1. Avant d'utiliser les produits ou services Mibi, veuillez lire et comprendre attentivement la politique de confidentialité et utiliser les produits ou services concernés après avoir confirmé votre compréhension et votre accord complets.
-2. Lors de l'utilisation de cette application, des autorisations Internet et caméra sont requises. Nous vous demanderons si vous êtes autorisé à ouvrir les autorisations associées élément par élément lors de votre premier appel. Vous pouvez également gérer les autorisations associées dans les paramètres de confidentialité d'accès à l'application - Gestion des autorisations ou les paramètres système de votre appareil.
+2. Lors de l'utilisation de cette application, l'autorisation Internet est requise. Veuillez vous assurer que votre appareil est connecté à Internet et effectuer les configurations appropriées.
 %1$s"</string>
     <string name="mibi_cta_description_suffix">"3. Nous prenons et protégeons vos informations personnelles très au sérieux. Si vous avez des questions, des commentaires ou des suggestions concernant le contenu de cette politique, vous pouvez nous contacter en visitant %1$s.
 "</string>

@@ -1430,16 +1430,9 @@ Augmenter la sécurité de votre compte."</string>
     <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">"Mettez à jour MIUI pour pouvoir utiliser l'image dans l'image (PiP)."</string>
-    <string name="play_list_delete_title">Supprimer cette playlist maintenant ?</string>
-    <string name="play_list_detial_add">Ajouter des vidéos</string>
-    <string name="play_list_detial_delete">Supprimer</string>
-    <string name="play_list_detial_play">Jouer</string>
-    <string name="play_list_detial_rename">Renommer</string>
     <string name="play_list_save_dialog_create">Créer une liste de lecture</string>
     <string name="play_list_save_dialog_title">Ajouter à la liste de lecture</string>
     <string name="play_list_sign_in_dialog_message">Connectez-vous avec votre compte Google pour afficher toutes vos listes de lecture.</string>
-    <string name="play_list_user_local">Local</string>
-    <string name="play_list_user_online">En ligne</string>
     <string name="playlist_create">Créer</string>
     <string name="playlist_detail_recomm_title">Listes de lecture recommandées</string>
     <string name="playlist_finish">Effectué</string>
@@ -1999,7 +1992,6 @@ Il ne montre rien."</string>
     <string name="v_selectall">Tout sélectionner</string>
     <string name="v_selectnull">Tout désélectionner</string>
     <string name="v_set_password">Régler le mot de passe</string>
-    <string name="v_txt_login">Connectez-vous pour synchroniser vos favoris</string>
     <string name="v_update">Mettre à jour</string>
     <string name="version_update_install_apk_fail">"Échec de l'installation"</string>
     <string name="video_already_download_tip">Vous avez déjà téléchargé ce contenu</string>
