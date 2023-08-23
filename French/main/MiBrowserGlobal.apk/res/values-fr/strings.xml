@@ -203,7 +203,7 @@
     <string name="back_dialog_storage_content">"%1$s de l'espace de stockage de votre appareil est occupé. Effacer maintenant ?"</string>
     <string name="back_dialog_storage_primary_btn">Effacer</string>
     <string name="back_dialog_title_antivirus">Analyse de sécurité</string>
-    <string name="back_dialog_title_health_check">Optimiser l'appareil</string>
+    <string name="back_dialog_title_health_check">Optimiser l’appareil</string>
     <string name="back_dialog_title_storage">Gérer le stockage</string>
     <string name="back_home">"Relâcher pour la page d'accueil"</string>
     <string name="batch_download">Télécharger</string>
