@@ -54,6 +54,18 @@
         <item quantity="other">Lecture de la vidéo suivante dans %d secondes</item>
         <item quantity="one">Lecture de la vidéo suivante dans %d seconde</item>
     </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">Vous n’avez pas analysé votre appareil depuis %d jours. Analyser maintenant ?</item>
+        <item quantity="one">Vous n’avez pas analysé votre appareil depuis %d jour. Analyser maintenant ?</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">jours</item>
+        <item quantity="one">jour</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">Vous n’avez pas analysé votre appareil depuis %d jours. Optimiser maintenant ?</item>
+        <item quantity="one">Vous n’avez pas analysé votre appareil depuis %d jour. Optimiser maintenant ?</item>
+    </plurals>
     <plurals name="coin_amount">
         <item quantity="other">%d pièces</item>
         <item quantity="one">%d pièce</item>

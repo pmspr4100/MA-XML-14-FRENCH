@@ -290,6 +290,8 @@ Vous pouvez également suivre la livraison express sur les sites web officiels d
   <string name="pa_filter_title">Plus de widgets</string>
   <string name="pa_finish">Effectué</string>
   <string name="pa_get_installed_app_permission_description">Pour installer des applications et ajouter des widgets</string>
+  <string name="pa_global_search_description">Rechercher</string>
+  <string name="pa_global_search_hint">Recherche…</string>
   <string name="pa_guide_dialog_desc">Appuyez longuement sur un widget pour le réorganiser. Appuyez sur le plus pour ajouter plus de widgets.</string>
   <string name="pa_guide_dialog_sure">Compris</string>
   <string name="pa_guide_dialog_title">Découvrez notre magasin de widgets</string>

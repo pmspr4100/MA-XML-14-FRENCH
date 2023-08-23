@@ -1584,4 +1584,6 @@ Taille de la mise à jour : %2$s"</string>
     <string name="youtube_share_guide_tip">Vous pouvez maintenant partager des vidéos avec des amis</string>
     <string name="youtube_tab_explore">Découvrir</string>
     <string name="youtube_tab_playlist">Playlists</string>
+    <string name="youtube_tab_radar">Radar</string>
+    <string name="youtube_tab_trend">Tendances</string>
 </resources>

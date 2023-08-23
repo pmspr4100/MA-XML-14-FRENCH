@@ -523,7 +523,6 @@
   <string name="pc_todo_set_remind_time_hint">"Régler l'heure"</string>
   <string name="permdesc_accessNote">"Des applications malveillantes peuvent l'utiliser pour accéder à vos informations personnelles."</string>
   <string name="permission_data_shared_desc">Remarques sur la déclaration de partage de données avec des tiers</string>
-  <string name="permission_get_account_desc">Synchronisation des notes avec le cloud</string>
   <string name="permission_intro_contact">Pour marquer les notes prises pendant les appels</string>
   <string name="permission_intro_microphone">Pour enregistrer des notes vocales</string>
   <string name="permission_intro_phone">Pour marquer les notes prises pendant les appels</string>

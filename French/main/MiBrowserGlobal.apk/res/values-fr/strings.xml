@@ -198,6 +198,13 @@
     <string name="autologin_bar_text">Connecté(e) en tant que</string>
     <string name="avatar">Photo du profil</string>
     <string name="back_description">Retour</string>
+    <string name="back_dialog_antivirus_primary_btn">Analyser</string>
+    <string name="back_dialog_health_check_primary_btn">Optimiser</string>
+    <string name="back_dialog_storage_content">"%1$s de l'espace de stockage de votre appareil est occupé. Effacer maintenant ?"</string>
+    <string name="back_dialog_storage_primary_btn">Effacer</string>
+    <string name="back_dialog_title_antivirus">Analyse de sécurité</string>
+    <string name="back_dialog_title_health_check">Optimiser l'appareil</string>
+    <string name="back_dialog_title_storage">Gérer le stockage</string>
     <string name="back_home">"Relâcher pour la page d'accueil"</string>
     <string name="batch_download">Télécharger</string>
     <string name="batch_download_tip">Il semble que plusieurs éléments soient téléchargés en même temps. Bloquer ces téléchargements ?</string>
@@ -244,6 +251,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Glissez vers le haut pour fermer</string>
     <string name="bottomsheet_action_expand_halfway">Déployer à moitié</string>
     <string name="branch_app_suggestion">Recommandé</string>
+    <string name="branch_app_title">Applications de recherche</string>
     <string name="branch_apps">Applications</string>
     <string name="branch_contacts">Contacts</string>
     <string name="branch_give_relevant_permissions">Accorder à Mi Browser les autorisations appropriées dans les paramètres</string>
@@ -461,6 +469,7 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="continue_reading">Continuer la lecture</string>
     <string name="continue_watch_video">Continuer le visionnage</string>
     <string name="copy">Copier</string>
+    <string name="copy_success">Copié avec succès</string>
     <string name="copy_toast_msg">Lien copié dans le presse-papiers</string>
     <string name="copy_url">"Copier l'URL"</string>
     <string name="core_functions_of_browser">Fonctionnalités principales à portée de main</string>
@@ -519,9 +528,20 @@ Les pages que vous consultez n'apparaîtront pas dans l'historique."</string>
     <string name="diagnosis_log_sent_format">"Journaux envoyés avec succès.
 ID : %s
 Envoyez ce code au superviseur."</string>
+    <string name="dialog_ad_callback_cancel">Annuler</string>
+    <string name="dialog_ad_callback_fraud_info">Fraude ou arnaque</string>
+    <string name="dialog_ad_callback_inowned_picture">Images inappropriées</string>
+    <string name="dialog_ad_callback_others">Autre</string>
+    <string name="dialog_ad_callback_title">Signaler un problème</string>
     <string name="dialog_channel_cancel">Annuler</string>
     <string name="dialog_channel_confirm">OK</string>
     <string name="dialog_channel_remove_content">La suppression de tous les canaux supprimera également le flux de contenu.</string>
+    <string name="dialog_dislike_reason_cancel">Annuler</string>
+    <string name="dialog_dislike_reason_not_interested">Je ne suis pas intéressé</string>
+    <string name="dialog_dislike_reason_others">Autre raison</string>
+    <string name="dialog_dislike_reason_poor_quality">Mauvaise qualité</string>
+    <string name="dialog_dislike_reason_repetitive">Répétitif</string>
+    <string name="dialog_dislike_title">"Pourquoi n'aimez-vous pas cette annonce ?"</string>
     <string name="dialog_game_close">Annuler</string>
     <string name="dialog_game_play">Lire</string>
     <string name="discovery__edit_feed_item_view__desc_hint">+ ajouter une introduction</string>
@@ -2101,6 +2121,8 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="search_file_type_picture">Photo</string>
     <string name="search_file_type_video">Vidéo</string>
     <string name="search_for_anything">"Rechercher n'importe quoi"</string>
+    <string name="search_for_anything_test_1">Recherchez sur Internet ou sur votre appareil</string>
+    <string name="search_for_anything_test_2">Rechercher des applications et plus</string>
     <string name="search_google">Google</string>
     <string name="search_hint">Recherche</string>
     <string name="search_label">Navigateur</string>
