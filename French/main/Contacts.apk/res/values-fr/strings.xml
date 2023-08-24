@@ -1035,7 +1035,6 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="passport_unknown_error">Erreur inconnue</string>
     <string name="passport_unknown_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
     <string name="passport_user_agreement_hint_3rd_app"><Data>"J'ai lu et accepté les &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt;/ a> et les &lt;a href=%3$s>Contrat d'utilisation&lt;/a> du compte Xiaomi et la &lt;a href=%4$s>Politique de confidentialité&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"J'ai lu et accepté les &lt;a href=%1$s>Contrat d'utilisation&lt;/a> et la &lt;a href=%2$s>Politique de confidentialité&lt ;/a>."</Data></string>
     <string name="passport_user_agreement_hint_first_login">"Nous créerons un compte automatiquement si vous utilisez votre numéro de téléphone pour la première fois."</string>
     <string name="passport_user_avatar_update_title">Changer la photo de profil</string>
     <string name="passport_user_avatar_uploading">Juste une seconde...</string>
