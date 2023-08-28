@@ -28,6 +28,7 @@
     <string name="auto_disable_screenbuttons_ask">Demander avant de désactiver</string>
     <string name="auto_disable_screenbuttons_auto">Toujours désactiver</string>
     <string name="auto_disable_screenbuttons_cancel">Annuler</string>
+    <string name="auto_disable_screenbuttons_dialog_title">Désactiver les boutons d'écran pour %s ?</string>
     <string name="auto_disable_screenbuttons_no">Ne jamais désactiver</string>
     <string name="auto_disable_screenbuttons_rotation_summary">Lorsque votre appareil est en mode Paysage, les boutons de navigation seront bloqués</string>
     <string name="auto_disable_screenbuttons_rotation_title">Bloquer les boutons de navigation en mode Paysage</string>
