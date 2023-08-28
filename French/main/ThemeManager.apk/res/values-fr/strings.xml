@@ -1177,6 +1177,7 @@ Vous pouvez accorder cette autorisation dans Paramètres > Confidentialité."</s
     <string name="selected_resource_file_invalid">Le fichier sélectionné est non valide.</string>
     <string name="send">Envoyer</string>
     <string name="server_internal_error">"Une erreur de serveur s'est produite. Attendez une minute ou deux et réessayez."</string>
+    <string name="server_message">Service du support utilisateur : 400–100–5678</string>
     <string name="set_as_colorring">Définir comme sonnerie personnalisée</string>
     <string name="set_calling">Définir</string>
     <string name="set_color_ring_back_tone">Définir une sonnerie personnalisée de rappel</string>
@@ -1568,6 +1569,10 @@ Accéder aux thèmes > Profil > Laboratoire thématique pour plus de fonctionnal
     <string name="wallpaper_settings_page_title">"Fond d'écran"</string>
     <string name="wallpaper_share_alert">Une erreur est apparue. Patientez une minute ou deux et réessayez.</string>
     <string name="wallpaper_static">Statique</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Paramètres</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Appliquer</string>
+    <string name="warning_miui_optimization_closed_dialog_message">Il semble que vous n’ayez pas activé l’optimisation MIUI. Sans cela, ce thème ne fonctionnera pas correctement une fois appliqué. Vous pouvez quand même l’appliquer ou activer l’optimisation MIUI dans les paramètres.</ chaîne>
+    <string name="warning_miui_optimization_closed_dialog_title">Attention</string>
     <string name="warning_subscribe_wallpaper_group_content">"Vous avez activé le diaporama de l'écran d'accueil. %1$s sera appliqué à votre écran d'accueil."</string>
     <string name="wechat_not_found">Installez WeChat en premier</string>
     <string name="wednesday">Mercredi</string>

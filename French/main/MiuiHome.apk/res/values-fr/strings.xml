@@ -727,6 +727,7 @@ Sécurité renforcée."</string>
     <string name="switch_personal_assistant_app_vault">"Coffre d'applications"</string>
     <string name="switch_personal_assistant_google">Actualités Google</string>
     <string name="switch_personal_assistant_none">Aucun</string>
+    <string name="switch_personal_assistant_summary">Balayez vers la droite sur l'écran d'accueil pour ouvrir Google Discover</string>
     <string name="switch_screen_button_order">Inverser les boutons</string>
     <string name="switch_screen_button_order_desc">Inverser les boutons Retour et Menu</string>
     <string name="system_shortcuts_edit">Modifier</string>
@@ -785,7 +786,7 @@ Sécurité renforcée."</string>
     <string name="title_jeejen">"Écran d'accueil Jeejen"</string>
     <string name="toast_drag_to_assistant_reject">"Initialisation du Coffre d'applications…"</string>
     <string name="toast_screen_icons_misplaced">Restauré à partir dune autre source, certaines icônes peuvent être déplacées.</string>
-    <string name="toast_split_app_unsupported">"L'application ne prend pas en charge l'écran partagé."</string>
+    <string name="toast_split_app_unsupported">"L'application ne prend pas en charge l'écran partagé"</string>
     <string name="toast_split_select_app">"Appuyez sur une autre application pour utiliser l'écran partagé"</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="toggle_title">Boutons</string>
@@ -807,7 +808,7 @@ Sécurité renforcée."</string>
     <string name="uninstall_xspace_dialog_message">"Désinstaller une application clonée supprimera toutes les données de l'application."</string>
     <string name="uninstall_xspace_dialog_title_format">"Désinstaller l'application clônée \"%s\" ?"</string>
     <string name="unnamed_folder_name">Dossier</string>
-    <string name="unstable_dialog_message">"Cet appareil est inscrit au programme Android 13 Developer Preview. Le programme permet aux développeurs et aux passionnés d'Android d'essayer des versions préliminaires d'Android 13. Cette version préliminaire peut contenir des erreurs et des défauts susceptibles d'affecter le fonctionnement normal de votre appareil."</string>
+    <string name="unstable_dialog_message">"Cet appareil est inscrit au programme Android 14 Developer Preview. Le programme permet aux développeurs et aux passionnés d'Android d'essayer des versions préliminaires d'Android 14. Cette version préliminaire peut contenir des erreurs et des défauts susceptibles d'affecter le fonctionnement normal de votre appareil."</string>
     <string name="unstable_dialog_title">"Programme d'aperçu pour les développeurs Android"</string>
     <string name="upgrade_remove_small_window_in_recents">Vous pouvez utiliser la barre latérale pour ouvrir des applications dans des fenêtres flottantes</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
