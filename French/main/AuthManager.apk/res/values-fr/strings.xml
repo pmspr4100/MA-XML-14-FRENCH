@@ -97,8 +97,6 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">"Obtenez le numéro de téléphone de l'opérateur pour vous connecter"</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Si vous n'avez pas pu vous connecter en un seul clic maintenant, revenez à la page de connexion et réessayez."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">"Cette application souhaite obtenir votre numéro de téléphone auprès de l'opérateur pour vous connecter. Autoriser ?"</string>
-    <string name="HIPS_Perm_operator_shake">Accéder au mouvement et à l’orientation de l’appareil</string>
-    <string name="HIPS_Perm_operator_shake_Desc">Pour détecter la position de l’appareil dans l’espace, reconnaître les secousses et fournir des fonctionnalités sensorielles interactives</string>
     <string name="HIPS_Perm_operator_shake">"Accéder aux données de l'accéléromètre"</string>
     <string name="HIPS_Perm_operator_shake_Desc">"Les données de l'accéléromètre sont utilisées pour suivre l'orientation et le mouvement (par exemple, secousses, inclinaisons et rotations)"</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
