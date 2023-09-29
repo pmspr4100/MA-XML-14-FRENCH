@@ -57,7 +57,6 @@ vos appareils ?"</string>
     <string name="appcirculate_toast_success_1">Basculement réussi</string>
     <string name="appcirculate_toast_success_2">Diffusion en mode privé...</string>
     <string name="appcirculate_toast_success_3">Diffusion...</string>
-    <string name="audio_record_des">Pour transmettre l’audio de votre appareil mobile vers des moniteurs externes</string>
     <string name="auth_MIUI_and_phone_model">"Cette page est uniquement disponible pour
 les bêta-testeurs de MIUI 13."</string>
     <string name="auth_check_loading">Un instant…</string>
@@ -71,7 +70,6 @@ Connectez-vous à votre compte Xiaomi dans Paramètres > Compte Xiaomi pour sync
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Développer à mi-chemin</string>
     <string name="cast_image_des">Tutoriel de diffusion</string>
-    <string name="casting_tips">Diffusion…</string>
     <string name="character_counter_content_description">Caractères saisis %1$d sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
     <string name="audio_record_des">Pour transmettre le son de votre appareil mobile vers des moniteurs externes</string>
@@ -434,7 +432,6 @@ Si vous devez ouvrir manuellement la fonction Miracast, vous pouvez appuyer sur 
     <string name="item_view_role_description">Onglet</string>
     <string name="keyguard_security_setting_privacy_policy">Politique de confidentialité</string>
     <string name="label">Labillé</string>
-    <string name="material_clock_toggle_content_description">Select AM or PM</string>
     <string name="material_clock_toggle_content_description">Sélectionner AM ou PM</string>
     <string name="material_hour_selection">"Sélectionner l'heure"</string>
     <string name="material_hour_suffix">"%1$s h"</string>
