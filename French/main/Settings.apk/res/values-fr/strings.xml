@@ -8199,8 +8199,7 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="sim_calls_always_use">"Toujours l'utiliser pour les appels"</string>
     <string name="sim_calls_ask_first_prefs_title">Toujours demander</string>
     <string name="sim_card_lock">État de la carte SIM</string>
-    <string name="sim_card_label">SIM card</string>
-    <string name="sim_card_lock">SIM card status</string>
+    <string name="sim_card_label">Carte SIM</string>
     <string name="sim_card_number_title">Carte SIM %1$d</string>
     <string name="sim_card_select_title">Sélectionner une carte SIM</string>
     <string name="sim_cards_changed_message">Les cartes SIM ont été changées.</string>
